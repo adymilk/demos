@@ -1,0 +1,189 @@
+@charset "utf-8";
+/**************
+ public.css Document
+ Author:james;
+ Edited Time:2013-11-08;
+ Updated By:james;
+ Updated Time:2013-11-08;
+ Website:http://www.diyou.cn 
+***************/
+
+/***** color module start *****/
+.user_f_c1{color:#f9a130}
+.user_f_c2{color:#0073b6}
+.user_f_c2:hover{color:#0697da;}
+.user_f_c3{color:#fe2617}
+.user_warning_c{color:#ff0000}
+
+.user_bg_c1{background:#0697DA}
+.user_bg_c1:hover{background:#0073b6;}
+.user_bg_c2{background:#f9a130}
+
+.user_sub_btn{color:#fff;font:20px/30px "Microsoft YaHei";padding:5px 35px;border-radius:3px;cursor:pointer;overflow:visible}
+/***** color module end ******/
+
+
+/***** user register module start *****/
+.hqyzm{padding:10px; font:14px/20px "Microsoft YaHei"; background:#7fe79c; border-radius:2px; color:#fff;cursor:pointer; vertical-align:middle;}
+.reg_shadow{ box-shadow:0 2px 5px #e2e2e2;}
+.member_reg .basic_input{ height:25px; vertical-align:middle; padding:8px; width:280px; background:#faf9f8}
+.member_reg label.basic_label{ line-height:42px;}
+.reg_bg,.login_bg{ background:#fbfbfb; padding:40px 0 80px 0px; margin-bottom:-50px; margin-top: -1px; }
+.radio_select{}
+.radio_select a{ width:140px;height:35px; background:#d0d0d0; font:15px/35px 'Microsoft yahei'; text-align:center; color:#fff; float:left; display:inline;}
+.radio_select .basic_radio{display: none}
+.radio_select .selected{ background:#f98d73;}
+.tab_cont{ height:30px; line-height:30px; margin:-15px 0;}
+.tab_cont .tab_info{ margin-left:305px; color:#0697DA;}
+.user_reg_sub{color: #fff;font: 21px/30px "Microsoft YaHei";padding:10px 0; width:297px;border-radius: 3px;cursor: pointer;overflow: visible; background: #e25353;}
+.user_reg_sub:hover{background:#F26464}
+.reg_left{width:650px; margin:0 auto;}
+label.basic_label{display: inline-block;float: left;margin-right: 15px;text-align: right;width: 70px;font-size: 14px;line-height: 36px;vertical-align: middle;}
+label.label_radio {vertical-align: middle;margin-right:20px}
+span.basic_span{display: inline-block;font: 14px/24px "Microsoft YaHei";vertical-align: middle;padding-top: 5px;}
+.basic_input{width: 230px;padding: 5px;height: 24px;font-size: 14px;-moz-border-radius: 3px;-webkit-border-radius: 2px;border-radius: 2px;border: 1px solid #e0e0e0;color:#999999}
+.pointer{cursor:pointer}
+.basic_radio{vertical-align: middle;}
+.verify_code input.basic_input{width:130px !important;vertical-align:middle}
+.verify_code img{vertical-align:middle}
+.verify_code input.get_verty_btn{font:12px/24px "simsun";display:inline-block;padding:0px 8px;vertical-align:middle;color:#fff;background:#d26c68;cursor:pointer}
+.verify_code input.get_verty_btn_dis{background:#c4ccd1;}
+.reg_left .reg_item{margin:15px 0px;position:relative}
+.reg_left .reg_item .msg_box{display:none;margin-left:5px;position:relative;padding:5px;line-height:20px;}
+.reg_left .reg_item .msg_box i{display:inline-block;width:16px;height:16px;background:url(images/reg_icon.png) no-repeat ;vertical-align:middle;margin-right:5px}
+.reg_left .reg_item .msg_box font{font-size:12px;display:inline-block;vertical-align:middle}
+.reg_left .reg_item .warning em{display:block;width:7px;height:10px;position:absolute;left:-7px;top:9px;}
+.reg_left .reg_item .right em{}
+.reg_left .reg_item .error em{display:block;width:7px;height:10px;position:absolute;left:-7px;top:9px;}
+.reg_left .reg_item .right{border:none}
+.reg_left .reg_item .warning i{background-position:-200px -246px}
+.reg_left .reg_item .right i{background-position:-8px 0px}
+.reg_left .reg_item .error i{background-position:-64px -77px}
+.reg_left .reg_item .error font{color:#fe2617}
+.reg_left .reg_item .user_warning_c{display:none}
+.reg_left .reg_item .msg_right em,.reg_left .reg_item .msg_right font{display:none}
+.reg_left .reg_item .msg_right{border:none;}
+.reg_left .vericode_reg_item img{vertical-align:top}
+.reg_left .reg_item p{padding-left:75px}
+.reg_left .reg_item .pw_strength{width: 294px;margin: 5px 0px 0px 85px;height: 18px;background-color: #FFD099;position: relative;overflow: hidden;}
+.reg_left .reg_item .pw_strength .pw_bar{width: 0;height: 18px;overflow: hidden;background-color: #FF0000;transition: all .4s linear;-webkit-transition: all .4s linear;-moz-transition: all .4s linear;-o-transition: width .4s linear;}
+.reg_left .reg_type{padding-left:75px}
+.reg_left .reg_type ul{font-size:0px;letter-spacing:-4px;border-radius:5px;display:inline-block}
+.reg_left #phone_div{display:none}
+.reg_left .reg_type ul li{display:inline-block;*display:inline;zoom:1;letter-spacing:0px;width:120px;height:40px;text-align:center;font:14px/40px "Microsoft YaHei";cursor:pointer;border:1px solid #e2e2e2;}
+.reg_left .reg_type ul li.reg_byemail{border-right:0px;border-radius:5px 0px 0px 5px;}
+.reg_left .reg_type ul li.reg_byphone{border-left:0px;border-radius:0px 5px 5px 0px;}
+.reg_left .reg_type ul li.hover{background:#0697DA;border-color:#0697DA;color:#fff}
+.pw_letter{position: absolute;left: 0px;top: 0px;}
+.pw_letter span{display: inline;float: left;height: 18px;width: 97px;font-size: 12px;
+text-align: center;line-height: 18px;color: #FFF;border-right: 1px solid #FFF;}
+
+.vertical_line{position:relative;display:inline-block;margin-left:10px;margin-top:40px;float:left;}
+.vertical_line p{width:1px;height:350px;background:#d7d7d7;;overflow:hidden}
+.vertical_line span{display:block;width:30px;height:30px;line-height:30px;text-align:center;position:absolute;top:150px;left:-15px;background:#fff;font:15px/30px "Microsoft YaHei"}
+
+.reg_right{width:350px;background:url(images/reg_right.jpg) no-repeat -18px 11px;float:right}
+.reg_right .other_login{width:286px;height:343px;}
+.other_login p{font:16px/30px "Microsoft YaHei";margin-bottom:10px}
+.other_login a{background: url(../../images/other_login.png) no-repeat;width: 100px;
+height: 30px;line-height: 300px;overflow: hidden;cursor: pointer;border-radius: 3px;
+display: inline-block;margin-right: 15px;}
+.other_login a.weibo_log{background-position:0px 0px;}
+.other_login a.weibo_log:hover{background-position:0 -50px;}
+.other_login a.qq_log{background-position:-110px 0;}
+.other_login a.qq_log:hover{background-position:-110px -50px;}
+/***** user register module end *****/
+
+
+/***** user active email module start *****/
+.reg_email{width:470px;margin:40px auto 0px; min-height:450px;}
+.reg_email h2{font:24px/35px "Microsoft YaHei";margin:0px 0px 20px 20px;display:inline-block;padding-left:45px;background:url(../../images/reg_icon_email.png) no-repeat;}
+.reg_email h2.email_fail{margin-left:50px;background-position:0px -38px;color:#f9a130}
+.reg_email p{font-size:14px;width:400px}
+.reg_email .login_email{margin-top:10px}
+.reg_email .login_email a{display:inline-block;padding:5px 35px;color:#fff;font:20px/34px "Microsoft YaHei";border-radius:3px;vertical-align:middle;margin-right:5px}
+.reg_email .login_email span{display:inline-block;padding:5px 20px 5px 30px;line-height:24px;border:5px solid #c4c3c0;border-radius:3px;background:url(../../images/reg_icon_email.png) no-repeat 5px -119px;vertical-align:middle}
+.reg_email .verify_txt{margin-top:50px}
+.reg_email .verify_txt h3{padding:10px 0;font:18px/20px "Microsoft YaHei"}
+.reg_email .verify_txt p{font-size:12px;line-height:20px}
+.reg_email .approve{margin:50px 0px}
+.reg_email .approve h3{font:16px/24px "Microsoft YaHei";}
+.reg_email .approve .approve_links{padding:10px 0px}
+.reg_email .approve .approve_links a{display:inline-block;padding:5px 15px 5px 35px;background:url(../../images/reg_icon_email.png) no-repeat #f9a130;color:#fff;font:16px/24px "Microsoft YaHei";border-radius:3px;margin-right:10px}
+.reg_email .approve .approve_links a:hover{background-color:#ef931c}
+.reg_email .approve .approve_links a.phone_approve{background-position:9px -205px}
+.reg_email .approve .approve_links a.email_approve{background-position:8px -241px}
+/***** user active email module end *****/
+
+
+/***** user login  module start *****/
+.user_login_btn{color: #fff;font:21px/30px "Microsoft YaHei";padding:10px 0; width:268px;border-radius:3px;cursor:pointer;overflow: visible;background:#e25353;}
+.user_login_btn:hover{background:#F26464; }
+.login_warning{height:30px; line-height:30px;margin-bottom:-10px}
+.login_warning span{color:#ff0000;font-size:12px}
+.horiz_line{margin:40px 0px 20px;position:relative}
+.horiz_line p{height: 1px;background: #d7d7d7;overflow: hidden;}
+.horiz_line span{display: block;width: 30px;height: 30px;line-height: 30px;text-align: center;
+position: absolute;top: -15px;left: 190px;background: #fff;font: 15px/30px "Microsoft YaHei";}
+.login_border{width:420px;height:20px;background:url(images/hr_bar.jpg) no-repeat; position:absolute; bottom:-19px; left:0;}
+.member_login .login_left{width:388px;float:left;position:relative;padding:15px 15px 30px;border:1px solid #f4f4f4; background:#fff;border-radius:5px 5px 0 0; }
+.member_login .login_shadow{ box-shadow:0 3px 10px #e2e2e2;}
+.member_login .login_center{ width:270px; margin:0 auto;}
+.member_login .m_ptc label.basic_label{ float:none; text-align:left; line-height:30px; display:block; color:#333;}
+.member_login .login_left .basic_input{ width:250px; padding:10px 8px; background:#faf9f8}
+.member_login .login_ptc{box-shadow:3px 3px 10px #e2e2e2;}
+.member_login .login_left .log_tit{height:35px;margin:35px 0 10px; border-top:1px solid #f4f4f4; text-align:center;}
+.member_login .login_left .log_tit img{width:70px; margin-top:-35px;}
+.member_login .login_left .log_tit h3{font:19px/24px "Microsoft YaHei";}
+.member_login .login_left .log_tit span{ display:block;line-height:24px}
+.member_login .login_left .log_tit span a{color:#0073b6}
+.login_left .log_li{ margin-top:5px;}
+.login_left .log_item{margin:15px 0px;position:relative}
+.login_left .vericode_reg_item img{vertical-align:top}
+.login_left .log_item p{padding-left:75px;text-indent:0px}
+a.forget_pwd{font-size:13px;color:#0073b6; line-height:30px;}
+a.forget_pwd:hover{text-decoration:underline}
+.member_login .login_right{margin-top:100px;width:470px;float:right}
+/***** user login  module end *****/
+
+
+/***** get back password module start *****/
+.g_pwd_steps{position:relative;height:20px;width:950px;margin:70px auto 60px;background:url(../../images/g_pwd_steps.gif) no-repeat 10px -20px;}
+.g_pwd_steps p{position:absolute;top:-18px;left:-5px;}
+.g_pwd_steps p span{display:inline-block;width:150px;text-align:center;position:absolute;top:0px;}
+.g_pwd_steps p span.step1{left:-50px}
+.g_pwd_steps p span.step2{left:390px}
+.g_pwd_steps p span.step3{left:850px}
+.g_pwd_steps .g_pwd_steping{position:absolute;left:0px;top:0px;height:20px;width:30%;background:url(../../images/g_pwd_steps.gif) no-repeat 10px 3px;}
+.g_pwd_steps .g_pwd_steping1{width:30%}
+.g_pwd_steps .g_pwd_steping2{width:60%}
+.g_pwd_steps .g_pwd_steping3{width:100%}
+.get_back_pwd{margin-bottom:150px}
+.get_back_pwd .gb_pwd_left{float:left;width:280px;height:225px;padding:15px 20px;background:#f5f4f0}
+.get_back_pwd .gb_pwd_left h3{text-align:center}
+.get_back_pwd .gb_pwd_left h3 a{display: inline-block;color: #fff;
+font: 16px/24px "Microsoft YaHei";text-align: center;padding: 6px 12px;border-radius: 3px;cursor: pointer;overflow: visible;background: #c4ccd1;margin-right:15px;}
+.get_back_pwd .gb_pwd_left h3 a:hover{background:#0697DA}
+.get_back_pwd .gb_pwd_left h3 a.hover{background:#0697DA}
+.get_back_pwd .gb_pwd_left .o_by_phone{display:none}
+.get_back_pwd .gb_pwd_left .gb_pwd_item{}
+.get_back_pwd .gb_pwd_left .gb_pwd_item label{text-align:left;width:275px}
+.get_back_pwd .gb_pwd_left .gb_pwd_item .basic_input{width:265px}
+.get_back_pwd .gb_pwd_left .get_pwd_sub{color:#fff;font:16px/26px "Microsoft YaHei";padding:3px 20px;border-radius:3px;cursor:pointer;overflow:visible}
+.get_back_pwd .gb_pwd_left .gb_pwd_item span{margin-left:10px}
+.get_back_pwd .gb_pwd_left .get_pwd_byemail{padding-top:40px}
+.get_back_pwd .gb_pwd_left .get_pwd_byemail p{font:12px/24px "simsun";color:#333333}
+.get_back_pwd .gb_pwd_left .get_pwd_byemail a.check_email{color:#fff;font:16px/26px "Microsoft YaHei";padding:8px 15px;border-radius:3px;cursor:pointer;overflow:visible}
+.get_back_pwd .gb_pwd_left .get_pwd_byphone p{padding-left:20px}
+.get_back_pwd .gb_pwd_right{float:right;width:650px;height:255px;overflow:hidden}
+/***** get back password module end *****/
+
+
+/***** other login module start *****/
+.other_log{padding-left:100px}
+.other_log .model{background:#f6f6f6;padding:20px 50px;height:60px}
+.other_log .model_img{width:60px;height:60px;float:left;}
+.other_log .model_img img{width:60px;height:60px;}
+.other_log .model_text{font:12px/24px "simsun";padding-left:80px;}
+.other_log .reg_left .tit{font:16px/26px "Microsoft YaHei"}
+/***** other login module end   *****/

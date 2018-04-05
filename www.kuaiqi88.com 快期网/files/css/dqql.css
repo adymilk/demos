@@ -1,0 +1,160 @@
+.section-module .content{
+    padding: 0; position: relative;
+}
+.header{
+    width: 100%;
+}
+img.tip{
+    width: 100%;
+}
+
+.section .tip{
+    position: relative; height: 30px; text-align: center; margin: 0 auto;
+}
+.section .tip .line{
+    position: absolute; top: 50%; border-top: 1px solid #eeeeee; left: 5%; right: 5%;
+}
+.section .tip h2{
+    display: inline-block; position: relative; background-color: #fff; padding: 0 20px;
+}
+
+/*section-tip*/
+.section-tip{
+    text-align: left; color: #666; font-size: 14px; padding: 25px 30px;
+}
+.section-tip h3{
+    color: #333; margin-bottom: 10px;
+}
+.section-tip p{
+    line-height: 28px;
+}
+.section-tip p.indent{
+    text-indent:2em;
+}
+
+
+
+/*  nav  */
+.section{
+    padding: 50px 0px;
+}
+.section .nav{
+    font-size: 14px; padding: 30px 0px;
+}
+.section .nav .item{
+    display: inline-block; margin-right: 20px;
+}
+.section .nav .item:last-child{
+    margin-right: 0px;
+}
+.section .nav span.tip{
+    font-size: 16px;
+}
+.section .nav input{
+    padding: 5px 10px; width: 180px;
+}
+.section .nav input.small{
+    width: 50px;
+}
+.section .nav .btn{
+    padding: 10px 25px; background-color: #ee3d00; color: #fff; display: inline-block; cursor: pointer;
+}
+.section .nav input:focus, .section .nav select:focus{
+    border:1px solid #ee3d00; outline: none;
+}
+
+/*row*/
+.row{
+    position: relative; text-align: center; margin:  0 auto;
+}
+.row .col{
+    display: inline-block; width: 45%;  margin: 0 2%;
+}
+
+.tabs{
+    position: relative; bottom: -1px;
+}
+.tabs .tab{
+    display: inline-block; height: 50px; line-height: 50px; vertical-align: middle; text-align: center; width: 50%; float: left;
+    border-top-left-radius: 5px; border-top-right-radius: 5px; font-size: 16px;
+    border: 1px solid #eee; box-sizing: border-box; cursor: pointer;
+}
+.tabs .tab.active{
+    background-color: #1A85DA; color: #fff;
+}
+
+.row h2{
+    height: 50px; line-height: 50px; vertical-align: middle; font-weight: normal;
+}
+.row table{
+    border: 1px solid #eee;
+}
+
+
+.guimo{
+    overflow: hidden; position: relative;
+}
+.guimo-item{
+    display: inline-block; float: left; width: 30%; margin-right: 3%; text-align: center; padding: 30px 0;
+    background-color: #eee; margin-bottom: 3%; cursor: pointer;
+}
+.guimo-item.active{
+    background-color: #d73700;
+}
+.guimo-item.active h3{
+    color: #fff;
+}
+.guimo-item.active p{
+    color: #ddd;
+}
+.guimo-item h3{
+    color: #d73700; font-size: 24px; font-weight: normal;
+}
+.guimo-item p{
+    padding-top: 10px;
+}
+
+ul.scheme{
+    margin: 0; padding: 0;
+}
+ul.scheme li{
+    display: block; overflow: hidden; border: 1px solid #ddd; border-bottom: none; padding-left: 130px;
+    position: relative; height: 50px; box-sizing: border-box;
+}
+ul.scheme li:last-child{
+    border-bottom: 1px solid #ddd;
+}
+ul.scheme li>div{
+    height: 50px; line-height: 50px; vertical-align: middle; padding: 0 10px; text-align: left;
+}
+ul.scheme li div:first-child{
+    border-right: 1px solid #ddd; position: absolute; width: 110px; left: 1px; top: 0; text-align: right;
+    background-color: #eee; border-left: 1px solid #ddd;
+}
+
+.sub-btn{
+    background-color: #ed5400; display: inline-block; border-radius: 5px; padding: 10px 30px; color: #fff; cursor: pointer;
+}
+
+.handle i{
+    font-size: 24px; color: #cb4335;
+}
+.handle a:hover{
+    text-decoration: none;
+}
+.handle i:hover{
+    color: #1c741c; cursor: pointer;
+}
+
+.handle-notice{
+    position: fixed; top: 100px; background-color: rgba(28, 116, 28, 0.71); font-size: 14px; padding: 10px 30px; color: #fff; left: 50%;
+    z-index: 888; border-radius: 5px; display: none;
+}
+
+#buyPrice{
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    width: 160px;
+    padding: 5px;
+    font-size: 14px;
+}

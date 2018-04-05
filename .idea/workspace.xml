@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0be8b59-a356-44ab-a7d0-dc34230f630a" name="Default" comment="init">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.kuaiqi88.com 快期网/files/img/4476476c3c40c394f59029a93af6c9cd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.kuaiqi88.com 快期网/files/img/4a8ca96f4ceabad7f6f56025f83d7a6a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.kuaiqi88.com 快期网/files/img/tit_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.kuaiqi88.com 快期网/company.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.kuaiqi88.com 快期网/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.kuaiqi88.com 快期网/dljm.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.kuaiqi88.com 快期网/files/css/contact.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.kuaiqi88.com 快期网/files/css/gp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.kuaiqi88.com 快期网/files/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.kuaiqi88.com 快期网/gp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.kuaiqi88.com 快期网/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www.kuaiqi88.com 快期网/qlyx.html" />
+    <list default="true" id="a0be8b59-a356-44ab-a7d0-dc34230f630a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="股票期权类网站前端案例.iws" />
@@ -997,7 +985,7 @@
       <updated>1522896689527</updated>
       <workItem from="1522896691798" duration="3159000" />
       <workItem from="1522900793541" duration="1469000" />
-      <workItem from="1522902798280" duration="6683000" />
+      <workItem from="1522902798280" duration="7024000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1522896808232</created>
@@ -1027,11 +1015,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522899005401</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="完成 www.kuaiqi88.com 快期网">
+      <created>1522911154397</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1522911154397</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11311000" />
+    <option name="totallyTimeSpent" value="11652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-6" width="1920" height="1086" extended-state="6" />
@@ -1088,7 +1083,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="完成 www.kuaiqi88.com 快期网" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成 www.kuaiqi88.com 快期网" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

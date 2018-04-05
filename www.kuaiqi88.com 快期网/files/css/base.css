@@ -1,0 +1,218 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 526680 */
+    src: url('//at.alicdn.com/t/font_526680_s16ez0gw2af9a4i.eot');
+    src: url('//at.alicdn.com/t/font_526680_s16ez0gw2af9a4i.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_526680_s16ez0gw2af9a4i.woff') format('woff'),
+    url('//at.alicdn.com/t/font_526680_s16ez0gw2af9a4i.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_526680_s16ez0gw2af9a4i.svg#iconfont') format('svg');
+}
+i.icon{
+    font-family: 'iconfont';
+    font-weight: normal;
+    font-style: normal;
+}
+
+html,body{
+    margin: 0px; padding: 0px; width: 100%; height: 100%; overflow: hidden;
+}
+body{
+    overflow: auto;
+}
+h1,h2,h3,h4,h5,p,ul{
+    margin: 0px; padding: 0px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none; color: #333;
+}
+a:hover{
+    text-decoration: underline;
+}
+.content{
+    width: 1000px; margin: 0px auto; padding: 20px; text-align: center; box-sizing: border-box;  position: relative;
+}
+.row{
+    position: relative; width: 100%; overflow: hidden;
+}
+.row .col{
+    position: relative; display: inline-block; overflow: hidden; float: left;
+}
+.row .col-8{
+    width: 33%;
+}
+.row .col-12{
+    width: 50%;
+}
+
+
+/*公共部分的样式*/
+.section-header{
+    background-color: rgba(51, 51, 51, 0.95); height: 100px; overflow: hidden;
+}
+.section-header .logo{
+    height: 90%;  float: left;
+}
+.section-header .tip{
+    display: inline-block; color: #cb4335; text-align: left; float: left; padding-left: 50px;
+}
+.section-header .content{
+    padding: 15px 0px; overflow: hidden; height: 100%;
+}
+.section-header .section-login{
+    position: absolute; right: 0px; border: 1px solid #efefef; border-radius: 20px; overflow: hidden;
+    top: 35px;
+}
+.section-header .section-login span{
+    display: inline-block; background-color: #ebebeb; padding: 6px 23px; font-size: 14px; color: #cb4335; cursor: pointer;
+    transition: all 0.2s; float: left;
+}
+.section-header .section-login span:first-child{
+    background-color: #cb4335; color: #fff;
+}
+.section-header .section-login span:hover{
+    padding: 6px 30px;
+}
+
+/*section-nav*/
+.section-nav{
+    height: 60px; background-color: rgba(51, 51, 51, 0.9);
+}
+.section-nav .content{
+    background-color: transparent; height: 100%; margin: 0 auto; padding: 0px;
+}
+.section-nav .content>li{
+    display: inline-block; height: 100%; position: relative; float: left;
+}
+.section-nav .content>li span{
+    position: absolute; display: block; height: 8px; right: -1px; top: 25px; width: 0px;
+    border: 1px dashed #505050;
+}
+.section-nav .content>li a{
+    text-decoration: none; color: #b1b1b1; font-size: 16px; display: block; height: 100%; line-height: 60px; vertical-align: middle;
+    width: 120px; text-align: center;
+}
+.section-nav .content>li a:hover{
+    background-color: #c7000b; color: #fff;
+}
+.section-nav .content>li:hover .sub-nav.sub-6{
+    height: 360px;
+}
+.section-nav .content>li:hover .sub-nav.sub-4{
+    height: 240px;
+}
+.section-nav .content>li:hover .sub-nav.sub-2{
+    height: 120px;
+}
+.section-nav .sub-nav{
+    transition: height 0.3s;
+    position: absolute; width: 120px; background-color: rgba(51, 51, 51, 0.9); z-index: 2; height: 0px; overflow: hidden;
+}
+
+
+/*section-footer*/
+.section-footer{
+    background-color: rgba(38, 38, 38, 0.95); padding: 30px 0px 10px 0px; min-height: 180px;
+    color: #cecece;
+}
+.section-footer .content{
+    padding-bottom: 0px;
+}
+.section-footer ul{
+    margin-bottom: 30px;
+}
+.section-footer li{
+    display: inline-block; padding: 10px 20px;  border-bottom: 1px solid #464646;
+}
+.section-footer li a{
+    text-decoration: none; color: #cecece;
+}
+.section-footer .yunying{
+    float: right; width: 30%;
+}
+.section-footer .yunying h5{
+    padding: 10px; margin-bottom: 30px;
+}
+.section-footer .yunying img{
+    max-width: 80%;
+}
+.section-footer .site{
+    padding-top: 80px;
+}
+.section-footer .site p{
+    font-size: 14px; padding-bottom: 5px;
+}
+
+
+/*section-module*/
+.section-module .content{
+    margin: 15px auto; border: 1px solid #d3d3d3; padding: 20px; overflow: hidden;
+}
+.section-module .content-left-nav{
+    padding-left: 240px; position: relative;
+}
+.section-module .content-left-nav .left-nav{
+    position: absolute; width: 220px; left: 20px; top: 20px; bottom: 20px; background-color: #f3f3f3;
+}
+
+.section-module .content-left-nav .inner{
+    padding: 20px 30px;
+}
+
+
+/*table*/
+
+table{
+    color: #333; font-size: 14px; width: 100%; text-align: center; overflow: hidden;
+}
+table th{
+    /*border-right: 1px solid #f5f3fa; background-color: #cb4335;*/ padding: 15px 5px; line-height: 18px;
+    background-color: #f9f9f9;
+}
+table th:last-child{
+    border-right: none;
+}
+table td{
+    padding: 5px 5px; line-height: 18px;
+}
+table tr:nth-child(2n){
+    background-color: #eae9e9;
+}
+
+
+/*page-wrapper*/
+.page-wrapper{
+    padding: 30px 10px; text-align: center; margin: 0 auto;
+}
+.page-wrapper li{
+    display: inline-block; padding: 5px; border: 1px solid #ddd; background-color: #fff; margin: 0 2px; color: #666; font-size: 14px;
+    min-width: 15px;
+}
+.page-wrapper li.active{
+    background-color: #eee;
+}
+.page-wrapper li.active:hover{
+    cursor: auto; background-color: #eee; color: #000;
+}
+.page-wrapper li:hover{
+    cursor: pointer; background-color: #f27b71; color: #fff;
+}
+.page-wrapper li i{
+    font-size: 14px; color: #666;
+}
+
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:#ccc;
+}
+　　:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:#ccc;
+}
+　　::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:#ccc;
+}
+　　:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:#ccc;
+}
+
