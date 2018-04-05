@@ -1,0 +1,155 @@
+.section-module{
+    overflow: hidden; position: relative; background: url("../img/home-bg-1.jpg") repeat;
+}
+
+.swiper{
+    height: 360px; width: 100%; position: relative; overflow: hidden;
+}
+.swiper img{
+    height: 100%; width: 100%;
+}
+
+.section-module .content{
+    height: 1550px; padding: 0; width: 1004px; margin: 0 auto; border: none;
+}
+.content img.bg{
+    position: absolute;
+}
+.content img.bg2, .content img.bg4{
+    right: 0px;
+}
+.content img.bg3{
+    left: 0px;
+}
+
+
+/*公告*/
+.broadcast{
+    height: 130px; box-sizing: border-box; width: 700px; text-align: center; margin: 0 auto;
+    padding: 30px 0px 30px 200px; position: relative;
+}
+.broadcast .title i{
+    font-size: 32px; color: #cb4335;
+}
+.broadcast .title span{
+    position: relative; top: -5px;
+}
+.broadcast .title{
+    position: absolute; top: 50px;  left: 60px; color: #666; padding-right: 20px; border-right: 2px solid #ccc;
+}
+.broadcast .swiper{
+    height: 100%;
+}
+.broadcast .swiper p{
+    padding: 4px 0px; font-size: 14px; text-align: left;
+}
+.broadcast .swiper p a{
+    color: #333; text-decoration: none;
+}
+.broadcast .swiper p a:hover{
+    text-decoration: underline; color: #000;
+}
+/*right-role*/
+.right-role{
+    height: 747px; box-sizing: border-box;
+}
+.right-role .top{
+    text-align: center; margin: 0 auto; overflow: hidden;
+}
+.right-role .top .item{
+    display: inline-block; width: 130px; position: relative; height: 160px;
+}
+.right-role .top .v-line{
+    background-color: #daa9ba; width: 2px; height: 120px; position: absolute; left: 50%; top: 0;
+}
+.right-role .top .item:first-child{
+    margin-right: 40px;
+}
+.right-role .top .pane{
+    border: 2px dashed #a7b3aa; position: absolute; bottom: 30px; transition: all 0.5s; width: 100%;
+    border-radius: 5px; background-color: #e9e9e9; padding: 10px 0; cursor: pointer;
+}
+.right-role .top .pane:hover{
+    border: 2px dashed #d5a0b4; bottom: 0px;
+}
+.right-role .top .pane h3{
+    padding-bottom: 5px;
+}
+.right-role .top .pane:hover>*{
+    color: #ff4d49;
+}
+.right-pane{
+    position: relative;
+}
+.right-pane .left{
+    background: url("../files/img/home-bg-7.png") no-repeat; background-size: cover; width: 302px; height: 302px;
+    position: absolute; left: 70px; top: 100px; box-sizing: border-box; padding-top: 70px;
+}
+.right-pane .left i{
+    font-size: 48px;
+}
+.right-pane .left p{
+    padding-top: 5px; color: #666;
+}
+
+.right-pane .right{
+    width: 515px; position: absolute; right: 30px; border: 1px solid #e9c17c; top: 50px; box-sizing: border-box; padding: 0px 20px;
+}
+.right-pane .right .item:first-child{
+    border-bottom: 1px dashed #e9c17c;
+}
+.right .item{
+    padding: 40px 30px;
+}
+.right .item p{
+    text-align: left; font-size: 14px; color: #666; padding-bottom: 10px;
+}
+.right .item p i{
+    font-size: 24px; color: #f9b824; position: relative; top: 3px;
+}
+.right .item .btn{
+    display: inline-block; border-radius: 5px; padding: 10px 20px; cursor: pointer;
+}
+.right .item .detail-btn{
+    border: 1px solid #f9b824;
+}
+.right .item .apply-btn{
+    background-color: #ff5354; color: #fff; margin-top: 20px;
+}
+
+
+/*msg-trends*/
+.msg-trends{
+    padding: 60px 0;
+}
+.msg-trends h1{
+    margin-bottom: 60px;
+}
+.msg-trends img{
+    max-width: 100%;
+}
+.msg-trends .row .col{
+    width: 31%; margin: 0 1%;
+}
+.msg-trends .col h3{
+    font-weight: normal; text-align: left; margin: 30px 0 20px 0; padding: 0 9px;
+}
+.msg-trends .col h3 a{
+    display: inline-block; float: right; background-color: #fff; border-radius: 5px; padding: 3px 10px; font-size: 12px; color: #666;
+    text-decoration: none;
+}
+.msg-trends .col h3 a:hover{
+    color: #cb4335; cursor: pointer;
+}
+.msg-trends .col li{
+    padding-bottom: 10px; font-size: 14px; color: #333; text-align: left;
+}
+.msg-trends .col li a{
+    text-decoration: none; color: #333;
+}
+.msg-trends .col li a:hover{
+    text-decoration: underline; color: #cb4335;
+}
+.msg-trends .col li i{
+    font-size: 24px; color: #999; position: relative; top: 3px;
+}

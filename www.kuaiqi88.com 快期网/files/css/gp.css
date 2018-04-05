@@ -1,0 +1,97 @@
+.fl{
+    float: left;
+}
+em, i{
+    font-style: normal;
+}
+
+.help
+{
+    width: 800px;
+    /*padding: 40px;*/
+    font-size: 14px;
+    line-height: 28px;
+    color: #666;
+    text-align: center;
+    margin: 0 auto;
+}
+.help>*{
+    text-align: left;
+}
+.help p
+{
+    /*text-indent: 2em;*/
+}
+
+.help p img {
+    /*margin-left: -20px;*/
+}
+
+.help h4
+{
+    font-size: 22px;
+
+    /*margin: 20px 0;*/
+
+    color: #333;
+}
+
+
+/* 权利游戏 */
+.opt_row1_l { box-sizing: border-box; float: left; width: 409px; padding: 20px; margin: 0 10px; border: 2px dashed #B6DFF9; border-radius: 4px; line-height: 2.2; }
+.opt_row1_l i { font-weight: 700; padding-right: 4px; color: #D42D1C; font-size: 26px; }
+.opt_row1_l em { color: #D42D1C; font-size: 16px; }
+
+.opt_row1_r { box-sizing: border-box; float: right; width: 284px; }
+
+.opt_row_title { width: 100%; text-align: center; font-size: 24px; color: #333; margin: 10px 0 20px; }
+
+.opt_row2_l, .opt_row2_r { box-sizing: border-box; width: 330px; height: 510px; float: left; margin: 0 10px; }
+.opt_row2_l .opt_row2_t, .opt_row2_r .opt_row2_t { text-align: center; color: #fff; font-size: 18px; padding: 4px; }
+.opt_row2_l .opt_row2_s, .opt_row2_r .opt_row2_s { color: #333; font-size: 16px; padding: 16px 10px; }
+.opt_row2_l p, .opt_row2_r p { padding-left: 10px; }
+
+.opt_row2_l { border: 1px solid #2AB9E2; }
+.opt_row2_l .opt_row2_t { background-color: #2AB9E2; }
+
+.opt_row2_r { border: 1px solid #FD9705; }
+.opt_row2_r .opt_row2_t { background-color: #FD9705; }
+
+.opt_row3_c { box-sizing: border-box; width: 345px; height: 290px; }
+.opt_row3_c .img_w { width: 100%; margin: 0 auto; text-align: center; }
+.opt_row3_c em { color: #333; font-size: 16px; }
+
+.opt_row3_p { padding: 10px; line-height: 1.5; }
+
+.opt_row3_c_1 { margin-left: 10px; border-right: 1px dashed #ddd; border-bottom: 1px dashed #ddd; }
+
+.opt_row3_c_2 { border-bottom: 1px dashed #ddd; }
+
+.opt_row3_c_3 { margin-left: 10px; border-right: 1px dashed #ddd; }
+
+.opt_row4_c { padding: 10px 20px; }
+.opt_row4_c em { color: #FF0300; font-size: 18px;}
+.opt_row4_c p { padding-bottom: 20px; }
+
+.opt_row6_t { padding: 18px 20px 10px; color: #333; }
+.opt_row6_t em { color: #FF0300; font-size: 18px; padding: 0 4px; }
+
+.opt_row6_c { width: 680px; margin: 0 auto; border: 1px solid #2AB9E2; }
+.opt_row6_c.opt_row6_c_o { border-color: #FD9705; }
+.opt_row6_c.opt_row6_c_o .opt_row6_c_t { background-color: #FD9705; }
+.opt_row6_c.opt_row6_c_o .opt_row6_c_l, .opt_row6_c.opt_row6_c_o .opt_row6_c_r { border-color: #FD9705; }
+
+.opt_row6_c_t { background-color: #2AB9E2; color: #fff; font-size: 18px; text-align: center; padding: 4px; font-weight: normal; }
+
+.opt_row6_c_l { width: 319px; height: 30px; text-align: center;  border-right: 1px solid #2AB9E2; border-bottom: 1px solid #2AB9E2; padding: 16px 10px 4px; font-size: 14px;line-height: 1.2; }
+.opt_row6_c_l .sub { color: #666; font-size: 14px; }
+.opt_row6_c_l.opt_row6_c_l_s { padding: 10px; }
+
+.opt_row6_c_r { width: 320px; height: 30px; padding: 12px 10px 8px; border-bottom: 1px solid #2AB9E2; font-size: 14px;text-align: center;}
+
+.opt_row6_c_j { padding: 14px; }
+.opt_row6_c_j .c { color: #FF0300; }
+.opt_row6_c_j em { color: #333; font-weight: 700; padding-right: 2px; }
+
+a.opt-btn { padding: 10px 40px; background-color: #FD0104; color: #fff; border-radius: 6px; font-size: 20px; }
+a.opt-btn:hover { background-color: #fe3335; text-decoration: none; }

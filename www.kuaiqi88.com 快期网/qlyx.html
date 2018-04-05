@@ -1,0 +1,785 @@
+<!--
+    期权权利
+-->
+<!--头部-->
+<!DOCTYPE html>
+<html lang="en"><head>
+    <!--<meta charset="UTF-8">-->
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>快期网</title>
+    <link rel="stylesheet" href="./files/css/normalize.css">
+    <link rel="stylesheet" href="./files/css/base.css">
+    <style>
+        .menuitem div:hover{
+            background-color: rgb(226, 84, 83);
+            color: white;
+            }
+
+        .section-header .content a:hover {
+            color : rgb(226, 84, 83);
+        }
+        .section-header .content a {
+            color : #333;
+        }
+
+
+        .section-nav .content div.menuitem {
+            background:white;
+            color:black;
+        }
+        .section-nav .content div.menuitem:hover {
+            background:rgba(226,84,83,255);
+            color:white;
+        }
+        #customfooter .container span:hover {
+            color:white;   
+        }
+    </style>
+</head>
+<body>
+<!--顶部title-->
+<div class="section-header" style="height:40px;background-color:rgba(248,248,248,255);border-bottom:1px solid rgba(234,234,234,255);">
+    <div class="content">
+        <div class="" style="height:40px;position:absolute;top:0px;">
+            <img style="float:left;width:20px;height:20px;margin-top:10px;" src="./files/img/phone.png">
+            <p style="float:left;height:40px;line-height:40px;font-size:13px;margin-left:6px;">服务热线:</p>
+            <p style="float:left;height:40px;line-height:40px;font-size:16px;">400-875-8908</p>
+            <img style="float:left;width:20px;height:20px;margin-top:10px;margin-left:25px;" src="./files/img/weixin.jpg">
+            <p id="wxmptitle" style="float:left;height:40px;line-height:40px;font-size:13px;margin-left:5px;">官方服务号</p>
+
+        </div>
+        <!--登录了-->
+        <div class="section-login unlogin-nav" style="height:40px;line-height:40px;font-size:13px;border: 0px solid #efefef;border-radius: 0px;overflow: hidden;top: 0px;display: ;">
+            <a href="#" style="height:40px;line-height40px;" onclick="openLoginPane(1);">立即登录</a>
+            <a href="#" style="height:40px;line-height40px;margin-left:25px;" onclick="openLoginPane(2);">免费注册</a>
+            <a href="#" style="height:40px;line-height40px;margin-left:25px;">新手引导</a>
+            <a href="#" style="height:40px;line-height40px;margin-left:25px;">手机版</a>
+        </div>
+        <!--未登录-->
+        <div class="section-login logined-nav" style="height:40px;line-height:40px;font-size:13px;border: 0px solid #efefef;border-radius: 0px;overflow: hidden;top: 0px;display: none;">
+            <a href="#" style="height:40px;line-height40px;" onclick="javascript: window.location.href='/owner'">个人中心</a>
+            <a href="#" style="height:40px;line-height40px;margin-left:25px;" onclick="javascript: window.location.href='/logout'">退出</a>
+            <a href="./gp.html" style="height:40px;line-height40px;margin-left:25px;">新手引导</a>
+            <a href="#" style="height:40px;line-height40px;margin-left:25px;">手机版</a>
+        </div>
+    </div>
+</div>
+
+    <div id="wxmptitleoverdiv" style="width:100px;height:100px;display:none;top : 40px;position: absolute;background-image: url('./files/img/qr2.png');z-index: 100;background-size: contain;"></div>
+
+<!--顶部Nav
+<div class="section-nav">
+    <ul class="content">
+        <li><a href="/">首页</a><span></span></li>
+        <li>
+            <a href="/qlyx">权利游戏</a><span></span>
+            <ul class="sub-nav sub-2">
+
+                    <li><a href="/qlyx/dqqld">多期权利</a></li>
+
+                    <li><a href="/qlyx/mfty">免费体验</a></li>
+
+            </ul>
+        </li>
+        <li>
+            <a href="/msg">行业动态</a><span></span>
+            <ul class="sub-nav sub-6">
+
+                    <li><a href="/msg/hyzx">行业资讯</a></li>
+
+                    <li><a href="/msg/gpzx">股票资讯</a></li>
+
+                    <li><a href="/msg/hszs">恒生指数</a></li>
+
+                    <li><a href="/msg/qhzx">期货资讯</a></li>
+
+                    <li><a href="/msg/rqzx">融券资讯</a></li>
+
+                    <li><a href="/msg/tzzx">投资资讯</a></li>
+
+            </ul>
+        </li>
+        <li><a href="/guide/gp">新手引导</a><span></span></li>
+        <li><a href="/about/company">关于我们</a><span></span></li>
+        <li><a href="/about/broadcast">网站公告</a></li>
+    </ul>
+</div>-->
+
+<div class="section-nav" style="height:125px;background-color:white;">
+    <div class="content">
+           <div style="float:left;height:100%;">
+                <a href="./index.html"><img class="logo" style="height:100px;margin-top:12px;" src="./files/img/logo.png" alt=""></a>
+           </div>
+           <div id="menulistitems" style="float:right;height:100%;">
+                <div menu-index="./index.html" class="menuitem" style="float: left; width: 120px; height: 100%; text-align: center; line-height: 120px; font-size: 20px; background: rgb(226, 84, 83) none repeat scroll 0% 0%; color: white;">首页</div>
+                <div menu-index="./qlyx.html" class="menuitem" style="float:left;width:120px;height:100%;text-align:center;line-height:120px;font-size:20px;">权利方案</div>
+                <div menu-index="./dljm.html" class="menuitem" style="float:left;width:120px;height:100%;text-align:center;line-height:120px;font-size:20px;">代理加盟</div>
+                <div menu-index="./company.html" class="menuitem" style="float:left;width:120px;height:100%;text-align:center;line-height:120px;font-size:20px;">关于我们</div>
+           </div>
+    </div>
+</div>
+
+
+<link rel="stylesheet" href="./files/css/normalize.css">
+<link rel="stylesheet" href="./files/css/base.css">
+<style>
+.listmony li a.dis{
+  color:#999
+}
+
+.tr_name {
+    text-align: left;
+    padding-left: 14px;
+    color: #333;
+    height: 30px;
+    line-height: 22px;
+}
+
+.tr_code {
+    HEIGHT: 20px;
+    line-height: 20px;
+    font-size: 14px;
+    text-align: left;
+    padding-left: 14px;
+    color: #999;
+}
+
+.tooltip:hover {text-decoration:none;} 
+.tooltip span {
+    z-index:10;display:none; padding:10px 15px;
+    margin-top:-30px; margin-left:28px;
+    width:200px; line-height:18px;
+}
+.tooltip:hover span{
+    display:inline; position:absolute; color:#111;
+    border:1px solid #c8c8c8; background:#ffffff;}
+.callout {z-index:20;position:absolute;top:30px;border:0;left:-12px;}
+    
+
+.tooltip span
+{
+    border-radius:4px;
+    box-shadow: 5px 5px 8px #CCC;
+}
+
+
+</style>
+
+<link rel="stylesheet" href="./files/css/dqql.css">
+<input style="display: none" id="userId" type="text">
+<!--内容-->
+<div class="section-module">
+    <div class="handle-notice">操作成功</div>
+    <div class="content">
+    <!--     <img class="header" src="../../static/qlyx-header.jpg" alt=""> -->
+        <img class="tip" src="./files/img/qlyx-tip.png" alt="">
+
+        <!--section-->
+        <div class="section">
+            <div class="tip">
+                <div class="line"></div>
+                <h2>① 选择股票标的</h2>
+            </div>
+            
+            <!--nav-->
+            <div class="nav">
+                <div class="item">
+                    <span class="tip">方案周期: </span>
+                    <select id="scheme_cycle">
+                        <!--1:'五天',2:'十天',3:'一个月',4:'三个月',5:'六个月'-->
+                        <option value="" selected="selected">全部</option>
+                        <option value="1">5天</option>
+                        <option value="2">10天</option>
+                        <option value="3">1月</option>
+                        <option value="4">3月</option>
+                        <option value="5">6月</option>
+                    </select>
+                </div>
+                <div class="item">
+                    <span class="tip">类型: </span>
+                    <select id="trend">
+                        <option value="" selected="selected">请选择</option>
+                        <option value="1">看涨</option>
+                        <option value="2">看跌</option>
+                    </select>
+                </div>
+                <div class="item">
+                    <span class="tip">股票标的: </span>
+                    <input id="keywords" placeholder="请输入股票代码或股票名称" type="text">
+                </div>
+                <div class="item">
+                    <span class="tip">管理费: </span>
+                    <input class="small" id="minCost" type="text">
+                    <span>%</span>
+                    <span>~</span>
+                    <input class="small" id="maxCost" type="text">
+                    <span>%</span>
+                </div>
+                <div class="item">
+                    <span class="btn" id="searchBtn">搜索</span>
+                </div>
+            </div>
+
+            <!--row-->
+            <div class="row">
+                <div class="col col-2">
+                    <div class="tabs" id="tabs">
+                        <div class="tab tab-bull active" data-type="tab-bull">今日推荐</div>
+                        <div class="tab tab-search" data-type="tab-search">我的搜索</div>
+                    </div>
+                    <table cellspacing="0" border="0">
+                        <thead>
+                        <tr>
+                            <!--<th style="width: 5%"><span>序号</span></th>-->
+                            <th style="width: 15%"><span>股票信息</span></th>
+                            <th style="width: 10%"><span>类型</span></th>
+                            <th style="width: 15%"><span>周期</span></th>
+                            <th style="width: 10%"><span>现价</span></th>
+                            <th style="width: 10%"><span>涨幅</span></th>
+                            <th style="width: 15%"><span>管理费率</span></th>
+                            <th style="width: 30%"><span>操作</span></th>
+                        </tr>
+                        </thead>
+                        <tbody id="searchTarget" class="table-target"><tr><td style="width:25%"><div><p>sh601318</p><p>中国平安</p></div></td><td style="width:10%">看涨</td><td style="width:10%">一个月</td><td style="width:10%">64.55</td><td style="width:10%">0.1%</td><td style="width:15%">7.02%</td><td style="width:30%"><div class="handle"><a href="#applyType"><i class="icon icon-btn" data-type="cart" data-id="1331"></i></a><i class="icon icon-btn" data-type="add" data-id="1331"></i><i class="icon icon-btn" data-type="cal" data-id="1331"></i></div></td></tr><tr><td style="width:25%"><div><p>sh600519</p><p>贵州茅台</p></div></td><td style="width:10%">看涨</td><td style="width:10%">一个月</td><td style="width:10%">694.01</td><td style="width:10%">2.4%</td><td style="width:15%">7.32%</td><td style="width:30%"><div class="handle"><a href="#applyType"><i class="icon icon-btn" data-type="cart" data-id="559"></i></a><i class="icon icon-btn" data-type="add" data-id="559"></i><i class="icon icon-btn" data-type="cal" data-id="559"></i></div></td></tr><tr><td style="width:25%"><div><p>sh601398</p><p>工商银行</p></div></td><td style="width:10%">看涨</td><td style="width:10%">一个月</td><td style="width:10%">5.87</td><td style="width:10%">-0.2%</td><td style="width:15%">6.02%</td><td style="width:30%"><div class="handle"><a href="#applyType"><i class="icon icon-btn" data-type="cart" data-id="629"></i></a><i class="icon icon-btn" data-type="add" data-id="629"></i><i class="icon icon-btn" data-type="cal" data-id="629"></i></div></td></tr><tr><td style="width:25%"><div><p>sh601088</p><p>中国神华</p></div></td><td style="width:10%">看涨</td><td style="width:10%">一个月</td><td style="width:10%">20.16</td><td style="width:10%">-0.6%</td><td style="width:15%">6.59%</td><td style="width:30%"><div class="handle"><a href="#applyType"><i class="icon icon-btn" data-type="cart" data-id="117"></i></a><i class="icon icon-btn" data-type="add" data-id="117"></i><i class="icon icon-btn" data-type="cal" data-id="117"></i></div></td></tr><tr><td style="width:25%"><div><p>sz002415</p><p>海康威视</p></div></td><td style="width:10%">看涨</td><td style="width:10%">一个月</td><td style="width:10%">41.10</td><td style="width:10%">-0.6%</td><td style="width:15%">9.09%</td><td style="width:30%"><div class="handle"><a href="#applyType"><i class="icon icon-btn" data-type="cart" data-id="3142"></i></a><i class="icon icon-btn" data-type="add" data-id="3142"></i><i class="icon icon-btn" data-type="cal" data-id="3142"></i></div></td></tr><tr><td style="width:25%"><div><p>sh600104</p><p>上汽集团</p></div></td><td style="width:10%">看涨</td><td style="width:10%">一个月</td><td style="width:10%">33.90</td><td style="width:10%">2.4%</td><td style="width:15%">6.09%</td><td style="width:30%"><div class="handle"><a href="#applyType"><i class="icon icon-btn" data-type="cart" data-id="984"></i></a><i class="icon icon-btn" data-type="add" data-id="984"></i><i class="icon icon-btn" data-type="cal" data-id="984"></i></div></td></tr><tr><td style="width:25%"><div><p>sz002415</p><p>海康威视</p></div></td><td style="width:10%">看涨</td><td style="width:10%">一个月</td><td style="width:10%">41.10</td><td style="width:10%">-0.6%</td><td style="width:15%">9.09%</td><td style="width:30%"><div class="handle"><a href="#applyType"><i class="icon icon-btn" data-type="cart" data-id="3142"></i></a><i class="icon icon-btn" data-type="add" data-id="3142"></i><i class="icon icon-btn" data-type="cal" data-id="3142"></i></div></td></tr><tr><td style="width:25%"><div><p>sh601166</p><p>兴业银行</p></div></td><td style="width:10%">看涨</td><td style="width:10%">一个月</td><td style="width:10%">16.33</td><td style="width:10%">-0.3%</td><td style="width:15%">9.48%</td><td style="width:30%"><div class="handle"><a href="#applyType"><i class="icon icon-btn" data-type="cart" data-id="750"></i></a><i class="icon icon-btn" data-type="add" data-id="750"></i><i class="icon icon-btn" data-type="cal" data-id="750"></i></div></td></tr><tr><td style="width:25%"><div><p>sh600000</p><p>浦发银行</p></div></td><td style="width:10%">看涨</td><td style="width:10%">一个月</td><td style="width:10%">11.53</td><td style="width:10%">-0.3%</td><td style="width:15%">9.99%</td><td style="width:30%"><div class="handle"><a href="#applyType"><i class="icon icon-btn" data-type="cart" data-id="1174"></i></a><i class="icon icon-btn" data-type="add" data-id="1174"></i><i class="icon icon-btn" data-type="cal" data-id="1174"></i></div></td></tr><tr><td style="width:25%"><div><p>sz300109</p><p>新开源</p></div></td><td style="width:10%">看涨</td><td style="width:10%">一个月</td><td style="width:10%">39.78</td><td style="width:10%">-3.4%</td><td style="width:15%">5.01%</td><td style="width:30%"><div class="handle"><a href="#applyType"><i class="icon icon-btn" data-type="cart" data-id="3354"></i></a><i class="icon icon-btn" data-type="add" data-id="3354"></i><i class="icon icon-btn" data-type="cal" data-id="3354"></i></div></td></tr></tbody>
+                    </table>
+                    <ul id="searchPage" class="page-wrapper"><li data-page="prev"><i class="icon"></i></li><li class="active">1</li><li data-page="next"><i class="icon"></i></li></ul>
+                </div>
+                <div class="col col-2">
+                    <h2>我的自选股</h2>
+                    <table cellspacing="0" border="0">
+                        <thead>
+                        <tr>
+                            <th style="width: 10%"><span>序号</span></th>
+                            <th style="width: 20%"><span>股票信息</span></th>
+                            <th style="width: 10%"><span>类型</span></th>
+                            <th style="width: 15%"><span>周期</span></th>
+                            <th style="width: 15%"><span>管理费率</span></th>
+                            <th style="width: 30%"><span>操作</span></th>
+                        </tr>
+                        </thead>
+                        <tbody id="optionalTarget" class="table-target">
+                        </tbody>
+                    </table>
+                    <ul id="optionalPage" class="page-wrapper">
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!--section-->
+        <div class="section" style="padding-top: 0;">
+            <div class="tip">
+                <div class="line"></div>
+                <h2 id="applyType">② 申请方案</h2>
+            </div>
+
+            <!--row-->
+            <div class="row" style="padding: 30px 0;">
+                <div class="col col-2">
+                    <div class="nav" style="padding: 0;">
+                        <div class="item">
+                            <h2>申请市值规模</h2>
+                        </div>
+                        <div class="item">
+                            <span>选择市值规模</span>
+                        </div>
+                        <div class="item">
+                            <span>其它市值规模</span>
+                        </div>
+                    </div>
+                    <div class="guimo" id="guimo">
+                        <div class="guimo-item" data-value="10000">
+                            <h3>1万元</h3>
+                            <p>市值规模</p>
+                        </div>
+                        <div class="guimo-item" data-value="50000">
+                            <h3>5万元</h3>
+                            <p>市值规模</p>
+                        </div>
+                        <div class="guimo-item" data-value="100000">
+                            <h3>10万元</h3>
+                            <p>市值规模</p>
+                        </div>
+                        <div class="guimo-item" data-value="200000">
+                            <h3>20万元</h3>
+                            <p>市值规模</p>
+                        </div>
+                        <div class="guimo-item" data-value="300000">
+                            <h3>30万元</h3>
+                            <p>市值规模</p>
+                        </div>
+                        <div class="guimo-item" data-value="400000">
+                            <h3>40万元</h3>
+                            <p>市值规模</p>
+                        </div>
+                        <div class="guimo-item" data-value="600000">
+                            <h3>60万元</h3>
+                            <p>市值规模</p>
+                        </div>
+                        <div class="guimo-item" data-value="800000">
+                            <h3>80万元</h3>
+                            <p>市值规模</p>
+                        </div>
+                        <div style="display: inline-block;float: left;width: 30%;margin-right: 3%;text-align: center;padding: 30px 0;background-color: #eee;margin-bottom: 3%;" data-value="">
+                            <h3 style="color: #d73700;font-size: 24px;font-weight: normal;"><input id="custom-guimo-item" style="width: 50%;text-align:right;font-size: 24px;font-weight: normal;" type="number">&nbsp;万</h3>
+                            <p class="custom-guimo-item" style="padding-top: 10px;">自定义</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col col-2">
+                    <h2 style="text-align: left;">确认方案规则</h2>
+
+                    <ul class="scheme">
+                        <li>
+                            <div class="label">股票标的</div>
+                            <div id="targetName"></div>
+                        </li>
+                        <li>
+                            <div class="label">市值规模</div>
+                            <div id="targetValue"></div>
+                        </li>
+                        <li>
+                            <div class="label">权利类型</div>
+                            <div id="targetTrend"></div>
+                        </li>
+                        <li>
+                            <div class="label">管理期限</div>
+                            <div id="targetCycle"></div>
+                        </li>
+                        <li>
+                            <div class="label">建议买入价格</div>
+                            <div>
+                                <select id="suggestPrice">
+                                    <option value="1" selected="selected">市价交易</option>
+                                    <option value="2">限价交易</option>
+                                </select>
+
+                                <input id="buyPrice" style="display: none;" placeholder="昨日收盘价正负10%区间" type="text">
+                            </div>
+                        </li>
+                        <li>
+                            <div class="label">执行时间</div>
+                            <div>下个交易日</div>
+                        </li>
+                        <li>
+                            <div class="label">管理费率</div>
+                            <div id="targetRate"></div>
+                        </li>
+                        <li>
+                            <div class="label">需缴纳管理费</div>
+                            <div id="targetCost"></div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <p>如您不清楚规则，或有其他疑问，请联系客服：4009-630-830</p>
+            <p style="padding: 20px 0;">
+                <input name="xiyi" value="" id="xieyi" type="checkbox"><label for="xieyi"> 我已阅读并同意</label>
+                <a href="./tougu" style="text-decoration: none;color: black">《投顾协议》</a>
+            </p>
+            <div>
+                <span class="sub-btn" id="appllyBtn">我要申请</span>
+            </div>
+        </div>
+        <!--tip-->
+        <div class="section section-tip" style="padding: 25px 30px;">
+            <h3>投顾规则须知</h3>
+            <p>1、	全程除一次支付协议中涉及的管理费用外，无其他任何费用，股市有风险，投资需谨慎！</p>
+            <p>2、	
+方案的提交与结算：投资顾问建议投资方投资的股票原则上应业绩优良、流通股本规模适度、流动性好，提交投资建议方案后不可撤销，最低市值1万元起，建议市
+值需是1000元的倍数，投资方接收到投资建议方案后将对投资建议方案进行评估并决定是否采纳投资顾问的投资建议方案；</p>
+            <p class="indent">a) 投资方接收并确认采纳投资顾问提供的投资建议申请方案后， 
+最迟将在下一交易日执行投资顾问的投资建议，原则上按照投资顾问建议的投资标的和买入价格操作，如投资顾问建议按照市价交易，投资方有权选择以能够成交的
+任一价格买入股票并通过委托方网站向投资顾问展示方案执行结果；</p>
+            <p class="indent">b) 因市场规则导致投资方执行投资顾问的结算建议无法成功，投资顾问需在方案管理期限内再次提出结算建议，直至投资顾问提供的结算建议执行成功；</p>
+            <p class="indent">c) 投资顾问从方案生效日起至方案终止前两个交易日，可择机向投资方提出结算建议。投资方将按照投资顾问建议的卖出价格操作并通过委托方网站向投资顾问展示方案执行结果；</p>
+            <p class="indent">d) 若投资顾问在方案终止前两个交易日，依旧未提出结算建议，投资方将在方案终止当天择机处理股票标的，并按最终的实际成交价格进行结算。</p>
+            <p>3、 方案周期：以投资方采纳投资顾问提交的申请方案当日为方案生效日期，方案结束时间以《投顾协议》生成的结束时间为准；</p>
+            <p>4、 支付管理费：投资顾问在申请方案时，一次性缴付该方案管理费，该方案管理期限内无需再缴付管理费。</p>
+            <p>5、 盈亏说明：方案终止时，投资顾问所管理方案的期末资产净值高于期初资产净值将视为盈利；若投资方所管理方案的期末资产净值低于期初资产净值时，投资产生的亏损由投资方自行承担。</p>
+            <p>6、 停牌处理：若投资顾问建议的股票在方案生效日至方案终止前两个交易日发生停牌：</p>
+            <p class="indent">a) 停牌期间，针对投资顾问发起的结算建议，投资方一律视其为无效建议不予采纳；</p>
+            <p class="indent">b) 若股票在方案终止前两个交易日复牌，投资顾问可发起结算建议；</p>
+            <p class="indent">c) 若股票在方案终止前两个交易日仍未复牌，在方案终止当天投资方将按照该股票停牌前最后一个交易日收盘价进行结算。</p>
+            <p>7、除权除息处理：</p>
+            <p class="indent">a) 若股票在方案周期内发生转送、分红等除权除息（配股除外）情况，平台计算的股票价格以复权价计算收益；</p>
+            <p class="indent">b) 若股票在方案周期内发生配股情况，投资方在配股发生将不参与认购，若投资顾问建议仍继续持有，该情况将导致合作方案收益减小或亏损，该风险需投资顾问自行识别并及时作出决策。</p>
+        </div>
+    </div>
+</div>
+
+
+<!--底部-->
+<!--底部
+<div class="section-footer">
+    <div class="content">
+        <div class="row">
+            <div class="col col-8">
+                <ul>
+                    <li><a href="/">关于我们</a></li>
+                    <li><a href="/">联系我们</a></li>
+                </ul>
+                <img src="http://www.91zcp.com/html/img/logo.png" alt="">
+            </div>
+            <div class="col col-8">
+                <h3 style="padding: 10px 0px 30px 0px;">全国客服热线</h3>
+                <h1 style="padding-bottom: 10px; color: #cb4335">微信号: hym420062485</h1>
+                <p>服务时间 (08:30-17:30)</p>
+            </div>
+            <div class="col col-8 yunying">
+                <div class="col col-12">
+                    <h5>财经订阅号</h5>
+                    <img src="" alt="">
+                </div>
+                <div class="col col-12">
+                    <h5>多赢期权订阅号</h5>
+                    <img src="" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="site">
+            <p>版权所有 © XXXXX 闽ICP备16003417号收藏本站</p>
+        </div>
+    </div>
+</div>
+-->
+
+<link rel="stylesheet" href="./files/css/public.css">
+<!-- footer start -->
+<div style="clear: both"></div>
+
+<div id="customfooter" style="margin-top: 20px;height: 235px;background: #272727;    color: #666666;font-family: " microsoft="" yahei","tahoma","arial","sans-serif";font-size:="" 12px;line-height:="" 1.5;"="">
+        <div class="container" style="color: #cccccc;padding-top: 40px;padding-bottom: 20px;width: 1170px;margin:0 auto">
+            <div class="col-md-3" style="width: 28.33333%;float: left; text-align: center;">
+                <div style="border-bottom: solid 1px white;padding-bottom: 10px">
+                    <span style="margin-right: 10px">关于我们</span><span>|</span><span style="margin-left: 10px">联系我们</span>
+                </div>
+                <div style="margin-top: 20px;font-size: 30px">
+                    <!--<img src="/kljr/public/static/images/logokl.png">-->
+                    快期网
+                </div>
+                <div style="margin-top: 10px">
+                    版权所有©温州快期信息科技有限公司
+                    <div>浙ICP备15007030号-1</div>
+
+                </div>
+            </div>
+            <div class="col-md-3" style="width: 28.33333%;float: left;text-align: center;margin-left: 20px">
+                <div style="border-bottom: solid 1px white;padding-bottom: 10px">
+                    <span style="margin-right: 10px">QQ客服</span><span>|</span><span style="margin-left: 10px">在线留言</span><span>|</span><span style="margin-right: 10px">意见反馈</span>
+                </div>
+                <div style="margin-top: 20px">
+                    <img style="width: 20px;margin-right: 10px" src="./files/img/phone.png">全国客服热线
+                    <div style="color: orange;font-size: 30px">400-875-8908</div>
+                </div>
+                <div style="margin-top: 10px">服务时间(08:30-17:30)</div>
+            </div>
+            <div class="col-md-3" style="width: 33.33333%;float: left;text-align: center;">
+                <div class="col-md-3" style="width: 50%;float: left;">
+                    <div style="text-align: center">快期网订阅号</div>
+                    <div style="text-align: center"><img style="width:100px;" src="./files/img/qr1.jpg"></div>
+                </div>
+                <div class="col-md-3" style="width: 35%;float: left;">
+                    <div style="text-align: center">快期网客服号</div>
+                    <div style="text-align: center"> <img style="width:100px;" src="./files/img/qr2.png"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="./files/js/jquery.js"></script>
+<script type="text/javascript" src="./files/js/float2.js"></script>
+<script type="text/javascript" src="./files/js/util.js"></script>
+
+
+
+<script>
+    $(function() {
+
+
+        $('#wxmptitle').on('mouseover', function() {
+
+            console.log("============================")
+            console.log($('#wxmptitle').offset().left)
+            console.log("============================")
+
+            $('#wxmptitleoverdiv').css({
+                left : $('#wxmptitle').offset().left - 30
+            });
+
+
+            console.log("============================---")
+            console.log($('#wxmptitleoverdiv').offset())
+            console.log($('#wxmptitleoverdiv').offset().left)
+            console.log("============================---")
+
+            $('#wxmptitleoverdiv').show();
+
+
+        }).on('mouseout', function() {
+            $('#wxmptitleoverdiv').hide();
+        });
+
+
+        $('.menuitem').on('click', function() {
+            var index = $(this).attr('menu-index');
+            $('.this').css({
+                background:'rgba(226,84,83,255)',
+                color:'white'
+            });
+            location.href = index;
+        });
+
+        String.prototype.startWith=function(str){
+            var reg=new RegExp("^"+str);
+            return reg.test(this);
+        }
+        var lpn = location.pathname;
+        console.log(lpn);
+
+
+
+        if (lpn.startWith('/qlyx')) {
+            console.log('权利游戏');
+            $('.menuitem:nth-child(2)').css({
+                background:'rgba(226,84,83,255)',
+                color:'white'
+            });
+        } else if (lpn.startWith('/dljm')) {
+            console.log('dailijiameng');
+            $('.menuitem:nth-child(3)').css({
+                background:'rgba(226,84,83,255)',
+                color:'white'
+            });
+        } else if (lpn.startWith('/about/company')) {
+            console.log('关于页面');
+            $('.menuitem:nth-child(4)').css({
+                background:'rgba(226,84,83,255)',
+                color:'white'
+            });
+
+
+
+
+        } else if (lpn.startWith('./')) {
+            console.log('首页');
+            $('.menuitem:nth-child(1)').css({
+                background:'rgba(226,84,83,255)',
+                color:'white'
+            });
+        }
+
+
+    });
+</script>
+<!--登录-->
+<style>
+    .login-modal{
+        position: fixed; width: 100%; height: 100%; top: 0; left: 0; background-color: rgba(0, 0, 0, 0.40); display: none;
+    }
+
+    .login-container{
+        display: table-cell; height: 100%; width: 100%; vertical-align: middle;
+    }
+    .login-container .pane{
+        border-radius: 10px; background-color: #fff; vertical-align: middle; width: 360px; margin: 0 auto; text-align: center;
+        box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.05); padding: 30px 40px 40px 40px; box-sizing: border-box; position: relative;
+        top: -10px; min-height: 380px; max-width: 95%; max-height: 95%; overflow: hidden;
+    }
+    .login-container .pane .icon-close{
+        position: absolute; right: 0; top: 0; background-color: #8e8e8e; padding: 9px 15px 10px 15px; z-index: 66; font-size: 18px; color: #fff;
+    }
+    .login-container .pane .icon-close:hover{
+        background-color: #c83838; cursor: pointer;
+    }
+    .login-container .pane h2{
+        font-size: 16px; padding: 10px 0px; border-bottom: 1px solid rgba(153, 153, 153, 0.15); box-shadow: 0px 1px 0px 0 rgba(0,0,0,0.05);
+        position: absolute; top: 0px; left: 0px; width: 100%;
+    }
+    .login-container .pane ul.nav{
+        width: 100%; padding: 0px 0px 15px 0px; text-align: center; margin: 0 auto;
+    }
+    .login-container .pane ul.nav li{
+        display: inline-block; font-size: 16px; margin: 0px 25px; padding: 3px 0px; cursor: pointer;
+    }
+    .login-container .pane ul.nav li:hover{
+        color: #e13e3e;
+    }
+    .login-container .pane ul.nav li.active{
+        border-bottom: 2px solid #e13e3e;
+    }
+
+    /*form*/
+    .login-container .form{
+        width: 100%;
+    }
+    .login-container .form li{
+        list-style: none; border: 1px solid rgb(223, 223, 223); margin-top: 20px; height: 30px; text-align: left; line-height: 28px;
+        vertical-align: middle; padding: 0px 5px; position: relative; padding-left: 33px; overflow: hidden;
+    }
+    .login-container .form li .icon{
+        position: absolute; left: 10px; top: 7px; width: 13px;
+    }
+    .login-container .form li .local{
+        position: absolute; left: 25px; font-size: 10px; color: #999; top: 1px;
+    }
+    .login-container .form li input{
+        border: none; outline: none; height: 100%; display: inherit; width: 100%; font-size: 12px; color: #666;
+        vertical-align: middle; line-height: 30px;
+    }
+    .login-container .form li .submit{
+        display: block; font-size: 14px; background-color: #e7c133; color: #fff; text-align: center; padding: 2px 0px;
+        cursor: pointer;
+    }
+    .login-container .form li .word-img{
+        position: absolute; right: 0px;width: 90px; background-color: #eee; height: 100%; top: 0px; cursor: pointer;
+    }
+    .login-container .form li .word-img:hover{
+        opacity: 0.8;
+    }
+    .login-container .form li .send-msg{
+        width: 90px; color: #e7c133; font-size: 12px; border-left: 1px solid rgba(204, 204, 204, 0.39); position: absolute; right: 0px; top: 0px;
+        text-align: center; height: 15px; line-height: 15px; vertical-align: middle; margin: 8px 0px; cursor: pointer;
+        background-color: #fff;
+    }
+    .login-container .form li .send-msg:hover{
+        opacity: 0.8;
+    }
+</style>
+<div class="login-modal" id="loginModal">
+    <div class="login-container">
+        <!--扫码登录-->
+        <div id="lgcode" class="pane">
+            <i class="icon icon-close"></i>
+            <ul class="nav">
+                <li class="active login-tab" style="display: none;">登录</li>
+                <li class="regist-tab" style="display: none;">注册</li>
+            </ul>
+
+            <ul class="form">
+                <li style="padding-left: 59px;">
+                    <img style="width: 11px;" class="icon" src="files/login-phone-icon.png" alt="">
+                    <span class="local">+86</span>
+                    <input id="loginMobile" placeholder="手机号" type="text">
+                </li>
+                <li>
+                    <img class="icon" src="files/login-password-icon.png" alt="">
+                    <input id="loginCode" placeholder="文字验证码" type="text">
+                    <img class="word-img login-word-img" src="" alt="">
+                </li>
+                <li>
+                    <img style="top: 9px;" class="icon" src="files/login-password-icon.png" alt="">
+                    <input id="loginPassword" placeholder="请输入密码" type="password">
+                </li>
+                <li style="border: none; padding: 0px;">
+                    <a id="loginBtn" class="submit">登录</a>
+                </li>
+                <li style="border: none; font-size: 14px; text-align: center; padding: 0px;">
+                    <a class="find-pwd" style="cursor: pointer;">找回密码</a>
+                </li>
+            </ul>
+        </div>
+
+        <!--找回密码-->
+        <div id="fpwd" class="pane" style="display: none">
+            <i class="icon icon-close"></i>
+            <ul class="nav">
+                <li class="active login-tab" style="display: none;">修改密码</li>
+                <li class="regist-tab" style="display: none;">注册</li>
+            </ul>
+
+            <ul class="form">
+                <li style="padding-left: 59px;">
+                    <img style="width: 11px;" class="icon" src="files/img/login-phone-icon.png" alt="">
+                    <span class="local">+86</span>
+                    <input id="fmobile" placeholder="手机号" type="text">
+                </li>
+                <li>
+                    <img class="icon" src="files/img/login-password-icon.png" alt="">
+                    <input id="fwcode" placeholder="文字验证码" type="text">
+                    <img id="wordCode" class="word-img find-word-img" src="" alt="">
+                </li>
+                <li>
+                    <img style="top: 9px;" class="icon" src="files/img/login-msg-icon.png" alt="">
+                    <input id="fmsgcode" placeholder="短信验证码" type="text">
+                    <a id="ftimer" onclick="sendMsgCode('ftimer')" class="send-msg">发送验证码</a>
+                </li>
+                <li>
+                    <img style="top: 9px;" class="icon" src="files/img/login-password-icon.png" alt="">
+                    <input id="fpassword" placeholder="请输入密码" type="password">
+                </li>
+                <li>
+                    <img style="top: 9px;" class="icon" src="files/img/login-password-icon.png" alt="">
+                    <input id="fpassword2" placeholder="请再次输入密码" type="password">
+                </li>
+                <li style="border: none; padding: 0px;">
+                    <a id="fsubmit" class="submit">确定</a>
+                </li>
+                <li style="border: none; font-size: 14px; text-align: center; padding: 0px;">
+                    <a class="go-login" style="cursor: pointer">去登录</a>
+                </li>
+            </ul>
+        </div>
+
+        <!--注册-->
+        <div id="msg" class="pane" style="display: none">
+            <i class="icon icon-close"></i>
+            <ul class="nav">
+                <li class="login-tab" style="display: none;">登录</li>
+                <li class="active regist-tab" style="display: none;">注册</li>
+            </ul>
+
+            <ul class="form">
+                <li style="padding-left: 59px;">
+                    <img style="width: 11px;" class="icon" src="files/img/login-phone-icon.png" alt="">
+                    <span class="local">+86</span>
+                    <input id="rmobile" placeholder="手机号" type="text">
+                </li>
+                <li>
+                    <img class="icon" src="files/img/login-password-icon.png" alt="">
+                    <input id="rwcode" placeholder="文字验证码" type="text">
+                    <img class="word-img msg-word-img" src="" alt="">
+                </li>
+                <li>
+                    <img style="top: 9px;" class="icon" src="files/img/login-msg-icon.png" alt="">
+                    <input id="rmsgcode" placeholder="短信验证码" type="text">
+                    <a id="rtimer" onclick="sendMsgCode('rtimer')" class="send-msg">发送验证码</a>
+                </li>
+                <li id="rtjminputdiv">
+                    <img class="icon" src="files/login-msg-icon.png" alt="">
+                    <input id="rtjmcode" placeholder="推荐码" type="text">
+                </li>
+                <li>
+                    <img style="top: 9px;" class="icon" src="files/img/login-msg-icon.png" alt="">
+                    <input id="rusername" placeholder="用户名" type="text">
+                </li>
+                <li>
+                    <img style="top: 9px;" class="icon" src="files/login-password-icon.png" alt="">
+                    <input id="rpassword" placeholder="请输入密码" type="password">
+                </li>
+                <li>
+                    <img style="top: 9px;" class="icon" src="files/img/login-password-icon.png" alt="">
+                    <input id="rpassword2" placeholder="请再次输入密码" type="password">
+                </li>
+                <li style="border: none; padding: 0px;">
+                    <a id="rsubmit" class="submit">注册</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<script src="files/js/login.js"></script>
+
+<script type="text/javascript" src=".files/js/qlyx.js"></script>
+<!--<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1266138513'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/z_stat.php%3Fid%3D1266138513%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>-->
+
+
+</body></html>
