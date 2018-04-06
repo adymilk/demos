@@ -1,0 +1,872 @@
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html amp lang="zh">
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.ampproject.org/v0.js" async></script>
+    <script custom-element="amp-image-lightbox" src="https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js" async></script>
+    <script custom-element="amp-brightcove" src="https://cdn.ampproject.org/v0/amp-brightcove-0.1.js" async></script>
+    <script custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" async></script>
+    <title>有效管理外汇交易风险 | IG ZH</title>
+    
+        <link rel="canonical" href="https://www.ig.com/zh/trading-ideas/risk-management-41316-171227"/>
+    
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    
+    
+
+
+
+
+
+<script type="application/ld+json">
+    {"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.ig.com/zh/trading-ideas/risk-management-41316-171227","headline":"有效管理外汇交易风险","image":{"@type":"ImageObject","url":"https://a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/jcr:content/textimage/image.adaptive.full.jpg/1514333466416.jpg","height":356,"width":559},"publisher":{"@type":"Organization","name":"IG","logo":{"@type":"ImageObject","url":"https://a.c-dn.net/c/etc/designs/onedomain/images/IG-60x60.png","height":60,"width":60}},"datePublished":"2017-12-27T00:28:36+0000","dateModified":"2017-12-27T00:28:36+0000","author":{"@type":"Person","name":"IG集团"},"description":"外汇交易涉及的风险比其它资产类别更高，相应地，回报或损失也可能更大。如何管理风险，很大程度上将决定在货币市场交易中我们能获得怎样的成功。"}
+</script>
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <style amp-custom>
+        @font-face {
+            font-family: 'Avenir Next OT';
+            font-weight: 300; /* Avenir Next OT Light */
+            src: url('https://a.c-dn.net/b/2woH6V/d7595278-c472-486c-a142-86cb160a1226.eot?#iefix');
+            src: url('https://a.c-dn.net/b/2woH6V/d7595278-c472-486c-a142-86cb160a1226.eot?#iefix') format('eot'),
+            url('https://a.c-dn.net/b/2Rhpod/5934eb8d-da89-4362-81fa-111b5b9f8c6c.woff2') format('woff2'),
+            url('https://a.c-dn.net/b/0sxecP/f6d0771b-5a61-449b-87e8-b3175abfc271.woff') format('woff'),
+            url('https://a.c-dn.net/b/0qq8D0/e4bf5c77-59b9-49bf-8497-2f26b4101c11.ttf') format('truetype'),
+            url('https://a.c-dn.net/b/1Nt88a/58a5128d-b1b6-4b3f-bbe8-0631899fbd18.svg#58a5128d-b1b6-4b3f-bbe8-0631899fbd18') format('svg');
+        }
+
+        @font-face {
+            font-family: 'Avenir Next OT';
+            font-weight: 400; /* Avenir Next OT Regular */
+            src: url('https://a.c-dn.net/b/4nSMV9/483d8937-5e17-4378-9c51-aa91a3d9e1eb.eot?#iefix');
+            src: url('https://a.c-dn.net/b/4nSMV9/483d8937-5e17-4378-9c51-aa91a3d9e1eb.eot?#iefix') format('eot'),
+            url('https://a.c-dn.net/b/2yDt8n/ed4b9060-b5ab-4379-8840-0b50a15258b7.woff2') format('woff2'),
+            url('https://a.c-dn.net/b/4tjEks/9b47db0b-77fb-4bb0-b5c2-3c131a36fc4d.woff') format('woff'),
+            url('https://a.c-dn.net/b/2xiLpl/9c8b7e5f-b3ca-435d-a197-b3dfeae277a1.ttf') format('truetype'),
+            url('https://a.c-dn.net/b/23LgVC/0f72ee75-31c8-42ba-b262-3e13b83a8fdf.svg#0f72ee75-31c8-42ba-b262-3e13b83a8fdf') format('svg');
+        }
+
+        @font-face {
+            font-family: 'Avenir Next OT';
+            font-weight: 500; /* Avenir Next OT Medium */
+            src: url('https://a.c-dn.net/b/0zip2Z/930383e5-36a7-4f9b-ba93-91da56426238.eot?#iefix');
+            src: url('https://a.c-dn.net/b/0zip2Z/930383e5-36a7-4f9b-ba93-91da56426238.eot?#iefix') format('eot'),
+            url('https://a.c-dn.net/b/4eMYym/91e99835-1d11-4c71-af9b-aed2a94329e7.woff2') format('woff2'),
+            url('https://a.c-dn.net/b/2naIwB/4952d2e1-e0c0-46ca-b32e-c24a5882c471.woff') format('woff'),
+            url('https://a.c-dn.net/b/0cyBwr/55e40b4b-6742-4cea-b87c-382b0c65d12d.ttf') format('truetype'),
+            url('https://a.c-dn.net/b/1JRcnN/6b307c95-616f-4c40-a4f9-ec7f15fe23c1.svg#6b307c95-616f-4c40-a4f9-ec7f15fe23c1') format('svg');
+        }
+
+        @font-face {
+            font-family: 'Avenir Next OT';
+            font-weight: 600; /* Avenir Next OT Demi */
+            src: url('https://a.c-dn.net/b/0jpRgq/47d79f32-82c5-4a74-9646-5150297aabc1.eot?#iefix');
+            src: url('https://a.c-dn.net/b/0jpRgq/47d79f32-82c5-4a74-9646-5150297aabc1.eot?#iefix') format('eot'),
+            url('https://a.c-dn.net/b/2OsZ9R/249228f0-61ac-40cc-a5a5-5609c9816e3f.woff2') format('woff2'),
+            url('https://a.c-dn.net/b/48Tz31/efba18ed-80cc-49c4-997a-fbb140739d19.woff') format('woff'),
+            url('https://a.c-dn.net/b/25etwI/750a20ec-9242-42a8-b3bd-c4dcec552196.ttf') format('truetype'),
+            url('https://a.c-dn.net/b/4aZymX/9505c912-495c-462c-899a-e61574ee9559.svg#9505c912-495c-462c-899a-e61574ee9559') format('svg');
+        }
+
+        @font-face {
+            font-family: 'Avenir Next OT';
+            font-weight: 700; /* Avenir Next OT Bold */
+            src: url('https://a.c-dn.net/b/0yXIbG/6ff8ab07-ccb4-4a91-8f0f-2bd4367902e8.eot?#iefix');
+            src: url('https://a.c-dn.net/b/0yXIbG/6ff8ab07-ccb4-4a91-8f0f-2bd4367902e8.eot?#iefix') format('eot'),
+            url('https://a.c-dn.net/b/400bVx/91799b0e-0ef8-446e-b274-5509412e1242.woff2') format('woff2'),
+            url('https://a.c-dn.net/b/3Gei2v/97fb5311-bdbd-46bc-bf69-3bcf8c744cda.woff') format('woff'),
+            url('https://a.c-dn.net/b/0M3KUW/88093bd3-b377-4278-8abe-8460dd24d0e8.ttf') format('truetype'),
+            url('https://a.c-dn.net/b/1kqdM7/0fde1539-69df-4e3d-83ef-ae23d10dd2a5.svg#0fde1539-69df-4e3d-83ef-ae23d10dd2a5') format('svg');
+        }
+
+        @font-face {
+            font-family: 'Avenir Next OT';
+            font-weight: 800; /* Avenir Next OT Heavy */
+            src: url('https://a.c-dn.net/b/1nV4lW/aa8f537e-7081-4c0e-9236-0f9fcfac4541.eot?#iefix');
+            src: url('https://a.c-dn.net/b/1nV4lW/aa8f537e-7081-4c0e-9236-0f9fcfac4541.eot?#iefix') format('eot'),
+            url('https://a.c-dn.net/b/0xZCJw/89f00a92-1c94-43f4-9b5d-a9a7d3573805.woff2') format('woff2'),
+            url('https://a.c-dn.net/b/09qnvN/97f8a201-6c8c-4ab9-9427-7dac9cb31534.woff') format('woff'),
+            url('https://a.c-dn.net/b/26DIJ2/7e15ebeb-7336-4881-b9fd-14d423ae42d3.ttf') format('truetype'),
+            url('https://a.c-dn.net/b/2UA2YL/c6b37b82-8e27-4e65-8eed-967a20776a36.svg#c6b37b82-8e27-4e65-8eed-967a20776a36') format('svg');
+        }
+
+        body {
+            font-family: 'Avenir Next OT', Arial, sans-serif;
+            font-weight: 400;
+            color: #555;
+            font-size:14px;
+            line-height: 20px;
+            margin-bottom: 14px;
+            background-color: #F5F6F7;
+        }
+        .ig-main-header {
+            padding: 5px 10px;
+            position: relative;
+        }
+        .wrapper-header {
+            background-color: #FFF;
+        }
+        .ig-header-text {
+            display: inline-block;
+            vertical-align: top;
+            top: 3px;
+            position: relative;
+            right: 55px;
+        }
+        .nt-strip {
+            background-color: #262629;
+            height: 32px;
+            width: 100%;
+            -webkit-font-smoothing: antialiased;
+        }
+        .nt-strip__content-left {
+            float: left;
+            padding: 0 12px;
+            position: relative;
+            bottom: 10px;
+        }
+        .nt-strip__content-left p {
+            color: #FFF;
+        }
+        .nt-strip__content-right {
+            float: right;
+            padding: 0 2px;
+        }
+        a.nt-strip__login-cta {
+            background: linear-gradient(#46474F, #37373F);
+            border-color: #37373F;
+            padding: 2px 13px;
+            border-radius: 2px;
+            border-width: 1px;
+            border-style: solid;
+            color: #FFF;
+            position: relative;
+            top: 4px;
+            font-weight: 600;
+            font-size: 13px;
+        }
+        a.nt-strip__signup-cta {
+            background: linear-gradient(#3BA43B, #338F33);
+            border-color: #338F33;
+            padding: 2px 13px;
+            border-radius: 2px;
+            border-width: 1px;
+            border-style: solid;
+            color: #FFF;
+            position: relative;
+            top: 4px;
+            font-weight: 600;
+            font-size: 13px;
+            margin-right: 2px;
+        }
+        .logged-out-cta {
+            display: inline-block;
+        }
+        .ig-logo {
+            background: url(//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/logos/IG_LOGO.svg) no-repeat;
+            width: 100px;
+            height: 44px;
+            display: inline-block;
+            top: 4px;
+            position: relative;
+            right: 59px;
+        }
+        .top-inline-disclaimer {
+            color: #000;
+            padding: 10px 0;
+            text-align: center;
+            font-size: 14px;
+            font-weight: 700;
+            top: 10px;
+            position: relative;
+            background-color: white;
+        }
+        .marketName {
+            line-height: 35px;
+            color: #46484F;
+        }
+        h1 {
+            font-size: 18px;
+        }
+        .publication-date {
+            margin-bottom:15px;
+            color: #6C6C7A;
+            font-size: 13px;
+        }
+        .content-wrapper {
+            margin: 10px 0;
+            padding: 0 10px;
+            background-color: white;
+            top: 10px;
+            position: relative;
+        }
+        .image-description {
+            display: block;
+            font-size: 13px;
+            line-height: 15px;
+            color: #bbb;
+            margin-top: 5px;
+            margin-bottom: 20px;
+            text-align: right;
+        }
+        table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100%;
+            border: 1px solid #cacaca;
+            margin-bottom: 10px;
+        }
+        td,th {
+            border-left: 1px solid #cacaca;
+            border-top: 1px solid #cacaca;
+            border-right: 0;
+            border-bottom: 0;
+            font-size: 15px;
+            line-height: 17px;
+            text-align: center;
+            color: #333;
+            min-width: 150px;
+            padding: 0 10px;
+        }
+        .table-wrapper {
+            overflow-x: auto;
+        }
+        h2 {
+            margin-top: 0;
+            color: #46484F;
+            font-size: 18px;
+        }
+        h3 {
+            line-height: 26px;
+            color: #46484F;
+        }
+        a {
+            color: #1A1A1E;
+            outline: 0;
+            text-decoration: none;
+            border-bottom: 1px dotted #000;
+            font-weight: 700;
+        }
+        p {
+            color: #46484F;
+            font-size: 14px;
+            line-height: 22px;
+        }
+        .intro {
+            color: #46484F;
+            font-size: 18px;
+        }
+        .news-article-author-name {
+            font-size: 14px;
+            line-height: 22px;
+        }
+        .sharebanner ul {
+            list-style-type: none;
+            overflow: hidden;
+            padding: 3px 0 0 0;
+            margin: 0;
+        }
+        .social-sharing {
+            margin-bottom: 30px;
+        }
+        .sharebanner ul li {
+            height: 30px;
+            width: 30px;
+            padding-right: 5px;
+            float: left;
+        }
+        .share-link {
+            display: block;
+            width:30px;
+            height:30px
+        }
+        .twitter-small-alt, .brightcove-share a, .share-plusone, .share-link {
+            background-image: url(https://a.c-dn.net/c/etc/designs/onedomain/1484759778000/images/sprites/social.png);
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+        }
+        .fb-share,.share-fb{background-position:-31px -174px;}
+        .fb-share:hover,.share-fb:hover{background-position:0 -174px;}
+        .twitter-share,.share-tweet{background-position:-93px -174px;}
+        .twitter-share:hover,.share-tweet:hover{background-position:-62px -174px;}
+        .linkedin-share,.share-linkedin{background-position:-124px -174px;}
+        .linkedin-share:hover,.share-linkedin:hover{background-position:-155px -174px;}
+        .share-plusone{background-position:-220px -62px;}
+        .share-plusone:hover{background-position:-220px -155px;}
+        .share-youtube{background-position:-183px -142px;}
+        .share-youtube:hover{background-position:-111px -63px;}
+        .share-pinterest{background-position:-148px -137px;}
+        .share-pinterest:hover{background-position:-111px -100px;}
+        .share-mail{background-position:-183px -111px;}
+        .share-mail:hover{background-position:-220px 0;}
+        .share-wechat{background-position:-220px -124px;}
+        .share-wechat:hover{background-position:-220px -93px;}
+        .share-weibu{background-position:-186px -174px;}
+        .share-weibu:hover{background-position:-220px -31px;}
+        .twitter-small-alt {
+            background-position: -220px -186px;
+            width: 20px;
+            height: 18px;
+            text-indent: 20px;
+            display: inline-block;
+            margin-left: 5px;
+        }
+        .relatedArticles {
+            font-weight: 700;
+            border-top: 1px solid #cacaca;
+            padding-top: 30px;
+        }
+
+        .relatedArticles ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .relatedArticles ul li {
+            margin-bottom: 15px;
+        }
+        .downloadApp {
+            padding: 15px 10px;
+            background-color: #777;
+            color: #fff;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .downloadApp span {
+            padding: 0 35px;
+            display: block;
+        }
+        .downloadApp a {
+            background-color: #55aad3;
+            color: #fff;
+            width: 100%;
+            display: block;
+            padding: 10px 0;
+            margin-top: 10px;
+        }
+        .footer-disclaimer {
+            padding: 10px 0 6px;
+        }
+        .footer-logo {
+            display: block;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 20px;
+        }
+        .footer-colophon {
+            border-top: 1px solid #666;
+            border-bottom: 3px solid #666;
+            color: #333;
+        }
+        .footer {
+            line-height: 22px;
+        }
+        .cq-text-placeholder-ipe {
+            display: none;
+        }
+        .fixed-container {
+            position: relative;
+            width: 200px;
+            height: 48px;
+        }
+        amp-img.contain img {
+            object-fit: contain;
+        }
+        .linkList-wrapper.inline {
+            display: inline-block;
+        }
+        .linkList-items {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .linkList-items li {
+            float: left;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body class="zh_CN">
+<div class="wrapper-header" data-swiftype-index="false">
+    <div class="nt-strip">
+        <div class="nt-strip__content-left">
+            <p>IG.com</p>
+        </div>
+        <div class="nt-strip__content-right">
+
+            <div class="nt-strip__prospect">
+                <li class="logged-out-cta">
+                    <a class="nt-strip__login-cta" href="/zh/login">登录</a>
+                </li>
+                <li class="logged-out-cta">
+                    <a class="nt-strip__signup-cta" href="/zh/create-account">申请账户</a>
+                </li>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="ig-main-header">
+        <div class="ig-logo"></div>
+        
+    </div>
+</div>
+
+<div class="top-inline-disclaimer" data-swiftype-index="false">
+  差价合约为杠杆性金融产品。差价合约交易未必适合每位人士，并有可能招致超出您的初始保证金的损失，敬请交易前完全了解所涉及的风险。 
+</div> 
+<div class="content-wrapper"> 
+ <div class="marketName"> 
+  <div class="marketNamePadding"> 
+   <div class="marketNameContainer"> 
+    <div class="marketNameWrapper"> 
+     <h1>有效管理外汇交易风险</h1> 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+ <div class="intro text_ig parbase"> 
+  <p>外汇交易涉及的风险比其它资产类别更高，相应地，回报或损失也可能更大。如何管理风险，很大程度上将决定在货币市场交易中我们能获得怎样的成功。</p> 
+ </div> 
+ <div class="publication-date">
+  Wednesday 27 December 2017
+ </div> 
+ <div class="article_intro"> 
+  <div class="newspar2 parsys"> 
+  </div> 
+  <div class="textimage parbase"> 
+   <div class="left_image image"> 
+    <div class="image_border"> 
+     <amp-img on="tap:lightboxbf2982d0-d670-4deb-b9b3-d14084de440f" role="button" tabindex="0" src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/jcr:content/textimage/image.webimg.jpg/1514333466416.jpg" width="320" height="200" title="image" alt="image" layout="responsive"></amp-img> 
+     <amp-image-lightbox id="lightboxbf2982d0-d670-4deb-b9b3-d14084de440f" layout="nodisplay"></amp-image-lightbox> 
+    </div> 
+    <small class="image-description"></small> 
+   </div> 
+   <div class="text">
+    <p>外汇市场风险较高，相应的回报也更大。如果您决定参与外汇交易，则应该准备好接受投资组合中存在的风险。许多交易者的观点是，如何管理风险将会决定你能在交易中取得多大的成功。在此，我们将讨论交易者应该如何利用波动止损方法和头寸调整技术来管理风险。</p> 
+   </div> 
+   <div class="clear"></div>
+  </div> 
+ </div> 
+ <div class="newspar3 parsys">
+  <div class="new-content-component section"> 
+   <div class="content content-component"> 
+    <div class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            "> 
+     <div class="text text-content"> 
+      <h2 class="heading h2"> 波动 </h2> 
+      <p>很多技术指标可以帮我们衡量市场汇率波动，其中包括利用标准差计算的布林线。不过在以下实践中，我们将关注被称为“平均真实波动幅度(ATR)”的简单汇率波动指标。</p> 
+     </div>
+     <div class="clearfix"></div> 
+    </div> 
+   </div>
+  </div> 
+  <div class="new-content-component section"> 
+   <div class="content content-component"> 
+    <div class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            "> 
+     <div class="image text-image"> 
+      <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image"> <span data-src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/_jcr_content/newspar3/content_component_295206003.adaptive.320.medium.png/1514333679639.png" data-width="1000" data-height="468" data-media="(min-width: 1px)"></span> <span data-src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/_jcr_content/newspar3/content_component_295206003.adaptive.320.high.png/1514333679639.png" data-width="1000" data-height="468" data-media="(min-width: 320px)"></span> <span data-src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/_jcr_content/newspar3/content_component_295206003.adaptive.480.high.png/1514333679639.png" data-width="1000" data-height="468" data-media="(min-width: 321px)"></span> <span data-src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/_jcr_content/newspar3/content_component_295206003.adaptive.476.high.png/1514333679639.png" data-width="1000" data-height="468" data-media="(min-width: 481px)"></span> <span data-src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/_jcr_content/newspar3/content_component_295206003.adaptive.620.high.png/1514333679639.png" data-width="1000" data-height="468" data-media="(min-width: 769px)"></span> <span data-src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/_jcr_content/newspar3/content_component_295206003.adaptive.full.high.png/1514333679639.png" data-width="1000" data-height="468" data-media="(min-width: 1025px)"></span> 
+        
+         
+        </span> 
+     </div>
+     <div class="clearfix"></div> 
+    </div> 
+   </div>
+  </div> 
+  <div class="new-content-component section"> 
+   <div class="content content-component"> 
+    <div class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            "> 
+     <div class="text text-content"> 
+      <p>上图为欧元/元每日汇率走势图，其中可以看到平均真实波动幅度指标。这一指标可以衡量该货币对的历史平均每日波动幅度。图中的平均真实波动幅度指标的最后读数是0.0058美元，即58点（从欧元/美元汇率小数点后面第四位算起）。因此根据平均真实波动幅度，我们可以了解欧元/美元汇率可能在正常交易日波动58点。</p> 
+      <p>相同原则或平均真实波动幅度适用于不同时间间隔的走势图，不仅限于本例中的每日走势图。在五分钟走势图上，平均真实波动幅度代表五分钟期间的汇率波动幅度，而一小时平均真实波动幅度则代表一小时期间的潜在汇率波动幅度，依此类推。</p> 
+      <p>那么，这能给我们提供什么帮助呢？</p> 
+     </div>
+     <div class="clearfix"></div> 
+    </div> 
+   </div>
+  </div> 
+  <div class="new-content-component section"> 
+   <div class="content content-component"> 
+    <div class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            "> 
+     <div class="text text-content"> 
+      <h2 class="heading h2"> 波动止损 </h2> 
+      <p>平均真实波动幅度可用于预期欧元/美元货币对每日波动点数，但并不预测市场方向。不过，通过了解证券在某个期间（本例中为1日）的潜在波动幅度，我们可以了解潜在风险。在此欧元/美元示例中，我们目前得知该货币对可能每日波动58点。如果我们订立欧元/美元多头交易，在表现较差的情况下最坏的可能是汇率下跌58点。以货币计量的话，合约的规模将决定潜在的损失。即，如果1点代表1美元，损失会是58美元（1美元x58点），而如果1点代表10美元，损失将达到580美元（10美元x58点）。</p> 
+      <p>建议将平均真实波动幅度（或相关倍数）作为与买入点位之间的止损距离。下列欧元/美元汇率走势图对这一想法做了说明。</p> 
+     </div>
+     <div class="clearfix"></div> 
+    </div> 
+   </div>
+  </div> 
+  <div class="new-content-component section"> 
+   <div class="content content-component"> 
+    <div class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            "> 
+     <div class="image text-image"> 
+      <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image"> <span data-src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/_jcr_content/newspar3/content_component_1292603421.adaptive.320.medium.png/1514333834689.png" data-width="520" data-height="240" data-media="(min-width: 1px)"></span> <span data-src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/_jcr_content/newspar3/content_component_1292603421.adaptive.320.high.png/1514333834689.png" data-width="520" data-height="240" data-media="(min-width: 320px)"></span> <span data-src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/_jcr_content/newspar3/content_component_1292603421.adaptive.480.high.png/1514333834689.png" data-width="520" data-height="240" data-media="(min-width: 321px)"></span> <span data-src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/_jcr_content/newspar3/content_component_1292603421.adaptive.476.high.png/1514333834689.png" data-width="520" data-height="240" data-media="(min-width: 481px)"></span> <span data-src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/_jcr_content/newspar3/content_component_1292603421.adaptive.620.high.png/1514333834689.png" data-width="520" data-height="240" data-media="(min-width: 769px)"></span> <span data-src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/trading-ideas/2017/12/27/risk-management-41316/_jcr_content/newspar3/content_component_1292603421.adaptive.full.high.png/1514333834689.png" data-width="520" data-height="240" data-media="(min-width: 1025px)"></span> 
+        
+         
+        </span> 
+     </div>
+     <div class="clearfix"></div> 
+    </div> 
+   </div>
+  </div> 
+  <div class="new-content-component section"> 
+   <div class="content content-component"> 
+    <div class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            "> 
+     <div class="text text-content"> 
+      <p>建议将平均真实波动幅度作为与买入点位之间的止损距离，是为了将固有汇率波动纳入计算，从而给交易者足够的缓冲空间。理论上，我们应该在正常交易日以尽可能低的点位进入市场，并设定止损位。当然，止损仍可能发生，不过应该可以相对地降低止损频率。</p> 
+      <p>买入点位与保护性止损位之间的距离，代表了我们在一笔交易中可能会损失多少点。这里，我们需要将其转换成货币价值。与IG之间的欧元/美元标准合约中1点=10美元，而与IG之间的欧元/美元迷你合约中则为1点=1美元。为便于计算，在下列示例中我们以迷你合约为例。</p> 
+      <p>如果我们的止损距离（采用上面的平均真实波动幅度）是58点，并通过迷你合约进行批量交易，则：</p> 
+      <p><strong>58点x1美元/点=58美元</strong></p> 
+      <p>即，对于我们的1美元迷你欧元/美元合约，可能的损失为58美元。</p> 
+     </div>
+     <div class="clearfix"></div> 
+    </div> 
+   </div>
+  </div> 
+  <div class="new-content-component section"> 
+   <div class="content content-component"> 
+    <div class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            "> 
+     <div class="text text-content"> 
+      <h2 class="heading h2"> 头寸调整 </h2> 
+      <p>交易者选择交易的合约份数称为头寸规模。简单公式如下：</p> 
+      <p><strong>头寸规模=总风险/每份合约之风险（以美元计）</strong></p> 
+      <p>在上节中我们对“每份合约的风险”进行了定义（止损距离x每份合约/点的价值）。“总风险”是指在一笔交易中您可以接受的最大的损失金额。建议不要让交易资金损失超过2%至5%，当然这因人而异。我们建议将总风险数值转换成货币金额。例如：如果，总风险=账户金额的2%而账户价值为10,000美元；则，总风险=200美元。基于此，我们现在可以计算出应交易多少份合约：</p> 
+      <p><strong>头寸规模=总风险/每份合约之风险（以美元表示）</strong></p> 
+      <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = 200美元/58美元</strong></p> 
+      <p><strong>&nbsp; = 3.44</strong></p> 
+      <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = 3（取整）</strong></p> 
+      <p>根据上述计算，如果我们交易3.44份迷你欧元/美元合约，且止损距离为58点，那么在实际交易中我们可能的损失是200美元。不过，这里合约份数我们取整为3，意味着在实际交易中的损失会略有降低（58美元x3=174美元）。</p> 
+     </div>
+     <div class="clearfix"></div> 
+    </div> 
+   </div>
+  </div> 
+  <div class="new-content-component section"> 
+   <div class="content content-component"> 
+    <div class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            "> 
+     <div class="text text-content"> 
+      <h2 class="heading h2"> 结论 </h2> 
+      <p>以上示例旨在帮助外汇交易者有效地管理交易风险。我们利用平均真实波动幅度指标来评估市场汇率波动，将汇率波动用作决定止损距离的指标，这里止损距离已转换为美元金额。通过确定在一笔交易中我们可以接受的损失总额，就可以使用下列公式算出交易头寸规模：头寸规模=总风险/每份合约之风险（以美元表示）。</p> 
+     </div>
+     <div class="clearfix"></div> 
+    </div> 
+   </div>
+  </div> 
+ </div> 
+ <div class="author news-article-author parbase">
+  <div class="news-article-author-details"> 
+   <p class="news-article-author-name"> <a href="/zh/profile/ig-simplified">IG集团</a> <br> Market Analyst</p> 
+  </div> 
+ </div> 
+ <div class="share-top social-sharing parbase"> 
+  <div class="sharebanner  "> 
+   <ul> 
+    <li><a id="share-weibu" class="group openPopup share-link share-link-old share-weibu" href="http://service.weibo.com/share/share.php?url=https://www.ig.com/zh/trading-ideas/risk-management-41316-171227&amp;appkey=&amp;title=%E6%9C%89%E6%95%88%E7%AE%A1%E7%90%86%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93%E9%A3%8E%E9%99%A9&amp;pic=&amp;ralateUid=&amp;language=zh_cn" target="_blank" title="Weibo"> </a></li> 
+   </ul> 
+  </div> 
+ </div> 
+ <div class="news-and-analysis-permanent-disclaimer" data-swiftype-index="false"> 
+  <div class="newsipar3 iparsys parsys">
+   <div class="section">
+    <div class="new"></div> 
+   </div>
+   <div class="iparys_inherited">
+    <div class="newsipar3 iparsys parsys">
+     <div class="rich-component section"> 
+      <div class="content content-component"> 
+       <div class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            crop-left
+            js_clickable 
+            
+            
+            
+            "> 
+        <div class="text text-content"> 
+         <p>本信息由IG提供，IG为IG Markets Limited的商业名称。除网站下方的声明外，本网页所含信息不包含IG（下称：我公司）成交价格记录，或我公司对任何金融产品的交易要约或询价。依据本网页所发布的信息以及所表达的意见行事所造成的一切后果，我公司不予承担任何责任。我公司对所发布信息的准确性及完整性不作任何明确或隐含的保证。任何人依赖本网页的任何信息、观点以及数据行事须自行承担全部风险。本网页相关研究报告中所含信息没有考虑到特定投资目的、财政状况或任何阅读人士的特殊需求。本网页信息的发布没有严格遵守与促进投资研究报告独立性相关的法律法规要求，因此应仅被视为市场营销交流行为。尽管我公司自身交易不会因提供投资意见而受到明确限制，但我公司无意利用相关信息较客户的时间优先性而寻求利益。点击此链接<a href="/zh/non-independent-research-disclaimer">《非独立研究报告免责声明》</a>，阅读全文。</p> 
+        </div>
+        <div class="clearfix"></div> 
+       </div> 
+      </div>
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+ <div class="relatedArticles"> 
+  <p>阅读更多此类文章</p> 
+  <ul> 
+   <li><a href="/zh/trading-ideas/what-did-we-learn-in-2017-41175-171215" title="我们从2017年学到了什么？">我们从2017年学到了什么？</a></li> 
+   <li><a href="/zh/trading-ideas/the-santa-rally--fact-or-fiction-41013-171206" title="圣诞老人效应：真还是假？">圣诞老人效应：真还是假？</a></li> 
+  </ul> 
+  <div class="downloadApp"> 
+   <span>前往IG交易APP，交易新闻事件</span> 
+   <a href="https://ig.onelink.me/3862067683?pid=IGWebSite&amp;c=AMP-content">立即下载</a> 
+  </div> 
+ </div> 
+ <div class="footer"> 
+  <div class="footer-promos"> 
+   <div class="footer-promos-parsys iparsys parsys">
+    <div class="section">
+     <div class="new"></div> 
+    </div>
+    <div class="iparys_inherited">
+     <div class="footer-promos-parsys iparsys parsys"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="footer-disclaimer"> 
+   <div class="footer-disclaimer-parsys iparsys parsys">
+    <div class="section">
+     <div class="new"></div> 
+    </div>
+    <div class="iparys_inherited">
+     <div class="footer-disclaimer-parsys iparsys parsys">
+      <div class="rich-component section"> 
+       <div class="content content-component"> 
+        <div class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            "> 
+         <div class="text text-content"> 
+          <p>&nbsp;</p> 
+          <p>&nbsp;</p> 
+          <p><strong>您访问的是海外地区网站。差价合约为杠杆性金融产品，有可能招致超出您的存款的损失。您并非实际拥有或持有任何相关基础资产。请在交易前仔细阅读我们的<a href="/zh/customer-agreement">产品披露声明</a>。<br> 敬请在交易前完全了解所涉及的风险，并谨慎管理风险敞口。</strong></p> 
+          <p>注：股票交易目前仅在英文网站提供。<br> IG 不提供任何关于购买、持有或出售差价合约的建议、推荐或意见。 IG 并非财务顾问，提供的所有服务仅基于执行交易指令。<br> <br> 敬请注意中文语言服务并不保证在任何时候均能提供。英语是我们服务所使用的主要语言，亦是我们所有合同文件中具有法律效力的语言。<br> 您在必须对账户采取行动时有可能无法联络我们中文服务工作人员。<br> <br> IG Markets成立于英国，注册号 4008957，英国金融行为监管局颁发牌照号195355。依据澳大利亚公司法（2001年），IG在澳大利亚注册为外资企业，注册号 84 099 019 851。<br> <br> IG Markets Limited 拥有本网站的所有权及使用权。ABN 84 099 019 851，澳洲金融服务执照号：220440。新西兰金融衍生品发行商执照，金融服务商（FSP）号码18923。<br> <br> 本网站所包含之所有信息均不构成对IG Group或其附属公司的任何金融产品的直接投资邀请或建议。网站内容仅供参考。网站访问者不应依赖本网站信息并将其视为作为或不作为之依据。对于任何个人依据本网站或网站的信息采取的作为或不作为所导致的结果，我们将毋须承担任何责任。</p> 
+          <p><em>本网站信息不针对美国、比利时或澳大利亚及新西兰以外的任何国家的居民，不向身处与发布或使用该信息有违当地法律法规的国家或管辖地之人发送或供其使用。</em><br> &nbsp;</p> 
+         </div>
+         <div class="clearfix"></div> 
+        </div> 
+       </div>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="footer-colophon"> 
+   <div class="footer-year"> 
+    <div class="footer-year-parsys iparsys parsys">
+     <div class="section">
+      <div class="new"></div> 
+     </div>
+     <div class="iparys_inherited">
+      <div class="footer-year-parsys iparsys parsys">
+       <div class="rich-component section"> 
+        <div class="content content-component"> 
+         <div class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            "> 
+          <div class="text text-content"> 
+           <p>©2003-2018</p> 
+          </div>
+          <div class="clearfix"></div> 
+         </div> 
+        </div>
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+ <div class="newspar4 parsys"> 
+ </div> 
+</div>
+<amp-analytics>
+    <script type="application/json">
+        {
+            "requests": {
+                "pageView": "https://sig.ig.com/b/ss/adviggroupzhlive,adviggrouprollup/1/H.27/s78923052599766?AQB=1&ndh=1&t=27%2F12%2F2017%2000%3A28%3A36%203%20Z&ns=iggroup&cdp=2&pageName=ig%20financial%20markets%3Amarket%20news%20and%20analysis%3Atrading%20ideas%3A2017%3A12%3A27%3Arisk%20management%2041316&g=${ampdocUrl}&r=${documentReferrer}&cc=GBP&ch=ig%20financial%20markets%3Amarket%20news%20and%20analysis%3Atrading%20ideas%3A2017%3A12%3A27&server=${ampdocHost}&events=event1%2Cevent11%2Cevent77%2Cevent78%2Cevent79&products=%3B%3B%3B%3Bevent77%3D1532%7Cevent78%3D1526%7Cevent79%3D73&c1=sc%3A140314%7Cl%3A140306%7Ccta%3A140219&v1=D%3DpageName&c2=D%3Dc3&v2=D%3Dc3&v3=D%3Dc3&c3=igcom&c4=zh_CN&v4=D%3Dc4&c5=${ampdocUrl}&c6=D%3Dv6&v6=Friday%209%3A52AM&c7=%E6%9C%89%E6%95%88%E7%AE%A1%E7%90%86%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93%E9%A3%8E%E9%99%A9&c9=D%3DpageName&c13=D%3Dv31&c18=OTHREF&c20=ig_prospect&v20=prospect&c22=D%3Dv22&v22=adviggroupzhlive&c25=D%3Ds_vi&v25=D%3Ds_vi&c30=D%3DpageName&c34=ig%20financial%20markets%3Amarket%20news%20and%20analysis%3Atrading%20ideas%3A2017%3A12%3A27%3Arisk%20management%2041316&v34=D%3Dc34&v41=${contentLoadTime}&v42=${domInteractiveTime}&v43=${pageLoadTime}&v47=${firstSeenTime}&c47=${userAgent}&v49=&c75=&h1=D%3DpageName&s=${screenWidth}x${screenHeight}&c=${screenColorDepth}&bw=${availableScreenWidth}&bh=${availableScreenHeight}&v=Y&k=Y&AQE=1",
+                "pageClick": "https://sig.ig.com/b/ss/adviggroupzhlive,adviggrouprollup/1/H.27/s78923052599766?AQB=1&ndh=1&t=27%2F12%2F2017%2000%3A28%3A36%203%20Z&ns=iggroup&cdp=2&pageName=ig%20financial%20markets%3Amarket%20news%20and%20analysis%3Atrading%20ideas%3A2017%3A12%3A27%3Arisk%20management%2041316&g=${ampdocUrl}&r=${documentReferrer}&cc=GBP&c1=sc%3A140314%7Cl%3A140306%7Ccta%3A140219&c9=D%3DpageName&c33=D%3Dv33&v33=button%3A立即下载&pe=lnk_o&pev2=CTA%3Abutton%3A立即下载&s=${screenWidth}x${screenHeight}&c=${screenColorDepth}&bw=${availableScreenWidth}&bh=${availableScreenHeight}&v=Y&k=Y&AQE=1"
+            },
+            "triggers": {
+                "pageLoad": {
+                    "on": "visible",
+                    "request": "pageView"
+                },
+                "trackAnchorClicks": {
+                    "on": "click",
+                    "selector": ".downloadApp a",
+                    "request": "pageClick"
+                }
+            }
+        }
+    </script>
+</amp-analytics>
+</body>
+</html>

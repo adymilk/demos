@@ -1,0 +1,186 @@
+﻿$(document).ready(function () {
+    Special.loadContent();
+})
+
+var Special = {
+    loadContent: function () {
+        if (navId == 1) {
+            ///火线速递
+            this.GetFinanceCourier();
+            setInterval(this.GetFinanceCourier, 60000);
+        }
+    },
+    GetFinanceCourier: function () {
+        $.ajax({
+            url: "/FinanceCourier/Get",
+            dataType: "json",
+            method: "post",
+            data: { PageIndex: 1, PageSize: 10 },
+            success: function (data) {
+                if (data.IsSuccess) {
+                    var HtmlStr = "";
+
+                    $.each(data.Rows, function (i, item) {
+                        var Time = Utils.utcDateParse(item.FirstPublishTime);
+                        var Title = item.Title.replace(new RegExp("<div>", "gm"), '').replace(new RegExp("</div>", "gm"), '')
+
+                        if (i < 10) {      //展示10条数据
+                            HtmlStr += "<li class='fire_list_warrp'><p class='jo_date'><span class='jo_hour'>" + Time.getHours() + "</span>：<span class='jo_minute'>" + Time.getMinutes() + "</span></p>";
+                            HtmlStr += "<div class='fire_list_con'><p class='fire_txt'>" + Title + "</p></div></li>";
+                        }
+                    })
+                    $(".list-fire").html(HtmlStr)
+                }
+            }
+        });
+    },
+
+    //日期格式
+    generateDate: function generateDate(date) {
+        var month = date.getMonth() + 1 < 10 ? "0" + (date.getMonth() + 1) : date.getMonth() + 1;
+        var day = date.getDate() < 10 ? "0" + (date.getDate()) : date.getDate();
+        return date.getFullYear() + "-" + month + "-" + day;
+
+    },
+    loadDay: function (day) {
+        var firstDayHtml = $(".weekListv").find('li').first();
+        var lastDayHtml = $(".weekListv").find('li').last();
+        var strFirstDay = firstDayHtml.text().split(' ')[0];
+        var strlastDay = lastDayHtml.text().split(' ')[0];
+        if (strlastDay) {
+            var currentDate;
+            if (day == 0) {
+                currentDate = new Date(strlastDay);
+            } else {
+                currentDate = new Date(strFirstDay);
+            }
+
+            var strHtml = '';
+            for (var i = 1 - day; i <= 7 - day; i++) {
+                var date = Special.getDate(currentDate, i)
+                strHtml += "<li name='" + Special.generateDate(date) + "' ><a href='javascript:;' class='screenList'><span class='dateSpan'>" + Special.generateDate(date) + "</span> " + Special.generateWeekDay(date) + "</a></li>";
+            }
+
+            $(".weekListv").hide().empty();
+            if (day == 0) {
+                $(".weekListv").append(strHtml).show();
+
+            } else {
+                $(".weekListv").append(strHtml).show();
+            }
+            $("#weekListUl > li").each(function (Index, Item) {
+                $(this).bind("click", function () {
+                    Special.fnChangeTime($(this).attr("name"));
+                });
+            })
+            /*$(".weekListv li").eq(0).addClass("active");*/
+        }
+    },
+    //日期增减计算
+    getDate: function (date, dayNum) {
+        var d = new Date(date);
+        d.setDate(d.getDate() + dayNum)
+        return d;
+    },
+    //根据日期生成礼拜几
+    generateWeekDay: function (date) {
+        var day = date.getDay();
+        switch (day) {
+            case 0:
+                return "周日";
+            case 1:
+                return "周一";
+            case 2:
+                return "周二";
+            case 3:
+                return "周三";
+            case 4:
+                return "周四";
+            case 5:
+                return "周五";
+            case 6:
+                return "周六";
+
+        }
+    },
+    dateShow: function () {
+        var day = 0;
+        var currentDate;
+        currentDate = new Date();
+        var day = currentDate.getDay();//0;
+        var strHtml = '';
+        for (var i = 0 - day; i < 7 - day; i++) {
+            var date = this.getDate(currentDate, i)
+            if (i == 0)
+                strHtml += "<li  class=\"active\" name='" + this.generateDate(date) + "'><a href='javascript:;' class='screenList'><span class='dateSpan'>" + this.generateDate(date) + "</span> " + this.generateWeekDay(date) + "</a></li>";
+            else
+                strHtml += "<li  name='" + this.generateDate(date) + "'><a href='javascript:;' class='screenList'><span class='dateSpan'>" + this.generateDate(date) + "</span> " + this.generateWeekDay(date) + "</a></li>";
+        }
+        $(".weekListv").html(strHtml);
+        $(".calendarInput").val(this.generateDate(currentDate));
+
+        $("#weekListUl > li").each(function (Index, Item) {
+            $(this).bind("click", function () {
+                Special.fnChangeTime($(this).attr("name"));
+            });
+        })
+    },
+
+    fnCountryCode: function (code) {
+        this.Date.countryCode = code;
+        this.GetFinanceCalendar();
+    },
+    fnChangeTime: function (obj) {
+        if (obj != this.Date.beginDate) {
+            this.Date.categories = "";
+            this.Date.countries = "";
+            this.Date.countryCode = "";
+            this.Date.importances = "";
+            this.Date.keyWord = "";
+        }
+        this.Date.beginDate = obj;
+        this.GetFinanceCalendar();
+    },
+
+    fnSearch: function () {
+        this.Date.keyWord = $("#keyWord").val();
+        var StrArr = [];
+        $("#countries > li").each(function (index, item) {
+
+            if ($(this).attr("class") == "active") {
+                StrArr.push($(this).find("a").html());
+            }
+        })
+        this.Date.countries = StrArr.toString();
+
+        //var StrCategories = [];
+        //$("#Categories > li").each(function (index, item) {
+
+
+        //    if ($(this).attr("class") == "active"&&index!=0) {
+        //        StrCategories.push($(this).find("a").html());
+        //    }
+        //})
+        //this.Date.categories = StrCategories.toString();
+
+        var StrImportances = [];
+        $("#Importances > li").each(function (index, item) {
+
+            if ($(this).attr("class") == "active") {
+                StrImportances.push($(this).attr("name"));
+            }
+        })
+        this.Date.importances = StrImportances.toString();
+        this.GetFinanceCalendar();
+    },
+    ///汉字转拼音
+    NationToPY: function (nation) {
+        var nationArray = { '美国': 'meiguo', '意大利': 'yidali', '法国': 'faguo', '德国': 'deguo', '英国': 'yingguo', '欧元区': 'ouzhou', '加拿大': 'jianada', '澳大利亚': 'aodaliya', '中国': 'zhongguo', '新西兰': 'xinxilan', '新加坡': 'xinjiapo', '香港': 'xianggang', '瑞士': 'ruishi', '日本': 'riben', '韩国': 'hanguo', '台湾': 'taiwan' };
+        if (nation == null | nation == undefined | nation == '') {
+            return "";
+        } else {
+            var nationPY = nationArray[nation];
+            return nationPY == undefined ? "" : nationPY;
+        }
+    }
+}

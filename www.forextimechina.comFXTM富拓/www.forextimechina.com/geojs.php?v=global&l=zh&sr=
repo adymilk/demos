@@ -1,0 +1,2 @@
+var GEOIP = {"country":"CN","isEu":false,"isUk":false,"showSpecialRegion":false};
+var REFERER = false;

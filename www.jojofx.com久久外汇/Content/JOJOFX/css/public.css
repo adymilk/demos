@@ -1,0 +1,50 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+*       { margin: 0; padding: 0; }
+body    { color: #666; font-family:"Microsoft YaHei", Arial, Helvetica, sans-serif; background-color: #fff; position:relative; min-width:1200px;}
+a       { color: #666; text-decoration: none; outline: none; }
+a:hover { color: #46bed1; text-decoration: none; }
+img     { border: none; vertical-align: middle; max-height:100%; }
+li      { list-style: none; }
+table   { width: 100%; border-collapse: collapse; }
+table th{ background-color: #464345; }
+table th, table td  { padding: 0 10px; border: 1px solid #dcdcdc; text-align: center; vertical-align: middle; }
+input   { vertical-align: middle; font-family:"Microsoft YaHei", Arial, Helvetica, sans-serif;}
+::-webkit-input-placeholder{ color: rgba(0,0,0,0.2); }
+em{ font-style:normal;}
+
+/* 浮动清除 */
+.fix:after { content:"."; height:0; line-height:0; font-size:0; display:block; clear:both; visibility:hidden; }
+.fix { display:inline-block; }
+/* \*/
+* html .fix { height:1%; }
+.fix { display:block; }
+/* 单行文字溢出虚点显 示*/
+.ell{ text-overflow: ellipsis; white-space: nowrap; overflow: hidden; }
+
+.w600 	{ width: 600px; }
+.w1200  {width: 1200px; margin-left:auto; margin-right:auto; }
+.l{ float: left; }
+.r{ float: right; }
+.dn{ display: none; }.ovh{ overflow:hidden;}
+.rel{ position:relative;}.abs{ position:absolute;}b{ font-weight:bold;}
+.mt10{ margin-top:10px;}.mt20{ margin-top:20px;}.mt30{ margin-top:30px;}.mt35{ margin-top:35px;}.ml8{ margin-left:8px;}.mr8{ margin-right:8px;}.ml10{ margin-left:10px;}.mr10{ margin-right:10px;}.mt50{ margin-top:50px;}.pl10{ padding-left:10px;}
+.wh{ color:#fff;}.g0{ color:#000;}.g3{ color:#333;}.g6{ color:#666;}.g9{ color:#999;}.c4dbed1{ color:#4dbed1;}.g8{ color:#888;margin-top:18px;}
+.bg761623{ background:#761623}.bgwh{ background:#fff;}
+.tj{ text-align:justify;}.tc{ text-align:center;}
+
+
+
+/* HQ老代码 */
+/* 浮动清除 */
+.clearfix:after { content:"."; height:0; line-height:0; font-size:0; display:block; clear:both; visibility:hidden; }
+.clearfix { display:inline-block; }
+/* \*/
+* html .clearfix { height:1%; }
+.clearfix { display:block; }
+
+.w1100  { margin: 0 auto; width: 1100px; }
+.float_L{ float: left; }
+.float_R{ float: right; }
+.boxhide{ display: none; }

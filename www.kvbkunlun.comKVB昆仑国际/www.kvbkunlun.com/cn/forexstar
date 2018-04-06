@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="cn" class="no-js lang-cn">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<title>MT4下载_外汇软件_外汇之星ForexStar | KVB昆仑国际</title>
+<link rel="stylesheet" type="text/css" href="/build/css/app-f962e3dba8.css">
+<script type="text/javascript">document.documentElement.className=document.documentElement.className.replace('no-js', 'js'); </script>
+</head>
+<body>
+<div class="carousel ">
+<nav class="primary-nav carousel ">
+<div class="container">
+<a href="/cn" data-mce-href="../../cn"> <img src="/img/home/kvb_log_white@2x.png" alt="KVB Kunkun" class="primary-nav__brand" data-mce-src="../../img/home/kvb_log_white@2x.png"> </a>
+<div class="primary-nav__toggle">&nbsp;
+<br>
+</div>
+<div class="primary-nav__lang primary-nav__item" data-mce-tabindex="5">
+<div>
+<picture class="lazyload">
+<source srcset=" /img/icons/btn_language@2x.png 2x, /img/icons/btn_language.png 1x"> <img class="primary-nav__dropicon" src="blob:http://admin.kvbkunlun.com/234431a5-5a77-4ef8-af49-d02dd1b0b826" data-src="/img/icons/btn_language.png" width="42" height="24"> </picture>
+<noscript>
+&amp;amp;lt;img class="primary-nav__dropicon" src=/img/icons/btn_language.png/&amp;amp;gt;
+</noscript>
+</div>
+<ul class="primary-nav__childlist">
+<li class="tungsten-book"><a href="/cn/forexstar/" data-mce-href="../../cn/forexstar/">简体中文</a></li>
+<li class="robotoc"><a href="/en/forexstar/" data-mce-href="../../en/forexstar/">English</a></li>
+<li class="tungsten-book"><a href="/jp/forexstar/" data-mce-href="../../jp/forexstar/">日本語</a></li>
+</ul>
+</div>
+<div class="primary-nav__lang primary-nav__item wechat" data-mce-tabindex="5">
+<div>
+<picture class="lazyload">
+<source srcset=" /img/icons/btn_wechat@2x.png 2x, /img/icons/btn_wechat.png 1x"> <img class="primary-nav__dropicon" src="blob:http://admin.kvbkunlun.com/234431a5-5a77-4ef8-af49-d02dd1b0b826" data-src="/img/icons/btn_wechat.png" width="28" height="24"> </picture>
+<noscript>
+&amp;amp;lt;img class="primary-nav__dropicon" src=/img/icons/btn_wechat.png/&amp;amp;gt;
+</noscript>
+</div>
+<ul class="primary-nav__childlist">
+<li class="notosc chi"><img src="/img/icons/qr-wechat.png" alt="Wechat" data-mce-src="../../img/icons/qr-wechat.png"></li>
+</ul>
+</div>
+<div class="primary-nav__collapse">
+<div class="primary-nav__overlay">
+<div class="notosc chi nav-section-title get-start">Get Started</div>
+<div class="action-btn-nav container" style="display: home.jp-section-display-css;" data-mce-style="display: home.jp-section-display-css;">
+<ul class="primary-action-list">
+<li class="action-btn-nav__item">
+<div class="item-title notosc-light chi">免费模拟帐户</div>
+<div class="item-description notosc chi">外汇交易模拟帐户</div>
+</li>
+<li class="action-btn-nav__item">
+<div class="item-title notosc-light chi">外汇交易</div>
+<div class="item-description notosc chi">开立帐户</div>
+</li>
+<li class="action-btn-nav__item">
+<div class="item-title notosc-light chi">国际结算与支付</div>
+<div class="item-description notosc chi">开立帐户</div>
+</li>
+<li class="action-btn-nav__item action-btn-nav__desktop-item" style="display: header.kvbpay-display-css;" data-mce-style="display: header.kvbpay-display-css;">
+<div class="item-title notosc-light chi">KVBGC网站</div>
+<div class="item-description notosc chi">企业外汇管理</div>
+</li>
+</ul>
+</div>
+<div class="primary-nav__group">
+<div class="primary-nav__item notosc chi" style="font-size: header.jp-primary-nav-item-font-size;" data-mce-style="font-size: header.jp-primary-nav-item-font-size;" data-mce-tabindex="1">
+<div class="notosc chi nav-section-title primary-nav__header">关于我们
+<picture class="lazyload">
+<source srcset=" /img/icons/btn_dropdown_arrow@2x.png 2x, /img/icons/btn_dropdown_arrow.png 1x"> <img class="primary-nav__dropicon" src="blob:http://admin.kvbkunlun.com/234431a5-5a77-4ef8-af49-d02dd1b0b826" data-src="/img/icons/btn_dropdown_arrow.png" width="12" height="20"> </picture>
+<noscript>
+&amp;amp;lt;img class="primary-nav__dropicon" src=/img/icons/btn_dropdown_arrow.png/&amp;amp;gt;
+</noscript>
+</div>
+<ul class="primary-nav__childlist">
+<li class="notosc chi"><a href="/cn/aboutkvb" data-mce-href="../../cn/aboutkvb"> KVB昆仑国际 </a></li>
+<li class="notosc chi"><a href="/cn/aboutkvb#accreditation" data-mce-href="../../cn/aboutkvb#accreditation"> 监管资质 </a></li>
+<li class="notosc chi"><a href="/cn/news" data-mce-href="../../cn/news"> 集团新闻 </a></li>
+<li class="notosc chi"><a href="/cn/activity" data-mce-href="../../cn/activity"> 活动推广 </a></li>
+<li class="notosc chi"><a href="/cn/coverage" data-mce-href="../../cn/coverage"> 媒体聚焦 </a></li>
+<li class="notosc chi"><a href="/cn/investor-relationship" data-mce-href="../../cn/investor-relationship"> 投资者关系 </a></li>
+<li class="notosc chi"><a href="/cn/aboutkvb#partners" data-mce-href="../../cn/aboutkvb#partners"> 合作伙伴 </a></li>
+<li class="notosc chi"><a href="/cn/joinkvb" data-mce-href="../../cn/joinkvb"> 加入我们 </a></li>
+</ul>
+</div>
+<div class="primary-nav__item notosc chi" style="font-size: header.jp-primary-nav-item-font-size;" data-mce-style="font-size: header.jp-primary-nav-item-font-size;" data-mce-tabindex="2">
+<div class="notosc chi nav-section-title primary-nav__header">产品与服务
+<picture class="lazyload">
+<source srcset=" /img/icons/btn_dropdown_arrow@2x.png 2x, /img/icons/btn_dropdown_arrow.png 1x"> <img class="primary-nav__dropicon" src="blob:http://admin.kvbkunlun.com/234431a5-5a77-4ef8-af49-d02dd1b0b826" data-src="/img/icons/btn_dropdown_arrow.png" width="12" height="20"> </picture>
+<noscript>
+&amp;amp;lt;img class="primary-nav__dropicon" src=/img/icons/btn_dropdown_arrow.png/&amp;amp;gt;
+</noscript>
+</div>
+<ul class="primary-nav__childlist">
+<li class="notosc chi"><a href="/cn/forex-trading" data-mce-href="../../cn/forex-trading"> 外汇交易 </a></li>
+<li class="notosc chi"><a href="/cn/liquidity-solutions" data-mce-href="../../cn/liquidity-solutions"> 流动性解决方案 </a></li>
+<li class="notosc chi"><a href="/cn/corporate-fx" data-mce-href="../../cn/corporate-fx"> 国际结算与企业外汇管理 </a></li>
+<li class="notosc chi"><a href="/cn/securities" data-mce-href="../../cn/securities"> 证券交易 </a></li>
+<li class="notosc chi"><a href="/cn/fintech" data-mce-href="../../cn/fintech"> 金融科技 </a></li>
+<li class="notosc chi"><a href="/cn/wealth-management" data-mce-href="../../cn/wealth-management"> 财富管理 </a></li>
+</ul>
+</div>
+<div class="primary-nav__item notosc chi" style="font-size: header.jp-primary-nav-item-font-size;" data-mce-style="font-size: header.jp-primary-nav-item-font-size;" data-mce-tabindex="3">
+<div class="notosc chi nav-section-title primary-nav__header">交易平台
+<picture class="lazyload">
+<source srcset=" /img/icons/btn_dropdown_arrow@2x.png 2x, /img/icons/btn_dropdown_arrow.png 1x"> <img class="primary-nav__dropicon" src="blob:http://admin.kvbkunlun.com/234431a5-5a77-4ef8-af49-d02dd1b0b826" data-src="/img/icons/btn_dropdown_arrow.png" width="12" height="20"> </picture>
+<noscript>
+&amp;amp;lt;img class="primary-nav__dropicon" src=/img/icons/btn_dropdown_arrow.png/&amp;amp;gt;
+</noscript>
+</div>
+<ul class="primary-nav__childlist">
+<li class="notosc chi"><a href="/cn/forexstar" data-mce-href="../../cn/forexstar"> 外汇之星交易平台 </a></li>
+<li class="notosc chi"><a href="//efxgc.kvbgc.com/en_US/login.html" target="_blank" data-mce-href="//efxgc.kvbgc.com/en_US/login.html"> eFX结算支付平台 </a></li>
+<li class="notosc chi"><a href="https://etrade.kvbsecurities.com.hk/InternetTrading/tc/custom_login.html" target="_blank" data-mce-href="https://etrade.kvbsecurities.com.hk/InternetTrading/tc/custom_login.html"> 香港证券交易平台 </a></li>
+</ul>
+</div>
+<div class="primary-nav__item notosc chi" style="font-size: header.jp-primary-nav-item-font-size;" data-mce-style="font-size: header.jp-primary-nav-item-font-size;" data-mce-tabindex="4">
+<div class="notosc chi nav-section-title primary-nav__header">分析与教育
+<picture class="lazyload">
+<source srcset=" /img/icons/btn_dropdown_arrow@2x.png 2x, /img/icons/btn_dropdown_arrow.png 1x"> <img class="primary-nav__dropicon" src="blob:http://admin.kvbkunlun.com/234431a5-5a77-4ef8-af49-d02dd1b0b826" data-src="/img/icons/btn_dropdown_arrow.png" width="12" height="20"> </picture>
+<noscript>
+&amp;amp;lt;img class="primary-nav__dropicon" src=/img/icons/btn_dropdown_arrow.png/&amp;amp;gt;
+</noscript>
+</div>
+<ul class="primary-nav__childlist">
+<li class="notosc chi"><a href="http://www.kvbfinance.com/" target="_blank" data-mce-href="http://www.kvbfinance.com/"> 昆仑财经 KVBFinance&nbsp;</a></li>
+<li class="notosc chi"><a href="/cn/market-insight" data-mce-href="../../cn/market-insight">专家专栏</a></li>
+<li class="notosc chi"><a href="http://www.kvbfinance.com/info/infoList.aspx?ID=7_3" target="_blank" data-mce-href="http://www.kvbfinance.com/info/infoList.aspx?ID=7_3"> 外汇纵横 </a></li>
+</ul>
+</div>
+<div class="primary-nav__item notosc chi" style="font-size: header.jp-primary-nav-item-font-size;" data-mce-style="font-size: header.jp-primary-nav-item-font-size;" data-mce-tabindex="5">
+<div class="notosc chi nav-section-title primary-nav__header">客户支援
+<picture class="lazyload">
+<source srcset=" /img/icons/btn_dropdown_arrow@2x.png 2x, /img/icons/btn_dropdown_arrow.png 1x"> <img class="primary-nav__dropicon" src="blob:http://admin.kvbkunlun.com/234431a5-5a77-4ef8-af49-d02dd1b0b826" data-src="/img/icons/btn_dropdown_arrow.png" width="12" height="20"> </picture>
+<noscript>
+&amp;amp;lt;img class="primary-nav__dropicon" src=/img/icons/btn_dropdown_arrow.png/&amp;amp;gt;
+</noscript>
+</div>
+<ul class="primary-nav__childlist">
+<li class="notosc chi"><a href="/cn/account-opening" data-mce-href="../../cn/account-opening"> 开立帐户 </a></li>
+<li class="notosc chi"><a href="/cn/legal-documents" data-mce-href="../../cn/legal-documents"> 一般法律文件 </a></li>
+<li class="notosc chi"><a href="/cn/contactus" data-mce-href="../../cn/contactus"> 联络方式 </a></li>
+<li class="notosc chi"><a href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800077725&amp;aty=0&amp;a=0&amp;curl=&amp;ty=1" target="_blank" data-mce-href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800077725&amp;aty=0&amp;a=0&amp;curl=&amp;ty=1"> QQ 在线客服 </a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<ul class="carousel__list">
+<li class="carousel__item  active ">
+<div class="hero index-carousel" style="background-image: url(/img/home/img-bg-forexstar-en.png)">
+<div class="overlay index-carousel" style="background-image: url();">
+<div class="outter">
+<div class="middle">
+<div class="header-info">
+<nav class="info-name notosc-light chi"></nav>
+<h1 class="header-title notosc chi"></h1>
+<a href="" class="action-btn notosc" style="display:none;">none</a> </div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="forexstar clearfix">
+<div class="container">
+<div class="two-side-block__left">
+<div class="two-side-block__left__box">
+<h1 class="section-info-title notosc-bold">高端领先的外汇交易平台</h1>
+<div class="section-info-content notosc-light chi">透过外汇之星ForexStar交易平台,投资者全天候在世界任何地方，不仅能随时随地落单交易，且能查询即时价格、走势图表、专家评论等，让投资者时刻紧贴全球金融市场，在快速变化的市场竞逐中永远领先一步。</div>
+<a href="#download" class="action-link">外汇之星ForexStar交易平台下载 →</a> </div>
+</div>
+<div class="two-side-block__right">
+<div class="two-side-block__item">
+<h2 class="section-info-subtitle notosc-bold">多种专业技术分析指标</h2>
+<ul class="section-info-content notosc-light chi">
+<li>即时技术分析和图表</li>
+<li>即时双向报价</li>
+<li>即时行情资讯</li>
+</ul>
+</div>
+<div class="two-side-block__item">
+<h2 class="section-info-subtitle notosc-bold">便捷的交易执行</h2>
+<ul class="section-info-content notosc-light chi">
+<li>快速下单，即时确认</li>
+<li>24小时全天候无间断交易</li>
+<li>提供适用于各种设备的应用平台</li>
+</ul>
+</div>
+<div class="two-side-block__item">
+<h2 class="section-info-subtitle notosc-bold">简单易操作</h2>
+<ul class="section-info-content notosc-light chi">
+<li>易于使用的终端视窗</li>
+<li>多种语言系统（繁、简中文/英语）</li>
+</ul>
+</div>
+<div class="two-side-block__item">
+<h2 class="section-info-subtitle notosc-bold">强大风险管理功能</h2>
+<ul class="section-info-content notosc-light chi">
+<li>实时帐户，交易、后台每日及每月之帐户记录</li>
+<li>设定价格提示，時刻掌握市场行情</li>
+<li>获利与止损挂单，提高风险管理</li>
+</ul>
+</div>
+<div class="two-side-block__item">
+<h2 class="section-info-subtitle notosc-bold">使用ForexStar交易平台将获得以下优势：</h2>
+<ul class="section-info-content notosc-light chi">
+<li>真正撮合式交易、提供国际银行报价</li>
+<li>支持高频、对冲交易，自由买卖无限制</li>
+<li>浮动点差模式<span style="display:none;">，黄金/美元电池低至0.42</span></li>
+<li>5位数精准报价，获取最精准的价格波动</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="img-section"></div>
+<a name="download"></a>
+<div class="container clearfix">
+<div class="c-9">
+<h2>交易橫跨各款装置，使用轻松快捷</h3>
+<p>外汇之星ForexStar可以在各款装置安装使用，让您紧贴持仓变化和动向，开拓更多机遇。</p>
+<div class="product-item-list forexstar">
+<ul>
+<li>
+<h3>桌面PC版</h3>
+<p>操作系统：Windows XP/ Vista/ Win7; </br>处理器：1.5G Hz CPU; </br>内存：1GB RAM; </br>屏幕分辨率：1024x768; </br>宽带互联网连接</p>
+<a href="//www.kvbkunlun.com/download/software/fs4setup.exe" class="action-btn">下载平台1</a>
+<div class="div-table-tr">
+<div class="div-table-td">
+<a href="/download/software/kvbkunlunnz4setup.zip" class="action-btn" style="
+    width: 118px;">下载平台2</a>
+</div>
+<span class="div-table-td">*仅适用于即将使用“第三服务器”的客户。</span>
+</div>
+</li>
+<li>
+<h3>iPhone / iPad版</h3>
+<p></p> <a href="https://itunes.apple.com/cn/app/metatrader-4/id496212596?mt=8" class="action-btn">下载平台</a> </li>
+<li>
+<h3>安卓版</h3>
+<p></p> <a href="http://play.google.com/store/apps/details?id=net.metaquotes.metatrader4" class="action-btn">下载平台</a> </li>
+<li>
+<h3>安卓APK版</h3>
+<p></p> <a href="http://files.metaquotes.net/metaquotes.software.corp/mt4/metatrader4.apk" class="action-btn">下载平台</a> </li>
+</ul>
+</div>
+</div>
+<div class="c-3">
+<div class="forex-introduce" style="display:forexstar.forex-introduce-display-css;">
+<h3>动画演示</h3>
+<h4></h4>
+<div class="divider"></div>
+<p>为了让您全面地了解外汇之星升级版4.00的操作方法,我们制作了在线 Flash 动画演示,让您轻松体验外汇之星升级版4.00强大的系统功能和方便快捷的操作方式。</p>
+<h6>在观看 Flash 动画演示前，请检查您的系统是否安装有 Flash Player，如果您无法正常播放动画，请下载最新版本的 Flash Player。</h6>
+<ul>
+<li><a href="//www.kvbkunlun.com/download/KVB_platform/ForexStar4.00Manual.pdf" target="_blank">安装指南→</a></li>
+<li><a href="//www.kvbkunlun.com/cn/images/swf/fxOverview.swf" class="js-embed-swf">系统功能一览→</a></li>
+<li><a href="//www.kvbkunlun.com/cn/images/swf/fxRegister.swf" class="js-embed-swf">模拟账号注册过程→</a></li>
+<li><a href="//www.kvbkunlun.com/cn/images/swf/fxLanguage.swf" class="js-embed-swf">语言切换→</a></li>
+<li><a href="//www.kvbkunlun.com/cn/images/swf/fxLimit.swf" class="js-embed-swf">获利点及止损点设置→</a></li>
+<li><a href="//www.kvbkunlun.com/cn/images/swf/FxCharts.swf" class="js-embed-swf">图表分析→</a></li>
+<li><a href="//www.kvbkunlun.com/cn/images/swf/fxOrder.swf" class="js-embed-swf">下单操作→</a></li>
+</ul>
+</div>
+</div>
+</div>
+<a name="contact"></a>
+<div class="contact clearfix">
+<div class="container">
+<div class="c-5">
+<h1 class="section-info-title notosc-bold"> 我们竭诚为您服务！若有疑问请留言，我们将会尽快与您联络。 </h1>
+<p class="notosc-bold"> </p>
+</div>
+<div class="c-7">
+<form class="contact-form" action="https://media.kvbkunlun.com/api/ContactUS/SendMessage">
+<div class="form-group">
+<label for="first-name">名称</label>
+<input type="text" class="form-control" id="first-name" name="FirstName" placeholder="名称">
+</div>
+<div class="form-group">
+<label for="last-name">姓</label>
+<input type="text" class="form-control" id="last-name" name="LastName" placeholder="姓">
+</div>
+<div class="form-group">
+<label for="email">电邮地址</label>
+<input type="text" class="form-control" id="email" name="email" placeholder="电邮地址">
+</div>
+<div class="form-group">
+<label for="phone">电话号码</label>
+<input type="text" class="form-control" id="phone" name="phone" placeholder="(xxx) xxx-xxxx">
+</div>
+<div class="form-group">
+<label for="product">产品与服务</label>
+<select type="text" class="form-control" id="product" name="product">
+<option value="Forex-trading">外汇交易</option>
+<option value="Liquidity-Solutions">流动性解决方案</option>
+<option value="International-Settlement-and-Enterprise Foreign-Exchange-Management">国际结算与企业外汇管理</option>
+<option value="Securities-Trading">证券交易</option>
+<option value="Financial-Technology">金融科技</option>
+<option value="Wealth-Management ">财富管理</option>
+</select>
+</div>
+<div class="form-group">
+<label for="office">联系办公室</label>
+<select type="text" class="form-control" id="office" name="office">
+<option value="Auckland-Office">奥克兰办公室</option>
+<option value="Sydney-Office">悉尼办公室</option>
+<option value="Toronto-Office">多伦多办公室</option>
+<option value="Melbourne-Office">墨尔本办公室</option>
+<option value="Hong-Kong-Office">香港办公室</option>
+<option value="Beijing-Office">北京办公室</option>
+</select>
+</div>
+<div class="form-group textarea">
+<label for="message">讯息</label>
+<textarea class="form-control" rows="3" name="message"></textarea>
+</div>
+<div class="form-group right">
+<input type="submit" class="btn btn-default robotoc-bold" value="发送讯息">
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="disclaimer">
+<h6 class="notosc chi">免责声明：</h6>
+<h6 class="notosc chi">外汇保证金交易、差价合约交易以及其他衍生工具交易涉及高风险，亏损风险可以相当巨大。投资者应谨慎考虑，并根据自身的财务状况和投资目标来评估是否合适订立任何交易。在作出该评估时，投资者也应考虑向专业顾问寻求意见。投资者在进行任何投资决定前，应仔细阅读KVB最新版本的<a href="//www.kvbkunlun.com/download/KVB_margin/creat/KVB_Kunlun_PDS.pdf" target="_blank">产品信息披露声明</a> 。 <a href="//www.kvbkunlun.com/download/KVB_margin/creat/KVB_Kunlun_PDS.pdf">产品信息披露声明</a> 及 <a href="/cn/legal-documents" target="_blank">投资顾问披露声明</a> 可向KVB昆仑国际免费索取。此产品披露声明亦备案于 <a href="//www.companiesoffice.govt.nz/disclose" target="_blank"> 新西兰商务部官方网站 www.companiesoffice.govt.nz/disclose </a></h6>
+<h6 class="notosc chi">本网页内容提供之市场信息仅供参考，并不构成投资建议。所有数据、价格及意见均随时变更而不作另行通知。文中某些投资产品，信息和推广计划并不适于KVB昆仑国际所有公司，请与所在国家或地区的KVB昆仑国际代表作出查询。在澳大利亚，KVB Kunlun Pty Ltd (AFSL 226602)所提供的产品与服务仅适用于澳大利亚居民。</h6> </div>
+</div>
+<div class="container">
+<div class="footer">
+<div class="footer__group">
+<div class="footer__item">
+<div class="footer__header">关于我们</div>
+<ul class="footer__childlist">
+<li><a href="/cn/aboutkvb" data-mce-href="../../cn/aboutkvb"> KVB昆仑国际 </a></li>
+<li><a href="/cn/aboutkvb#accreditation" data-mce-href="../../cn/aboutkvb#accreditation"> 监管资质 </a></li>
+<li><a href="/cn/news" data-mce-href="../../cn/news"> 集团新闻 </a></li>
+<li><a href="/cn/activity" data-mce-href="../../cn/activity"> 活动推广 </a></li>
+<li><a href="/cn/coverage" data-mce-href="../../cn/coverage"> 媒体聚焦 </a></li>
+<li><a href="/cn/investor-relationship" data-mce-href="../../cn/investor-relationship"> 投资者关系 </a></li>
+<li><a href="/cn/aboutkvb#partners" data-mce-href="../../cn/aboutkvb#partners"> 合作伙伴 </a></li>
+<li><a href="/cn/joinkvb" data-mce-href="../../cn/joinkvb"> 加入我们 </a></li>
+</ul>
+</div>
+<div class="footer__item">
+<div class="footer__header">产品与服务</div>
+<ul class="footer__childlist">
+<li><a href="/cn/forex-trading" data-mce-href="../../cn/forex-trading"> 外汇交易 </a></li>
+<li><a href="/cn/liquidity-solutions" data-mce-href="../../cn/liquidity-solutions"> 流动性解决方案 </a></li>
+<li><a href="/cn/corporate-fx" data-mce-href="../../cn/corporate-fx"> 国际结算与企业外汇管理 </a></li>
+<li><a href="/cn/securities" data-mce-href="../../cn/securities"> 证券交易 </a></li>
+<li><a href="/cn/fintech" data-mce-href="../../cn/fintech"> 金融科技 </a></li>
+<li><a href="/cn/wealth-management" data-mce-href="../../cn/wealth-management"> 财富管理 </a></li>
+</ul>
+</div>
+<div class="footer__item">
+<div class="footer__header">交易平台</div>
+<ul class="footer__childlist">
+<li><a href="/cn/forexstar" data-mce-href="../../cn/forexstar"> 外汇之星交易平台 </a></li>
+<li><a href="//efxgc.kvbgc.com/en_US/login.html" target="_blank" data-mce-href="//efxgc.kvbgc.com/en_US/login.html"> eFX结算支付平台 </a></li>
+<li><a href="https://etrade.kvbsecurities.com.hk/InternetTrading/tc/custom_login.html" target="_blank" data-mce-href="https://etrade.kvbsecurities.com.hk/InternetTrading/tc/custom_login.html"> 香港证券交易平台 </a></li>
+</ul>
+</div>
+<div class="footer__item">
+<div class="footer__header">分析与教育</div>
+<ul class="footer__childlist">
+<li><a href="http://www.kvbfinance.com/" target="_blank" data-mce-href="http://www.kvbfinance.com/"> 昆仑财经 KVBFinance </a>
+<br>
+</li>
+<li><a href="/cn/market-insight" data-mce-href="../../cn/market-insight"> 专家专栏 </a></li>
+<li><a href="http://www.kvbfinance.com/info/infoList.aspx?ID=7_3" target="_blank" data-mce-href="http://www.kvbfinance.com/info/infoList.aspx?ID=7_3"> 外汇纵横 </a></li>
+</ul>
+</div>
+<div class="footer__item">
+<div class="footer__header">客户支援</div>
+<ul class="footer__childlist">
+<li><a href="/cn/account-opening" data-mce-href="../../cn/account-opening"> 开立帐户 </a></li>
+<li><a href="/cn/legal-documents" data-mce-href="../../cn/legal-documents"> 一般法律文件 </a></li>
+<li><a href="/cn/contactus" data-mce-href="../../cn/contactus"> 联络方式 </a></li>
+<li><a href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800077725&amp;aty=0&amp;a=0&amp;curl=&amp;ty=1" target="_blank" data-mce-href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800077725&amp;aty=0&amp;a=0&amp;curl=&amp;ty=1"> QQ 在线客服 </a></li>
+</ul>
+</div>
+</div>
+<div class="footer-detail">
+<p class="footer-detail__content">KVB昆仑国际集团（旗下包括KVB Kunlun Pty Limited, KVB Asset Management Limited, KVB Kunlun New Zealand Limited, KVB Kunlun International (HK) Limited, KVB Kunlun Securities (HK) Limited, KVB Kunlun Asset Management (HK) Limited, KVB Kunlun Canada Inc, KVB Global Markets Limited, KVB Global Markets Pty Limited）（KVB 昆仑国际集团，下称集团）所登文件仅为提供资料，任何改变都不会作出任何事前通知。集团并不担保此刊物所提供的准确性、可靠性或完整性。本文件所载资料并不构成金融或投资建议，也不对任何金融产品或服务构成要约、建议或销售邀请。相关资讯不考虑您的个人目标、财政状况、 需要、经验或承担亏损之能力。外汇保证金、差价合约、证券及其他衍生工具属高险投资，亏损风险可以相当巨大，甚至超越所持现金和任何其他已作抵押资产的价值，阁下须以个人之财状况及投资目标作出评估或咨询独立专业投资顾问。</p>
+<p class="footer-detail__company"><a href="http://www.kvblistco.com/cn/" target="_blank" data-mce-href="http://www.kvblistco.com/cn/">昆仑国际金融(HKEX:6877.HK)</a></p>
+<p class="footer-detail__copyright"><a href="/cn/disclaimer" data-mce-href="../../cn/disclaimer">免责声明</a> | <a href="/cn/privacy" data-mce-href="../../cn/privacy">私隐政策</a> | 京ICP备10210378号-5 Copyright © 2010-2017 KVB Kunlun. All rights reserved.</p>
+</div>
+<a style="padding-left: 40px; display: none; -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)'; filter: alpha(opacity=0); opacity: 0; pointer-events: none; cursor: default;" href="//v.pinpaibao.com.cn/authenticate/cert/?site=www.kvbkunlun.com&amp;at=business" target="_blank" data-mce-href="//v.pinpaibao.com.cn/authenticate/cert/?site=www.kvbkunlun.com&amp;at=business" data-mce-style="padding-left: 40px; display: none; -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)'; filter: alpha(opacity=0); opacity: 0; pointer-events: none; cursor: default;"> <strong id="aqLogoWMOJQ" style="display: none;" data-mce-style="display: none;"></strong><img src="//static.anquan.org/static/outer/image/hy_83x30.png?id=www.kvbkunlun.com" alt="安全联盟认证" width="83" height="30" style="border: none;" data-mce-src="//static.anquan.org/static/outer/image/hy_83x30.png?id=www.kvbkunlun.com" data-mce-style="border: none;"> </a>
+</div>
+</div>
+<script type="text/javascript">
+var CURRENCY= {
+    "USDX": "\u7f8e\u5143\u6307\u6570", "EURUSD": "\u6b27\u5143 - \u7f8e\u5143", "AUDUSD": "\u6fb3\u5143 - \u7f8e\u5143", "USDCAD": "\u7f8e\u5143 - \u52a0\u5143", "NZDUSD": "\u7ebd\u5143 - \u7f8e\u5143", "USDJPY": "\u7f8e\u5143 - \u65e5\u5143", "GBPUSD": "\u82f1\u9551 - \u7f8e\u5143", "GBPJPY": "\u82f1\u9551 - \u65e5\u5143", "USDCNY": "\u7f8e\u5143 - \u4eba\u6c11\u5e01", "USDCNH": "\u7f8e\u5143 - \u79bb\u5cb8\u4eba\u6c11\u5e01", "USDHKD": "\u7f8e\u5143 - \u6e2f\u5e01", "AUDJPY": "\u6fb3\u5143 - \u65e5\u5143", "AUDCNY": "\u6fb3\u5143 - \u4eba\u6c11\u5e01", "NZDCNY": "\u7ebd\u5143 - \u4eba\u6c11\u5e01", "CADCNY": "\u52a0\u5143 - \u4eba\u6c11\u5e01", "USDCHF": "\u7f8e\u5143 - \u745e\u58eb\u6cd5\u90ce", "XAUUSD": "\u9ec3\u91d1", "XAGUSD": "\u767d\u9280", "USCRUDE": "\u539f\u6cb9", "CORN": "\u7389\u7c73", "SOYBEAN": "\u5927\u8c46"
+};
+
+var COMMODITIES= {
+    "USCRUDE":"\u539f\u6cb9",
+    "CORN":"\u7389\u7c73",
+    "SOYBEAN":"\u5927\u8c46",
+    "COPPER":"\u94dc",
+    "RUBBER":"\u5929\u7136\u6a61\u80f6",
+    "children": {
+        "USCRUDE":[ {
+            "header": "\u539f\u6cb9\u5546\u54c1\u5dee\u4ef7\u5408\u7ea6\u4ea4\u6613\u7ec6\u5219", "description": "", "body": [["\u4ea4\u6613\u4ee3\u53f7", "USCRUDE"], ["\u76f8\u5173\u8bc1\u5238", "\u7ebd\u7ea6\u5546\u54c1\u4ea4\u6613\u6240\u5f53\u524d\u6708\u4efd\u8f7b\u8d28\u539f\u6cb9\u671f\u8d27"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "1,000\u6876\/\u624b"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "0.05"], ["\u5c0f\u6570\u70b9\u4f4d", "2"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8", "0.01"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8\uff08\u4ef7\u503c\uff09", "US$10\/\u624b"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.01\u624b"], ["\u6bcf\u7b14\u6700\u5927\u5355\u4f4d", "10\u624b"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "1%"], ["\u4f63\u91d1", "\u65e0"], ["\u4ed3\u79df", "\u65e0"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7ebd\u7ea6\u5f53\u5730\u65f6\u95f4\uff1a\u00a0</br>\n\u6bcf\u65e518:00-17:00\u5468\u65e5\u81f3\u5468\u4e94\uff08\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u65f6\u95f4\u4e3a16:00\uff09\u00a0</br>\nGMT\u65f6\u95f4\uff1a\u00a0</br>\n\u6bcf\u65e522:00-21:00\u5468\u65e5\u81f3\u5468\u4e94\uff08\u7ebd\u7ea6\u590f\u4ee4\u65f6\uff09\uff08\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u65f6\u95f4\u4e3a20:00\uff09\u00a0</br>\n\u6bcf\u65e523:00-22:00\u5468\u65e5\u81f3\u5468\u4e94\uff08\u7ebd\u7ea6\u51ac\u4ee4\u65f6\uff09\uff08\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u65f6\u95f4\u4e3a21:00\uff09"], ["\u5408\u7ea6\u5230\u671f\u65e5", "\u7ebd\u7ea6\u5546\u54c1\u4ea4\u6613\u6240\u671f\u8d27\u5408\u7ea6\u5230\u671f\u65e5\u524d2\u4e2a\u4ea4\u6613\u65e5"], ["\u7ed3\u7b97", "\u975e\u5b9e\u7269\u4ea4\u5272\uff0c\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u540e\u4ee5\u73b0\u91d1\u7ed3\u7b97"], ["\u653e\u7f6e\u5b9a\u5355\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "0.01"], ["\u5b9a\u5355\u65f6\u6548", "\u6240\u6709\u5b9a\u5355\u53ea\u9650\u5f53\u5929\u6267\u884c\uff08\u5305\u62ec\u6b62\u635f\u4e0e\u6b62\u8d5a\u5b9a\u5355\uff09"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229</p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002</p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5</p>"
+        }
+        ,
+        {
+            "header": "\u5230\u671f\u65e5\u7684\u8f6c\u6362\uff1a", "description": "<p>\u7279\u522b\u6ce8\u610f\uff1a\u671f\u8d27\u5408\u7ea6\u7531\u4ea4\u6613\u6240\u89c4\u5b9a\u5747\u6709\u5230\u671f\u65e5\u3002\u76ee\u524d\u6211\u4eec\u4e0d\u652f\u6301\u81ea\u52a8\u7684\u5c06\u5934\u5bf8\u7531\u4e00\u4e2a\u6708\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u3002\u5728\u5230\u671f\u65e5\uff0c\u4efb\u4f55\u672a\u5e73\u4ed3\u5934\u5bf8\u5c06\u7531KVB\u5e94\u7528\u6536\u5e02\u65f6\u7684\u4e2d\u95f4\u4ef7\u5e73\u6389\u5e76\u4ee5\u73b0\u91d1\u7ed3\u7b97\u3002</p>\n <p>\u4e3a\u4e86\u907f\u514d\u6700\u540e\u4ea4\u6613\u65e5\u7684\u6ce2\u52a8\uff0c\u5728\u4ea4\u6613\u6240\u89c4\u5b9a\u7684\u4e0b\u5217\u5230\u671f\u65e5\u524d2\u4e2a\u4ea4\u6613\u65e5\uff0cKVB\u5c06\u7531\u5f53\u524d\u6708\u4efd\u7684\u62a5\u4ef7\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u4efd\u3002\u5728\u6b64\u62a5\u4ef7\u8f6c\u6362\u5b8c\u6210\u540e\uff0c\u5ba2\u6237\u53ef\u4ee5\u7ee7\u7eed\u4f7f\u7528\u540c\u6837\u7684\u5dee\u4ef7\u5408\u7ea6\u4ee3\u53f7\u91cd\u65b0\u8fdb\u5165\u5e02\u573a\u3002</p>", "body": [["\u5408\u7ea6\u6708\u4efd", "\u7ebd\u7ea6\u5546\u4e1a\u4ea4\u6613\u6240", "KVB\u6606\u4ed1\u56fd\u9645"], ["1\u6708", "12\/20\/2016", "12\/16\/2016"], ["2\u6708", "1\/20\/2017", "1\/18\/2017"], ["3\u6708", "2\/21\/2017", "2\/16\/2017"], ["4\u6708", "3\/21\/2017", "3\/17\/2017"], ["5\u6708", "4\/20\/2017", "4\/18\/2017"], ["6\u6708", "5\/22\/2017", "5\/18\/2017"], ["7\u6708", "6\/20\/2017", "6\/16\/2017"], ["8\u6708", "7\/20\/2017", "7\/18\/2017"], ["9\u6708", "8\/22\/2017", "8\/18\/2017"], ["10\u6708", "9\/20\/2017", "9\/18\/2017"], ["11\u6708", "10\/20\/2017", "10\/18\/2017"], ["12\u6708", "11\/20\/2017", "11\/16\/2017"]], "footer": ""
+        }
+        ],
+        "CORN":[ {
+            "header": "\u7389\u7c73\u5546\u54c1\u5dee\u4ef7\u5408\u7ea6\u4ea4\u6613\u7ec6\u5219", "description": "", "body": [["\u4ea4\u6613\u4ee3\u53f7", "CORN"], ["\u76f8\u5173\u8bc1\u5238", "\u829d\u52a0\u54e5\u5546\u54c1\u4ea4\u6613\u6240\u5f53\u524d\u6708\u4efd\u7389\u7c73\u671f\u8d27"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "5000\u84b2\u5f0f\u8033\/\u624b"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "$2\u7f8e\u5206"], ["\u5c0f\u6570\u70b9\u4f4d", "2"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8", "0.25\u7f8e\u5206"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8\uff08\u4ef7\u503c\uff09", "12.5\u7f8e\u5143\/\u624b"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.01\u624b"], ["\u6bcf\u7b14\u6700\u5927\u5355\u4f4d", "10\u624b"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "5%\uff08KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229\uff09"], ["\u4ed3\u79df", "\u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7f8e\u56fd\u4e2d\u90e8\u65f6\u95f4(CST)</br>\n7:00 PM -7:45 AM, 8:30 AM \u2013 1:15 PM</br>\nGMT\u65f6\u95f4\uff1a</br>\n\u6bcf\u65e5 0:00-12:45, 13:30-18:15 \u5468\u65e5\u81f3\u5468\u4e94(\u7ebd\u7ea6\u590f\u4ee4\u65f6)</br>\n\u6bcf\u65e5 1:00-13:45, 14:30-19:15 \u5468\u65e5\u81f3\u5468\u4e94(\u7ebd\u7ea6\u51ac\u4ee4\u65f6)"], ["\u5408\u7ea6\u5230\u671f\u65e5", "\u829d\u52a0\u54e5\u4ea4\u6613\u6240\u671f\u8d27\u5408\u7ea6\u7b2c\u4e00\u5934\u5bf8\u65e5\uff08First Position Day\uff09\u524d2\u4e2a\u4ea4\u6613\u65e5"], ["\u7ed3\u7b97", "\u975e\u5b9e\u7269\u4ea4\u5272\uff0c\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u540e\u4ee5\u73b0\u91d1\u7ed3\u7b97"], ["\u653e\u7f6e\u5b9a\u5355\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "5\u7f8e\u5206"], ["\u5b9a\u5355\u65f6\u6548", "\u6240\u6709\u5b9a\u5355\u53ea\u9650\u5f53\u5929\u6267\u884c\uff08\u5305\u62ec\u6b62\u635f\u4e0e\u6b62\u8d5a\u5b9a\u5355\uff09"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229</p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002</p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5</p>"
+        }
+        ,
+        {
+            "header": "\u5230\u671f\u65e5\u7684\u8f6c\u6362\uff1a", "description": "<p>\u671f\u8d27\u5408\u7ea6\u7531\u4ea4\u6613\u6240\u89c4\u5b9a\u5747\u6709\u5230\u671f\u65e5\u3002\u76ee\u524d\u6211\u4eec\u4e0d\u652f\u6301\u81ea\u52a8\u7684\u5c06\u5934\u5bf8\u7531\u4e00\u4e2a\u6708\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u3002\u5728\u5230\u671f\u65e5\uff0c\u4efb\u4f55\u672a\u5e73\u4ed3\u5934\u5bf8\u5c06\u7531KVB\u5e94\u7528\u6536\u5e02\u65f6\u7684\u4e2d\u95f4\u4ef7\u5e73\u6389\u5e76\u4ee5\u73b0\u91d1\u7ed3\u7b97\u3002</p>\n <p>\u4e3a\u4e86\u907f\u514d\u6700\u540e\u4ea4\u6613\u65e5\u7684\u6ce2\u52a8\uff0c\u5728\u4ea4\u6613\u6240\u89c4\u5b9a\u7684\u4e0b\u7b2c\u4e00\u5934\u5bf8\u65e5\uff08First Position Day\uff09\u524d2\u4e2a\u4ea4\u6613\u65e5\uff0cKVB\u5c06\u7531\u5f53\u524d\u6708\u4efd\u7684\u62a5\u4ef7\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u4efd\u3002\u5728\u6b64\u62a5\u4ef7\u8f6c\u6362\u5b8c\u6210\u540e\uff0c\u5ba2\u6237\u53ef\u4ee5\u7ee7\u7eed\u4f7f\u7528\u540c\u6837\u7684\u5dee\u4ef7\u5408\u7ea6\u4ee3\u53f7\u91cd\u65b0\u8fdb\u5165\u5e02\u573a\u3002</p>", "body": [["\u5408\u7ea6\u6708\u4efd", "\u829d\u52a0\u54e5\u5546\u54c1\u4ea4\u6613\u6240", "KVB\u6606\u4ed1\u56fd\u9645"], ["2017", "\u7b2c\u4e00\u5934\u5bf8\u65e5\uff08First Position Day\uff09", "\u5408\u7ea6\u5230\u671f\u65e5"], ["3\u6708", "2\/27\/2017", "2\/23\/2017"], ["5\u6708", "4\/27\/2017", "4\/25\/2017"], ["7\u6708", "6\/29\/2017", "6\/27\/2017"], ["9\u6708", "8\/30\/2017", "8\/28\/2017"], ["12\u6708", "11\/29\/2017", "11\/27\/2017"]], "footer": ""
+        }
+        ],
+        "SOYBEAN":[ {
+            "header": "\u5927\u8c46\u5546\u54c1\u5dee\u4ef7\u5408\u7ea6\u4ea4\u6613\u7ec6\u5219", "description": "", "body": [["\u4ea4\u6613\u4ee3\u53f7", "SOYBEAN"], ["\u76f8\u5173\u8bc1\u5238", "\u829d\u52a0\u54e5\u5546\u54c1\u4ea4\u6613\u6240\u5f53\u524d\u6708\u4efd\u5927\u8c46\u671f\u8d27"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "5000\u84b2\u5f0f\u8033\/\u624b"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "$2\u7f8e\u5206"], ["\u5c0f\u6570\u70b9\u4f4d", "2"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8", "0.25\u7f8e\u5206"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8\uff08\u4ef7\u503c\uff09", "12.5\u7f8e\u5143\/\u624b"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.01\u624b"], ["\u6bcf\u7b14\u6700\u5927\u5355\u4f4d", "10\u624b"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "5%\uff08KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229\uff09"], ["\u4ed3\u79df", "\u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7f8e\u56fd\u4e2d\u90e8\u65f6\u95f4(CST)</br>\n7:00 PM -7:45 AM, 8:30 AM \u2013 1:15 PM</br>\nGMT\u65f6\u95f4\uff1a</br>\n\u6bcf\u65e5 0:00-12:45, 13:30-18:15 \u5468\u65e5\u81f3\u5468\u4e94(\u7ebd\u7ea6\u590f\u4ee4\u65f6)</br>\n\u6bcf\u65e5 1:00-13:45, 14:30-19:15 \u5468\u65e5\u81f3\u5468\u4e94(\u7ebd\u7ea6\u51ac\u4ee4\u65f6)"], ["\u5408\u7ea6\u5230\u671f\u65e5", "\u829d\u52a0\u54e5\u4ea4\u6613\u6240\u671f\u8d27\u5408\u7ea6\u7b2c\u4e00\u5934\u5bf8\u65e5\uff08First Position Day\uff09\u524d2\u4e2a\u4ea4\u6613\u65e5"], ["\u7ed3\u7b97", "\u975e\u5b9e\u7269\u4ea4\u5272\uff0c\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u540e\u4ee5\u73b0\u91d1\u7ed3\u7b97"], ["\u653e\u7f6e\u5b9a\u5355\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "5\u7f8e\u5206"], ["\u5b9a\u5355\u65f6\u6548", "\u6240\u6709\u5b9a\u5355\u53ea\u9650\u5f53\u5929\u6267\u884c\uff08\u5305\u62ec\u6b62\u635f\u4e0e\u6b62\u8d5a\u5b9a\u5355\uff09"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229</p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002</p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5</p>"
+        }
+        ,
+        {
+            "header": "\u5230\u671f\u65e5\u7684\u8f6c\u6362\uff1a", "description": "<p>\u671f\u8d27\u5408\u7ea6\u7531\u4ea4\u6613\u6240\u89c4\u5b9a\u5747\u6709\u5230\u671f\u65e5\u3002\u76ee\u524d\u6211\u4eec\u4e0d\u652f\u6301\u81ea\u52a8\u7684\u5c06\u5934\u5bf8\u7531\u4e00\u4e2a\u6708\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u3002\u5728\u5230\u671f\u65e5\uff0c\u4efb\u4f55\u672a\u5e73\u4ed3\u5934\u5bf8\u5c06\u7531KVB\u5e94\u7528\u6536\u5e02\u65f6\u7684\u4e2d\u95f4\u4ef7\u5e73\u6389\u5e76\u4ee5\u73b0\u91d1\u7ed3\u7b97\u3002</p>\n <p>\u4e3a\u4e86\u907f\u514d\u6700\u540e\u4ea4\u6613\u65e5\u7684\u6ce2\u52a8\uff0c\u5728\u4ea4\u6613\u6240\u89c4\u5b9a\u7684\u4e0b\u5217\u7b2c\u4e00\u5934\u5bf8\u65e5\uff08First Position Day\uff09\u524d2\u4e2a\u4ea4\u6613\u65e5\uff0cKVB\u5c06\u7531\u5f53\u524d\u6708\u4efd\u7684\u62a5\u4ef7\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u4efd\u3002\u5728\u6b64\u62a5\u4ef7\u8f6c\u6362\u5b8c\u6210\u540e\uff0c\u5ba2\u6237\u53ef\u4ee5\u7ee7\u7eed\u4f7f\u7528\u540c\u6837\u7684\u5dee\u4ef7\u5408\u7ea6\u4ee3\u53f7\u91cd\u65b0\u8fdb\u5165\u5e02\u573a\u3002</p>", "body": [["\u5408\u7ea6\u6708\u4efd", "\u829d\u52a0\u54e5\u5546\u54c1\u4ea4\u6613\u6240", "KVB\u6606\u4ed1\u56fd\u9645"], ["2017", "\u7b2c\u4e00\u5934\u5bf8\u65e5\uff08First Position Day\uff09", "\u5408\u7ea6\u5230\u671f\u65e5"], ["1\u6708", "12\/29\/2016", "12\/27\/2016"], ["3\u6708", "2\/27\/2017", "2\/23\/2017"], ["5\u6708", "4\/27\/2017", "4\/25\/2017"], ["7\u6708", "6\/29\/2017", "6\/27\/2017"], ["8\u6708", "7\/28\/2017", "7\/26\/2017"], ["9\u6708", "8\/30\/2017", "8\/28\/2017"], ["11\u6708", "10\/30\/2017", "10\/26\/2017"]], "footer": ""
+        }
+        ],
+        "COPPER":[ {
+            "header": "\u94dc\u671f\u8d27\u5dee\u4ef7\u5408\u7ea6\u4ea4\u6613\u7ec6\u5219", "description": "", "body": [["\u4ea4\u6613\u4ee3\u53f7", "COPPER"], ["\u76f8\u5173\u8bc1\u5238", "COMEX\u6d3b\u8dc3\u6708\u4efd\u94dc\u671f\u8d27"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "25000\u78c5"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "2%"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "0.7\u7f8e\u5206"], ["\u5c0f\u6570\u70b9\u4f4d", "2"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8", "0.05"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8\uff08\u4ef7\u503c\uff09", "12.5\u7f8e\u5143"], ["\u4f63\u91d1", "0"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "1\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "1\u624b"], ["\u6bcf\u7b14\u6700\u5927\u5355\u4f4d", "5\u624b"], ["\u4ed3\u79df", "\u957f\u4ed3-1% \/ \u77ed\u4ed3-1%**"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7f8e\u56fd\u4e1c\u90e8\u65f6\u95f4:\u00a0</br>\n\u6bcf\u5929 18:00-17:00\uff0c\u5468\u65e5\u81f3\u5468\u4e94\uff08\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u65f6\u95f4\u4e3a16\uff1a00\uff09</br>\nGMT\u65f6\u95f4\uff1a\u00a0</br>\n\u6bcf\u65e522:00-21:00\uff0c\u5468\u65e5\u81f3\u5468\u4e94\uff08\u7ebd\u7ea6\u590f\u4ee4\u65f6\uff09\uff08\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u65f6\u95f4\u4e3a20:00\uff09</br>\n\u6bcf\u65e523:00-22:00\uff0c\u5468\u65e5\u81f3\u5468\u4e94\uff08\u7ebd\u7ea6\u51ac\u4ee4\u65f6\uff09\uff08\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u65f6\u95f4\u4e3a21:00\uff09"], ["\u5408\u7ea6\u5230\u671f\u65e5", "COMEX\u94dc\u671f\u8d27\u5408\u7ea6\u7b2c\u4e00\u5934\u5bf8\u65e5(First Position Day)\u524d2\u4e2a\u4ea4\u6613\u65e5"], ["\u7ed3\u7b97", "\u975e\u5b9e\u7269\u4ea4\u5272\uff0c\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u540e\u4ee5\u73b0\u91d1\u7ed3\u7b97"], ["\u653e\u7f6e\u5b9a\u5355\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "2\u7f8e\u5206"], ["\u5b9a\u5355\u65f6\u6548", "\u6240\u6709\u5b9a\u5355\u53ea\u9650\u5f53\u5929\u6267\u884c\uff08\u5305\u62ec\u6b62\u635f\u4e0e\u6b62\u8d5a\u5b9a\u5355\uff09"]], "footer": "\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u57fa\u4e8e\u5e02\u573a\u72b6\u51b5\u5236\u5b9a\uff0c\u82e5\u6709\u4efb\u4f55\u66f4\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5\u3002</p>\n <p>* KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229</p>\n <p>**KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229</p>"
+        }
+        ,
+        {
+            "header": "\u5230\u671f\u65e5\u7684\u8f6c\u6362\uff1a", "description": "<p>\u7279\u522b\u6ce8\u610f\uff1a\u671f\u8d27\u5408\u7ea6\u7531\u4ea4\u6613\u6240\u89c4\u5b9a\u5747\u6709\u5230\u671f\u65e5\u3002\u76ee\u524d\u6211\u4eec\u4e0d\u652f\u6301\u81ea\u52a8\u7684\u5c06\u5934\u5bf8\u7531\u4e00\u4e2a\u6708\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u3002\u5728\u5230\u671f\u65e5\uff0c\u4efb\u4f55\u672a\u5e73\u4ed3\u5934\u5bf8\u5c06\u7531KVB\u5e94\u7528\u6536\u5e02\u65f6\u7684\u4e2d\u95f4\u4ef7\u5e73\u6389\u5e76\u4ee5\u73b0\u91d1\u7ed3\u7b97\u3002</p>\n <p>\u4e3a\u4e86\u907f\u514d\u6700\u540e\u4ea4\u6613\u65e5\u7684\u6ce2\u52a8\uff0c\u5728\u4ea4\u6613\u6240\u89c4\u5b9a\u7684\u4e0b\u5217\u5230\u671f\u65e5\u524d2\u4e2a\u4ea4\u6613\u65e5\uff0cKVB\u5c06\u7531\u5f53\u524d\u6708\u4efd\u7684\u62a5\u4ef7\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u4efd\u3002\u5728\u6b64\u62a5\u4ef7\u8f6c\u6362\u5b8c\u6210\u540e\uff0c\u5ba2\u6237\u53ef\u4ee5\u7ee7\u7eed\u4f7f\u7528\u540c\u6837\u7684\u5dee\u4ef7\u5408\u7ea6\u4ee3\u53f7\u91cd\u65b0\u8fdb\u5165\u5e02\u573a\u3002</p>\n <p>\u6d3b\u8dc3\u6708\u4efd\u94dc\u671f\u8d27\u662f\u63073\u6708\uff0c5\u6708\uff0c7\u6708\uff0c9\u6708\u548c12\u6708\u5408\u7ea6\u3002</p>", "body": [["\u5408\u7ea6\u6708\u4efd", "\u7ebd\u7ea6\u5546\u54c1\u4ea4\u6613\u6240", "KVB\u6606\u4ed1\u56fd\u9645"], ["3\u6708", "2\/27\/2017", "2\/23\/2017"], ["5\u6708", "4\/27\/2017", "4\/25\/2017"], ["7\u6708", "6\/29\/2017", "6\/27\/2017"], ["9\u6708", "8\/30\/2017", "8\/28\/2017"], ["12\u6708", "11\/29\/2017", "11\/27\/2017"]], "footer": ""
+        }
+        ],
+        "RUBBER":[ {
+            "header": "\u5929\u7136\u6a61\u80f6\u5dee\u4ef7\u5408\u7ea6\u4ea4\u6613\u7ec6\u5219", "description": "", "body": [["\u4ea4\u6613\u4ee3\u53f7", "RUBBER"], ["\u76f8\u5173\u8bc1\u5238", "\u4e0a\u6d77\u671f\u4ea4\u6240\u5929\u7136\u6a61\u80f6\u6d3b\u8dc3\u6708\u4efd\u671f\u8d27"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "10\u5428\/\u624b"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "30\u4eba\u6c11\u5e01"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.01\u624b"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "5%*"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8", "5\u4eba\u6c11\u5e01\/\u5428"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8\uff08\u4ef7\u503c\uff09", "50\u4eba\u6c11\u5e01"], ["\u6bcf\u7b14\u6700\u5927\u5355\u4f4d", "10\u624b"], ["\u4f63\u91d1", "\u65e0"], ["\u4ed3\u79df", "\u957f\u4ed3-3% \/ \u77ed\u4ed3-1%**"], ["\u6bcf\u65e5\u4ef7\u683c\u6700\u5927\u6ce2\u52a8\u9650\u5236", "\u00b15%***"], ["\u4ea4\u6613\u65f6\u6bb5", "\u5317\u4eac\u65f6\u95f4:\u00a0</br>\n\u6bcf\u65e509:00-11:30, 13:30-15:00 \u5468\u4e00\u81f3\u5468\u4e94</br>\nGMT\u65f6\u95f4:\u00a0</br>\n\u6bcf\u65e501:00-03:30, 05:30-07:00\u5468\u4e00\u81f3\u5468\u4e94"], ["\u5408\u7ea6\u5230\u671f\u65e5", "\u8bf7\u53c2\u89c1\u5408\u7ea6\u5230\u671f\u8f6c\u6362\u65e5\u9644\u8868"], ["\u5b9a\u5355\u65f6\u6548", "\u6240\u6709\u5b9a\u5355\u53ea\u9650\u5f53\u5929\u6267\u884c\uff08\u5305\u62ec\u6b62\u635f\u4e0e\u6b62\u8d5a\u5b9a\u5355\uff09"]], "footer": "\n <p>* KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229</p>\n <p>**KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229</p>\n <p>***KVB\u5c06\u4fdd\u7559\u5f53\u6bcf\u65e5\u4ef7\u683c\u8fbe\u81f3\u6700\u5927\u6ce2\u52a8\u9650\u5236\u65f6\u505c\u6b62\u4ea4\u6613\u7684\u6743\u5229\u3002</p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u57fa\u4e8e\u5e02\u573a\u72b6\u51b5\u5236\u5b9a\uff0c\u82e5\u6709\u4efb\u4f55\u66f4\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5\u3002</p>"
+        }
+        ,
+        {
+            "header": "\u5230\u671f\u65e5\u7684\u8f6c\u6362\uff1a", "description": "<p>\u7279\u522b\u6ce8\u610f\uff1a\u671f\u8d27\u5408\u7ea6\u7531\u4ea4\u6613\u6240\u89c4\u5b9a\u5747\u6709\u5230\u671f\u65e5\u3002\u76ee\u524d\u6211\u4eec\u4e0d\u652f\u6301\u81ea\u52a8\u7684\u5c06\u5934\u5bf8\u7531\u4e00\u4e2a\u6708\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u3002\u5728\u5230\u671f\u65e5\uff0c\u4efb\u4f55\u672a\u5e73\u4ed3\u5934\u5bf8\u5c06\u7531KVB\u5e94\u7528\u6536\u5e02\u65f6\u7684\u4e2d\u95f4\u4ef7\u5e73\u6389\u5e76\u4ee5\u73b0\u91d1\u7ed3\u7b97\u3002</p>\n <p>\u4e3a\u4e86\u907f\u514d\u6700\u540e\u4ea4\u6613\u65e5\u7684\u6ce2\u52a8\uff0c\u6309\u7167\u4e0b\u8868\u7684\u65e5\u671f\uff0cKVB\u5c06\u7531\u5f53\u524d\u6708\u4efd\u7684\u62a5\u4ef7\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u4efd\u3002\u5728\u6b64\u62a5\u4ef7\u8f6c\u6362\u5b8c\u6210\u540e\uff0c\u5ba2\u6237\u53ef\u4ee5\u7ee7\u7eed\u4f7f\u7528\u540c\u6837\u7684\u5dee\u4ef7\u5408\u7ea6\u4ee3\u53f7\u91cd\u65b0\u8fdb\u5165\u5e02\u573a\u3002</p>", "body": [["\u5408\u7ea6\u6708\u4efd", "\u4e0a\u6d77\u671f\u8d27\u4ea4\u6613\u6240", "KVB\u6606\u4ed1\u56fd\u9645"], ["1\u6708", "16\/1\/2017", "25\/11\/2016"], ["5\u6708", "15\/5\/2017", "17\/3\/2017"], ["9\u6708", "15\/9\/2017", "28\/7\/2017"]], "footer": ""
+        }
+        ]
+    }
+}
+
+;
+var METALS= {
+    "XAUUSD":"\u9ec4\u91d1\u5151\u7f8e\u5143",
+    "XAGUSD":"\u767d\u94f6\u5151\u7f8e\u5143",
+    "XAUCNY":"\u9ec4\u91d1\u5151\u4eba\u6c11\u5e01",
+    "XAGCNY":"\u767d\u94f6\u5151\u4eba\u6c11\u5e01",
+    "children": {
+        "XAUUSD":[ {
+            "header": "\u9ec4\u91d1\u5151\u7f8e\u5143\u4ea4\u6613\u7ec6\u5219", "description": "", "body": [["\u4ee3\u53f7", "XAUUSD"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "\u6bcf\u624b100\u76ce\u53f8"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "$0.50\u7f8e\u5143*"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u6ce2\u5e45", "0.01"], ["\u6bcf\u70b9\u7f8e\u5143\u4ef7\u503c(\u6bcf1\u624b)", "$ 10\u7f8e\u5143"], ["\u6bcf\u70b9\u7f8e\u5143\u4ef7\u503c(\u6bcf0.01\u624b)", "$ 0.1\u7f8e\u5143"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "0.5 %"], ["\u653e\u7f6e\u6307\u4ee4\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "0.50"], ["\u76c8 \/ \u4e8f\u8ba1\u7b97", "\u5b9e\u65f6\u4ef7\u4f4d"], ["\u7ed3\u7b97", "\u6bcf\u65e5\u7ed3\u7b97"], ["\u4ea4\u6536\u7c7b\u522b", "\u4e0d\u53ef\u4ea4\u5272"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7ebd\u7ea6\u5f53\u5730\u65f6\u95f4\uff1a \u6bcf\u65e518:00-17:00\u5468\u65e5\u81f3\u5468\u4e94"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229</p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002</p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5</p>"
+        }
+        ],
+        "XAGUSD":[ {
+            "header": "\u767d\u94f6\u5151\u7f8e\u5143\u4ea4\u6613\u89c4\u5219", "description": "", "body": [["\u4ee3\u53f7", "XAGUSD"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "\u6bcf\u624b100\u76ce\u53f8"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "$0.03\u7f8e\u5143*"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.5\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.5\u624b"], ["\u6700\u5c0f\u6ce2\u5e45", "0.001"], ["\u6bcf\u70b9\u7f8e\u5143\u4ef7\u503c(\u6bcf1\u624b)", "$ 1\u7f8e\u5143"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "1 %"], ["\u653e\u7f6e\u6307\u4ee4\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "0.03"], ["\u7ed3\u7b97", "\u6bcf\u65e5\u7ed3\u7b97"], ["\u4ea4\u6536\u7c7b\u522b", "\u4e0d\u53ef\u4ea4\u5272"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7ebd\u7ea6\u5f53\u5730\u65f6\u95f4\uff1a \u6bcf\u65e518:00-17:00\u5468\u65e5\u81f3\u5468\u4e94"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229</p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002</p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5</p>"
+        }
+        ],
+        "XAUCNY":[ {
+            "header": "\u9ec4\u91d1\u5151\u4eba\u6c11\u5e01\u4ea4\u6613\u89c4\u5219", "description": "", "body": [["\u4ee3\u53f7", "XAUCNY"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "\u6bcf\u624b1000\u514b"], ["\u8ba1\u4ef7\u5355\u4f4d", "\u4eba\u6c11\u5e01X \/ \u514b"], ["\u8ba1\u4ef7\u5355\u4f4d", "\u4eba\u6c11\u5e010.25\u5143"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u6ce2\u52a8", "\u4eba\u6c11\u5e010.01\u5143"], ["\u6bcf\u70b9\u4eba\u6c11\u5e01\u4ef7\u503c\uff08\u6bcf1\u624b\uff09", "\u4eba\u6c11\u5e0110\u5143"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "5%"], ["\u5229\u606f", "\u5355\u8fb91%"], ["\u653e\u7f6e\u6307\u4ee4\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "\u4eba\u6c11\u5e010.1\u5143"], ["\u76c8 \/ \u4e8f\u8ba1\u7b97", "\u5b9e\u65f6\u4ef7\u4f4d"], ["\u7ed3\u7b97", "\u6bcf\u65e5\u7ed3\u7b97"], ["\u4ea4\u6536\u7c7b\u522b", "\u4e0d\u53ef\u4ea4\u5272"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7ebd\u7ea6\u5f53\u5730\u65f6\u95f4\uff1a \u6bcf\u65e518:00-17:00\u5468\u65e5\u81f3\u5468\u4e94"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229</p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002</p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5</p>"
+        }
+        ],
+        "XAGCNY":[ {
+            "header": "\u767d\u94f6\u5151\u4eba\u6c11\u5e01\u4ea4\u6613\u89c4\u5219", "description": "", "body": [["\u4ee3\u53f7", "XAGCNY"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "\u6bcf\u624b15\u516c\u65a4"], ["\u8ba1\u4ef7\u5355\u4f4d", "\u4eba\u6c11\u5e01 X \/ \u516c\u65a4"], ["\u8ba1\u4ef7\u5355\u4f4d", "\u4eba\u6c11\u5e0110\u5143"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.5\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.5\u624b"], ["\u6700\u5c0f\u6ce2\u52a8", "\u4eba\u6c11\u5e011\u5143"], ["\u6bcf\u70b9\u4eba\u6c11\u5e01\u4ef7\u503c\uff08\u6bcf1\u624b\uff09", "\u4eba\u6c11\u5e0115\u5143"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "5%"], ["\u5229\u606f", "\u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002"], ["\u653e\u7f6e\u6307\u4ee4\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "\u4eba\u6c11\u5e0130\u5143"], ["\u76c8 \/ \u4e8f\u8ba1\u7b97", "\u5b9e\u65f6\u4ef7\u4f4d"], ["\u7ed3\u7b97", "\u6bcf\u65e5\u7ed3\u7b97"], ["\u4ea4\u6536\u7c7b\u522b", "\u4e0d\u53ef\u4ea4\u5272"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7ebd\u7ea6\u5f53\u5730\u65f6\u95f4\uff1a \u6bcf\u65e518:00-17:00\u5468\u65e5\u81f3\u5468\u4e94"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229</p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002</p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5</p>"
+        }
+        ]
+    }
+};
+var INDEX= {
+    "DJI30": "\u9053\u743c\u65af\u5de5\u4e1a\u5e73\u5747\u6307\u6570", "SPX500": "\u6807\u51c6\u666e\u5c14500\u6307\u6570", "NASDAQCOMP": "\u7eb3\u65af\u8fbe\u514b100\u6307\u6570", "HSI43": "\u9999\u6e2f\u6052\u751f\u6307\u6570", "SZSC": "\u6df1\u8bc1\u7efc\u6307", "SPTSXCOMP": "\u591a\u4f26\u591a\u7efc\u5408\u6307\u6570", "HSCEI": "\u56fd\u4f01\u6307\u6570", "SSEC": "\u4e0a\u6d77\u80a1\u7968\u6307\u6570", "NIK225": "\u65e5\u7ecf225\u5e73\u5747\u6307\u6570", "ASX200": "\u6fb3\u6d32SP200\u6307\u6570", "NZSE50": "\u7ebd\u897f\u5170NZSE50\u6307\u6570", "CHINA300": "\u4e2d\u534e300\u6307\u6570", "CHINA-A50": "\u946b\u5bccA50\u6307\u6570", "DX30": "\u5fb7\u56fdDAX\u6307\u6570"
+};
+</script>
+<script type="text/javascript" src="//media.kvbkunlun.com/js/Fundation.js"></script>
+<script type="text/javascript" src="//media.kvbkunlun.com/js/Data.js"></script>
+<script type="text/javascript" src="/build/js/app-cc0f44c9a0.js"></script>
+<script type="text/javascript" src="/build/js/userinfo-3543e32d13.js"></script>
+<script type="text/javascript">
+$(function () {
+	UserInfo.getInfo(function(data) {
+		if (data.country.code !=='CN') {
+			(function(i, s, o, g, r, a, m) {
+				i['GoogleAnalyticsObject']=r;
+				i[r]=i[r]||function() {
+					(i[r].q=i[r].q||[]).push(arguments)
+				}
+				, i[r].l=1*new Date();
+				a=s.createElement(o), m=s.getElementsByTagName(o)[0];
+				a.async=1;
+				a.src=g;
+				m.parentNode.insertBefore(a, m)
+			}
+			)(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+			ga('create', 'UA-58556007-1', 'auto');
+			ga('send', 'pageview');
+		}
+	}
+
+	, function(err) {}
+
+	);
+});
+
+</script>
+<script>
+var element=document.createElement("script");
+element.src="//wpa.b.qq.com/cgi/wpa.php?key=XzgwMDA3NzcyNV8xMDA3MjFfODAwMDc3NzI1Xw";
+document.body.appendChild(element);
+(function(h, o, t, j, a, r) {
+    h.hj=h.hj||function() {
+        (h.hj.q=h.hj.q||[]).push(arguments)
+    }
+    ;
+    h._hjSettings= {
+        hjid: 378722, hjsv: 5
+    }
+    ;
+    a=o.getElementsByTagName('head')[0];
+    r=o.createElement('script');
+    r.async=1;
+    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    a.appendChild(r);
+}
+
+)(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');
+(function() {
+    var hm=document.createElement("script");
+    hm.src="//hm.baidu.com/hm.js?e81716b5bdc4ea54e08a991cffe25dc9";
+    var s=document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+}
+
+)();
+</script>
+<script>!(function(a, b, c, d, e, f) {
+    var g="", h=a.sessionStorage, i="__admaster_ta_param__", j="tmDataLayer"!==d?"&dl="+d: "";
+    if(a[f]= {}
+    , a[d]=a[d]||[], a[d].push( {
+        startTime: +new Date, event: "tm.js"
+    }
+    ), h) {
+        var k=a.location.search, l=new RegExp("[?&]"+i+"=(.*?)(&|#|$)").exec(k)||[];
+        l[1]&&h.setItem(i, l[1]), l=h.getItem(i), l&&(g="&p="+l+"&t="+ +new Date)
+    }
+    var m=b.createElement(c), n=b.getElementsByTagName(c)[0];
+    m.src="//tag.cdnmaster.cn/tmjs/tm.js?id="+e+j+g, m.async=!0, n.parentNode.insertBefore(m, n)
+}
+
+)(window, document, "script", "tmDataLayer", "TM-117318", "admaster_tm");
+</script>
+</body>
+</html>

@@ -1,0 +1,243 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0025)/ -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=200, initial-scale=1.0, maximum-scale=0.3, user-scalable=1">
+<meta http-equiv="Cache-Control" content="no-store">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>余力：如何利用期权实现长期稳健的收益 - 新闻中心 - 信鑫资讯</title>
+<meta name="keywords" content="123" />
+<meta name="description" content="和讯网：余老师您好，我们知道您在期权领域有很深的研究，您认为期权相比于其他投资工具的话，它具有哪些优势呢？
+　　
+余力：我觉得期权的优势在于有很多功能。首先期权相对于现货和期货来说，它具有一个精确制导的功能。什么叫精确制导？就好比我对这个市场看得越准，我用期权做同样的事情我就可以做得更多 " />
+<link href="/skins/doccms_model_1/css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/skins/doccms_model_1/css/tx_macth_ing.css" />
+<link rel="stylesheet" href="/skins/doccms_model_1/css/newscenter.css" />
+</head>
+<body>
+<div id="include_header" data-hasbindevent="yes">
+  <div class="newsTopBar">
+    <div class="w1000 clearfix">
+      <div style="float: left">
+        <h6 style="color:#999999" id="SH"><span>期权宝</span> &nbsp;<span class="colorRed">个股期权</span></h6>
+        <h6 style="color:#999999;margin-left:20px;" id="SZ"><span>业务领域</span> &nbsp;<span class="colorGreen">衍生品服务</span> &nbsp;<span class="colorGreen">STOCK OPTIONS</span> &nbsp;</h6>
+      </div>
+     <div id="loginHeader">TEL 021-31121267<a href="http://option.hxoption.com/Home/Index/register.html" class="gt_app_down" target="_blank">
+      注册账户</a> |<a href="http://option.hxoption.com/Home/Index/index.html" class="gt_app_down" target="_blank">
+      登录账户</a> </div>
+    </div>
+  </div>
+  <div class="newHeader">
+    <div class="w1000 clearfix">
+      <div class="newHeaderLogo"><a href="http://www.hxoption.com/"><img src="/skins/doccms_model_1/images/logo.png" alt="余力：如何利用期权实现长期稳健的收益 - 新闻中心 - 信鑫资讯" width="164" height="47"></a></div>
+      <div class="newsNav" id="newNav">
+        <ul>
+          <li><a href="/"id="index" class="cur">首页</a></li>
+	   <!-- <li><a href="/?p=52"  title="期权视频讲解">期权视频讲解</a></li>--> 
+	  <li><a href="/?p=27"  title="学习中心">学习中心</a></li>
+          <li><a href="/?p=29"  title="行业资讯">行业资讯</a></li>
+          <li><a href="/?p=48"  title="关于我们">关于我们</a></li>
+	  <li><a href="http://option.hxoption.com/" rel="nofollow"  target="_blank" title="我的账户">我的账户</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="headerContent"></div>
+<div class="macth_banner">
+  <div class="tmo_banner" id="tmo_banner">
+    <ul class="tmo_banner_item" style="width:100%; left: 0px;">
+      <li style="background: url(../images/行业资讯.jpg) center 0px no-repeat; width="100%;"></li>
+    </ul>
+    <div class="tmo_banner_num"><span class="current"></span></div>
+  </div>
+</div>
+<div class="newscenter">
+  <div class="center-in clearfix">
+    <div class="center-l">
+      <div class="center-bd">
+        <input id="RecordCount" name="RecordCount" type="hidden" value="48" />
+     
+	 <style>
+/*======中间部分内======*/
+a{ text-decoration:none;}
+/*分页*/
+.endPageNum{ clear:both; font-size:12px; text-align:center;}
+.endPageNum table{ margin:auto;}
+.endPageNum .s1{width:52px;}
+.endPageNum .s2{background:#1f3a87; border:1px solid #ccc; color:#fff; font-weight:bold;}
+.endPageNum a.s2:visited {color:#fff;}
+.endPageNum a{padding:2px 5px;margin:5px 4px 0 0; color:#1F3A87;background:#fff; display:inline-table; border:1px solid #ccc; float:left;}
+.endPageNum a:visited{color:#1f3a87;} 
+.endPageNum a:hover{color:#fff; background:#1f3a87; border:1px solid #1f3a87;float:left; text-decoration:underline;}
+.endPageNum .s3{cursor:default;padding:2px 5px;margin:5px 4px 0 0; color:#ccc;background:#fff; display:inline-table; border:1px solid #ccc; float:left;}
+.clear{ clear:both;}
+.editor{ float:left; font-size:12px; margin:11px 0; width:545px; text-align:right;}
+#newscontent{ width:95%; margin:0 auto; padding:10px;}
+#newsconttitle a:hover{ color:#04d;}
+#newsconttitle span{ float:left;}
+#newsconttitle h1{ font-size:14px; font-weight:bold; color:#666; padding:0; margin:0;}
+#newsconttitle p{ width:100%; height:20px; line-height:20px; float:left; padding:15px 0; margin:0; color:#666; border-bottom:1px #ddd solid; text-align:left;}
+#newsconttitle p a{ width:410px;height:20px; overflow:hidden; display:block; color:#1e6bc5;word-wrap: break-word;word-break: normal; float:left;}	
+#newsummary{margin: 10px 0px 0px;padding: 12px 5px 6px;width:98%; background:#FFF;border: 1px solid #DCDDDD; }
+#newsummary h2{text-indent: 2em;font-size: 14px;line-height: 20px;color:#666; font-weight:500;}
+#newcontent{ line-height:22px; color:#666; margin:10px 5px 0 5px; float:left; display:inline;}
+#newcontent p{ text-indent:24px; padding:0; margin:0;}
+#newcontent p a:hover{ color:#04d;}
+#newsleft .ad{ margin:10px 0; float:left;}
+#newsright{ float:left; width:350px; margin-left:10px; display:inline;}
+#articeBottom {font-size: 14px; margin: 6px 0 10px; padding-top: 10px; text-align: right; width: 97%;}
+#articeBottom span{ float:left;}
+#articeBottom span a{ font-size:12px;}
+#articeBottom span a:hover{ color:#0099FF;}
+#articleHeader { margin:5px 0; padding:10px;background:#F5F5F5; height:60px;}
+#articleHeader h4{font-size:12px; color:#333;}
+#articleHeader h4 a{ font-size:12px; color:#333}
+.details h2{ background:#F8F8FF; border: 1px solid #DDD; line-height: 25px; margin-bottom: 15px;  padding: 10px; font-size:14px; text-indent:28px;}
+</style>
+<div class="askContLeft w715">
+        <div class="answerLeft">
+          <p class="til fz24" id="title">余力：如何利用期权实现长期稳健的收益</p>
+          <p class="time"><em><i>2018-02-01 00:00:00&nbsp;&nbsp;&nbsp;阅读3335人</i></em>&nbsp;&nbsp;&nbsp;作者：信鑫资讯 </p>
+          <div class="answerText">
+            <div class="answerTextCont break">
+              
+            <span style="white-space:normal;">和讯网：余老师您好，我们知道您在期权领域有很深的研究，您认为期权相比于其他投资工具的话，它具有哪些优势呢？</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">余力：我觉得期权的优势在于有很多功能。首先期权相对于现货和期货来说，它具有一个精确制导的功能。什么叫精确制导？就好比我对这个市场看得越准，我用期权做同样的事情我就可以做得更多。比如今年开年19连阳，如果说有个人能在去年年底的时候预测，今年开年就会连续出现阳线，他会干什么，他会去买期权，买期权的人可能在10个阳线当中已经赚了1000%，而买标的的话可能只赚10%，这个精确制导，我看得越准，我配有期权去做同样的事情我可以赚得更多。</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">另外，期权有一个增强收益的功能，也就是说在振荡市里面我们有的时候束手无策，因为振荡市里择时很难，选股风格切换会很快，我们发现找不到一个稳定盈利方法的时候，在振荡市里边又可以通过卖出期权增强收益。因为振荡市里面，你卖出的期权大概率不会被行权，你所有期权费就会赚在自己的口袋里，这就是一笔增强收益。</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">期权还具有风险管理功能。除了刚才说的精确制导和增强收益以外，风险管理功能也是一个非常重要的功能。比如说在我们的机构投资者里面，经常会对手中持有的50成分股，或者300成分股，或者是白马股，对它进行长期套保，这样的话我就可以长期拿住这些票，拿住这些票的话，我们知道投资当中最难的事情就是下了车再上车。我拿住这些票的时候，我就享有这些票持久上涨收益，同样的对冲，期货会损失牺牲上端收益，但是期权好处在于，期权会在锁定下行风险基础上，保留上行收益，这样的话我就可以享受蓝筹股上涨，同时锁定了下面比较大的回撤风险。</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">和讯网：很多投资者都在思考，作为期权买方和卖方，哪个盈面会更大一些，他们分别适合怎么样的投资者？</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">余力：我觉得期权买卖双方都是需要的，如果说只有买方没有卖方，或者只有卖方没有买方，就没有办法成交，所以这两个投资者一定是需要的。我觉得买卖双方其实是一个博弈胜率和赔率的过程，或者说胜率和盈亏比的过程。对于期权买方来说，你长期去买期权，一定是低胜率高盈亏比的策略。而长期卖期权，就像开保险公司一样，长期来说12个月里面可能10个为赢，它的胜率很高，但是盈亏比很低，可能输一次会把前几次都赔掉，所以买卖双方各有优势。</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">对于机构投资者来说，因为我们的仓位都有几千万甚至是一个亿，所以说光做买方肯定不行，所以大概率很多仓位配置卖方，机构一定会偏向于卖方，因为机构也比较重回撤。所以我只要合适的设置好止损点，然后每一个月滚动卖出期权赚权利金，是最靠谱最稳妥的策略。</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">而对于个人投资来说，他本来钱比较少，风险偏好，容忍回撤能力一定比机构大。所以可以配置一部分卖方的同时，去用小仓位每一个月博一下买方，以小博大，万一每一个月收益非常客观，也可以抵消他在卖方上的一些亏损。</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">和讯网：最近50ETF行情很火爆，您认为最近可以利用期权怎么来操作？</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">余力：我觉得包括我自己这边也是这样。我目前利用期权做两个功能的发挥。第一个顺势而为，去做一个简单的方向性跟随。因为期权它具有一个以小博大的功能，我应该要充分发挥这个功能，尤其在趋势行情里边。至于什么是趋势起来了，每一个人判断不一样，至少我有自己一套量化模型判断目前市场趋势起来了。我这边判断市场比如说1月3号开始趋势起来之后，我买入一些认购期权，或者是卖出一些认沽期权做跟随，直到趋势差不多的时候，我去把它平仓了结掉，这一部分是作为我现在配置一部分仓位。另外一部分仓位利用期权做套保、做风险管理。因为我长期持有类似于白马股，或者是一些50成分股，我也担心这些白马股和50成分股，突然某一天因为市场噪音或者政策、资金的噪音，导致突然性的回撤，所以我拿期权作为头寸进行稳健套保。所以我觉得在目前这个市场上，虽然50指数很火爆，但是依然存在短期调整的需求，或者是可能在节前资金面紧张了，或者是政策面可能出现一些微调，都有可能导致50突然发生一个小幅度回撤或者是横盘。在这个时间里面，我觉得应该顺势而为，如果趋势暂时结束就暂时离场，同时，如果是持有50成分股的话，长久拿50做一些套保配置，这样在2018年可以获得一个比较长期稳健的收益。</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">和讯网：您如何看待量化策略在投资中的地位？平时从研究到操盘，您觉得哪些步骤是非常重要的？</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">余力：我本人是非常重量化的，我觉得量化投资是一个非常客观的评判标准，也就是说我每天的操作信号，每一天买入还是卖出，每一天到底是加仓还是减仓都由量化模型来告诉我，我觉得心里会比较安稳，所以我自己是偏向于做量化投资的。</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">我觉得量化投资，尤其是量化期权投资，每一天的流程，大概分成盘前、盘中、盘后。盘前，我会对各个模型数据库进行更新，从一个机构角度对数据库进行更新，更新完以后把隔夜信息纳入我的数据库之后，突出最新的信号，比如说盘前最后决定加仓期权还是减仓期权，以做买为主还是做卖为主等等。这是盘前数据更新和最后的决策。</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">第二，盘中根据盘前已经做好的决策，以及盘中我们在实时监控的一些类似于波动曲面，希腊字母进行止盈止损，在盘中尽量把这个交易做得更好。盘中是优化交易的过程，因为盘前我们都通过量化模型把该干什么想好了，但是具体盘中什么时候干，比如说10点干是10点05分干，这个细节我们会在盘中结合实时的监控，还有自己的交易经验，会进行灵活的调整，这是盘中。</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">最后，在盘末一定要做一个严格的复盘。也就是说我们要对每天的盈亏进行一个归因分析。我们做期权交易者都知道希腊字母，我们要知道每天总盈亏，哪一块是赚δ的钱，哪一块是赚γ的钱，哪一块赚vega的钱，哪一块赚θ的钱。我们必须很清楚现在我们赚什么钱赚得最多，市场处于波动率下降还是上升的环境，标的处于趋势上行还是振荡上行，趋势下行还是振荡下行的环境，我们做一个非常严格的复盘，把每天的盈亏做一个非常明显的归因，归因完之后，最后再回顾整个盘面，对明天做一个指导性决策判断，大概一天的流程就结束了。</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">和讯网：最近人工智能也是非常火爆，您认为智能投顾会取代投资经理这个职位吗？</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">余力：关于这个问题的回答，从我的角度来说，我觉得是不会的。我觉得投资经理和研究员区别在于，他在交易上永远会有新的体会和新的经验纳入进去。我觉得一个完整的投资，它是分成策略加上交易技术的，研究员研究策略这一块，我觉得是有可能会被人工智能所取代的，因为我们的这个大部分的研究，包括策略研究，包括量化研究，他都是基于历史大数据，人工智能恰恰是基于历史大数据，它可以比你利用的更好，它可以比你把数据挖掘的更充分，当然我们研究员是一个脑袋，人工智能可能是几十万个脑袋，所以研究这一块，策略这一块，都是基于大数据的情况下，人工智能有可能会超越很多的研究员，甚至以后量化研究完全被机器取代，这也是非常有可能的。</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">但是在投资上，它有另外一块就是交易技术，而这个交易技术每天都在随着盘面在变，他不是说历史数据能够告诉你一切。我们说人工智能其实都是基于历史数据，为什么阿法狗，为什么很多出名人工智能专家，他都是能够在围棋领域，在一些其他领域能够发挥非常大的功能。那是因为围棋的招数就算是很多，它也是有限的，但是这个市场的变化是无限的。因为这个市场每天盘中的波动，每天盘中突然的拉升，这都是跟人心有关系的。可能今天就是突然有一波资金，他就是想突然买了，这是不可能被大数据所捕捉到的。所以每天盘中交易技术和交易经验，我想这是投资非常重要的核心，而这个恰恰是投资经理一个核心竞争力，是很难被人工智能所取代的。所以我觉得人工智能可以取代研究，但是人工智能我想永远不可能取代投资。</span><br style="white-space:normal;" />
+<span style="white-space:normal;">　　</span><br style="white-space:normal;" />
+<span style="white-space:normal;">和讯网：谢谢余老师接受我们的采访。</span> 
+			  
+              <div class="pointImageList">
+               
+              </div>
+            </div>       
+          </div>
+        <!--<div class="answerTips"><p><span>声明：</span>以上内容由上海牛霸网络科技有限公司原创，未经允许不得转载！</p></div>!-->
+           
+        </div>
+         
+               <div class="who_zan" id="praiseUserDiv">
+                  
+              </div>
+              
+      
+         </div>
+<div id="articleHeader">
+	<h4>下一篇：<a href="./?p=29&a=view&r=81">券商逐鹿场外期权业务 业绩与市场集中度双提升</a></h4>
+		<h4>上一篇：<a href="./?p=29&a=view&r=79">龙虎榜：短线资金抱团永吉股份 季华六路主买3100万华通热力</a> </h4>
+	</div>
+  </div>
+  </div>	 
+  </div>
+  </div>
+    </div>
+</div>
+<!--match_content end -->
+<div class="footerBox" id="include_footer" data-hasbindevent="yes">
+  <div class="footer">
+    <div class="footerTop">
+      <dl>
+        <dt class="one">关于我们</dt>
+        <dd style="margin-left:35px">
+          <a target="_blank" href="">加入我们 </a> <a target="_blank" href="">合作伙伴 </a> <a target="_blank" href="">公司愿景 </a>         </dd>
+      </dl>
+      <dl>
+        <dt class="two">帮助中心</dt>
+        <dd style="margin-left:35px">
+          <a target="_blank" href="">如何微信跟投 </a> <a target="_blank" href="">常见问题 </a>         </dd>
+      </dl>
+   <dl>
+        <dt class="three">关注我们</dt>
+        <dd>
+          <div class="footAttention footAttentionOne">
+            <p>
+              <a target="_blank" href="http://weibo.com/opforsaken/home?wvr=5&lf=reg">新浪博客 </a>             </p>
+            <a target="_blank" href="#"></a> </div>
+          <!--            <div class="footAttention footAttentionTwo">
+             <p>新浪微博</p>
+             <a href="#">@股票跟投</a>
+           </div> -->
+          <div class="footAttention footAttentionThree">
+            <p>
+              <a target="_blank" href="">微信公众号 </a>             </p>          
+        </dd>
+      </dl>
+      <dl>
+        <dt class="four">联系我们</dt>
+        <dd>
+           <div class="footContact">
+            <p>电子信箱</p>
+            <b>gpqiquan@foxmail.com             </div> <div class="footContact">
+            <p>联系电话</p>
+            <b>&nbsp;021-31137738             </div>        </dd>
+      </dl>
+      <dl class="foot_down2wm">
+        <dt class="down2wm">公众号</dt>
+        <dd>
+          
+			 
+			 <div class="footContact">
+          <p>扫一扫二维码</p>
+            <b>APP下载            <div class="foot_down2wm_img"><img src="/upload/201804/20180402114907466.png" width="120" height="120"></div>
+          </div>        </dd>
+      </dl>
+      <div class="clear"></div>
+    </div>
+    <div class="links">
+      <p class="til">友情链接</p>
+      <p class="list">
+        <a target="_blank" href="http://dc.simuwang.com/?utm_source=12">私募排排网 </a>       </p>
+    </div>
+    <div class="footerBot">
+      <p>
+        暂无数据！      </p>
+      <p class="right">
+         <p>免责声明：信鑫资讯平台仅提供服务对接功能，对用户发布的投资观点及操作建议不承担任何责任；投资有风险，入市需谨慎！</p>      </p>
+      <p class="pic"> <a href="#" target="_blank"><img src="/skins/doccms_model_1/images/pic_68.png" width="55" height="21"></a> <a href="#" target="_blank"><img src="/skins/doccms_model_1/images/pic_69.png" width="55" height="21"></a> </p>
+    </div>
+  </div>
+</div>
+<div id="footerContent"></div>
+<div class="fkfd">
+  <div class="fd" id="toTop"> </div>
+</div>
+<div class="w_gotoTop2"> <a class="w_bgs w_gser" id="bizQQ_WPA_a"></a> <a href="#" class="w_bgs w_backMeg"></a> <a href="javascript:;" class="w_bgs w_goTop" id="gototop" style="display: none"></a> </div>
+<a href="#" class="backTopNew">顶部</a>
+</body>
+</html>
+<!--本网站由稻壳企业建站系统生成 Power by DocCms x1.0&grysoft@qq.com -->

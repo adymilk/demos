@@ -1,0 +1,5091 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 10]><html class="ie10 nojs" lang="nl-NL" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 10]><!--><html class="gtie10 nojs" lang="nl-NL" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+        
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1; requiresActiveX=true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<title>IG – De broker voor online beleggen met CFD’s en Forex in Nederland</title><meta name="keywords" content="" />
+<meta class="swiftype" name="description" content="Bij IG belegt u met een CFD, een hefboomproduct. Open een gratis demo bij IG en probeer het online beleggen met CFD's. Bij IG creëert u kansen." />
+<meta name="locale" id="locale" content="nl_NL" />
+<meta name="softid" id="softid" content="igcom" />
+<meta http-equiv="content-language" content="nl-nl"/>
+        <meta name="msvalidate.01" content="A7BAE9DC6422D54EAD1CE552A263DE29"/>
+            <meta name="google-site-verification" content="m33uiVKtBCQ8HnieBDZCqWDTrKAjXKzrWSyZ4zNCjNs"/>
+            <link href="https://plus.google.com/111809160864260653603/posts" rel="publisher"/>
+            <meta name="google-site-verification" content="NP6_JVVKAfnsuc3j536nyvXWorGgCoETGtb3S9YeZto"/>
+            <link rel="canonical" href="https://www.ig.com/nl"/>
+<meta property="og:site_name" content="IG" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/og_image.jpg" />
+<meta property="og:title" content="Home (NL)" />
+<meta property="og:url" content="https://www.ig.com/nl" />
+<meta property="og:description" content="Bij IG belegt u met een CFD, een hefboomproduct. Open een gratis demo bij IG en probeer het online beleggen met CFD's. Bij IG creëert u kansen."/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">CQURLInfo={"requestPath":"/content/igcom/nl_NL","extension":"html","selectors":[],"systemId":"c8e9067a-79aa-4945-9014-bf0391a036c7","runModes":"prod,crx3,nosamplecontent,uk,publish,publish-prod,crx3tar"};</script>
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_shell.min.js"></script>
+
+
+<script>
+
+    PS.util.jspVars.set('loggedin.bannerText')(['U bent bent nu ingelogd in uw TYPE NAME rekening', 'Uitloggen']);
+    PS.util.jspVars.set('loggedin.popupText')('You have <br/> the dealing platform open in another tab');
+    //URL for user details:
+    PS.util.jspVars.set('loggedin.authURL')('/validate/api/session/client-id');
+    PS.util.jspVars.set('loggedin.authTimeOut')(3000);
+    PS.util.jspVars.set('loggedin.myIgHomepage')('/myig/goto/homepage');
+    //URL for remote logoff:
+    PS.util.jspVars.set('loggedin.outURL')('https://deal.ig.com/dealing/pd/websiteLogout.htm');
+    
+
+    
+        //this enables authentication for this template but not for the iframe or login template
+        PS.util.jspVars.set('loggedin.authThisTemplate')(true);
+    
+    PS.util.jspVars.set('websiteCountry')("nl");
+    PS.util.jspVars.set('homepageLink')("/content/igcom/nl_NL.html");
+    PS.util.jspVars.set('shareWithIgmarkets')();
+    PS.util.jspVars.set('user.redirects')([{"name":"","segment":"ig_loggedIn","redirectPath":"/nl/welkom-bij-ig","percentage":100},{"name":"","segment":"ig_client","redirectPath":"/nl/welkom-bij-ig","percentage":100},{"name":"","segment":"ig_demoClient","redirectPath":"/nl/welkom-bij-ig","percentage":100}]);
+    PS.util.jspVars.set('deprecatedBrowsers')({"msie":"7"});
+    PS.util.jspVars.set('deprecatedBrowsersPopup')({});
+    PS.util.jspVars.set('permanent_sticky')();
+    PS.util.jspVars.set('google.analytics.tracking.id')("UA-53269626-14");
+    PS.util.jspVars.set('analytics.s_account')("adviggroupnllive,adviggrouprollup");
+    PS.util.jspVars.set('analytics.page_title')("IG");
+    PS.util.jspVars.set('analytics.cq_page_name')("nl_NL");
+    PS.util.jspVars.set('analytics.path')("/content/igcom/nl_NL");
+    PS.util.jspVars.set('analytics.trackingTagDelay')("0");
+    PS.util.jspVars.set('siteID')("nlm");
+    PS.util.jspVars.set('loggedin.myigbutton')(['My IG']);
+    PS.util.jspVars.set('loggedin.loginLinkMyIGTextReplacement')(
+        ['Ga naar MyIG']);
+    
+    
+    PS.util.jspVars.set('createAccountTest')({
+        "urlA": "/nl/application-form-new",
+        "mobileurlA": "/register#/page/1/country/NL/locale/nl_NL/platform/mobileweb?type=small",
+        "urlB": "/nl/application-form-new",
+        "mobileurlB": "/register#/page/1/country/NL/locale/nl_NL/platform/mobileweb?type=small",
+        "urlC": "",
+        "mobileurlC": "",
+        "excludeMobile": false,
+        "accountUrl": "/nl/open-een-rekening"
+    });
+    
+    
+    
+    //T&T Config
+    PS.util.jspVars.set('tandt.linkReplacements')([]);
+    PS.util.jspVars.set('tandt.customID')('igComNL');
+    PS.util.jspVars.set('tandt.timeout')(700);
+
+    //Sets the JSON for the hero panel
+    PS.util.jspVars.set('heroPanelSegmentSettings')('{}');
+
+    //Live chat
+    PS.util.jspVars.set('livechat.currentPageLiveChatDisable')(false);
+    PS.util.jspVars.set('livechat.activateLiveChat')("true");
+    PS.util.jspVars.set('livechat.popupPageUri')("/nl/live-chat");
+    PS.util.jspVars.set('livechat.apiUri')("");
+    PS.util.jspVars.set('livechat.initialisationUri')("");
+    PS.util.jspVars.set('livechat.deploymentID')("57220000000000V");
+    PS.util.jspVars.set('livechat.organisationID')("00D200000006kCZ");
+    PS.util.jspVars.set('livechat.buttonID')("573w0000000GqHz");
+    PS.util.jspVars.set('livechat.promptTimeDelay')("30000");
+
+    //EngHouse livechat
+    PS.util.jspVars.set('enghouselivechat.activateLiveChat')("true");
+    PS.util.jspVars.set('enghouselivechat.popupPageUri')("/nl/enghouse-chat");
+    PS.util.jspVars.set('enghouselivechat.currentPageLiveChatDisable')(false);
+    PS.util.jspVars.set('enghouselivechat.currentPageLiveChatPromptStyle')("grey");
+    PS.util.jspVars.set('enghouselivechat.disabledInTree')(false);
+    PS.util.jspVars.set('enghouselivechat.ignoreTreeDisable')(false);
+    PS.util.jspVars.set('enghouselivechat.forceCalendar')(true);
+
+    PS.util.jspVars.set('login.ajax')(true);
+
+    PS.util.jspVars.set('skypeLinksEnable')(false);
+    PS.util.jspVars.set('appsflyer.linkreplace')("true");
+
+    //Social Login
+    PS.util.jspVars.set('login.facebook')({
+        "fbLoginWithAccount": "false",
+        "fbLoginSocialAccountApiURL": "",
+        "fbLoginSocialSessionApiURL": "",
+        "fbLoginClientSecuritySessionApiURL": "",
+        "fbLoginDealerURL": "",
+        "fbLoginAppID": "",
+        "fbLoginCountry": "",
+        "fbLoginLanguage": "",
+        "fbLoginTimeout": "3000"
+    });
+
+    // Apple app injected banner
+    PS.util.jspVars.set('applebanner.disable')(false);
+    PS.util.jspVars.set('applebanner.ipad')("1336992208");
+    PS.util.jspVars.set('applebanner.iphone')("1336991855");
+
+    PS.util.Initialize.init();
+
+    // Add custom class If IE10 browser
+    var ua = navigator.userAgent.toLowerCase();
+    var rootHtml = document.getElementsByTagName('html')[0];
+    var match = /(edge)[ \/]([\w.]+)/.exec(ua) ||
+        /(vivaldi)[ \/]([\w.]+)/.exec(ua) ||
+        /(chrome)[ \/]([\w.]+)/.exec(ua) ||
+        /version(?=.*?(safari))[\/]([\w.]+)/.exec(ua) ||
+        /(webkit)[ \/]([\w.]+)/.exec(ua) ||
+        /(opera)(?:.*version|)[ \/]([\w.]+)/.exec(ua) ||
+        /(msie) ([\w.]+)/.exec(ua) ||
+        /(firefox)[ \/]([\w.]+)/.exec(ua) ||
+        ua.indexOf("compatible") < 0 && /(mozilla)(?:.*? rv:([\w.]+)|)/.exec(ua) ||
+        [];
+
+    if (match[1] === 'msie' && match[2] === '10.0') {
+        rootHtml.className += ' ie10';
+    }
+
+    if (PS.util.isAndroidStockBrowser(ua)) {
+        rootHtml.className += ' androidStockBrowser';
+    }
+
+</script>
+
+
+
+<script>
+    //Page Content Meta tags
+    PS.util.jspVars.set('contentMetatags')("");
+</script>
+
+<script>
+    
+    
+
+
+
+
+
+
+    var i18n= i18n || {};
+i18n['clientlibs.browsers.deprecated.name.chrome']='version of Chrome';i18n['clientlibs.yes_no_cr']='Ja (Geen Ger. Stop)';i18n['clientlibs.dates.may']='May';i18n['clientlibs.mcarousel.next']='volgend';i18n['clientlibs.dates.saturday']='Saturday';i18n['clientlibs.browsers.deprecated.name.msie']='versie van Internet Explorer';i18n['clientlibs.liveprices.updated']='Updated';i18n['clientlibs.browsers.deprecated.default.browser']='';i18n['clientlibs.no']='Nee';i18n['clientlibs.browsers.deprecated.name.mozilla']='version of Firefox';i18n['clientlibs.browsers.deprecated.default.upgradelink']='';i18n['clientlibs.liveprices.swapLong']='Offer Swap Point';i18n['clientlibs.dates.april']='April';i18n['clientlibs.secondaryNav.more']='Meer';i18n['clientlibs.dates.august']='August';i18n['clientlibs.dates.march']='March';i18n['clientlibs.table.filter']='GB';i18n['clientlibs.dates.wednesday']='Wednesday';i18n['clientlibs.liveprices.percentageChange']='% Verandering';i18n['clientlibs.livechat.prompt']='Live Chat';i18n['clientlibs.dates.november']='November';i18n['clientlibs.browsers.deprecated.name.safari']='version of Safari';i18n['clientlibs.browsers.deprecated.upgradelink.mozilla']='http:\/\/www.mozilla.org\/en-GB\/firefox\/update\/';i18n['clientlibs.dates.friday']='Friday';i18n['clientlibs.dates.february']='February';i18n['clientlibs.lightbox.close']='';i18n['clientlibs.dates.october']='October';i18n['clientlibs.more.button']='Meer';i18n['clientlibs.dates.december']='December';i18n['clientlibs.dates.monday']='Monday';i18n['clientlibs.dates.thursday']='Thursday';i18n['clientlibs.liveprices.swapShort']='Bid Swap Point';i18n['clientlibs.dates.format']='{2} {3} {1} {0} {4}:{5}';i18n['clientlibs.twitter.reply']='';i18n['clientlibs.browsers.deprecated.upgradelink.msie']='http:\/\/windows.microsoft.com\/nl-nl\/internet-explorer\/download-ie';i18n['clientlibs.liveprices.offer']='Koop';i18n['clientlibs.dates.tuesday']='Tuesday';i18n['clientlibs.dates.september']='September';i18n['clientlibs.yes']='Ja';i18n['clientlibs.liveprices.bid']='Verkoop';i18n['clientlibs.dates.sunday']='Sunday';i18n['clientlibs.dates.june']='June';i18n['clientlibs.dates.july']='July';i18n['clientlibs.dates.january']='January';
+    
+
+
+
+
+
+
+    var i18n= i18n || {};
+i18n['forms.preferredname']='';i18n['forms.validmin']='Sorry, this field doesn\'t have the minimum required characters.';i18n['forms.pleasecomplete']='Vul alle velden in dit formulier in';i18n['forms.validalphanum']='Alleen letters en nummers toegestaan';i18n['forms.sendinfo']='E-mail mij niet meer met informatie over de producten en diensten van IG.';i18n['forms.duplicate.username']='The username is already used';i18n['forms.validemail']='Vul een geldig e-mailadres in';i18n['forms.yes']='Ja';i18n['forms.duplicate.failure']='The email is already used';i18n['forms.addressLine1']='Adres';i18n['forms.countrycode']='Vermeld de landcode indien u buiten Nederland woont';i18n['forms.validpassword']='Your password should contain one upper case letter, one lower case letter and one number.';i18n['forms.address']='Adres';i18n['forms.account']=' Rekeningnummer';i18n['forms.miss']='Mvr.';i18n['forms.country']='Land';i18n['forms.validmax']='You have reached maximum characters allowed.';i18n['forms.noscript']='Om deze formulieren weer te geven moet JavaScript ingeschakeld zijn';i18n['forms.validdate']='Ongeldig formaat datum toegevoegd (dd-mm-yyyy)';i18n['forms.mrs']='';i18n['forms.city']='Stad';i18n['forms.existing']='Bent u een bestaande cli\u00EBnt?';i18n['forms.validalpha']='Alleen letters toegestaan';i18n['forms.validUsername']='This username is unavailable. Please choose another.';i18n['forms.validphonenumber']='Vul een geldig telefoonnummer in';i18n['forms.phone']='Telefoon';i18n['forms.town']='Stad';i18n['forms.state']='Provincie';i18n['forms.validconfirmation']='Fields do not match';i18n['forms.name']='Naam';i18n['forms.email']='E-mailadres';i18n['forms.dr']='';i18n['forms.submiterror']='Form has failed to submit. Please contact IG directly.';i18n['forms.lastname']='Achternaam';i18n['forms.title']='';i18n['forms.firstname']='Voornaam';i18n['forms.validnumeric']='Alleen nummers toegestaan';i18n['forms.postcode']='Postcode';i18n['forms.ms']='';i18n['forms.mr']='Dhr.';i18n['forms.prof']='';i18n['forms.no']='Nee';i18n['forms.terms']='Ik heb de voorwaarden gelezen en begrepen';i18n['forms.required']='Dit is een verplicht veld';
+
+    
+var tagData = [[{"vendor":"Google","description":"Google Remarketing Everypage nojs","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"","type":"element","src":"http://www.googleadservices.com/pagead/conversion/__GOOGLEID__/?label=__GOOGLELABEL__&amp;guid=ON&amp;script=0","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["GOOGLEID","1037885815"],["GOOGLELABEL","1biwCOvb5QMQ98Lz7gM"]]},{"vendor":"Google","description":"Google every page tag","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","969707702"],["google_conversion_color",""],["google_conversion_label","O9XDCNrZlwcQtqGyzgM"],["google_custom_params","obj-window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]}],[{"vendor":"Cedexis","description":"Cedexis analysis of network management","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"js","func":"","scope":"everypage","segment":"ig_all","type":"script","src":"//radar.cedexis.com/1/12265/radar.js","secureSrc":"//radar.cedexis.com/1/12265/radar.js","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[]}],[{"vendor":"Everest","description":"AMO Search Retargeting","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"effp","scope":"everypage","segment":"ig_all","type":"script","src":"//www.everestjs.net/static/st.v2.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[["ef_segment","13538"],["ef_search_segment","13530"],["ef_userid","3219"],["ef_pixel_host","pixel.everesttech.net"],["ef_fb_is_app","0"],["ef_allow_3rd_party_pixels","1"],["ef_event_type","pageview"],["ef_pageview_properties",""]],"pre_vars":[],"src_vars":[]}],[{"vendor":"Drawbridge","description":"Drawbridge cookie mapping","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//p.adsymptotic.com/d/px/?_pid=13724&_psign=ae9ce5b020d32e3e92e1e6af5fc5312e&_puuid=#$$s_vi$$#","secureSrc":"//p.adsymptotic.com/d/px/?_pid=13724&_psign=ae9ce5b020d32e3e92e1e6af5fc5312e&_puuid=#$$s_vi$$#","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[]}],[{"vendor":"Misc","description":"Bat bing","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"ig_all","type":"script","src":"//bat.bing.com/bat.js","secureSrc":"//bat.bing.com/bat.js","forceCachedScript":false,"delay":"","channel":"","post_vars":[["__uetq","obj-(function f() {var o = {ti: \"4051597\"};o.q = window['uetq'],window['uetq'] = new UET(o),window['uetq'].push(\"pageLoad\")})()"]],"pre_vars":[],"src_vars":[]}],[{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=IN","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4283796"],["TYPE","clien007"],["CAT","clien230"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"CS=1","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4283796"],["TYPE","clien007"],["CAT","clien657"]]},{"vendor":"DoubleClick","description":"Doubleclick Floodlight (PUBLIC EVERYPAGE)","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//__SRC__.fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=random","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4283796"],["TYPE","sitew0"],["CAT","sitew0"],["ID",""]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CU","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4283796"],["TYPE","clien007"],["CAT","clien795"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=SH","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4283796"],["TYPE","clien007"],["CAT","clien694"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (DEMO)","cookie_name":"ID","cookie_value":"demo-account","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"ig_all","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4283796"],["TYPE","clien007"],["CAT","clien784"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=OP","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4283796"],["TYPE","clien007"],["CAT","clien740"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CO","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4283796"],["TYPE","clien007"],["CAT","clien352"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"A=1","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4283796"],["TYPE","clien007"],["CAT","clien950"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=BI","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4283796"],["TYPE","clien007"],["CAT","null"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=RA","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4283796"],["TYPE","clien007"],["CAT","clien862"]]}],[{"vendor":"Twitter","description":" Twitter universal website tag","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"js","func":"","scope":"everypage","segment":"ig_all","type":"script","src":"//a.c-dn.net/c/content/dam/publicsites/20/igcom/d/twitter-pixel-tag.js","secureSrc":"//a.c-dn.net/c/content/dam/publicsites/20/igcom/d/twitter-pixel-tag.js","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[]},{"vendor":"Twitter","description":"Week Ahead Conversion","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//analytics.twitter.com/i/adsct?txn_id=__TXNID__&p_id=Twitter","secureSrc":"//analytics.twitter.com/i/adsct?txn_id=__TXNID__&p_id=Twitter","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["TXNID","l6k5w"]]},{"vendor":"Twitter","description":"Week Ahead Conversion","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//analytics.twitter.com/i/adsct?txn_id=__TXNID__&p_id=Twitter","secureSrc":"//analytics.twitter.com/i/adsct?txn_id=__TXNID__&p_id=Twitter","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["TXNID","nu9nj"]]}],[{"vendor":"Facebook","description":"An alternative to the full JS tag, that uses their recommended noscript version. This is the Everypage one","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"https://www.facebook.com/tr?id=__VAR__&amp;ev=PixelInitialized","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","243233189194165"]]},{"vendor":"Facebook","description":"An alternative to the full JS tag, that uses their recommended noscript version.","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"site","segment":"ig_all","type":"element","src":"https://www.facebook.com/tr?id=__VAR__&amp;ev=PixelInitialized","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","243233189194165"]]},{"vendor":"Facebook","description":"Facebook Conversion Pixel Everypage David Spring","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//www.facebook.com/tr?id=__ID__&ev=__EV__&noscript=__NOSCRIPT__","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["ID","243233189194165"],["EV","ViewContent"],["NOSCRIPT","1"]]},{"vendor":"Facebook","description":"Facebook Conversion Pixel Everypage David Spring","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//www.facebook.com/tr?id=__ID__&ev=__EV__&noscript=__NOSCRIPT__","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["ID","468765006666851"],["EV","PageView"],["NOSCRIPT","1"]]}]];
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">CQURLInfo={"requestPath":"/content/igcom/nl_NL","extension":"html","selectors":[],"systemId":"c8e9067a-79aa-4945-9014-bf0391a036c7","runModes":"prod,crx3,nosamplecontent,uk,publish,publish-prod,crx3tar"};</script>
+<link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_shell.min.css" type="text/css">
+
+
+
+
+    <link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_common.min.css" type="text/css">
+
+    
+
+
+
+
+
+
+
+<!-- taken from https://mathiasbynens.be/notes/touch-icons -->
+
+<!-- For iPhone 6 Plus with @3Ã display: -->
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-180x180-precomposed.png">
+<!-- For iPad with @2Ã display running iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-152x152-precomposed.png">
+<!-- For iPad with @2Ã display running iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-144x144-precomposed.png">
+<!-- For iPhone with @2Ã display running iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-120x120-precomposed.png">
+<!-- For iPhone with @2Ã display running iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-114x114-precomposed.png">
+<!-- For the iPad mini and the first- and second-generation iPad (@1Ã display) on iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-76x76-precomposed.png">
+<!-- For the iPad mini and the first- and second-generation iPad (@1Ã display) on iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-72x72-precomposed.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-precomposed.png"><!-- 57Ã57px -->
+
+<meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@IGNederland">
+<meta name="twitter:creator" content="@IGNederland">
+<meta name="twitter:domain" content="www.IG.com">
+
+<meta name="twitter:app:name:iphone" content="">
+<meta name="twitter:app:id:iphone" content="">
+<meta name="twitter:app:url:iphone" content="">
+
+<meta name="twitter:app:name:ipad" content="">
+<meta name="twitter:app:url:ipad" content="">
+<meta name="twitter:app:id:ipad" content="">
+
+<meta name="twitter:app:name:googleplay" content="">
+<meta name="twitter:app:url:googleplay" content="">
+<meta name="twitter:app:id:googleplay" content="">
+
+
+
+</head>
+
+    
+
+
+
+
+
+<body class=' nl homepage-template wide-content-template responsive'>
+
+
+
+
+
+
+
+
+
+
+<div class="wrapper">
+    
+
+
+
+<div class="wrapper-header" data-swiftype-index="false">
+
+    
+
+
+
+
+
+
+    <div class="header clearfix">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="nt-strip" data-swiftype-index="false">
+    <div class="nt-strip__inner  single-secondary-nav-only">
+        
+            <div class="nt-strip__content-left nt-strip__dropdown-container">
+                <input type="checkbox" id="nt-strip__site-switcher-toggle" class="nt-strip__dropdown-toggle">
+                <label for="nt-strip__site-switcher-toggle">
+                    <span class="nt-strip__current-site">Meer van IG</span>
+                    <i class="icon icon--dropdown-chevron"></i>
+                </label>
+                <ul class="first-level">
+                    
+
+
+
+
+
+
+
+                    
+                        <li class="nt-strip__secondary-navigation">
+                            <ul class="second-level">
+                                
+
+
+
+
+
+
+
+    <li class="nt-strip__help-and-support">
+        <a class="" href="http://portal.ig.com/support/?websiteLocale=nl_NL&webSiteId=nlm">
+            <i class="icon icon--help-and-support"></i>
+            <span>Hulp</span>
+        </a>
+    </li>
+
+                            </ul>
+                        </li>
+                    
+                </ul>
+            </div>
+        
+        <div class="nt-strip__content-right nt-strip__dropdown-container">
+            <div class="nt-strip__secondary-navigation ">
+                <ul class="first-level">
+                    <li class="nt-strip__account-inbox">
+                        <a href="#">
+                            <i class="icon icon--inbox"></i>
+                            <span>Inbox</span>
+                        </a>
+                    </li>
+                    
+
+
+
+
+
+
+
+    <li class="nt-strip__help-and-support">
+        <a class="" href="http://portal.ig.com/support/?websiteLocale=nl_NL&webSiteId=nlm">
+            <i class="icon icon--help-and-support"></i>
+            <span>Hulp</span>
+        </a>
+    </li>
+
+                </ul>
+            </div>
+            <div id="account-controls" class="nt-strip__account-controls">
+                <div class="nt-strip__prospect">
+                    <ul>
+                        
+                            <li class="logged-out-cta">
+                                <a class="nt-strip__login-cta" href="/nl/login">
+                                    Inloggen
+                                </a>
+                            </li>
+                        
+                        
+                            <li class="logged-out-cta">
+                                <a class="nt-strip__signup-cta" href="/nl/open-een-rekening">
+                                    Open een rekening
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </div>
+                <div class="nt-strip__account-dropdown nt-strip__dropdown-container"
+                     data-translation-isa-accounts="ISA accounts"
+                     data-translation-sipp-accounts="SIPP accounts"
+                     data-translation-leveraged-accounts="Spreadbet & CFDs"
+                     data-translation-sharedealing-accounts="Aandelenrekening"
+                     data-translation-smart-portfolio-accounts="Smart Portfolio"
+                     data-translation-funds="Tegoed"
+                     data-translation-value="Totale waarde"
+                     data-translation-profit="Winsten">
+
+                    
+
+                    <input type="checkbox" id="nt-strip__account-dropdown-toggle" class="nt-strip__dropdown-toggle" autocomplete="off">
+                    <label for="nt-strip__account-dropdown-toggle">
+                        <i class="icon icon--account"></i>
+                        <span>
+	                        <span class="nt-strip__account-name"></span>
+	                        <span>Mijn rekening</span>
+                        </span>
+                        <i class="icon icon--dropdown-chevron"></i>
+                    </label>
+                    <ul class="first-level">
+                        <li class="nt-strip__account-information"></li>
+                        <li class="myig_c myig" id="myig-link-main">
+                            <a class="account-myig" href="#">
+                                My IG
+                            </a>
+                        </li>
+                        
+                            <li class="nt-strip__secondary-navigation">
+                                <ul class="second-level">
+                                    <li class="nt-strip__account-inbox">
+                                        <a href="#">
+                                            <i class="icon icon--inbox"></i>
+                                            <span>Inbox</span>
+                                        </a>
+                                    </li>
+                                    
+
+
+
+
+
+
+
+    <li class="nt-strip__help-and-support">
+        <a class="" href="http://portal.ig.com/support/?websiteLocale=nl_NL&webSiteId=nlm">
+            <i class="icon icon--help-and-support"></i>
+            <span>Hulp</span>
+        </a>
+    </li>
+
+                                </ul>
+                            </li>
+                        
+                        
+                        <li>
+                            <a class="nt-strip__account-logout account-logout" id="account-logout" href="https://deal.ig.com/dealing/pd/websiteLogout.htm">
+                                Uitloggen
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+    <div class="main-head">
+        
+
+
+
+
+
+
+
+
+
+
+<div class="fluid-width inner">
+    <div class="header__top">
+        <div class="logo__container">
+            <a class="logo-link" href="/nl">
+                <span class="screenreader">IG</span>
+            </a>
+        </div>
+        
+            <div class="header__navigation">
+                
+                    
+                        <div class="menu-mobile jsMenuMobile" id="menu-mobile">
+                            <span id="hamburger-icon" class="hamburger-icon"></span>
+                            <span class="screenreader">Menu</span>
+                        </div>
+                    
+                
+
+                
+
+
+
+
+
+
+<div class="main-menu-container jsMainMenu">
+    
+
+        <ul class="menu first-level-menu" data-localepath="nl_NL">
+
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/nl/forex">
+                        Forex
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/nl/forex" data-mainlink="Overzicht">
+                                    Forex
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/forex/forex-kosten">
+                                        Forex spreads en mogelijkheden
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/forex/forex-direct">
+                                        Forex Direct
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/forex/voordelen-van-het-handelen-in-forex">
+                                        Voordelen van het handelen in forex
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/forex/voorbeelden-van-het-handelen-in-forex">
+                                        Voorbeelden van het handelen in forex
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/forex/wat-doet-de-forex-markten-bewegen">
+                                        Wat doet de forex markten bewegen?
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/forex/hoe-te-handelen-in-forex">
+                                        Hoe te handelen in forex
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/forex/hoe-werkt-valutahandel">
+                                        Hoe werkt valutahandel?
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/nl/indices">
+                        Indices
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/nl/indices" data-mainlink="Overzicht">
+                                    Indices
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/indices/indices-kosten">
+                                        Spreads en mogelijkheden indices
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/nl/aandelen">
+                        Aandelen
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/nl/aandelen" data-mainlink="Overzicht">
+                                    Aandelen
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/aandelen/aandelen-kosten">
+                                        Kosten en mogelijkheden aandelen
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/aandelen/aandelen-dma">
+                                        Aandelen-DMA
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/aandelen/buiten-handelsuren-aandelen">
+                                        Voor- en nabeurs in aandelen handelen bij IG
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/aandelen/hoe-te-handelen-in-aandelen">
+                                        Hoe te handelen in aandelen
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/aandelen/spotify-ipo">
+                                        Spotify IPO
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/nl/grondstoffen">
+                        Grondstoffen
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/nl/grondstoffen" data-mainlink="Overzicht">
+                                    Grondstoffen
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/grondstoffen/grondstoffen-kosten">
+                                        Spreads en mogelijkheden grondstoffen 
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/grondstoffen/olie">
+                                        Handelen in olie
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/nl/andere-markten">
+                        Andere markten
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/nl/andere-markten" data-mainlink="Overzicht">
+                                    Andere markten
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/digitale100-bij-ig">
+                                        Digitale 100
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/opties-aanbod">
+                                        Opties: ons uitgebreide aanbod
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/obligaties">
+                                        Obligaties
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/handelen-rentetarieven">
+                                        Rentetarieven
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/sectoren-handelen">
+                                        Sectoren
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/trading-etps">
+                                        ETP's
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/beleggen-op-zondag">
+                                        Handelen in het weekend
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/ipo-list">
+                                        IPO's / Beursgangen
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/handelen-in-cryptocurrency">
+                                        Handelen in cryptocurrency 
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/nl/ons-aanbod">
+                        IG aanbod
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/nl/ons-aanbod" data-mainlink="Overzicht">
+                                    IG aanbod
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/cfd-trading">
+                                        Handelen in CFD's
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/beleggen-in-aandelen">
+                                        Beleggen in aandelen
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/tarieven">
+                                        Onze tarieven
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/premium-client">
+                                        Bent ù onze volgende Premium Client?
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/zakelijke-rekening">
+                                        Zakelijke rekening
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/whats_new">
+                                        Wat is er nieuw bij IG?
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/nl/handelsplatformen">
+                        Handelsplatformen en apps
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/nl/handelsplatformen" data-mainlink="Overzicht">
+                                    Handelsplatformen en apps
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/desktop-handelsplatform">
+                                        Ons web-based platform
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/beleggingsapps">
+                                        Trading apps
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/handelsplatform-metatrader">
+                                        MetaTrader 4
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/geavanceerde-handelsplatformen">
+                                        Geavanceerde platformen
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/mogelijkheden-platform">
+                                        De mogelijkheden met ons platform
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/vergelijk-handelsplatformen">
+                                        Vergelijk de verschillende platformen
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/nl/ig-financiele-markten">
+                        Inzicht
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/nl/ig-financiele-markten" data-mainlink="Overzicht">
+                                    Inzicht
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/marktgegevens">
+                                        Marktgegevens
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/nieuws-en-analyse">
+                                        Nieuws en analyse
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/ig-kalender">
+                                        Economische kalender
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/ig-marktscreener">
+                                        Marktscreener
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/financiele-gebeurtenissen">
+                                        Financiële gebeurtenissen
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/nl/opleiding">
+                        IG Training
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/nl/opleiding" data-mainlink="Overzicht">
+                                    IG Training
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/introductie-programma">
+                                        IG-introductieprogramma
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/woordenboek-handelstermen">
+                                        Woordenboek handelstermen
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/seminars">
+                                        Webinars & Seminars
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/training-en-kennis">
+                                        Kennis
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/risicos-cfds">
+                                        Wat zijn de risico's?
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/nl/risicomanagement">
+                                        Risicomanagement
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+        </ul>
+    
+</div>
+
+            </div>
+        
+        <div class="header__right">
+            <div class="header__international ">
+                
+                <div class="language-switcher parbase">
+
+
+
+
+
+
+</div>
+
+            </div>
+            <div class="search__container">
+            
+                
+                    
+
+
+
+
+
+
+
+
+    
+        
+            <div class="st-search__tooltip-icon"></div>
+        
+        <div class="st-search st-search--tooltip" data-install.key="" data-website.country.title="NL" data-engine.key="LK48HwNywzDTry8RjMC_" data-page.types.to.search="all" data-no.background="false" data-hide.images.and.url="false">
+            <div class="st-search__wrapper">
+            
+                <label class="st-search__title">Zoeken</label>
+            
+            <form class="st-search__searchbox">
+                <input type="text" class="st-search__searchbox-input" autocomplete="off">
+                <input class="st-search__searchbox-submit" type="submit" value=" ">
+            </form>
+                <div class="st-search__results-wrapper">
+                    
+                    <div class="st-search__results"></div>
+                    <div class="st-search__no-results">Geen zoekresultaten gevonden</div>
+                    
+                        <div class="st-search__redirect">
+                            <p class="cta">
+                                <a class="normal" data-base.url="/nl/zoekresultaten" href="">Meer zoekresultaten bekijken</a>
+                            </p>
+                        </div>
+                    
+                        <div class="st-search__pagination">
+                            <a>1</a>
+                            <a>2</a>
+                            <a>3</a>
+                            <a>4</a>
+                            <a>5</a>
+                            <a>6</a>
+                            <a>7</a>
+                            <a>8</a>
+                            <a>9</a>
+                            <a>10</a>
+                        </div>
+                </div>
+            </div>
+            <div class="market-search" data-locale="nl_NL" data-defaultNumMarketResults="5">
+                <div class="market-search__wrapper">
+                    <div class="market-search__title">
+                        Related search:
+                        <span class="link-related-search" class="enhanced">
+                            <a href="#">Market Data</a>
+                        </span>
+                    </div>
+                    <div class="market-search__results">
+                        <table class="market-search__table">
+                            <thead>
+                            <tr>
+                                <th class="market-name">
+                                    <span>
+                                        Market Data
+                                    </span>
+                                </th>
+                                <th class="market-type">
+                                    <span>
+                                        Type of market
+                                    </span>
+                                </th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="link-market-search-block">
+                        <div class="link-market-search"><a href="#">See all Market data search results &gt;</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    
+
+
+
+
+
+                
+                
+            
+            </div>
+        </div>
+    </div>
+    
+        
+
+
+
+
+
+
+
+    <div class="main-home-line"></div>
+
+
+
+    
+</div>
+    </div>
+</div>
+
+    
+
+
+
+
+    
+
+
+
+
+    <div class="content-wrapper">
+
+        
+
+        
+
+
+        
+
+
+
+
+
+
+
+
+
+<div class="value-proposition-component value-proposition-banner parbase">
+
+
+
+
+
+
+
+
+    <div class="valuePropositionBanner">
+        
+            <div>
+                <span class="white-icon heritage"></span>
+                
+                    <a href="/nl/over-ig">
+                
+                Opgericht in 1974
+                
+                    </a>
+                
+            </div>
+        
+            <div>
+                <span class="white-icon clients"></span>
+                
+                    <a href="/nl/over-ig">
+                
+                Meer dan 185,000 cliënten wereldwijd
+                
+                    </a>
+                
+            </div>
+        
+            <div>
+                <span class="white-icon markets"></span>
+                
+                    <a href="/nl/over-ig">
+                
+                Toegang tot 15,000 markten
+                
+                    </a>
+                
+            </div>
+        
+    </div>
+</div>
+
+
+<div class="content-parsys parsys"><div class="mboxPanelParent section">
+
+
+
+<div class="mbox-parsys parsys">
+
+
+
+
+
+<div class="mboxAllContent" data-content='[{"path":"/content/igcom/nl_NL/jcr:content/content-parsys/mbox_panel_parent_0/mbox-parsys/mbox_panel_child.1522741777507.html","segment":"tt_none","mode":"any"},{"path":"/content/igcom/nl_NL/jcr:content/content-parsys/mbox_panel_parent_0/mbox-parsys/mbox_panel_child_0.1522741777507.html","segment":"tt_prospects_b","mode":"any"},{"path":"/content/igcom/nl_NL/jcr:content/content-parsys/mbox_panel_parent_0/mbox-parsys/mbox_panel_child_1.1522741777507.html","segment":"tt_prospects_c","mode":"any"}]'></div><div class="mboxPanel mbox-hidden">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tt_none mboxPanelChild" data-segment="tt_none">
+
+    
+    <div class="mp-parsys2 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            white dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h1 class="heading" style="text-align: center;">Sluit u aan bij ‘s werelds nr.1 CFD-aanbieder<sup><span style="font-size: 36px;">*</span></sup></h1>
+
+<p class="primary-standfirst" style="text-align: center;"><strong>Start met handelen&nbsp;in&nbsp;meer dan 15,000 internationale markten, waaronder forex, aandelen, bitcoin en meer. Profiteer van award-winnende technologie, professionele klantenservice&nbsp;en 40 jaar marktervaring.</strong></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            white dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-center">
+        <a class="button  button-green js_target" href="/nl/open-een-rekening" target="_self">
+                Open nu een rekening
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/mbox_panel_parent_0/mbox-parsys/mbox_panel_child/mp-parsys2/content_component_bc.adaptive.320.medium.jpg/1510328080802.jpg"  data-width="1200" data-height="334" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/mbox_panel_parent_0/mbox-parsys/mbox_panel_child/mp-parsys2/content_component_bc.adaptive.320.high.jpg/1510328080802.jpg"    data-width="1200" data-height="334" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/mbox_panel_parent_0/mbox-parsys/mbox_panel_child/mp-parsys2/content_component_bc.adaptive.480.high.jpg/1510328080802.jpg"    data-width="1200" data-height="334" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/mbox_panel_parent_0/mbox-parsys/mbox_panel_child/mp-parsys2/content_component_bc.adaptive.476.high.jpg/1510328080802.jpg"    data-width="1200" data-height="334" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/mbox_panel_parent_0/mbox-parsys/mbox_panel_child/mp-parsys2/content_component_bc.adaptive.620.high.jpg/1510328080802.jpg"    data-width="1200" data-height="334" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/mbox_panel_parent_0/mbox-parsys/mbox_panel_child/mp-parsys2/content_component_bc.adaptive.full.high.jpg/1510328080802.jpg"   data-width="1200" data-height="334" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+                   <img src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/mbox_panel_parent_0/mbox-parsys/mbox_panel_child/mp-parsys2/content_component_bc.adaptive.320.low.jpg/1510328080802.jpg" alt="">
+                   
+           </noscript>
+    </span>
+
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+</div></div>
+</div>
+
+</div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    white
+                    dark-text-theme
+                    col-padding
+                    col-margin-bot
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-66">
+
+        <div class="col col1 parsys"><div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    
+                    
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-444">
+
+        <div class="col col1 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            content-margin-bot
+            
+            js_clickable 
+            
+            centered-image-auto-with
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col1/content_component.adaptive.320.medium.jpg/1522225643102.jpg"  data-width="582" data-height="280" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col1/content_component.adaptive.320.high.jpg/1522225643102.jpg"    data-width="582" data-height="280" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col1/content_component.adaptive.480.high.jpg/1522225643102.jpg"    data-width="582" data-height="280" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col1/content_component.adaptive.476.high.jpg/1522225643102.jpg"    data-width="582" data-height="280" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col1/content_component.adaptive.620.high.jpg/1522225643102.jpg"    data-width="582" data-height="280" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col1/content_component.adaptive.full.high.jpg/1522225643102.jpg"   data-width="582" data-height="280" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+                   <img src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col1/content_component.adaptive.320.low.jpg/1522225643102.jpg" alt="">
+                   
+           </noscript>
+    </span>
+
+            </div><div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p class="primary-standfirst" style="text-align: center;"><a href="/nl/seminars">Webinars</a></p>
+
+<p style="text-align: center;">Ondersteun uw handelsactiviteiten met de webinars van IG.</p>
+
+<p style="text-align: center;"><strong><span>IG website &amp; platform tour</span></strong></p>
+
+<p style="text-align: center;"><span>12.04.2018 | 16:00 - 17:00 uur</span></p>
+
+<p style="text-align: center;"><span>17.04.2018 | 16:00 - 17:00 uur</span></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col2/content_component.adaptive.320.medium.jpg/1522741777483.jpg"  data-width="874" data-height="400" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col2/content_component.adaptive.320.high.jpg/1522741777483.jpg"    data-width="874" data-height="400" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col2/content_component.adaptive.480.high.jpg/1522741777483.jpg"    data-width="874" data-height="400" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col2/content_component.adaptive.476.high.jpg/1522741777483.jpg"    data-width="874" data-height="400" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col2/content_component.adaptive.620.high.jpg/1522741777483.jpg"    data-width="874" data-height="400" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col2/content_component.adaptive.full.high.jpg/1522741777483.jpg"   data-width="874" data-height="400" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+               <a href="/nl/aandelen/spotify-ipo" title="" target="_self">
+                   
+                   <img src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/columns/col%20col2/content_component.adaptive.320.low.jpg/1522741777483.jpg" alt="">
+                   
+               </a>
+               
+           </noscript>
+    </span>
+
+            </div><div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             Handel in Spotify
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <ul>
+	<li>Spotify gaat vandaag naar de beurs. Neem een long of short positie in bij&nbsp;IG zodra de markt opent.</li>
+	<li>Onze huidige grey market&nbsp;prijs (ca. 28,5$ miljard) indiceert een aandelenprijs van 161$ vs een referentieprijs van 132$ (NYSE).</li>
+</ul>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class="button  button-ghost-black js_target" href="/nl/aandelen/spotify-ipo" target="_self">
+                Meer info
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+            <div class="col col3 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            content-no-border
+            remove-left-paddingy
+            text-position-top
+            text-no-image
+            imagesize50
+            content-margin-bot
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             <span class="large-label">Meer van IG</span>
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p class="primary-standfirst"><a href="/nl/de-nieuwsbrief-van-IG">IG Marktupdate</a></p>
+
+<p>Blijf op de hoogte van de beurzen en schrijf u in voor de dagelijkse marktupdate van Marktanalist Ron van der Does. &nbsp;</p>
+
+<p class="heading secondary-standfirst">Ervaar zelf de beurs</p>
+
+<p>Ontmoet Marktanalist Ron van der Does voor een kijkje achter de schermen op de Nederlandse beurs. U hoeft geen IG cliënt te zijn - e-mail naar&nbsp;<span><a href="mailto:info.nl@ig.com">info.nl@ig.com</a>&nbsp;</span>of bel naar&nbsp;<span>020-794 6610</span>.</p>
+
+<p class="primary-standfirst"><a href="/nl/grafieken">Geavanceerde grafieken</a></p>
+
+<p>Wij hebben de juiste grafieken voor iedere soort belegger, in iedere situatie.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/content_component_78865720.adaptive.320.medium.JPG/1518511966160.JPG"  data-width="320" data-height="230" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/content_component_78865720.adaptive.320.high.JPG/1518511966160.JPG"    data-width="320" data-height="230" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/content_component_78865720.adaptive.480.high.JPG/1518511966160.JPG"    data-width="320" data-height="230" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/content_component_78865720.adaptive.476.high.JPG/1518511966160.JPG"    data-width="320" data-height="230" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/content_component_78865720.adaptive.620.high.JPG/1518511966160.JPG"    data-width="320" data-height="230" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/content_component_78865720.adaptive.full.high.JPG/1518511966160.JPG"   data-width="320" data-height="230" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+                   <img src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_420967786/col%20col1/content_component_78865720.adaptive.320.low.JPG/1518511966160.JPG" alt="">
+                   
+           </noscript>
+    </span>
+
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys">
+</div>
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    
+                    
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-12">
+
+        <div class="col col1 parsys">
+</div>
+
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    
+                    col-margin-bot
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-106">
+
+        <div class="col col1 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h2 class="heading" style="text-align: center;">Handel in meer dan&nbsp;15,000 markten met onze geavanceerde mogelijkheden</h2>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    
+                    
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-444">
+
+        <div class="col col1 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h2 class="heading" style="text-align: center;">Beleggen in aandelen</h2>
+
+<p style="text-align: center;">Koop en verkoop aandelen vanaf €5,- via een aandelenrekening.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-center">
+        <a class="button  button-ghost-black js_target" href="/nl/beleggen-in-aandelen" target="_self">
+                Beleggen in aandelen
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h2 class="heading" style="text-align: center;">Handelen in CFD's</h2>
+
+<p style="text-align: center;">Koop en verkoop&nbsp;contracts for difference, u opent een contract voor het verschil in prijs van een markt.&nbsp;&nbsp;</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-center">
+        <a class="button  button-ghost-black js_target" href="https://www.ig.com/nl/cfd-trading" target="_self">
+                Handelen in CFD's
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+            <div class="col col3 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h2 class="heading" style="text-align: center;">Handelen in forex</h2>
+
+<p style="text-align: center;">Handel meer dan&nbsp;90 FX paren&nbsp;via CFD's. Toegang tot belangrijke markten, zoals EUR/USD&nbsp;vanaf 0,6 ptn.</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-center">
+        <a class="button  button-ghost-black js_target" href="https://www.ig.com/nl/forex" target="_self">
+                Handelen in forex
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="live-prices section">
+
+
+
+
+
+
+
+<script type="text/javascript">
+    PS.util.jspVars.set("isManualSiteIdOverrideEnabled")("false");
+</script>
+
+
+
+</div>
+<div class="live-prices section">
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    PS.util.jspVars.set("isManualSiteIdOverrideEnabled")("false");
+</script>
+<div class="livePricesWrapper top50">
+    
+        
+        
+            
+                <h2 class="heading">Live koersen</h2>
+            
+            <table cellpadding="0" cellspacing="0" class="livePriceTable withMessage"
+                   data-mobileLinks="true"
+                   data-epics="{IX.D.AEX.IFD.IP=, IX.D.DAX.IFD.IP=, IX.D.DOW.IFD.IP=, CS.D.BITCOIN.CFD.IP=SCALED, CS.D.EURUSD.CFD.IP=SCALED, CS.D.EURJPY.CFD.IP=SCALED, CS.D.CFDGOLD.CFDGC.IP=, CC.D.CL.UNC.IP=, UA.D.AAPL.CASH.IP=PUBLIC_SCALED}"
+                   data-columns="V2-F-BID,OFR,CPT"
+                   data-lscore="https://a.c-dn.net/b/0wNpa0.js#lightstreamer.6.1.4.min.js"
+                   data-time ="false"
+                   data-streaming="//a.c-dn.net/c/etc/designs/onedomain/clientlibs_ps_part/js/libs/wt-fe-clientstreaming-streaming-with-dependencies.min.js"
+                   data-siteid="nlm"
+                   data-sitecode="nl"
+                   data-siteoverrideid=""
+                   data-siteoverridecountry="" >
+            <thead>
+            <tr>
+                <th class="first">Markets</th>
+                
+                    <th>Verkoop</th>
+                
+                    <th>Koop</th>
+                
+                    <th class="lastLpColumn">Verandering</th>
+                
+            </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/nl/indices/markten-indices/nederland-25">Nederland 25</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                    <td class="message" colspan="3" rowspan="9">
+                                        <div source="lightstreamer" table="list" data-item="0" data-field="V2-F-BID">
+                                            liveprices.javascriptrequired
+                                        </div>
+                                    </td>
+                                
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="0" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="0" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/nl/indices/markten-indices/duitsland-30">Duitsland 30</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="1" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="1" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="1" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/nl/indices/markten-indices/wall-street">Wall Street</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="2" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="2" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="2" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/nl/forex/markten-forex/bitcoin-1">Bitcoin ($)</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="3" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="3" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="3" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/nl/forex/markten-forex/eur-usd">Spot FX EUR/USD</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="4" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="4" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="4" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/nl/forex/markten-forex/eur-jpy">Spot FX EUR/JPY</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="5" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="5" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="5" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/nl/grondstoffen/markten-grondstoffen/spot-goud">Spot Goud</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="6" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="6" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="6" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/nl/grondstoffen/markten-grondstoffen/us-light-crude">US Light Crude</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="7" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="7" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="7" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/nl/aandelen/markten-aandelen/apple-inc-AAPL-US">Apple Inc (All Sessions)</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="8" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="8" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="8" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+            </tbody>
+            </table>
+            
+                <div class="disclaimer" data-swiftype-index="false">
+                        <p>Bovenstaande&nbsp;prijzen zijn&nbsp;onderhevig aan de&nbsp;<a href="/nl/site-terms-and-conditions">Algemene Voorwaarden van onze website</a>. Koersen zijn uitsluitend&nbsp;indicatief.</p>
+
+                </div>
+            
+        
+    
+</div></div>
+
+</div>
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    white
+                    dark-text-theme
+                    
+                    col-margin-bot
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-444">
+
+        <div class="col col1 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            white dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col1/content_component.adaptive.320.medium.png/1513000628682.png"  data-width="400" data-height="53" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col1/content_component.adaptive.320.high.png/1513000628682.png"    data-width="400" data-height="53" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col1/content_component.adaptive.480.high.png/1513000628682.png"    data-width="400" data-height="53" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col1/content_component.adaptive.476.high.png/1513000628682.png"    data-width="400" data-height="53" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col1/content_component.adaptive.620.high.png/1513000628682.png"    data-width="400" data-height="53" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col1/content_component.adaptive.full.high.png/1513000628682.png"   data-width="400" data-height="53" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+                   <img src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col1/content_component.adaptive.320.low.png/1513000628682.png" alt="">
+                   
+           </noscript>
+    </span>
+
+            </div><div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h2 class="heading" style="text-align: center;">24 uur per dag klantenservice</h2>
+
+<p class="heading" style="text-align: center;">Cliënten kunnen 24/7&nbsp;contact opnemen met onze behulpzame en professionele klantenservice</p>
+
+<p style="text-align: center;">Ga naar&nbsp;<a href="/nl/ons-aanbod">IG's diensten</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            white dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col2/content_component.adaptive.320.medium.png/1521563942671.png"  data-width="397" data-height="53" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col2/content_component.adaptive.320.high.png/1521563942671.png"    data-width="397" data-height="53" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col2/content_component.adaptive.480.high.png/1521563942671.png"    data-width="397" data-height="53" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col2/content_component.adaptive.476.high.png/1521563942671.png"    data-width="397" data-height="53" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col2/content_component.adaptive.620.high.png/1521563942671.png"    data-width="397" data-height="53" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col2/content_component.adaptive.full.high.png/1521563942671.png"   data-width="397" data-height="53" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+                   <img src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col2/content_component.adaptive.320.low.png/1521563942671.png" alt="">
+                   
+           </noscript>
+    </span>
+
+            </div><div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h2 class="heading" style="text-align: center;">&nbsp;IG Training</h2>
+
+<p style="text-align: center;">Verbeter uw&nbsp;<a href="/nl/cfd-trading">CFD-handelsvaardigheden</a><span style="text-align: center;">&nbsp;– of u nu een beginnende of ervaren belegger bent, wij helpen u op weg om uw doel te bereiken</span></p>
+
+<p style="text-align: center;">Bekijk&nbsp;<a href="/nl/opleiding">IG Training</a></p>
+
+<p>&nbsp;</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+            <div class="col col3 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            white dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col3/content_component.adaptive.320.medium.png/1513000658442.png"  data-width="403" data-height="53" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col3/content_component.adaptive.320.high.png/1513000658442.png"    data-width="403" data-height="53" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col3/content_component.adaptive.480.high.png/1513000658442.png"    data-width="403" data-height="53" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col3/content_component.adaptive.476.high.png/1513000658442.png"    data-width="403" data-height="53" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col3/content_component.adaptive.620.high.png/1513000658442.png"    data-width="403" data-height="53" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col3/content_component.adaptive.full.high.png/1513000658442.png"   data-width="403" data-height="53" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+                   <img src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns/col%20col3/content_component.adaptive.320.low.png/1513000658442.png" alt="">
+                   
+           </noscript>
+    </span>
+
+            </div><div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h2 class="heading" style="text-align: center;">Analyse van experts</h2>
+
+<p style="text-align: center;">&nbsp;Krijg belangrijk inzicht van onze Marktanalisten&nbsp;– marktnieuws, handelsmogelijkheden en meer</p>
+
+<p style="text-align: center;">Bekijk&nbsp;<a href="/nl/nieuws-en-analyse">nieuws en&nbsp;analyse</a></p>
+
+<p>&nbsp;</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-width
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h2 style="text-align: center;">Sluit u aan bij meer dan 185,800 IG cliënten - open vandaag nog gratis een rekening</h2>
+
+<h3 style="text-align: center;">&nbsp;</h3>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    
+                    
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-444">
+
+        <div class="col col1 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col1/content_component.adaptive.320.medium.png/1510327383088.png"  data-width="402" data-height="55" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col1/content_component.adaptive.320.high.png/1510327383088.png"    data-width="402" data-height="55" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col1/content_component.adaptive.480.high.png/1510327383088.png"    data-width="402" data-height="55" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col1/content_component.adaptive.476.high.png/1510327383088.png"    data-width="402" data-height="55" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col1/content_component.adaptive.620.high.png/1510327383088.png"    data-width="402" data-height="55" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col1/content_component.adaptive.full.high.png/1510327383088.png"   data-width="402" data-height="55" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+                   <img src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col1/content_component.adaptive.320.low.png/1510327383088.png" alt="">
+                   
+           </noscript>
+    </span>
+
+            </div><div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading" style="text-align: center;">Vul het formulier in</h3>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col2/content_component.adaptive.320.medium.png/1510327400515.png"  data-width="397" data-height="55" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col2/content_component.adaptive.320.high.png/1510327400515.png"    data-width="397" data-height="55" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col2/content_component.adaptive.480.high.png/1510327400515.png"    data-width="397" data-height="55" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col2/content_component.adaptive.476.high.png/1510327400515.png"    data-width="397" data-height="55" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col2/content_component.adaptive.620.high.png/1510327400515.png"    data-width="397" data-height="55" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col2/content_component.adaptive.full.high.png/1510327400515.png"   data-width="397" data-height="55" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+                   <img src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col2/content_component.adaptive.320.low.png/1510327400515.png" alt="">
+                   
+           </noscript>
+    </span>
+
+            </div><div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading" style="text-align: center;">Stort geld op uw rekening</h3>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+            <div class="col col3 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col3/content_component.adaptive.320.medium.png/1510327434238.png"  data-width="403" data-height="55" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col3/content_component.adaptive.320.high.png/1510327434238.png"    data-width="403" data-height="55" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col3/content_component.adaptive.480.high.png/1510327434238.png"    data-width="403" data-height="55" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col3/content_component.adaptive.476.high.png/1510327434238.png"    data-width="403" data-height="55" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col3/content_component.adaptive.620.high.png/1510327434238.png"    data-width="403" data-height="55" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col3/content_component.adaptive.full.high.png/1510327434238.png"   data-width="403" data-height="55" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+                   <img src="//a.c-dn.net/c/content/igcom/nl_NL/_jcr_content/content-parsys/columns_1011817397/col%20col3/content_component.adaptive.320.low.png/1510327434238.png" alt="">
+                   
+           </noscript>
+    </span>
+
+            </div><div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading" style="text-align: center;">Ga de markten op</h3>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    
+                    col-margin-bot
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-4444">
+
+        <div class="col col1 parsys">
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-center">
+        <a class="button  button-ghost-black js_target" href="/nl/demo-rekening" target="_self">
+                Open een demo
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+        <div class="cta bottom cta-sec freetext">
+                <p style="text-align: center;"><span style="color: rgb(85, 85, 85); text-align: center; background-color: rgb(255, 255, 255);">Directe toegang, risicovrij, virtueel saldo van&nbsp;€100.000,-</span></p>
+
+        </div>
+    
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+
+        
+            <div class="col col3 parsys"><div class="promo-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-center">
+        <a class="button  button-green js_target" href="/nl/open-een-rekening" target="_self">
+                Open een rekening
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+        <div class="cta bottom cta-sec freetext">
+                <p style="text-align: center;"><span style="text-align: center; background-color: rgb(255, 255, 255);">Gratis een rekening openen, geen downloads, snel toegang tot de markten</span></p>
+
+        </div>
+    
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+            <div class="col col4 parsys">
+</div>
+
+        
+    </div>
+</div>
+
+</div>
+<div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            bg-none 
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p><sup>*</sup> Gebaseerd op inkomsten, exclusief FX (Bron: Published Financial Statements, februari&nbsp;2018).</p>
+
+<p>&nbsp;</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+    </div>
+
+    
+        
+        
+            
+
+
+
+
+
+
+
+
+<div class="footer-wrapper clearfix" data-swiftype-index="false">
+    <div class="footer">
+
+        <div class="footer-promos">
+            <div class="footer-promos-parsys iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-promos-parsys iparsys parsys"></div>
+</div>
+</div>
+
+        </div>
+
+        <div class="footer-main">
+
+            <div class="footer-menu ">
+                <div class="footer-menu-parsys iparsys parsys"><div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    
+                    
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-4444">
+
+        <div class="col col1 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/nl/ons-aanbod">Markten</a></h3>
+
+<p class="heading"><a href="/nl/forex">Forex</a></p>
+
+<p><a href="/nl/indices">Indices</a></p>
+
+<p><a href="/nl/aandelen">Aandelen</a></p>
+
+<p><a href="/nl/grondstoffen">Grondstoffen</a></p>
+
+<p><a href="/nl/andere-markten">Andere markten</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/nl/productvoorwaarden">Mogelijkheden</a></h3>
+
+<p class="heading"><a href="/nl/cfd-trading">Onze CFD's</a></p>
+
+<p><a href="/nl/beleggen-in-aandelen">Beleggen in aandelen</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+
+        
+            <div class="col col3 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/nl/handelsplatformen">Handelsplatformen</a></h3>
+
+<p class="heading"><a href="/nl/desktop-handelsplatform">Web-based platform</a></p>
+
+<p><a href="/nl/beleggingsapps">Beleggingsapps</a></p>
+
+<p><a href="/nl/geavanceerde-handelsplatformen">Geavanceerde platformen</a></p>
+
+<p><a href="/nl/vergelijk-handelsplatformen">Vergelijk platformen</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+            <div class="col col4 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/nl/nieuws-en-analyse">Nieuws en analyses</a></h3>
+
+<p class="heading"><a href="/nl/igplayer">IG Player</a></p>
+
+<p><a href="/nl/nieuws-en-analyse">Het laatste nieuws</a></p>
+
+<p>&nbsp;</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+    </div>
+</div>
+
+</div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-menu-parsys iparsys parsys"></div>
+</div>
+</div>
+
+            </div>
+
+            
+                <div class="footer-contact">
+                    <div class="footer-contact-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/nl/contact-opnemen">Neem contact met ons op</a></h3>
+
+<p>Nieuwe cliënt:</p>
+
+<p><a href="tel:020-794 6610">020-794 6610</a></p>
+
+<p>Bestaande cliënt:</p>
+
+<p><a href="tel:0800-295 0001">0800-295 0001</a></p>
+
+<p>Tweet ons:</p>
+
+<p>&nbsp;<a href="https://twitter.com/IGNederland" target="_blank">@IGNederland</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-contact-parsys iparsys parsys"></div>
+</div>
+</div>
+
+                </div>
+            
+
+            <div class="footer-bottom">
+                <div class="footer-links">
+                    <div>
+                        <a class="footer-international flag flag-nl" href="https://www.ig.com/?rc=true">NL
+                        </a>
+                    </div>
+                    <div class="footer-links-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p><a href="/nl">IG</a>&nbsp;|&nbsp;<a href="/nl/sitemap-ig">Sitemap</a>&nbsp;| <a href="/nl/algemene-voorwaarden">Algemene Voorwaarden</a>&nbsp;| <a href="/nl/privacy">Privacy</a> | <a href="http://portal.ig.com/support/?websiteLocale=nl_NL&amp;webSiteId=nlm">Hulp en&nbsp;ondersteuning&nbsp;</a>| <a href="/nl/over-ig">Over IG</a>&nbsp;|&nbsp;<a href="/nl/cookies">Cookies</a> &nbsp;|&nbsp;<a href="/nl/verwijs-een-vriend">Introductie-actie</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-links-parsys iparsys parsys"></div>
+</div>
+</div>
+
+                    <div class="footer-social sharebanner">
+                        <p>Volg ons online</p>
+                        <ul>
+                            
+                                <li class="social-icon facebook"><a href="https://www.facebook.com/IGNederland">Facebook</a></li>
+                            
+                            
+                                <li class="social-icon twitter"><a href="https://twitter.com/IGNederland">Twitter</a></li>
+                            
+                            
+                                <li class="social-icon linkedin"><a href="https://nl.linkedin.com/company/ig-nederland">LinkedIn</a></li>
+                            
+                            
+                                <li class="social-icon youtube"><a href="https://youtube.com/IGNederland">YouTube</a></li>
+                            
+                            
+                                <li class="social-icon googleplus"><a href="https://plus.google.com/+IGNederland">Google Plus</a></li>
+                            
+                            
+                            
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="footer-disclaimer">
+            <div class="footer-disclaimer-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p><strong>Iedere vorm van beleggen is risicovol. Let er op dat u uw exposure beheert.&nbsp;CFD's zijn hefboomproducten en kunnen resulteren in verliezen die uw inleg overstijgen. De waarde van&nbsp;aandelen, ETF's en ETC's die via een aandelenrekening zijn&nbsp;gekocht,&nbsp;kan zowel stijgen als dalen. Dit&nbsp;betekent dat u minder terug kunt krijgen&nbsp;dan u heeft&nbsp;ingelegd.</strong></p>
+
+<p>CFD's en beleggen in aandelen wordt aangeboden door IG Markets Ltd. IG is een handelsnaam van IG Markets Ltd. Het geregistreerde adres is Cannon Bridge House, 25 Dowgate Hill, London, EC4R 2YA. IG Markets Ltd.&nbsp;is geautoriseerd en gereguleerd door de Britse FCA (nummer 195355).</p>
+
+<p>De informatie op deze pagina is niet gericht aan inwoners van de Verenigde Staten of België en is niet bedoelt voor de verspreiding van, of gebruik door, een persoon in een land of jurisdictie waar zulke verspreiding of gebruik in strijd is met de lokale wet of regelgeving.&nbsp;</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-disclaimer-parsys iparsys parsys"></div>
+</div>
+</div>
+
+        </div>
+
+        <div class="footer-colophon">
+            <div class="footer-year">
+                <div class="footer-logo">
+                    <a href="/nl">
+                        <img src="https://a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/schema_image.jpg" width="20"/>
+                    </a>
+                </div>
+                <div class="footer-year-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p>2003-2018</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-year-parsys iparsys parsys"></div>
+</div>
+</div>
+
+            </div>
+            <div class="footer-external-links">
+                <div class="footer-external-links-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p><a href="http://www.iggroup.com/corporate/careers.html">Vacatures </a>&nbsp;| <a href="/nl/marketing-partnership">Marketing partnership</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-external-links-parsys iparsys parsys"></div>
+</div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        
+    
+
+    
+
+
+
+
+
+
+
+    
+    
+        <div class="sticky-footer" id="sticky-footer" data-swiftype-index="false">
+            <div class="fluid-width">
+                <p class="disclaimer-text">
+                    Elke vorm van beleggen kent risico's. Denk er aan uw exposure te beheren. CFD's zijn hefboomproducten en kunnen resulteren in verliezen die uw inleg overstijgen. De waarde van via uw IG-aandelenrekening gekochte aandelen, ETF's, ETC's kan zowel dalen als stijgen, wat betekent dat u minder kunt terug krijgen dan u had ingelegd. 
+                </p>
+                
+            </div>
+        </div>
+    
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+        
+        <script type="text/javascript" src="https://a.c-dn.net/b/21o5MV/ig-fe-login-min.js"></script>
+        <script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_ps.min.js"></script>
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <script type="application/ld+json">
+            [{"@context":"http://schema.org","@type":"WebSite","name":"IG","alternateName":"IG Nederland","url":"https://www.ig.com/nl","potentialAction":{"@type":"SearchAction","target":"https://www.ig.com/nl/zoekresultaten?q={search_term}","query-input":"required name=search_term"}},{"@context":"http://schema.org","@type":"Organization","name":"IG","url":"https://www.ig.com/nl","logo":"https://a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/schema_image.jpg","sameAs":["https://www.facebook.com/IGNederland","https://twitter.com/IGNederland","https://nl.linkedin.com/company/ig-nederland","https://youtube.com/IGNederland","https://plus.google.com/+IGNederland","https://nl.wikipedia.org/wiki/IG_Group","https://www.wikidata.org/wiki/Q481356"],"contactPoint":[{"@type":"ContactPoint","telephone":"+31 20 794 6610","contactType":"customer support"}]}]
+
+        </script>
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            <script src="https://cdn.optimizely.com/js/5595260258.js"></script>
+        
+    
+
+</body>
+
+</html>

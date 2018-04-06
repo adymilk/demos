@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="icon" href="/images/favicon.ico">
+	<title> BCR</title>
+	<link rel="stylesheet" type="text/css" href="/css/libs.css">
+	<meta name="baidu-site-verification" content="k5h0uYCb8q" />
+	<!-- BA Custom CSS | Combine with Bootstrap Core CSS | Custom CSS | Language CSS -->
+<link href="/css/main.css" rel="stylesheet">
+
+<script src="/js/jquery-2.2.3.min.js"></script>
+<script src="/js/jquery-ui.js"></script>
+<!-- Bootstrap Tooltip requirement -->
+<script src="/js/tether.min.js"></script>
+<!-- Bootstrap Core JS -->
+<script src="/js/bootstrap.js"></script>
+<!-- Select2 -->
+<script src="/js/select2.min.js"></script>
+<!-- For Retina Display | This Javascript will look for alternative image file name ends with @2x  -->
+<script src="/js/effects/retina.js"></script>
+<!-- Parallax Background Image -->
+<script src="/js/effects/parallax.js"></script>
+<!-- Automatically Hide Navbar -->
+<script src="/js/effects/autohidingnavbar.js"></script>
+<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+<!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
+<script src="/js/ie-emulation-modes-warning.js"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+
+
+
+	<script>
+	$.noConflict();
+</script>
+<script src="/js/sm-widgets.js"></script>
+	<script charset="UTF-8" src="https://wpa.b.qq.com/cgi/wpa.php"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110479038-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-110479038-1');
+	</script>
+	
+	<!--Start of Zendesk Chat Script-->
+    
+	</script>
+	<!--End of Zendesk Chat Script-->
+</head>
+<body>
+
+	<section class="outterContainer">
+		<header class="navbar-fixed-top navbar-full clearfix">
+<div class="top-menu">
+	<ul class="top-menu-list">
+		<li class="top-menu-link">
+			<a href="https://webapp.bcrcorp.com.au/getting_started/sim?l=cn&cur=usd" class="client-login">开户注册</a>
+		</li>
+		<li class="top-menu-link">
+			<a href="http://client-portal.bcrcorp.com.au/lang/chi" class="client-login">登入MyBCR</a>
+		</li>
+
+			<li class="top-menu-link">
+			<a  href="javascript:void(0);" onclick="window.open('http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzgwMDE4NjgwN180ODA2OThfODAwMTg2ODA3XzJf','pagename','resizable,height=520,width=740'); return false;" >
+				<i class="fa fa-wechat"></i>&nbsp; 在线客服
+			</a>
+		</li>
+
+		<li class="top-menu-link">
+			<a href="http://client-portal.bcrcorp.com.au/lang/chi"><i class="fa fa-money"></i>&nbsp; 账户入金</a>
+		</li>
+		<li class="top-menu-link dropdown">
+			<a href="javascript:void(0)" ><i class="fa fa-language"></i>&nbsp; 简体中文 <i class="flag-icon flag-icon-cn"></i> </a>
+			
+		</li>
+		<li class="top-menu-link"><a href="https://bcrcorp.com.cn/about-us/contact-us/sim"><i class="fa fa-phone"></i>&nbsp; 联系我们</a></li>
+		<li class="top-menu-link currency-switch">
+			<input id="currency-switch" class="currency-toggle currency-toggle-yes-no" type="checkbox" 1>
+			<label for=""  data-off="USD"></label>
+		</li>
+	</ul>
+</div>
+
+<div class="wsmenucontainer clearfix">
+	<div class="overlapblackbg"></div>
+	<div class="wsmobileheader clearfix">
+		<a id="wsnavtoggle" class="animated-arrow"><span></span></a>
+		<a href="https://bcrcorp.com.cn/sim" class="smallogo"><img alt="Brand" src="/images/logo-small.png"></a>
+	</div>
+	<div class="header">
+		<div class="wrapper clearfix bigmegamenu">
+			<div class="logo clearfix">
+				<a href="https://bcrcorp.com.cn/sim">
+					<img alt="Brand" src="/images/logo.png" class="hidden-sm hidden-xs">
+				</a>
+			</div>
+			<nav class="wsmenu clearfix">
+				<ul class="mobile-sub wsmenu-list">
+					<li><a href="https://bcrcorp.com.cn/cfd-trading/sim" class="brackets">差价合约交易</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">交易差价合约</h3>
+								<p class="megamenu-intro-body">CFD（差价合约）交易允许客户利用快速变化的全球金融工具，以及外汇，贵金属，商品，指数和股票等市场价格的上涨或下跌进行交易。</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/sim" class="btn btn-primary">真实账户</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/demo-account/sim" class="btn btn-primary-outline">模拟账户</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">工具</li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-basics/sim"><i class="fa fa-angle-right"></i>差价合约介绍</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-trading-details/sim"><i class="fa fa-angle-right"></i>差价合约产品</a></li>
+								
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">交易账户</li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/account-overview/sim"><i class="fa fa-angle-right"></i>账户类型</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/sim"><i class="fa fa-angle-right"></i>标准账户</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/pro-account/sim"><i class="fa fa-angle-right"></i>白金账户</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/alpha-account/sim"><i class="fa fa-angle-right"></i>阿尔法账户</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/demo-account/sim"><i class="fa fa-angle-right"></i>模拟账户</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">交易细则</li>
+								
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/swap-information/sim"><i class="fa fa-angle-right"></i>利息图表</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/trading-examples/sim"><i class="fa fa-angle-right"></i>交易实例</a></li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="https://bcrcorp.com.cn/trading-platform/sim" class="brackets">交易平台</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">交易平台</h3>
+								<p class="megamenu-intro-body">BCR的BCR Trader平台基于MetaTrader4交易软件— CFD差价合约市场上最受欢迎的交易平台。 BCR Trader用于交易差价合约，分析金融市场和使用交易程序。</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-windows/sim" class="btn btn-primary">PC端/MAC</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-ios/sim" class="btn btn-primary-outline">移动端</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">桌上型电脑</li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-windows/sim"><i class="fa fa-angle-right"></i>BCR Trader Windows <i class="fa fa-windows"></i></a></li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mac/sim"><i class="fa fa-angle-right"></i>BCR Trader苹果 <i class="fa fa-apple"></i></a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">手机</li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-android/sim"><i class="fa fa-angle-right"></i>BCR Trader安卓 <i class="fa fa-android"></i></a></li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-ios/sim"><i class="fa fa-angle-right"></i>BCR Trader苹果手机 <i class="fa fa-apple"></i></a></li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-tablet/sim"><i class="fa fa-angle-right"></i>BCR Trader平板</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">使用者指南</li>
+								<!--
+								<li><a href="https://bcrcorp.com.cn/trading-platform/beginner-guide/sim"><i class="fa fa-angle-right"></i>Beginner Guide</a></li>
+								-->
+								<li class="coming-soon"><i class="fa fa-angle-right"></i>初学者指南</li>
+								<li>
+									<a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-guide/sim">
+										<i class="fa fa-angle-right"></i>BCR Trader指南
+									</a>
+								</li>
+								<li>
+									<a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mobile-guide/sim">
+										<i class="fa fa-angle-right"></i>手机版BCR Trader指南
+									</a>
+								</li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="https://bcrcorp.com.cn/client-resources/sim" class="brackets">客户资源</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">客户资源</h3>
+								<p class="megamenu-intro-body">无论是登录MyBCR查看您的账户，阅读任何重要文件，还是查看任何金融数据，您都可以随时随地获取您所需要的信息。</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/client-resources/funding-information/sim" class="btn btn-primary">入金</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/client-resources/legal-documents/sim" class="btn btn-primary-outline">表格</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">账户管理</li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/funding-information/sim"><i class="fa fa-angle-right"></i>入金指导</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/withdrawal-instructions/sim"><i class="fa fa-angle-right"></i>出金指导</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/legal-documents/sim"><i class="fa fa-angle-right"></i>客户表格</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">交易知识</li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/trading-rules/sim"><i class="fa fa-angle-right"></i>交易规则</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/glossary/sim"><i class="fa fa-angle-right"></i>交易术语</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/faqs/sim"><i class="fa fa-angle-right"></i>常见问题解答</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">交易要点</li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/event-notices/sim"><i class="fa fa-angle-right"></i>活动和公告</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/market-news/sim"><i class="fa fa-angle-right"></i>市场新闻</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/economic-calendar/sim"><i class="fa fa-angle-right"></i>财经日历</a></li>
+								<li class="hidden-md-down"><a href="https://bcrcorp.com.cn/client-resources/position-indicator/sim"><i class="fa fa-angle-right"></i>交易情绪指数</a></li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="https://bcrcorp.com.cn/education/sim" class="brackets">教育资源</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">教育资源</h3>
+								<p class="megamenu-intro-body">基于我们在差价合约行业多年的经验，BCR团队开发了培训系列，帮助投资者在高风险，高回报的CFD交易环境中找到自己的定位。 定期查看此部分以获取最新的教育资源。</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/education/trading-video/sim" class="btn btn-primary" style="pointer-events: none;">交易视频</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/education/market-analysis/sim" class="btn btn-primary-outline">市场分析</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">外汇交易</li>
+								<li><a href="https://bcrcorp.com.cn/education/forex-introduction/sim"><i class="fa fa-angle-right"></i>外汇概述</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/forex-trading-basics/sim"><i class="fa fa-angle-right"></i>外汇交易基础</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">分析</li>
+								<li><a href="https://bcrcorp.com.cn/education/fundamental-analysis/sim"><i class="fa fa-angle-right"></i>基础分析</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/technical-analysis/sim"><i class="fa fa-angle-right"></i>技术分析</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/market-analysis/sim"><i class="fa fa-angle-right"></i>市场分析</a></li>
+								<!-- Market Analysis
+								index page > market-analysis.php
+								Sort by:
+									> market-analysis/{author}/{post-title}
+									> market-analysis/{product}/{post-title}
+								-->
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">课程</li>
+								<li class="coming-soon"><i class="fa fa-angle-right"></i>交易电子书</li>
+								<li class="coming-soon"><i class="fa fa-angle-right"></i>交易视频</a></li>
+								<li class="coming-soon"><i class="fa fa-angle-right"></i>交易在线讲座</a></li>
+								<!-- Trading Courses
+								index page > trading-ebook.php
+								index page > trading-video.php
+								index page > webinars.php
+
+								Trading eBook:
+									> education/course/trading-ebook/trading-ebook > List of available books
+
+								Trading Video: (No Filter option)
+									> education/course/trading-video/{post-title}
+
+								Webinars: (No Filter option)
+									> education/course/webinars/webinars
+
+								* Webinar index page show a list of incoming webinars, and a video player as the main panel for the current webinar.
+								-->
+							</ul>
+						</div>
+					</li>
+					<li><a href="https://bcrcorp.com.cn/about-us/sim" class="brackets">关于我们</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">关于我们</h3>
+								<p class="megamenu-intro-body">BCR在差价合约行业中提供极具竞争力的点差和最理想的交易环境。投资CFD差价合约，BCR将会是您的首选。</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/sim" class="btn btn-primary">真实账户</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/demo-account/sim" class="btn btn-primary-outline">模拟账户</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">认识我们</li>
+								<li><a href="https://bcrcorp.com.cn/about-us/company-profile/sim"><i class="fa fa-angle-right"></i>公司介绍</a></li>
+								<li><a href="https://bcrcorp.com.cn/about-us/why-choose-us/sim"><i class="fa fa-angle-right"></i>为何选择BCR</a></li>
+								<li><a href="https://bcrcorp.com.cn/about-us/contact-us/sim"><i class="fa fa-angle-right"></i>联系我们</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">规则</li>
+								<li><a href="https://bcrcorp.com.cn/about-us/risk-disclosure/sim"><i class="fa fa-angle-right"></i>风险披露</a></li>
+								<li><a href="https://bcrcorp.com.cn/about-us/privacy-policy/sim"><i class="fa fa-angle-right"></i>保密政策</a></li>
+								<li><a href="https://bcrcorp.com.cn/about-us/rg227/sim"><i class="fa fa-angle-right"></i>RG 227</a></li>
+							</ul>
+						</div>
+					</li>
+
+					<li><a href="https://bcrcorp.com.cn/affiliates/sim" class="brackets">合作伙伴</a></li>
+					<li><a href="#" class="brackets">最新回馈</a>
+						<div class="megamenu clearfix ">
+							<div class="col-xl-6 col-lg-12">
+								<h3 class="title">赠金活动</h3>
+								<div class="fluid-width-video-wrapper">
+									<a href="https://bcrcorp.com.cn/promotions/bonus/sim"><img src="/images/bonus-promo-banner-sim.jpg" width=454px class="img-fluid" alt=""/></a>
+									<br />
+									<p>最高可获赠15%的奖励资金。</p>
+								</div>
+							</div>
+
+							<div class="col-xl-6 col-lg-12">
+								<h3 class="title">奖品回馈</h3>
+								<div class="fluid-width-video-wrapper">
+									<a href="https://bcrcorp.com.cn/promotions/iphone/sim"><img src="/images/iphone7_hero.jpg" class="img-fluid" alt=""/></a>
+									<br />
+									<p>今日入金领取iPhone 8 / iPhone 8 Plus 或 iPhone X活动!</p>
+								</div>
+							</div>
+
+							
+						</div>
+					</li>
+
+					<li class="top-menu-link"><a href="http://client-portal.bcrcorp.com.au/lang/chi" class="brackets">客户登陆</a></li>
+					<li class="top-menu-link"><a href="#" class="brackets">选择语言</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list">
+								<li><a href="https://bcrcorp.com.cn/education/forex-trading-basics/sim/../"><i class="flag-icon flag-icon-au ml-10"></i> Australian</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/forex-trading-basics/sim"><i class="flag-icon flag-icon-cn ml-10"></i> 简体</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/forex-trading-basics/sim/../tra"><i class="flag-icon flag-icon-cn ml-10"></i> 繁體</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="top-menu-link"><a href="#" class="brackets">选择货币</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list">
+								<li><a href="https://bcrcorp.com.cn/currency/aud?lang=sim"><i class="flag-icon flag-icon-au ml-10"></i> 澳元</a></li>
+								<li><a href="https://bcrcorp.com.cn/currency/usd?lang=sim"><i class="flag-icon flag-icon-us ml-10"></i> 美元</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="top-menu-link"><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/sim" class="brackets" style="background-color: #6f9334;">开立真实账户</a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+</div>
+
+</header>				<div class="parallax" data-parallax="scroll" data-image-src="/images/banners/forex_trading_basic_banner.jpg">
+	<div class="page-title">
+		<div class="page-title-inner">
+			<h1 class="heading">外汇交易基础</h1>
+			<p class="desc">对外汇交易概念的简要概述</p>
+		</div>
+	</div>
+</div>
+			<!-- Breadcrumb -->
+<div class="breadcrumb-trail">
+	<div class="container">
+		<ol class="breadcrumb">
+			<li><a href="https://bcrcorp.com.cn/sim">首页</a></li>
+			<li><a href="https://bcrcorp.com.cn/education/sim">教育资源</a></li>
+			<li class="active">外汇交易基础</li>
+		</ol>
+	</div>
+</div>		<section class="currency-ticker hidden-md-down">
+	<div class="sm-marquee">
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="AUDCAD=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="AUDJPY=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="AUDUSD=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="CADJPY=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="CHFJPY=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="EURAUD=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="EURCAD=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="EURCHF=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="EURGBP=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="EURJPY=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="EURUSD=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="EURNZD=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="GBPCHF=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="GBPJPY=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="GBPUSD=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="NZDCAD=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="NZDJPY=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="NZDUSD=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="USDCAD=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="USDCHF=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="USDJPY=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+
+	<span class="sm-widget sm-widget-ticker" data-type="quote" data-symbol="USDCNH=X">
+		<span class="sm-data-property sm-company" data-property="Name"></span>
+		<i class="caret sm-icon"></i>
+		<span class="sm-data-property sm-quote" data-property="LastTradePriceOnly"></span>
+		(<span class="sm-data-property sm-pct" data-property="PercentChange"></span>)
+	</span>
+	</div>
+</section>
+		<section class="contentWrapper">
+			<section class="full-width-layout">
+	<div class="container page-spacing-padding">
+		<article>
+			<h3>查看外汇报价</h3>
+			<h5><strong>建立首笔外汇交易前需知</strong></h5>
+			<p>外汇市场的报价可能会令人感到混淆，因为您在市场建立的任何一个持仓实际上是两个不同的持仓。就外汇来说，货币将会以一对对的方式列出。外汇为您提供较其他市场更多的选择。举例说，您可能看好欧元，因此希望买入欧元。就外汇而言，您可以选择以何种货币买入欧元。您可以用美元买入欧元，又或用日元买入，适随尊便。您可以用我们所提供的一系列其他货币买入欧元。因此，货币对将会以下列方式显示。</p>
+
+			<div class="half-and-half">
+				<div class="left-side">
+					<div class="card card-default">
+						<h4>EUR / USD</h4>
+						<p class="mb-0">欧元 / 美元</p>
+					</div>
+				</div>
+			</div>
+
+			<p>第一只列出的货币称为"基础货币"，而第二只列出的货币则称为"相对货币"或"报价货币"。因此，就欧元/美元而言，欧元是基础货币，而美元则是相对货币。若此货币对的汇价是1.4700，这个报价显示买入一个单位的基础货币需要多少相对货币。故此，买入一欧元需要1.47美元。</p>
+
+			<p>建立交易时，请紧记当您在任何时候建立持仓，您正建立基础货币的持仓。因此，若您买入一个货币对，您正买入基础货币。若您卖出一个货币对，您正卖出基础货币。所以，您很容易便能够记住，相对货币所做的恰好相反。若您买入欧元/美元，您正买入欧元及卖出美元。若您仍然感到十分困惑，可简单地以这个方式去想。若您认为汇率将会攀升就买入；若您认为汇率将会走下坡则卖出。就是这样简单。</p>
+
+			<p>您经常会看到两边的报价——买入价及卖出价。买入价是您可以买入该货币对的价位，而卖出价是您可以卖出该货币对的价位。两个价格之差称为"买卖差价"。买卖差价由价格提供者及那一刻的市场流通量厘定。所有可买卖工具、股票、债券、期货、期权等都存在买卖差价，只是交易者未必能时常察觉得到。</p>
+
+			<p>综上所述，相信您已有所了解货币对是如何报价以及当您建立交易时，您正买入及卖出的是什么货币。</p>
+
+			<h3>什么是点子？</h3>
+
+			<h5><strong>点子</strong></h5>
+			<p>"点子"指以百分率计算的一点。简单来说，在外汇世界中，一点即计算盈利及亏损的"点子"。就标准(10k)账户而言，每点约相等于一个单位的账户结算货币。举例说，若您的账户以美元作为结算单位，每一点(视乎货币对而定)约相等于1美元。就微型账户而言，每点的金额约相等于标准账户的十分之一——即约为0.10美元。</p>
+
+			<p>就涉及日元(JPY)的所有货币对而言，一点为百分之一——即小数点后第2个位。就所有其他货币对而言，一点为万分之一——即小数点后第4个位。至于如何计算每点价值，以下是一条简单的公式。</p>
+
+			<p>首先从您的交易单位入手。微型交易合约为1k，因此，若您希望使用微型交易合约的点值，请使用1,000。若您希望使用标准手的点值，请使用10,000。之后，您将交易单位乘以所买卖的货币对的一点子。部份人对此可能会茫无头绪，那么我们就举例说明吧。在以下例子中，我们将会计算一手10k的欧元/美元的点值。</p>
+
+			<p>由于我所用的是标准10k交易单位，一开始我会用10,000。将10,000乘以".0001"，因为所有货币对的点子都是10,000分之一(日元货币对除外)。得出的数值是1。这个数字将会以我所买卖的货币对中的"相对货币"(第二货币)来计值。在本例中，我所买卖的是欧元/美元，所以美元是货币对中的相对货币。就一手10k的欧元/美元而言，一点的价值为1美元。若我的账户以美元作为结算货币，每当欧元/美元随市场变动1点子，我的账户将会产生1美元的盈利或亏损。</p>
+
+			<h3>杠杆及保证金</h3>
+			<p>杠杆及保证金是一个您需要明白的重要概念，因为若使用不当，杠杆可能很快便会为您招致麻烦。若运用得宜，杠杆可增加您的交易策略的盈利能力。</p>
+
+			<p>"杠杆"及"保证金"所指的是同一个概念，只是观点稍为有所不同而已。当交易者建立持仓时，他们需要"真诚地"交出持仓价值一部份的金额。在这个情况下，交易者可以说是"已使用杠杆"。需要交出的金额则称为"保证金要求"。保证金要求往往亦称为"信用保证金"，因为交易者一般可在平掉持仓后取回该金额。我在这里表示"一般"，是因为若出现追加保证金的话，情况便会截然不同，有关情况将会在稍后详加说明。</p>
+
+			<p>为清楚起见：保证金存款是交易的要求，而非交易的成本。外汇市场的一大好处是它就任何可买卖金融工具提供了部份最低的保证金要求。这表示您的账户的购买力远高于规模相同的股票交易账户或债券交易账户。</p>
+
+			<p>现在就研究一个杠杆及保证金的例子吧。</p>
+
+			<p>假设交易者建立一手美元／日元货币对的持仓。交易者无需交出100,000美元，他们只需要交出500美元或250美元。(实际的金额是多少，将取决于账户所设定的杠杆水平。)模拟账户的预设杠杆是200:1，因此一个100,000美元持仓的保证金要求只是500美元(100,000的0.5%)。若交易者建立两手100,000美元的单子，他们的总持仓将会是200,000美元，而现在的保证金要求就是1000美元。</p>
+
+			<p>值得注意的一点是，保证金要求并非持仓可能亏损的最高限额。这只是经纪商要求您交出用以建立持仓的金额。您需要时刻紧记持仓的实际大小，因为盈亏将会以持仓的规模为基础计算，而非所需保证金的金额。下表提供其他例子。</p>
+
+			<table class="table table-custom table-hover">
+				<thead>
+					<tr>
+						<th>所需保证金</th>
+						<th>持仓单位 - 名义价值</th>
+						<th>杠杆</th>
+						<th>保证金 %</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>$50</td>
+						<td><strong>$10,000</strong></td>
+						<td><strong>200:1</strong></td>
+						<td>0.5%</td>
+					</tr>
+					<tr>
+						<td>$100</td>
+						<td><strong>$10,000</strong></td>
+						<td><strong>100:1</strong></td>
+						<td>1%</td>
+					</tr>
+					<tr>
+						<td>$200</td>
+						<td><strong>$10,000</strong></td>
+						<td><strong>50:1</strong></td>
+						<td>2%</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<p>交易者必需时常紧记，杠杆是一把双刃剑：当持仓向有利于您的方向移动时，高度杠杆可以扩大盈利，而当持仓向不利于您的方向移动时，则将扩大亏损。</p>
+
+			<p>基于这个原因，切勿使过多的账户价值承受风险及/或建立相对于账户规模来说过多的持仓，以致您的账户过度杠杆化。</p>
+
+			<p>至于何谓过多，则因个别交易者而异。短线交易者一般都惯于使用较大的杠杆，因为他们知道持有仓位的时间不长。较为长线的交易者所用的杠杆较低，这样一来轻微的波幅并不会导致他们的持仓被平掉。我们建议您在模拟账户内就不同的交易策略试用不同的杠杆，从而找出最适合您的交易模式。请紧记，可使用大量杠杆并不表示您应时常使用高杠杆。</p>
+
+			<h3>过夜利息</h3>
+
+			<p>我们将会在这一节讨论过夜利息。我们会先说明过夜利息的概念，然后再看一个计算过夜利息的例子。我们将会向您示范如何利用过夜利息，因为不少成功的交易者都会将它视为交易策略的重要一环。</p>
+
+			<p>过夜利息是持仓过夜所支付或赚取的利息。每只货币相关的目标利率(一般由该货币的中央银行所厘定)。请参阅以下列子：</p>
+
+			<table class="table table-custom table-hover">
+				<thead>
+					<tr>
+						<th>纽元</th>
+						<th>英镑</th>
+						<th>加元</th>
+						<th>澳元</th>
+						<th>美元</th>
+						<th>欧元</th>
+						<th>日元</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td scope="row"><i class="flag-icon flag-icon-nz"></i></td>
+						<td scope="row"><i class="flag-icon flag-icon-gb"></i></td>
+						<td scope="row"><i class="flag-icon flag-icon-ca"></i></td>
+						<td scope="row"><i class="flag-icon flag-icon-au"></i></td>
+						<td scope="row"><i class="flag-icon flag-icon-us"></i></td>
+						<td scope="row"><i class="flag-icon flag-icon-eu"></i></td>
+						<td scope="row"><i class="flag-icon flag-icon-jp"></i></td>
+					</tr>
+					<tr>
+						<td><strong>2.25%</strong></td>
+						<td><strong>0.50%</strong></td>
+						<td><strong>0.50%</strong></td>
+						<td><strong>2.00%</strong></td>
+						<td><strong>0.50%</strong></td>
+						<td><strong>0.00%</strong></td>
+						<td><strong>-0.1%</strong></td>
+					</tr>
+				</tbody>
+			</table>
+
+			<p class="mb-0 note" style="color: #d33939;">以上表格所展示的只是一个例子，并不代表实时的利率。</p><br>
+
+			<p>正如我们在查看外汇报价中曾提及，每当您建立外汇持仓时，您正买入某一货币及卖出另一货币。因此，您将会赚取您所买入的货币的利率，及支付所卖出的货币的利率。净差额将会作为过夜利息每日(GMT时间22:01时整)存入您的账户或从中扣除。值得注意的是，过夜利息只适用于在GMT时间22:01时整持有的开仓部位。若您在过夜利息时间之前平掉持仓，或在过夜利息时间之后才建立持仓，将不会获支付或扣除任何利息。</p>
+
+			<p>一般来说，外汇是一个两日交付的市场。这表示持仓将会在建立后两日才会交收。在星期三，持仓将会转仓为星期四的持仓。技术上来说，这些持仓将会在星期六交收。银行在星期六休息，因此，持仓将会经过周末转仓至星期一。简言之，星期三的过夜利息一般相等于三日的利息。过夜利息不适用于在星期六及星期日持有的开仓部位。希望现在您已比较清楚如何利用过夜利息。</p>
+
+			<div class="disclaimer">
+				<h5><i class="fa fa-exclamation-circle"></i>&nbsp; 免责声明：BCR市场意见</h5>
+				<p class="mb-0 note">本网站所发表的任何观点,新闻,研究,分析,价格或其他资料, 只能视为一般市场资讯,并不够成投资建议。 BCR不会为直接或间接使用或依赖这些讯息而造成任何亏损或损失(其中包括但不限于任何营利或损失)负责。</p>
+			</div>
+		</article>
+	</div>
+</section>
+					</section>
+
+		<footer class="footer" style="margin-top: 30px">
+			<section class="container">
+	<div class="footer-logo">
+		<img src="/images/logo-white.png" class="img-fluid">
+	</div>
+	<div class="divider hidden-md-down"></div>
+	<div class="footer-nav hidden-md-down">
+		<div class="footer-nav-item">
+			<h6 class="category">差价合约交易</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-basics/sim">差价合约介绍</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-trading-details/sim">差价合约产品</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/account-overview/sim">账户类型</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/sim">标准账户</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/pro-account/sim">白金账户</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/alpha-account/sim">阿尔法账户</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/demo-account/sim">模拟账户</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/swap-information/sim">利息图表</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/trading-examples/sim">交易实例</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">交易平台</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-windows/sim">Windows <i class="fa fa-windows"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mac/sim">苹果<i class="fa fa-apple"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-android/sim">安卓 <i class="fa fa-android"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-ios/sim">苹果手机 <i class="fa fa-apple"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-tablet/sim">平板</a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-guide/sim">BCR Trader指南</a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mobile-guide/sim">手机版BCR Trader指南</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">客户资源</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/client-resources/funding-information/sim">入金指导 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/withdrawal-instructions/sim">出金指导</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/legal-documents/sim">客户表格 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/trading-rules/sim">交易规则 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/glossary/sim">交易术语 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/faqs/sim">常见问题解答</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/event-notices/sim">活动和公告 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/market-news/sim">市场新闻 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/economic-calendar/sim">财经日历 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/position-indicator/sim">交易情绪指数</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">教育资源</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/education/forex-introduction/sim">外汇概述 </a></li>
+				<li><a href="https://bcrcorp.com.cn/education/forex-trading-basics/sim">外汇交易基础 </a></li>
+				<li><a href="https://bcrcorp.com.cn/education/fundamental-analysis/sim">基础分析 </a></li>
+				<li><a href="https://bcrcorp.com.cn/education/technical-analysis/sim">技术分析 </a></li>
+				<li><a href="https://bcrcorp.com.cn/education/market-analysis/sim">市场分析 </a></li>
+				
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">关于我们</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/about-us/company-profile/sim">公司介绍</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/why-choose-us/sim">为何选择BCR</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/contact-us/sim">联系我们</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/risk-disclosure/sim">风险披露</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/privacy-policy/sim">保密政策</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/rg227/sim">RG 227</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">最新回馈</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/promotions/bonus/sim">赠金活动</a></li>
+				<li><a href="https://bcrcorp.com.cn/promotions/iphone/sim">奖品回馈</a></li>
+				
+				<li><a href="https://bcrcorp.com.cn/affiliates/sim">合作伙伴</a></li>
+			</ul>
+		</div>
+		<hr>
+	</div>
+	<div class="divider"></div>
+
+	<div class="footer-contact">
+		<div class="item text-xs-center">
+			<p class="note">Suite 802, Level 8, 99 Mount Street<br>North Sydney, NSW 2060 Australia</p>
+		</div>
+		<div class="item">
+			<h4><i class="fa fa-phone-square"></i>&nbsp; +61 2 8459 8050</h4>
+		</div>
+		<div class="item">
+			<h4><i class="fa fa-fax"></i>&nbsp; +61 2 8088 7423</h4>
+		</div>
+	</div>
+	<div class="divider"></div>
+
+	<article class="footer-info">
+		<p class="note">
+			<strong>风险披露:</strong> 保证金差价合约交易涉及高风险，未必适合所有投资者。投资者可能会在交易时遇到损失超过入金金额的情况。本网站、电邮或其相关网站中任何金融产品的讯息BCR不作出任何推荐，所包含的讯息也没有以投资者个人的目标、财务状况和需要为依据。在决定与BCR进行保证金差价合约交易前，请投资者仔细阅读我们的<a href="/pdf/sim/BA_doc_3073_USD.pdf" target="_blank" class="text-white">产品披露声明（Product Disclosure Statement）</a>和<a href="/pdf/sim/BA_doc_3083.pdf" target="_blank" class="text-white">金融服务指南（Financial Services Guide）</a>，如有需要在您交易之前请寻求独立专家的建议确保您完全理解其中所涉及的风险。 	
+		</p>
+		<p class="note">BCR是Bacera Co Pty Ltd的商标。 Bacera Co Pty Ltd，澳大利亚公司注册号码:ACN 130 877 137。澳大利亚金融执照(AFSL):执照编号328794。</p>
+
+		<p class="note">Apple, iPad, 和 iPhone 是苹果公司(Apple Inc.)在美国和其他国家的注册商标。App Store是苹果公司(Apple Inc)的服务商标. Android是谷歌公司(Google Inc.)的注册商标。</p>
+
+	</article>
+	<div class="divider"></div>
+	<div class="hidden-md-up">
+		<p><a href="https://bcrcorp.com.cn/client-resources/funding-information/sim" class="btn btn-warning-outline btn-full text-warning"><span class="fa fa-credit-card"></span>&nbsp; 资助信息</a></p>
+		<p><a href="http://m.bacera.com.au?f=2" class="btn btn-secondary-outline btn-full"><span class="fa fa-mobile"></span>&nbsp; 手机版</a></p>
+	</div>
+	<div class="additional-links">
+		<ul class="">
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/terms-of-use/sim">使用条款</a> /</li>
+			
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/privacy-policy/sim">保密政策</a> /</li>
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/risk-disclosure/sim">风险披露</a> /</li>
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/client-resources/funding-information/sim">入金指导</a></li>
+			
+			<li class="list-inline-item">&copy; Bacera Co Pty Ltd. 2018</li>
+		</ul>
+	</div>
+</section>
+
+
+<script src="/js/webslidemenu.js"></script>
+<script src="/js/tooltip.js"></script>
+<!-- Touch Effect on the Image Caption Hover -->
+<script src="/js/modernizr.custom.js"></script>
+<script src="/js/toucheffects.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="/js/ie10-viewport-bug-workaround.js"></script>
+<!-- Collapse Js -->
+<script src="/js/collapse.js"></script>
+<script src="/js/index.js"></script>
+<!-- Country Select -->
+<script src="/js/countrySelect.js"></script>
+<!-- Bouncing Effect -->
+<script src="/js/effects/ba-throttle-debounce.js"></script>
+<!-- Sticky Table Header & Column -->
+<script src="/js/effects/sticky-table.js"></script>
+
+
+<script type="text/javascript">
+	jQuery("#country").countrySelect({
+		preferredCountries: ['au', 'cn', 'us']
+	});
+
+	// window.sr = ScrollReveal();
+	// sr.reveal('.footer-links li', {duration: 500}, 50);
+
+	// jQuery(".navbar-fixed-top").autoHidingNavbar();
+	// 
+jQuery(document).ready(function(e) {
+	
+	jQuery('input#currency-switch').on('change',function(){
+		if(jQuery(this).is(':checked'))
+		{
+			//alert(jQuery(this).val());
+			set_currency('usd');
+		}else
+		{
+			//alert(jQuery(this).val()+'kk');
+			set_currency('aud');
+		}
+	});
+});
+function set_currency(currency)
+{
+	// /currency
+	jQuery.get("/currency/"+currency, function() {
+		setTimeout(function(){ document.location.reload(true); }, 1000);		
+	});
+}
+</script>		</footer>	
+	</section>
+	
+	<div class="" style="position:fixed; z-index:2000;  right: 10px; bottom: 10px;  overflow: hidden; border: 0px; padding: 0px; background: transparent; cursor: pointer;">
+		<a  href="javascript:void(0);" onclick="window.open('http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzgwMDE4NjgwN180ODA2OThfODAwMTg2ODA3XzJf','pagename','resizable,height=520,width=740'); return false;" >
+						<img src="/images/qq_53.jpg" style="width:100px;"/>
+		</a>
+	</div>
+	
+	<script type="text/javascript" src="/js/libs.js"></script>
+			<script>
+	$(document).ready(function () {
+		//BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 800186807, selector: 'BizQQWPA'});
+	})
+	</script>
+</body>
+</html>
+
+

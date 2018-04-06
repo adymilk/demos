@@ -1,0 +1,264 @@
+
+//var cur_navID = 0;
+$(document).ready(function () {
+    //图片延迟加载
+    //$("img.lazy").lazyload({ effect: "fadeIn" });
+    $(".lazy").lazyload({ effect: "fadeIn", threshold: 200 });
+    //导航下拉宽度的变化
+    navFun();
+    $(window).resize(function () {
+        navFun();
+    });
+    function navFun() {
+        var w = document.body.clientWidth;
+        var w1 = (w - 1200) / 2;
+        var wr = $(".jo_header_rig").width();
+        $(".main_nav .navWarp").each(function (i, element) {
+            var w2 = (wr - i * 100) + (w - 1200) / 2;
+            $(".main_nav .navWarp").eq(i).find(".nav_list").css({ "width": "" + w2 + "px" });
+        });
+    }
+    //当滚动条的位置处于距顶部100像素以下时，跳转链接出现，否则消失
+    $(function () {
+        $(window).scroll(function () {
+            if ($(window).scrollTop() > 500) {
+                $(".top").show().css({ "visibility": "visible" });
+            }
+            else {
+                $(".top").hide().css({ "visibility": "hidden" });
+            }
+        });
+
+        //当点击跳转链接后，回到页面顶部位置
+
+        $(".top").click(function () {
+            $('body,html').animate({ scrollTop: 0 }, 1000);
+            return false;
+        });
+    });
+    //头部固定导航	
+    $(window).scroll(function () {
+        if ($(window).scrollTop() >= 300) {
+            $(".header").attr('id', "joheader_fixed");
+        }
+        else {
+            $(".header").attr('id', "");
+        }
+    })
+    //banner 轮播图
+    ZA.change('.jo_banner_bd', true, 'jo_banner_hd', true, true, 6000);
+    //最新公告滚动、交易动态滚动
+    if ($(".listScollTop").length > 0) {
+        $(".listScollTop").each(function (n) {
+            var sconum = $(".listScollTop").eq(n).find("li").height();
+            var lisobj = $(".listScollTop").eq(n);
+            var scoString;
+            scoString = setInterval("newFun(" + sconum + ",$('.listScollTop').eq(" + n + "))", 3000);
+            $(".listScollTop").eq(n).mouseover(function () { clearInterval(scoString); });
+            $(".listScollTop").eq(n).mouseout(function () { scoString = setInterval("newFun(" + sconum + ",$('.listScollTop').eq(" + n + "))", 3000); });
+        });
+    }
+    //行情中心nav选中样式
+    if ($(".jo_quote").length > 0) {
+        $(".joquteWarp").click(function () {
+            $(this).parents(".jo_quote_nav").addClass("cur").siblings(".jo_quote_nav").removeClass("cur");
+        });
+    }
+    //底部Logo切换
+    jQuery(".jo_scollbox").slide({ mainCell: ".jo_scollwarp ul", effect: "left", vis: 5, scroll: 1, delayTime: 400, autoPage: true, pnLoop: true });
+
+    //点击火线速递查看更多
+    $(".jo_more_two").click(function () {
+        Special.loadContent();
+    })
+
+    Index.loadContent();
+    Main.SetTitle();
+    Main.SetSubNav();
+});
+
+var Index = {
+
+    loadContent: function () {
+        if (navId == 0) {    //首页判断
+            ///begin 交易
+            this.GetTransInfo();
+            ///end  交易
+            ///火线速递
+            this.GetFinanceCourier();
+            ///begin   报价
+            QuoteInfo.InitQuote('GOLDx');
+
+        }
+    },
+
+    ///火线速递
+    GetFinanceCourier: function () {
+        $.ajax({
+            url: "/FinanceCourier/Get",
+            dataType: "json",
+            method: "post",
+            data: { PageIndex: 1, PageSize: 10 },
+            success: function (data) {
+                if (data.IsSuccess) {
+                    var HtmlStr = "";
+                    $.each(data.Rows, function (i, item) {
+                        var Time = Utils.utcDateParse(item.FirstPublishTime);
+
+                        var dd = item.Title.replace(/<\/?.+?>/g, "");//删除字符串自带的html标签
+                        var dds = dd.replace(/ /g, "");//dds为得到后的内容
+                        if (dds.length > 25) {
+                            dds = dds.substr(0, 25) + "....";
+                        }
+                        if (i < 5) {      //展示5条数据
+                            if (item.IsEcoIndicator) {
+                                //HtmlStr += "<li class='fire_list_warrp'><p class='jo_date'><span class='jo_hour'>" + Time.getHours() + "</span>：<span class='jo_minute'>" + Time.getMinutes() + "</span></p>";
+                                //HtmlStr += "<div class='fire_list_con'><p class='fire_txt'>" + dds + "</p></div></li>";
+                                HtmlStr += "<li class='fire_list_warrp'><p class='jo_date'><span class='jo_hour'>" + Time.getHours() + "</span>：<span class='jo_minute'>" + Time.getMinutes() + "</span></p>";
+                                HtmlStr += "<div class='fire_list_con'><p class='fire_hill_top'><span class='cal_coutry iconCountry riben'></span><span class='fire_hill_txt ell'>" + dds + "</span><em class='icon staricon staricon_" + item.StarLevel + "'></em></p>"
+                                HtmlStr += "<p class='fire_hill_bot'><span>前值<span class='fire_hill_span'>" + item.PreviousValue + "</span></span>";
+                                HtmlStr += "<span class='ml10 mr10'>预测<span class='fire_hill_span'>" + item.expectValue + "</span></span>";
+                                HtmlStr += "<span>公布<span class='fire_hill_qr_1'>" + item.CurrentValue + "</span></span></p></div></li>";
+                            }
+                            else {
+                                HtmlStr += "<li class='fire_list_warrp'><p class='jo_date'><span class='jo_hour'>" + Time.getHours() + "</span>：<span class='jo_minute'>" + Time.getMinutes() + "</span></p>";
+                                HtmlStr += "<div class='fire_list_con'><p class='fire_txt'>" + dds + "</p></div></li>";
+                            }
+                        }
+                    })
+                  
+
+                    setTimeout(function () {
+                        GetFinanceCourier();
+                    }, 600000);
+                }
+                else
+                {
+                    HtmlStr += "<li class='fire_list_warrp'><p >暂无数据</p></li>";
+                    setTimeout(function () {
+                        GetFinanceCourier();
+                    }, 900000);
+                }
+
+                $(".jo_list_fire").html(HtmlStr);
+            }
+        });
+    },
+
+    ////交易动态
+    GetTransInfo: function () {
+        $.ajax({
+            url: "http://api.jojofx.com" + "/api/Site/GetLatestTrades/20",
+            dataType: "json",
+            method: "get",
+            data: {},
+            success: function (data) {
+                if (data.IsSuccess) {
+                    var ulHtmlArr = [];
+                    var HtmlStr;
+                    var a, c, t = "", r = "", f = "", e;
+                    //a 账号  r 买入/卖出
+                    var Profit = 0;
+                    $.each(data.Rows, function (i, item) {
+                        var a = item.Comment.substring(0, 1);
+                        var b = item.Comment.substring(3, 4);
+                        if (a == 0 && b != 0) {  //当小时时间为0的时候不显示小时
+                            item.Comment = item.Comment.substring(3);
+                        }
+                        else if (a == 0 && b == 0) {  //当分钟和小时为0的时候只显示秒钟
+                            item.Comment = item.Comment.substring(5);
+                        }
+                        var Digits = item.Digits;
+                        c = (i == 0 ? "Twall_BoxMain_NewData" : "");
+                        HtmlStr = [];
+                        a = (item.Account.toString().substr(0, 2) + "***" + item.Account.toString().substr(item.Account.toString().length - 2, 2));
+                        item.CMD == 0 ? r = "买入" : item.CMD == 1 ? r = "卖出" : (item.CMD >= 2 && item.CMD <= 5) && (r = "挂单");
+                        item.IsClosed ? (f = "平仓", e = item.ClosePrice) : (f = "建仓", e = item.OpenPrice);
+                        var imageUrl = item.HeadPic == "" ? "/Content/" + WebSiteUrl.SiteSkinStyle + "/images/img_TWall_list.jpg" : item.HeadPic;
+                        HtmlStr.push("<li><p class='jo_trans_top'><em class='icon tranicon'></em>" + item.Comment + "</p>");
+                        HtmlStr.push("<p class='jo_trans_bot'><span class='jo_spb mr8'>" + a + "</span><span class='jo_spb mr8'>" + item.Symbol + "</span><span>" + r + "<em class='jo_spb'>" + Number(item.Volume).toFixed(1) + "</em>" + "手</span>");
+                        if (item.Profit >= -1000) {
+                            if (item.Profit >= 0) {
+                                HtmlStr.push("<span class='jotran_r jotran_quote_1'>" + '$' + item.Profit.toFixed(2) + "</span></p>");
+                            }
+                            else {
+                                var negative = -item.Profit.toFixed(2)
+                                console.log(negative)
+                                HtmlStr.push("<span class='jotran_r jotran_quote_2'>" + '-' + '$' + negative + "</span></p>");
+                            }
+                        }
+
+                        ulHtmlArr.push(HtmlStr.join(""));
+
+
+                    })
+                   
+                    $(".jo_transaction_list  > ul").html(ulHtmlArr.join(""));
+                }
+                else
+                {
+                    setTimeout(function () {
+                        GetFinanceCourier();
+                    }, 600000);
+
+                }
+                
+            }
+        });
+    }
+}
+
+
+function newFun(obj, strObj) {
+    strObj.find("ul").animate({ top: "-" + obj }, 1000, function () {
+        strObj.find("ul li:first").insertAfter(strObj.find("ul li:last"));
+        strObj.find("ul").css("top", "0px");
+    });
+}
+
+/* 侧边导航 */
+var Main = {
+    SetTitle: function () {
+        if (cur_navID != null) {
+            var positionhtml = "<a href='/'>首页 </a>";
+            var FirstNav = $(".nav  #Menu-" + navId).find(".nav_tit");
+            positionhtml += " > <a href=" + FirstNav.attr("href") + ">" + FirstNav.text() + "</a>";
+            var SecNav1 = $(".SubNav  #Menu-" + cur_navID);
+            var SecNav2 = $(".SubNav #Menu-" + cur_navID).parent().parent().find("h2");
+            if ($(".SubNav  #Menu-" + cur_navID).text().length > 0)
+                positionhtml += " ><a href=" + SecNav1.attr("href") + "> " + SecNav1.text() + " </a>";
+            else {
+                positionhtml += " ><a href=" + SecNav2.attr("href") + "> " + SecNav2.text() + " </a>";
+                var href = $(".SubNav #Menu-" + cur_navID).find('a').attr("href");
+                positionhtml += " > <a href=" + href + "> " + $(".SubNav #Menu-" + cur_navID).find('a').text() + " </a>";
+            }
+            $(".inside_point").append(positionhtml);
+        }
+        if (navId == 0) {
+            $("#Menu-0").addClass("liHome");
+
+            $("#Menu-0").removeClass("liHome");
+            $("#Menu-" + navId).addClass("liHome");
+        }
+        /*  栏目样式  */
+        $(".SubNav #Menu-" + cur_navID).parent('ul').siblings("h2").addClass("SubNav_h2_spread")
+        $(".SubNav #Menu-" + cur_navID).parent('ul').parent('div').addClass("SubNav_div");
+        $(".SubNav #Menu-" + cur_navID).parent('ul').attr("style", "display: block;");
+        $(".SubNav #Menu-" + cur_navID).parent('div').addClass("SubNav_div");
+    },
+    SetSubNav: function () /* 侧边导航 */ {
+        $('.SubNav h2').each(function () {
+            if ($(this).next('ul').find('li').length != 0) {
+                $(this).addClass('SubNav_h2');
+                $(this).click(function () {
+                    $(this).toggleClass('SubNav_h2_spread').parent('div').toggleClass('SubNav_div');
+                    $(this).next('ul').slideToggle('fast');
+                })
+            } else {
+                $(this).click(function () {
+                    location.href = $(this).attr("href");
+                })
+            }
+        })
+    }
+}

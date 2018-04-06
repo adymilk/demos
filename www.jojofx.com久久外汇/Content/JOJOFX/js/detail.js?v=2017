@@ -1,0 +1,48 @@
+﻿// JavaScript Document
+
+$(document).ready(function () {
+
+    ///* 侧边导航 */
+    //$('.SubNav h2').each(function () {
+    //    if ($(this).next('ul').find('li').length != 0) {
+    //        $(this).addClass('SubNav_h2');
+    //        $(this).click(function () {
+    //            $(this).toggleClass('SubNav_h2_spread').parent('div').toggleClass('SubNav_div');
+    //            $(this).next('ul').slideToggle('fast');
+    //        })
+    //    } else {
+    //        $(this).click(function () {
+    //            location.href = $(this).attr("href");
+    //        })
+    //    }
+    //});
+
+    /* 独立文章页_特殊页_关于MT4（点击立即下载滚到页面最底部） */
+    $('.aboutMT4_DownloadNow').click(function(){
+        $('body,html').animate({scrollTop:3000},1000);
+    });
+
+    /* 独立文章页_特殊页_关于MT4（立即下载二维码显示） */
+    $('.aboutMT4_box5_2 a, .aboutMT4_box5_3 a').hover(function(){
+        $(this).siblings('div').fadeToggle();
+    });
+
+    $(".SubNav #Menu-" + cur_navID).parent('ul').siblings("h2").addClass("SubNav_h2_spread")
+    $(".SubNav #Menu-" + cur_navID).parent('ul').parent('div').addClass("SubNav_div");
+    $(".SubNav #Menu-" + cur_navID).parent('ul').attr("style", "display: block;");
+
+    $(".SubNav #Menu-" + cur_navID).parent('div').addClass("SubNav_div");
+
+
+    Detail.init();
+});
+
+var Detail = {
+    Url: {
+       
+    },
+    init: function () {
+       
+    }
+   
+}

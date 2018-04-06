@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="icon" href="/images/favicon.ico">
+	<title> BCR</title>
+	<link rel="stylesheet" type="text/css" href="/css/libs.css">
+	<meta name="baidu-site-verification" content="k5h0uYCb8q" />
+	<!-- BA Custom CSS | Combine with Bootstrap Core CSS | Custom CSS | Language CSS -->
+<link href="/css/main.css" rel="stylesheet">
+
+<script src="/js/jquery-2.2.3.min.js"></script>
+<script src="/js/jquery-ui.js"></script>
+<!-- Bootstrap Tooltip requirement -->
+<script src="/js/tether.min.js"></script>
+<!-- Bootstrap Core JS -->
+<script src="/js/bootstrap.js"></script>
+<!-- Select2 -->
+<script src="/js/select2.min.js"></script>
+<!-- For Retina Display | This Javascript will look for alternative image file name ends with @2x  -->
+<script src="/js/effects/retina.js"></script>
+<!-- Parallax Background Image -->
+<script src="/js/effects/parallax.js"></script>
+<!-- Automatically Hide Navbar -->
+<script src="/js/effects/autohidingnavbar.js"></script>
+<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+<!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
+<script src="/js/ie-emulation-modes-warning.js"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+
+
+	<script type="text/javascript">
+	$.noConflict();
+</script>
+	<script charset="UTF-8" src="https://wpa.b.qq.com/cgi/wpa.php"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110479038-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-110479038-1');
+	</script>
+	
+	<!--Start of Zendesk Chat Script-->
+    
+	</script>
+	<!--End of Zendesk Chat Script-->
+</head>
+<body>
+
+	<section class="outterContainer">
+		<header class="navbar-fixed-top navbar-full clearfix">
+	<div class="top-menu">
+		<ul class="top-menu-list">
+			<li class="top-menu-link">
+				<a href="https://livechat.boldchat.com/aid/4562144580678228633/bc.chat?cwdid=140061973393820365&wdid=3869741265524507725" target="_blank" onclick="window.open((window.pageViewer && pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf(\'?\')>=0 ? \'&amp;\' : \'?\') + \'url=\' + escape(document.location.href)), \'Chat1840823552749023967\', \'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480\');return false;" id="support">
+					<i class="fa fa-wechat"></i>&nbsp;
+					在線客服
+				</a>
+			</li>
+			<li class="top-menu-link">
+				<a href="http://myba.bacera.com.au" class="client-login">登入BCR</a>
+			</li>
+			<li class="top-menu-link">
+				<a href="http://myba.bacera.com.au"><i class="fa fa-money"></i>&nbsp; 帳戶入金</a>
+			</li>
+			<li class="top-menu-link dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-language"></i>&nbsp; 選擇語言 <i class="flag-icon flag-icon-au"></i> <span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li><a href="https://bcrcorp.com.cn/education/market-analysis"><i class="flag-icon flag-icon-au"></i> Australian</a></li>
+					<li><a href="https://bcrcorp.com.cn/education/market-analysis/sim"><i class="flag-icon flag-icon-cn"></i> 简体中文</a></li>
+					<li><a href="javascript:void(0)"><i class="flag-icon flag-icon-hk"></i> 繁體中文</a></li>
+				</ul>
+			</li>
+			<li class="top-menu-link"><a href="https://bcrcorp.com.cn/about-us/contact-us/tra"><i class="fa fa-phone"></i>&nbsp; 聯繫我們</a></li>
+			<li class="top-menu-link currency-switch">
+				<input id="currency-switch" class="currency-toggle currency-toggle-yes-no" type="checkbox" checked>
+				<label for="currency-switch" data-on="USD" data-off="AUD"></label>
+			</li>
+		</ul>
+	</div>
+	<div class="wsmenucontainer clearfix">
+		<div class="overlapblackbg"></div>
+		<div class="wsmobileheader clearfix">
+			<a id="wsnavtoggle" class="animated-arrow"><span></span></a>
+			<a href="https://bcrcorp.com.cn/tra" class="smallogo"><img alt="Brand" src="/images/logo-small.png"></a>
+		</div>
+		<div class="header">
+			<div class="wrapper clearfix bigmegamenu">
+				<div class="logo clearfix">
+					<a href="https://bcrcorp.com.cn/tra">
+						<img alt="Brand" src="/images/logo.png" class="hidden-sm hidden-xs">
+					</a>
+				</div>
+				<nav class="wsmenu clearfix">
+					<ul class="mobile-sub wsmenu-list">
+						<li><a href="https://bcrcorp.com.cn/cfd-trading/tra" class="brackets">差價合約交易</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">交易差價合約</h3>
+								<p class="megamenu-intro-body">CFD（差價合約）交易允許客戶利用快速變化的全球金融工具，以及外匯，貴金屬，商品，指數和股票等市場價格的上漲或下跌進行交易。</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/tra" class="btn btn-primary">真實帳戶</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/demo-account/tra" class="btn btn-primary-outline">模擬帳戶</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">工具</li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-basics/tra"><i class="fa fa-angle-right"></i>差價合約介紹</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-forex/tra"><i class="fa fa-angle-right"></i>外匯</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-precious-metals/tra"><i class="fa fa-angle-right"></i>貴金屬</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-commodities/tra"><i class="fa fa-angle-right"></i>商品</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-indices/tra"><i class="fa fa-angle-right"></i>指數</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-shares/tra"><i class="fa fa-angle-right"></i>股票</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">交易账户</li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/account-overview/tra"><i class="fa fa-angle-right"></i>帳戶類型</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/tra"><i class="fa fa-angle-right"></i>標準帳戶</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/pro-account/tra"><i class="fa fa-angle-right"></i>白金帳戶</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/demo-account/tra"><i class="fa fa-angle-right"></i>模擬帳戶</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">交易細則</li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/contract-specifications/tra"><i class="fa fa-angle-right"></i>差價合約交易細則</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/swap-information/tra"><i class="fa fa-angle-right"></i>利息圖表</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/trading-examples/tra"><i class="fa fa-angle-right"></i>交易實例</a></li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="https://bcrcorp.com.cn/trading-platform/tra" class="brackets">交易平台</a>
+					<div class="megamenu clearfix">
+						<ul class="megamenu-list link-list megamenu-intro">
+							<h3 class="megamenu-intro-title">交易平台</h3>
+							<p class="megamenu-intro-body">BCR的BCR Trader平台基於MetaTrader4交易軟件 -  CFD差價合約市場上最受歡迎的交易平台。BCR Trader用於交易差價合約，分析金融市場和使用交易程序。</p>
+							<div class="megamenu-intro-button">
+								<p><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-windows/tra" class="btn btn-primary">桌上型電腦</a></p>
+							</div>
+							<div class="megamenu-intro-button">
+								<p><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-ios/tra" class="btn btn-primary-outline">手機</a></p>
+							</div>
+						</ul>
+						<ul class="megamenu-list link-list">
+							<li class="title">桌上型電腦</li>
+							<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-windows/tra"><i class="fa fa-angle-right"></i>BCR Trader Windows <i class="fa fa-windows"></i></a></li>
+							<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mac/tra"><i class="fa fa-angle-right"></i>BCR Trader蘋果 <i class="fa fa-apple"></i></a></li>
+						</ul>
+						<ul class="megamenu-list link-list">
+							<li class="title">手機</li>
+							<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-android/tra"><i class="fa fa-angle-right"></i>BCR Trader安卓 <i class="fa fa-android"></i></a></li>
+							<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-ios/tra"><i class="fa fa-angle-right"></i>BCR Trader蘋果手機 <i class="fa fa-apple"></i></a></li>
+							<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-tablet/tra"><i class="fa fa-angle-right"></i>BCR Trader平板</a></li>
+						</ul>
+						<ul class="megamenu-list link-list">
+							<li class="title">使用者指南</li>
+							<!--
+							<li><a href="https://bcrcorp.com.cn/trading-platform/beginner-guide/tra"><i class="fa fa-angle-right"></i>Beginner Guide</a></li>
+							-->
+							<li class="coming-soon"><i class="fa fa-angle-right"></i>初學者指南</li>
+							<li>
+								<a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-guide/tra">
+									<i class="fa fa-angle-right"></i>BCR Trader指南
+								</a>
+							</li>
+							<li>
+								<a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mobile-guide/tra">
+									<i class="fa fa-angle-right"></i>手機板BCR Trader指南
+								</a>
+							</li>
+						</ul>
+					</div>
+				</li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/tra" class="brackets">客戶資源</a>
+				<div class="megamenu clearfix">
+					<ul class="megamenu-list link-list megamenu-intro">
+						<h3 class="megamenu-intro-title">客戶資源</h3>
+						<p class="megamenu-intro-body">
+							無論是登錄MyBCR查看您的賬戶，閱讀任何重要文件，還是查看任何金融數據，您都可以隨時隨地獲取您所需要的信息。
+						</p>
+						<div class="megamenu-intro-button">
+							<p><a href="https://bcrcorp.com.cn/client-resources/funding-information/tra" class="btn btn-primary">入金</a></p>
+						</div>
+						<div class="megamenu-intro-button">
+							<p><a href="https://bcrcorp.com.cn/client-resources/legal-documents/tra" class="btn btn-primary-outline">表格</a></p>
+						</div>
+					</ul>
+					<ul class="megamenu-list link-list">
+						<li class="title">帳戶管理</li>
+						<li><a href="https://bcrcorp.com.cn/client-resources/funding-information/tra"><i class="fa fa-angle-right"></i>入金指導</a></li>
+						<li><a href="https://bcrcorp.com.cn/client-resources/withdrawal-instructions/tra"><i class="fa fa-angle-right"></i>出金指導</a></li>
+						<li><a href="https://bcrcorp.com.cn/client-resources/legal-documents/tra"><i class="fa fa-angle-right"></i>客戶表格</a></li>
+					</ul>
+					<ul class="megamenu-list link-list">
+						<li class="title">交易知識</li>
+						<li><a href="https://bcrcorp.com.cn/client-resources/trading-rules/tra"><i class="fa fa-angle-right"></i>交易規則</a></li>
+						<li><a href="https://bcrcorp.com.cn/client-resources/glossary/tra"><i class="fa fa-angle-right"></i>交易術語</a></li>
+						<li><a href="https://bcrcorp.com.cn/client-resources/faqs/tra"><i class="fa fa-angle-right"></i>常见问题解答</a></li>
+					</ul>
+					<ul class="megamenu-list link-list">
+						<li class="title">交易要點</li>
+						<li><a href="https://bcrcorp.com.cn/client-resources/event-notices/tra"><i class="fa fa-angle-right"></i>活動和公告</a> </li>
+						<li><a href="https://bcrcorp.com.cn/client-resources/market-news/tra"><i class="fa fa-angle-right"></i>市場新聞</a></li>
+						<li><a href="https://bcrcorp.com.cn/client-resources/economic-calendar/tra"><i class="fa fa-angle-right"></i>財經日曆</a></li>
+						<li class="hidden-md-down"><a href="https://bcrcorp.com.cn/client-resources/position-indicator/tra"><i class="fa fa-angle-right"></i>交易情緒指數</a></li>
+					</ul>
+				</div>
+			</li>
+			<li><a href="https://bcrcorp.com.cn/education/tra" class="brackets">教育資源</a>
+			<div class="megamenu clearfix">
+				<ul class="megamenu-list link-list megamenu-intro">
+					<h3 class="megamenu-intro-title">教育資源</h3>
+					<p class="megamenu-intro-body">基於我們在差價合約行業多年的經驗，BCR團隊開發了培訓系列，幫助投資者在高風險，高回報的CFD交易環境中找到自己的定位。定期查看此部分以獲取最新的教育資源。</p>
+					<div class="megamenu-intro-button">
+						<p><a href="https://bcrcorp.com.cn/education/trading-video/tra" class="btn btn-primary" style="pointer-events: none;">交易影片</a></p>
+					</div>
+					<div class="megamenu-intro-button">
+						<p><a href="https://bcrcorp.com.cn/education/market-analysis/tra" class="btn btn-primary-outline">市場分析</a></p>
+					</div>
+				</ul>
+				<ul class="megamenu-list link-list">
+					<li class="title">外匯交易</li>
+					<li><a href="https://bcrcorp.com.cn/education/forex-introduction/tra"><i class="fa fa-angle-right"></i>外匯概述</a></li>
+					<li><a href="https://bcrcorp.com.cn/education/forex-trading-basics/tra"><i class="fa fa-angle-right"></i>外匯交易基礎</a></li>
+				</ul>
+				<ul class="megamenu-list link-list">
+					<li class="title">分析</li>
+					<li><a href="https://bcrcorp.com.cn/education/fundamental-analysis/tra"><i class="fa fa-angle-right"></i>基礎分析</a></li>
+					<li><a href="https://bcrcorp.com.cn/education/technical-analysis/tra"><i class="fa fa-angle-right"></i>技術分析</a></li>
+					<li><a href="https://bcrcorp.com.cn/education/market-analysis/tra"><i class="fa fa-angle-right"></i>市場分析</a></li>
+					<!-- Market Analysis
+					index page > market-analysis.php
+					Sort by:
+						> market-analysis/{author}/{post-title}
+						> market-analysis/{product}/{post-title}
+					-->
+				</ul>
+				<ul class="megamenu-list link-list">
+					<li class="title">課程</li>
+					<li class="coming-soon"><i class="fa fa-angle-right"></i>交易電子書</li>
+					<li class="coming-soon"><i class="fa fa-angle-right"></i>交易影片</a></li>
+					<li class="coming-soon"><i class="fa fa-angle-right"></i>交易在線講座</a></li>
+					<!-- Trading Courses
+					index page > trading-ebook.php
+					index page > trading-video.php
+					index page > webinars.php
+					Trading eBook:
+						> education/course/trading-ebook/trading-ebook > List of available books
+					Trading Video: (No Filter option)
+						> education/course/trading-video/{post-title}
+					Webinars: (No Filter option)
+						> education/course/webinars/webinars
+					* Webinar index page show a list of incoming webinars, and a video player as the main panel for the current webinar.
+					-->
+				</ul>
+			</div>
+		</li>
+		<li><a href="https://bcrcorp.com.cn/about-us/tra" class="brackets">關於我們</a>
+		<div class="megamenu clearfix">
+			<ul class="megamenu-list link-list megamenu-intro">
+				<h3 class="megamenu-intro-title">關於我們</h3>
+				<p class="megamenu-intro-body">BCR在差價合約行業中提供極具競爭力的點差和最理想的交易環境。投資CFD差價合約，BCR將會是您的首選。</p>
+				<div class="megamenu-intro-button">
+					<p><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/tra" class="btn btn-primary">真實帳戶</a></p>
+				</div>
+				<div class="megamenu-intro-button">
+					<p><a href="https://bcrcorp.com.cn/cfd-trading/demo-account/tra" class="btn btn-primary-outline">模擬帳戶</a></p>
+				</div>
+			</ul>
+			<ul class="megamenu-list link-list">
+				<li class="title">認識我們</li>
+				<li><a href="https://bcrcorp.com.cn/about-us/company-profile/tra"><i class="fa fa-angle-right"></i>公司介紹</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/why-choose-us/tra"><i class="fa fa-angle-right"></i>為何選擇BCR</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/contact-us/tra"><i class="fa fa-angle-right"></i>聯繫我們</a></li>
+			</ul>
+			<ul class="megamenu-list link-list">
+				<li class="title">規則</li>
+				<li><a href="https://bcrcorp.com.cn/about-us/risk-disclosure/tra"><i class="fa fa-angle-right"></i>風險披露</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/privacy-policy/tra"><i class="fa fa-angle-right"></i>保密政策</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/rg227/tra"><i class="fa fa-angle-right"></i>RG 227</a></li>
+			</ul>
+		</div>
+	</li>
+	<li><a href="https://bcrcorp.com.cn/affiliates/tra" class="brackets">合作夥伴</a></li>
+	<li><a href="#" class="brackets">最新回饋</a>
+	<div class="megamenu clearfix ">
+		<div class="col-xl-4 col-lg-12">
+			<h3 class="title">贈金活動</h3>
+			<div class="fluid-width-video-wrapper">
+				<a href="https://bcrcorp.com.cn/promotions/bonus/tra"><img src="/images/bonus-promo-banner-tra.jpg" class="img-fluid" alt=""/></a>
+				<br />
+				<p>最高可獲贈15%的獎勵資金。</p>
+			</div>
+		</div>
+
+		<div class="col-xl-4 col-lg-12">
+			<h3 class="title">獎品回饋</h3>
+			<div class="fluid-width-video-wrapper">
+				<a href="https://bcrcorp.com.cn/promotions/iphone/tra"><img src="/images/iphone7_hero.jpg" class="img-fluid" alt=""/></a>
+				<br />
+				<p>今日入金領取iPhone 8 / iPhone 8 Plus 或 iPhone X活動!</p>
+			</div>
+		</div>
+
+		<div class="col-xl-4 col-lg-12">
+			<h3 class="title">信用積分</h3>
+			<div class="fluid-width-video-wrapper">
+				<a href="https://bcrcorp.com.cn/promotions/reward-points/tra">
+					<img src="/images/reward-points-banner-tra.jpg" class="img-fluid" alt=""/>
+				</a>
+				<br />
+				<p>通過存款和交易賺取積分!</p>
+			</div>
+		</div>
+	</div>
+</li>
+<li class="top-menu-link"><a href="#" class="brackets">客戶登陸</a></li>
+<li class="top-menu-link"><a href="#" class="brackets">選擇語言</a>
+<div class="megamenu clearfix">
+	<ul class="megamenu-list link-list">
+		<li><a href="https://bcrcorp.com.cn/education/market-analysis/tra/ffc1d6ee38ac7cea3b7079f54253e69141a183b1"><i class="flag-icon flag-icon-au ml-10"></i> Australian</a></li>
+		<li><a href="https://bcrcorp.com.cn/education/market-analysis/tra/ffc1d6ee38ac7cea3b7079f54253e69141a183b1sim"><i class="flag-icon flag-icon-cn ml-10"></i> 简体</a></li>
+		<li><a href="https://bcrcorp.com.cn/education/market-analysis/tra/ffc1d6ee38ac7cea3b7079f54253e69141a183b1tra"><i class="flag-icon flag-icon-cn ml-10"></i> 繁體</a></li>
+	</ul>
+</div>
+</li>
+<li class="top-menu-link"><a href="#" class="brackets">選擇貨幣</a>
+	<div class="megamenu clearfix">
+		<ul class="megamenu-list link-list">
+			<li><a href="https://bcrcorp.com.cn/currency/aud"><i class="flag-icon flag-icon-au ml-10"></i> 澳元</a></li>
+			<li><a href="https://bcrcorp.com.cn/currency/usd"><i class="flag-icon flag-icon-us ml-10"></i> 美元</a></li>
+		</ul>
+	</div>
+</li>
+<li class="top-menu-link"><a href="#" class="brackets" style="background-color: #6f9334;">開立真實帳戶</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</header>										<section class="contentWrapper">
+			<section class="single-post-layout">
+	<div class="container-fluid">
+		<article class="single-post">
+			<h1 class="post-title">BCR 每日市場解析 2018.3.22</h1>
+			<hr class="short-divider">
+			<p class="post-time">評論時間: <span class="time">2018-03-22</span> (Day) 由 <span class="author">BCR市場分析師</span></p>
+
+							<img src="/images/education/market_commentary_image_library/market_analysis_image4.jpg" />
+			
+			<br>
+			<p>美元指數前交易日大幅跳水，日線收陰回吐前一日漲幅，今日早盤價格繼續下跌，4小時級別MACD動能偏下行，RSI下探超賣區域，短線趨勢有偏下行風險，從盤面上來看價格整體震盪於88.1-90.9區間，關注區間突破方向尋求中、長線走勢。</p>
+
+<p>歐美前交易日大幅上漲，日線收線長陽測試1.2357阻力，日線級別形成雙K反轉，後市有偏上行風險。鎊美前交易日再次拉升上漲，日線收陽上探1.4150阻力，短線上行趨勢保持完好，後市看多。澳美前交易日低位反彈拉升上漲，日線收線長陽連破0.7711以及0.7757兩個水平阻力位置，H4級別來看價格趨勢仍偏下行，目前關注0.7915關鍵阻力效果。黃金前交易日低位拉升，日線收線長陽收復多日跌幅，目前關注1340位置阻力作用，若價格強穿阻力中、長線趨勢有望由空轉多。</p>
+
+<p>&nbsp;</p>
+
+<p>EURUSD ：4小時圖</p>
+
+<p><img alt="" src="http://img.bacera.com.au/commentary/45ac6fbd1fdf4513a8632402bd115f70.png" /></p>
+
+<p>轉換線與基準線信號：均衡<br />
+延遲線信號：弱多<br />
+一目雲信號：均衡<br />
+中期趨勢：弱空<br />
+短期趨勢：弱多<br />
+支撐1：1.2203 支撐2：1.2152<br />
+阻力1：1.2445 阻力2：1.2556</p>
+
+<p>&nbsp;</p>
+
+<p>GBPUSD：4小時圖</p>
+
+<p><img alt="" src="http://img.bacera.com.au/commentary/6c548ff58d57b7d708b463b3d55ec6bc.png" style="height:358px; width:800px" /></p>
+
+<p>轉換線與基準線信號：偏多<br />
+延遲線信號：偏多<br />
+一目雲信號：偏多<br />
+中期趨勢：偏多<br />
+短期趨勢：偏多<br />
+支撐1：1.3911 支撐2：1.3710<br />
+阻力1：1.4278 阻力2：1.4344</p>
+
+<p>&nbsp;</p>
+
+<p>AUDUSD：4小時圖</p>
+
+<p><img alt="" src="http://img.bacera.com.au/commentary/323feedd3162b81b291ddb675b6c63cb.png" /></p>
+
+<p>轉換線與基準線信號：弱空<br />
+延遲線信號：弱空<br />
+一目雲信號：偏空<br />
+中期趨勢：偏空<br />
+短期趨勢：弱空<br />
+支撐1：0.7636 支撐2：0.7502<br />
+阻力1：0.7915 阻力2：0.7986</p>
+
+<p>&nbsp;</p>
+
+<p>XAUUSD：4小時圖</p>
+
+<p><img alt="" src="http://img.bacera.com.au/commentary/2bc63508bf59f5e9f9fc0a7ffc2f7238.png" /></p>
+
+<p>轉換線與基準線信號：均衡<br />
+延遲線信號：偏多<br />
+一目雲信號：弱多<br />
+中期趨勢：弱空<br />
+短期趨勢：偏多<br />
+支撐1：1307.1 支撐2：1302.4<br />
+阻力1：1340.9 阻力2：1350.3</p>
+
+			
+		</article>
+
+		<aside class="other-posts">
+			<h3 class="divider-with-text text-center"><span>其他文章</span></h3>
+							<a href="/education/market-analysis/tra/e15e1d6b190af83482c41997f1d032d981763df1">
+					<div class="card card-default">
+						
+						<img class="img-fluid" src="/images/education/market_commentary_image_library/market_analysis_image2.jpg" />
+						<div class="card-block">
+							<h4 class="card-title">BCR 每日市場解析 2018.4.6</h4>
+							<p class="post-time">評論時間: <span class="time">2018-03-22</span> (Day)</p>
+							<p class="card-text">
+								美元指數前交易日大幅跳水，日線收陰回吐前一日漲幅，今日早盤價格繼續下跌，4小時級別MACD動能偏下行，RSI下探超賣區域，短線趨勢有偏下行風險，從盤面上來看價格整體震盪於88.1-90.9區間，關注區間突破方向尋求中、長線走勢。歐美前交易日大幅上漲，日線收線長陽測試1.2357阻力，日線級別形成雙K反轉，後市有偏上行風險。鎊美前交易日再次拉升上漲，日線收陽上探1.4150阻力，短線上行趨勢保持完好，後市看多。澳美前交易日低位反彈拉升上漲，日線收線長陽連破0.7711以及0.7757兩個水平阻力位置，H4級別來看價格趨勢仍偏下行，目前關注0.7915關鍵阻力效果。黃金前交易日低位拉升，日線收線長陽收復多日跌幅，目前關注1340位置阻力作用，若價格強穿阻力中、長線趨勢有望由空轉多。EURUSD ：4小時圖轉換線與基準線信號：均衡延遲線信號：弱多一目雲信號：均衡中期趨勢：弱空短期趨勢：弱多支撐1：1.2203 支撐2：1.2152阻力1：1.2445 阻力2：1.2556GBPUSD：4小時圖轉換線與基準線信號：偏多延遲線信號：偏多一目雲信號：偏多中期趨勢：偏多短期趨勢：偏多支撐1：1.3911 支撐2：1.3710阻力1：1.4278 阻力2：1.4344AUDUSD：4小時圖轉換線與基準線信號：弱空延遲線信號：弱空一目雲信號：偏空中期趨勢：偏空短期趨勢：弱空支撐1：0.7636 支撐2：0.7502阻力1：0.7915 阻力2：0.7986XAUUSD：4小時圖轉換線與基準線信號：均衡延遲線信號：偏多一目雲信號：弱多中期趨勢：弱空短期趨勢：偏多支撐1：1307.1 支撐2：1302.4阻力1：1340.9 阻力2：1350.3
+							</p>
+						</div>
+					</div>
+				</a>
+							<a href="/education/market-analysis/tra/70c2a950d6f90860c2c7768531136783f95f8cef">
+					<div class="card card-default">
+						
+						<img class="img-fluid" src="/images/education/market_commentary_image_library/market_analysis_image8.jpg" />
+						<div class="card-block">
+							<h4 class="card-title">BCR 每日市場解析 2018.4.5</h4>
+							<p class="post-time">評論時間: <span class="time">2018-03-22</span> (Day)</p>
+							<p class="card-text">
+								美元指數前交易日大幅跳水，日線收陰回吐前一日漲幅，今日早盤價格繼續下跌，4小時級別MACD動能偏下行，RSI下探超賣區域，短線趨勢有偏下行風險，從盤面上來看價格整體震盪於88.1-90.9區間，關注區間突破方向尋求中、長線走勢。歐美前交易日大幅上漲，日線收線長陽測試1.2357阻力，日線級別形成雙K反轉，後市有偏上行風險。鎊美前交易日再次拉升上漲，日線收陽上探1.4150阻力，短線上行趨勢保持完好，後市看多。澳美前交易日低位反彈拉升上漲，日線收線長陽連破0.7711以及0.7757兩個水平阻力位置，H4級別來看價格趨勢仍偏下行，目前關注0.7915關鍵阻力效果。黃金前交易日低位拉升，日線收線長陽收復多日跌幅，目前關注1340位置阻力作用，若價格強穿阻力中、長線趨勢有望由空轉多。EURUSD ：4小時圖轉換線與基準線信號：均衡延遲線信號：弱多一目雲信號：均衡中期趨勢：弱空短期趨勢：弱多支撐1：1.2203 支撐2：1.2152阻力1：1.2445 阻力2：1.2556GBPUSD：4小時圖轉換線與基準線信號：偏多延遲線信號：偏多一目雲信號：偏多中期趨勢：偏多短期趨勢：偏多支撐1：1.3911 支撐2：1.3710阻力1：1.4278 阻力2：1.4344AUDUSD：4小時圖轉換線與基準線信號：弱空延遲線信號：弱空一目雲信號：偏空中期趨勢：偏空短期趨勢：弱空支撐1：0.7636 支撐2：0.7502阻力1：0.7915 阻力2：0.7986XAUUSD：4小時圖轉換線與基準線信號：均衡延遲線信號：偏多一目雲信號：弱多中期趨勢：弱空短期趨勢：偏多支撐1：1307.1 支撐2：1302.4阻力1：1340.9 阻力2：1350.3
+							</p>
+						</div>
+					</div>
+				</a>
+							<a href="/education/market-analysis/tra/633082a45fe91741911d1b56a143f0d8e1748a22">
+					<div class="card card-default">
+						
+						<img class="img-fluid" src="/images/education/market_commentary_image_library/market_analysis_image4.jpg" />
+						<div class="card-block">
+							<h4 class="card-title">BCR 每日市場解析 2018.4.3</h4>
+							<p class="post-time">評論時間: <span class="time">2018-03-22</span> (Day)</p>
+							<p class="card-text">
+								美元指數前交易日大幅跳水，日線收陰回吐前一日漲幅，今日早盤價格繼續下跌，4小時級別MACD動能偏下行，RSI下探超賣區域，短線趨勢有偏下行風險，從盤面上來看價格整體震盪於88.1-90.9區間，關注區間突破方向尋求中、長線走勢。歐美前交易日大幅上漲，日線收線長陽測試1.2357阻力，日線級別形成雙K反轉，後市有偏上行風險。鎊美前交易日再次拉升上漲，日線收陽上探1.4150阻力，短線上行趨勢保持完好，後市看多。澳美前交易日低位反彈拉升上漲，日線收線長陽連破0.7711以及0.7757兩個水平阻力位置，H4級別來看價格趨勢仍偏下行，目前關注0.7915關鍵阻力效果。黃金前交易日低位拉升，日線收線長陽收復多日跌幅，目前關注1340位置阻力作用，若價格強穿阻力中、長線趨勢有望由空轉多。EURUSD ：4小時圖轉換線與基準線信號：均衡延遲線信號：弱多一目雲信號：均衡中期趨勢：弱空短期趨勢：弱多支撐1：1.2203 支撐2：1.2152阻力1：1.2445 阻力2：1.2556GBPUSD：4小時圖轉換線與基準線信號：偏多延遲線信號：偏多一目雲信號：偏多中期趨勢：偏多短期趨勢：偏多支撐1：1.3911 支撐2：1.3710阻力1：1.4278 阻力2：1.4344AUDUSD：4小時圖轉換線與基準線信號：弱空延遲線信號：弱空一目雲信號：偏空中期趨勢：偏空短期趨勢：弱空支撐1：0.7636 支撐2：0.7502阻力1：0.7915 阻力2：0.7986XAUUSD：4小時圖轉換線與基準線信號：均衡延遲線信號：偏多一目雲信號：弱多中期趨勢：弱空短期趨勢：偏多支撐1：1307.1 支撐2：1302.4阻力1：1340.9 阻力2：1350.3
+							</p>
+						</div>
+					</div>
+				</a>
+							<a href="/education/market-analysis/tra/ae4287007809a3c23bd3cf2ccf61fe323e43e6ce">
+					<div class="card card-default">
+						
+						<img class="img-fluid" src="/images/education/market_commentary_image_library/market_analysis_image6.jpg" />
+						<div class="card-block">
+							<h4 class="card-title">BCR 每日市場解析 2018.3.29</h4>
+							<p class="post-time">評論時間: <span class="time">2018-03-22</span> (Day)</p>
+							<p class="card-text">
+								美元指數前交易日大幅跳水，日線收陰回吐前一日漲幅，今日早盤價格繼續下跌，4小時級別MACD動能偏下行，RSI下探超賣區域，短線趨勢有偏下行風險，從盤面上來看價格整體震盪於88.1-90.9區間，關注區間突破方向尋求中、長線走勢。歐美前交易日大幅上漲，日線收線長陽測試1.2357阻力，日線級別形成雙K反轉，後市有偏上行風險。鎊美前交易日再次拉升上漲，日線收陽上探1.4150阻力，短線上行趨勢保持完好，後市看多。澳美前交易日低位反彈拉升上漲，日線收線長陽連破0.7711以及0.7757兩個水平阻力位置，H4級別來看價格趨勢仍偏下行，目前關注0.7915關鍵阻力效果。黃金前交易日低位拉升，日線收線長陽收復多日跌幅，目前關注1340位置阻力作用，若價格強穿阻力中、長線趨勢有望由空轉多。EURUSD ：4小時圖轉換線與基準線信號：均衡延遲線信號：弱多一目雲信號：均衡中期趨勢：弱空短期趨勢：弱多支撐1：1.2203 支撐2：1.2152阻力1：1.2445 阻力2：1.2556GBPUSD：4小時圖轉換線與基準線信號：偏多延遲線信號：偏多一目雲信號：偏多中期趨勢：偏多短期趨勢：偏多支撐1：1.3911 支撐2：1.3710阻力1：1.4278 阻力2：1.4344AUDUSD：4小時圖轉換線與基準線信號：弱空延遲線信號：弱空一目雲信號：偏空中期趨勢：偏空短期趨勢：弱空支撐1：0.7636 支撐2：0.7502阻力1：0.7915 阻力2：0.7986XAUUSD：4小時圖轉換線與基準線信號：均衡延遲線信號：偏多一目雲信號：弱多中期趨勢：弱空短期趨勢：偏多支撐1：1307.1 支撐2：1302.4阻力1：1340.9 阻力2：1350.3
+							</p>
+						</div>
+					</div>
+				</a>
+							<a href="/education/market-analysis/tra/f1a694d8be6fac87e96880b7c094796345551bfa">
+					<div class="card card-default">
+						
+						<img class="img-fluid" src="/images/education/market_commentary_image_library/market_analysis_image5.jpg" />
+						<div class="card-block">
+							<h4 class="card-title">BCR 每日市場解析 2018.3.28</h4>
+							<p class="post-time">評論時間: <span class="time">2018-03-22</span> (Day)</p>
+							<p class="card-text">
+								美元指數前交易日大幅跳水，日線收陰回吐前一日漲幅，今日早盤價格繼續下跌，4小時級別MACD動能偏下行，RSI下探超賣區域，短線趨勢有偏下行風險，從盤面上來看價格整體震盪於88.1-90.9區間，關注區間突破方向尋求中、長線走勢。歐美前交易日大幅上漲，日線收線長陽測試1.2357阻力，日線級別形成雙K反轉，後市有偏上行風險。鎊美前交易日再次拉升上漲，日線收陽上探1.4150阻力，短線上行趨勢保持完好，後市看多。澳美前交易日低位反彈拉升上漲，日線收線長陽連破0.7711以及0.7757兩個水平阻力位置，H4級別來看價格趨勢仍偏下行，目前關注0.7915關鍵阻力效果。黃金前交易日低位拉升，日線收線長陽收復多日跌幅，目前關注1340位置阻力作用，若價格強穿阻力中、長線趨勢有望由空轉多。EURUSD ：4小時圖轉換線與基準線信號：均衡延遲線信號：弱多一目雲信號：均衡中期趨勢：弱空短期趨勢：弱多支撐1：1.2203 支撐2：1.2152阻力1：1.2445 阻力2：1.2556GBPUSD：4小時圖轉換線與基準線信號：偏多延遲線信號：偏多一目雲信號：偏多中期趨勢：偏多短期趨勢：偏多支撐1：1.3911 支撐2：1.3710阻力1：1.4278 阻力2：1.4344AUDUSD：4小時圖轉換線與基準線信號：弱空延遲線信號：弱空一目雲信號：偏空中期趨勢：偏空短期趨勢：弱空支撐1：0.7636 支撐2：0.7502阻力1：0.7915 阻力2：0.7986XAUUSD：4小時圖轉換線與基準線信號：均衡延遲線信號：偏多一目雲信號：弱多中期趨勢：弱空短期趨勢：偏多支撐1：1307.1 支撐2：1302.4阻力1：1340.9 阻力2：1350.3
+							</p>
+						</div>
+					</div>
+				</a>
+					</aside>
+
+	</div>
+</section>
+					</section>
+
+		<footer class="footer" style="margin-top: 30px">
+			<section class="container">
+	<div class="footer-logo">
+		<img src="/images/logo-white.png" class="img-fluid">
+	</div>
+	<div class="divider hidden-md-down"></div>
+	<div class="footer-nav hidden-md-down">
+		<div class="footer-nav-item">
+			<h6 class="category">差價合約交易</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-basics/tra">差價合約介紹</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-forex/tra">外匯</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-precious-metals/tra">貴金屬</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-commodities/tra">商品</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-indices/tra">指數</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-shares/tra">股票</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/account-overview/tra">帳戶類型</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/tra">標準帳戶</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/pro-account/tra">白金帳戶</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/demo-account/tra">模擬帳戶</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/contract-specifications/tra">差價合約交易細則</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/swap-information/tra">利息圖表</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/trading-examples/tra">交易案例</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">交易平台</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-windows/tra">Windows <i class="fa fa-windows"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mac/tra">蘋果<i class="fa fa-apple"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-android/tra">安卓 <i class="fa fa-android"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-ios/tra">蘋果手機 <i class="fa fa-apple"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-tablet/tra">平板</a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-guide/tra">BCR Trader指南</a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mobile-guide/tra">手機板BCR Trader指南</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">客戶資源</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/client-resources/funding-information/tra">入金指導 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/withdrawal-instructions/tra">出金指導</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/legal-documents/tra">客户表格 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/trading-rules/tra">交易規則 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/glossary/tra">交易術語 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/faqs/tra">常見問題解答</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/event-notices/tra">活動和公告 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/market-news/tra">市場新聞 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/economic-calendar/tra">財經日曆 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/position-indicator/tra">交易情緒指數</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">教育資源</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/education/forex-introduction/tra">外匯概述 </a></li>
+				<li><a href="https://bcrcorp.com.cn/education/forex-trading-basics/tra">外滙交易基礎 </a></li>
+				<li><a href="https://bcrcorp.com.cn/education/fundamental-analysis/tra">基礎分析 </a></li>
+				<li><a href="https://bcrcorp.com.cn/education/technical-analysis/tra">技術分析 </a></li>
+				<li><a href="https://bcrcorp.com.cn/education/market-analysis/tra">市場分析 </a></li>
+				
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">關於我們</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/about-us/company-profile/tra">公司介紹</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/why-choose-us/tra">為何選擇BCR</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/contact-us/tra">聯繫我們</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/risk-disclosure/tra">風險披露</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/privacy-policy/tra">保密政策</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/rg227/tra">RG 227</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">最新回饋</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/promotions/bonus/tra">贈金活動</a></li>
+				<li><a href="https://bcrcorp.com.cn/promotions/iphone/tra">獎品回饋</a></li>
+				<li><a href="https://bcrcorp.com.cn/promotions/reward-points/tra">信用積分</a></li>
+				<li><a href="https://bcrcorp.com.cn/affiliates/tra" >合作夥伴</a></li>
+			</ul>
+		</div>
+		<hr>
+	</div>
+	<div class="divider"></div>
+
+	<div class="footer-contact">
+		<div class="item text-xs-center">
+			<p class="note">Suite 802, Level 8, 99 Mount Street<br>North Sydney, NSW 2060 Australia</p>
+		</div>
+		<div class="item">
+			<h4><i class="fa fa-phone-square"></i>&nbsp; +61 2 8282 5738</h4>
+		</div>
+		<div class="item">
+			<h4><i class="fa fa-fax"></i>&nbsp; +61 2 8088 7423</h4>
+		</div>
+	</div>
+	<div class="divider"></div>
+
+	<article class="footer-info">
+		<p class="note"><strong>風險提示:</strong> 保證金差價合約交易涉及高風險，未必適合所有投資者。投資者可能會在交易時遇到損失超過入金金額的情況。在本網站、電郵或其相關網站中的訊息不會對任何金融產品作出推薦，所包含的訊息也沒有以投資者個人的目標、財務狀況和需要為依據。在決定於BCR進行保證金差價合約交易前，請投資者仔細閱讀我們的<a href="/pdf/tra/BA_doc_3072.pdf" target="_blank" class="text-white">產品披露聲明（Product Disclosure Statement）</a>和<a href="/pdf/tra/BA_doc_3082.pdf" target="_blank" class="text-white">金融服務指南（Financial Services Guide）</a>，如有需要請尋求獨立專家的建議。本網站的所有資料及內容均有可能隨時變更而不作另行通知。</p>
+
+		<p class="note">BCR是Bacera Co Pty Ltd的商標。 Bacera Co Pty Ltd，澳大利亞公司註冊號碼:ACN 130 877 137。澳大利亞金融執照(AFSL):執照編號328794。</p>
+
+		<p class="note">Apple, iPad, 和 iPhone 是蘋果公司(Apple Inc.)在美國和其他國家的註冊商標。App Store是蘋果公司(Apple Inc)的服務商標. Android是谷歌公司(Google Inc.)的註冊商標。</p>
+
+	</article>
+	<div class="divider"></div>
+	<div class="hidden-md-up">
+		<p><a href="https://bcrcorp.com.cn/client-resources/funding-information/tra" class="btn btn-warning-outline btn-full text-warning"><span class="fa fa-credit-card"></span>&nbsp; 資助信息</a></p>
+		<p><a href="http://m.bacera.com.au?f=2" class="btn btn-secondary-outline btn-full"><span class="fa fa-mobile"></span>&nbsp; 手機版</a></p>
+	</div>
+	<div class="additional-links">
+		<ul class="">
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/terms-of-use/tra">使用條款</a> /</li>
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/contact-us/tra">網站地圖</a> /</li>
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/privacy-policy/tra">保密政策</a> /</li>
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/risk-disclosure/tra">風險披露</a> /</li>
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/client-resources/funding-information/tra">入金指導</a> /</li>
+			<li class="list-inline-item"><a href="http://m.bacera.com.au?f=2">手機版</a></li>
+			<li class="list-inline-item">&copy; Bacera Co Pty Ltd. 2018</li>
+		</ul>
+	</div>
+</section>
+
+
+<script src="/js/webslidemenu.js"></script>
+<script src="/js/tooltip.js"></script>
+<!-- Touch Effect on the Image Caption Hover -->
+<script src="/js/modernizr.custom.js"></script>
+<script src="/js/toucheffects.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="/js/ie10-viewport-bug-workaround.js"></script>
+<!-- Collapse Js -->
+<script src="/js/collapse.js"></script>
+<script src="/js/index.js"></script>
+<!-- Country Select -->
+<script src="/js/countrySelect.js"></script>
+<!-- Bouncing Effect -->
+<script src="/js/effects/ba-throttle-debounce.js"></script>
+<!-- Sticky Table Header & Column -->
+<script src="/js/effects/sticky-table.js"></script>
+
+
+<script type="text/javascript">
+	jQuery("#country").countrySelect({
+		preferredCountries: ['au', 'cn', 'us']
+	});
+
+	// window.sr = ScrollReveal();
+	// sr.reveal('.footer-links li', {duration: 500}, 50);
+
+	// jQuery(".navbar-fixed-top").autoHidingNavbar();
+	// 
+jQuery(document).ready(function(e) {
+	
+	jQuery('input#currency-switch').on('change',function(){
+		if(jQuery(this).is(':checked'))
+		{
+			//alert(jQuery(this).val());
+			set_currency('usd');
+		}else
+		{
+			//alert(jQuery(this).val()+'kk');
+			set_currency('aud');
+		}
+	});
+});
+function set_currency(currency)
+{
+	// /currency
+	jQuery.get("/currency/"+currency, function() {
+		setTimeout(function(){ document.location.reload(true); }, 1000);		
+	});
+}
+</script>		</footer>	
+	</section>
+	
+	<div class="" style="position:fixed; z-index:2000;  right: 10px; bottom: 10px;  overflow: hidden; border: 0px; padding: 0px; background: transparent; cursor: pointer;">
+		<a  href="javascript:void(0);" onclick="window.open('http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzgwMDE4NjgwN180ODA2OThfODAwMTg2ODA3XzJf','pagename','resizable,height=520,width=740'); return false;" >
+						<img src="/images/qq_53.jpg" style="width:100px;"/>
+		</a>
+	</div>
+	
+	<script type="text/javascript" src="/js/libs.js"></script>
+		<script src="/js/owl.carousel.js"></script>
+<script src="/js/effects/magnify.js"></script>
+<script type="text/javascript">
+
+jQuery(document).ready(function(){
+	jQuery('.content-slider').owlCarousel({
+		baseClass: "cs-",
+		nav: true,
+		navText: ["<span class=\"fa fa-chevron-left\"></span>", "<span class=\"fa fa-chevron-right\"></span>"],
+		responsiveClass: true,
+		responsive:{
+			0:{
+				items:1,
+				nav:false
+			},
+			480:{
+				items:1,
+				nav:false
+			},
+			767:{
+				items:1,
+				nav:false
+			},
+			768:{
+				items:2,
+				nav:false
+			},
+			992:{
+				items:3,
+				nav:false
+			},
+			1024:{
+				items:3,
+				nav:false
+			},
+			1200:{
+				items:3,
+				nav:true,
+				loop:false
+			}
+		},
+	});
+});
+</script>
+	<script>
+	$(document).ready(function () {
+		//BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 800186807, selector: 'BizQQWPA'});
+	})
+	</script>
+</body>
+</html>
+
+

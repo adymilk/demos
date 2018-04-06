@@ -1,0 +1,597 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0025)/ -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=200, initial-scale=1.0, maximum-scale=0.3, user-scalable=1">
+<meta http-equiv="Cache-Control" content="no-store">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>干货 | 如何巧用成交量分布正确交易 - 合作榜 - 信鑫资讯</title>
+<meta name="keywords" content="123" />
+<meta name="description" content="干货 | 如何巧用成交量分布正确交易
+                                                                        在现有的图表平台的基础上，实际上任何一个交易员都可以使用这种市场分析来确定交易活动发生在哪、以及在每个价格水平上的交易量有多大。在此，我们仔细分析一下成交量分布图，并解释如何用它来确定交易的进场点和出场点。 " />
+<link href="/skins/doccms_model_1/css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/skins/doccms_model_1/css/tx_macth_ing.css" />
+<link rel="stylesheet" href="/skins/doccms_model_1/css/newscenter.css" />
+<link href="/skins/doccms_model_1/css/dn_huodong.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="include_header" data-hasbindevent="yes">
+  <div class="newsTopBar">
+    <div class="w1000 clearfix">
+      <div style="float: left">
+        <h6 style="color:#999999" id="SH"><span>期权宝</span> &nbsp;<span class="colorRed">个股期权</span></h6>
+        <h6 style="color:#999999;margin-left:20px;" id="SZ"><span>业务领域</span> &nbsp;<span class="colorGreen">衍生品服务</span> &nbsp;<span class="colorGreen">STOCK OPTIONS</span> &nbsp;</h6>
+     </div>
+     <div id="loginHeader">TEL  021-31121267<a href="http://option.hxoption.com/Home/Index/register.html" class="gt_app_down" target="_blank">
+      注册账户</a> |<a href="http://option.hxoption.com/Home/Index/index.html" class="gt_app_down" target="_blank">
+      登录账户</a> </div>
+    </div>
+  </div>
+  <div class="newHeader">
+    <div class="w1000 clearfix">
+      <div class="newHeaderLogo"><a href="http://www.hxoption.com/"><img src="/skins/doccms_model_1/images/logo.png" alt="干货 | 如何巧用成交量分布正确交易 - 合作榜 - 信鑫资讯" width="164" height="47"></a></div>
+      <div class="newsNav" id="newNav">
+        <ul>
+          <li><a href="/"id="index" class="cur">首页</a></li>
+	   <!-- <li><a href="/?p=52"  title="期权视频讲解">期权视频讲解</a></li>--> 
+	  <li><a href="/?p=27"  title="学习中心">学习中心</a></li>
+          <li><a href="/?p=29"  title="行业资讯">行业资讯</a></li>
+          <li><a href="/?p=48"  title="关于我们">关于我们</a></li>
+	  <li><a href="http://option.hxoption.com/" rel="nofollow"  target="_blank" title="我的账户">我的账户</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="headerContent"></div>
+<div class="macth_banner">
+  <div class="tmo_banner" id="tmo_banner">
+    <ul class="tmo_banner_item" style="width:100%; left: 0px;">
+      <li style="background: url(../images/library.jpg) center 0px no-repeat; width: width="100%;"></li>
+    </ul>
+    <div class="tmo_banner_num"><span class="current"></span></div>
+  </div>
+</div>
+      
+	  <div class="newscenter">
+  <div class="center-in clearfix">
+    <div class="center-l">
+      <div class="center-bd">
+        <input id="RecordCount" name="RecordCount" type="hidden" value="48" />
+
+<style>
+/*======中间部分内======*/
+a{ text-decoration:none;}
+/*分页*/
+.endPageNum{ clear:both; font-size:12px; text-align:center;}
+.endPageNum table{ margin:auto;}
+.endPageNum .s1{width:52px;}
+.endPageNum .s2{background:#1f3a87; border:1px solid #ccc; color:#fff; font-weight:bold;}
+.endPageNum a.s2:visited {color:#fff;}
+.endPageNum a{padding:2px 5px;margin:5px 4px 0 0; color:#1F3A87;background:#fff; display:inline-table; border:1px solid #ccc; float:left;}
+.endPageNum a:visited{color:#1f3a87;} 
+.endPageNum a:hover{color:#fff; background:#1f3a87; border:1px solid #1f3a87;float:left; text-decoration:underline;}
+.endPageNum .s3{cursor:default;padding:2px 5px;margin:5px 4px 0 0; color:#ccc;background:#fff; display:inline-table; border:1px solid #ccc; float:left;}
+.clear{ clear:both;}
+.editor{ float:left; font-size:12px; margin:11px 0; width:545px; text-align:right;}
+#newscontent{ width:95%; margin:0 auto; padding:10px;}
+#newsconttitle a:hover{ color:#04d;}
+#newsconttitle span{ float:left;}
+#newsconttitle h1{ font-size:14px; font-weight:bold; color:#666; padding:0; margin:0;}
+#newsconttitle p{ width:100%; height:20px; line-height:20px; float:left; padding:15px 0; margin:0; color:#666; border-bottom:1px #ddd solid; text-align:left;}
+#newsconttitle p a{ width:410px;height:20px; overflow:hidden; display:block; color:#1e6bc5;word-wrap: break-word;word-break: normal; float:left;}	
+#newsummary{margin: 10px 0px 0px;padding: 12px 5px 6px;width:98%; background:#FFF;border: 1px solid #DCDDDD; }
+#newsummary h2{text-indent: 2em;font-size: 14px;line-height: 20px;color:#666; font-weight:500;}
+#newcontent{ line-height:22px; color:#666; margin:10px 5px 0 5px; float:left; display:inline;}
+#newcontent p{ text-indent:24px; padding:0; margin:0;}
+#newcontent p a:hover{ color:#04d;}
+#newsleft .ad{ margin:10px 0; float:left;}
+#newsright{ float:left; width:350px; margin-left:10px; display:inline;}
+#articeBottom {font-size: 14px; margin: 6px 0 10px; padding-top: 10px; text-align: right; width: 97%;}
+#articeBottom span{ float:left;}
+#articeBottom span a{ font-size:12px;}
+#articeBottom span a:hover{ color:#0099FF;}
+#articleHeader { margin:5px 0; padding:10px;background:#F5F5F5; height:60px;}
+#articleHeader h4{font-size:12px; color:#333;}
+#articleHeader h4 a{ font-size:12px; color:#333}
+.details h2{ background:#F8F8FF; border: 1px solid #DDD; line-height: 25px; margin-bottom: 15px;  padding: 10px; font-size:14px; text-indent:28px;}
+</style>
+<div class="askContLeft w715">
+        <div class="answerLeft">
+          <p class="til fz24" id="title">干货 | 如何巧用成交量分布正确交易</p>
+          <p class="time"><em><i>2017-12-03 21:57:47&nbsp;&nbsp;&nbsp;阅读191人</i></em>&nbsp;&nbsp;&nbsp;作者： </p>
+          <div class="answerText">
+            <div class="answerTextCont break">
+              
+            <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+    <section class="" style="margin:0.5em auto;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:center;"><br />
+</section>
+</section>
+<p>
+	<br />
+</p>
+<section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:15px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px 10px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:justify;font-size:14px;color:#433C3C;letter-spacing:0.5px;line-height:2;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	在现有的图表平台的基础上，实际上任何一个交易员都可以使用这种市场分析来确定交易活动发生在哪、以及在每个价格水平上的交易量有多大。在此，我们仔细分析一下成交量分布图，并解释如何用它来确定交易的进场点和出场点。
+</p>
+</section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:20px 0px 10px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px 10px 0px 0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;vertical-align:middle;width:267.1875px;">
+                <section class="" powered-by="xiumi.us" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+                    <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;font-size:6px;text-align:right;">
+                        <section class="" style="margin:0px auto;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;border:1px solid rgba(255, 255, 255, 0);text-align:center;width:1.8em;height:1.8em;line-height:1.8em;border-radius:100%;color:transparent;background-color:#BBE3C5;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+	1
+</p>
+</section>
+                    </section>
+                </section>
+            </section>
+            <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;vertical-align:middle;width:133.59375px;">
+                <section class="" powered-by="xiumi.us" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+                    <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;font-size:21px;text-align:center;">
+                        <section class="" style="margin:0px auto;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;border:1px solid rgba(255, 255, 255, 0);width:1.8em;height:1.8em;line-height:1.8em;border-radius:100%;color:#FFFFFF;background-color:#CBE2DD;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<strong style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">1</strong> 
+</p>
+</section>
+                    </section>
+                </section>
+            </section>
+            <section class="" style="margin:0px;padding:0px 0px 0px 10px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;vertical-align:middle;width:267.1875px;">
+                <section class="" powered-by="xiumi.us" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+                    <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;font-size:6px;">
+                        <section class="" style="margin:0px auto;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;border:1px solid rgba(255, 255, 255, 0);text-align:center;width:1.8em;height:1.8em;line-height:1.8em;border-radius:100%;color:transparent;background-color:#BBE3C5;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+	1
+</p>
+</section>
+                    </section>
+                </section>
+            </section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:center;color:#1CA9B8;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<strong style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">成交量分布图</strong> 
+</p>
+</section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:8px 0px 20px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;border-top-width:1px;border-top-style:dotted;border-top-color:#1CA9B8;"></section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:15px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px 10px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:justify;font-size:14px;color:#433C3C;letter-spacing:0.5px;line-height:2;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	许多交易员过去常常将成交量看作价格表下的柱状图。这种方法展示了每个价格条下的成交量、不论它是基于时间的价格（如一分钟）还是基于交易活动的价格（如144点的成交量或2000点的成交量）。尽管这是分析成交量的普遍方法，知道成交量发生在哪个价格而不是哪个时间会更有意义。
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	成交量显示了在交易期间每个价格水平发生了多少交易活动。为什么它对交易员是有用的呢？成交量分布图指出市场所青睐的价格以及市场所忽略的价格，这可以给交易员一些关于未来价格可能走向何处的一些线索。
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	市场上每个新交易成交时成交量分布图都会更新一次，而且控制点、价值区间、高交易节点以及低交易节点在给定的交易期间均会不停的变化，尤其是在交易较为活跃的金融工具中，因为有更多的交易活动被记录。随着成交量分布图在交易期过程中的变化，新的图形和交易机会出现了。
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	对活跃的交易者来说，最相关的是成交量分布的变化发展。收盘时的成交量分布图会显示历史成交量，但并不能精准定位活跃交易时段中的交易机会。正是交易时段中成交量分布的这种不断演变可以帮助人们做出交易决定。
+</p>
+</section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:10px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px 10px 0px 0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;vertical-align:middle;width:267.1875px;">
+                <section class="" powered-by="xiumi.us" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+                    <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;font-size:6px;text-align:right;">
+                        <section class="" style="margin:0px auto;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;border:1px solid rgba(255, 255, 255, 0);text-align:center;width:1.8em;height:1.8em;line-height:1.8em;border-radius:100%;color:transparent;background-color:#BBE3C5;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+	1
+</p>
+</section>
+                    </section>
+                </section>
+            </section>
+            <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;vertical-align:middle;width:133.59375px;">
+                <section class="" powered-by="xiumi.us" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+                    <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;font-size:21px;text-align:center;">
+                        <section class="" style="margin:0px auto;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;border:1px solid rgba(255, 255, 255, 0);width:1.8em;height:1.8em;line-height:1.8em;border-radius:100%;color:#FFFFFF;background-color:#CBE2DD;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<strong style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">2</strong> 
+</p>
+</section>
+                    </section>
+                </section>
+            </section>
+            <section class="" style="margin:0px;padding:0px 0px 0px 10px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;vertical-align:middle;width:267.1875px;">
+                <section class="" powered-by="xiumi.us" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+                    <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;font-size:6px;">
+                        <section class="" style="margin:0px auto;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;border:1px solid rgba(255, 255, 255, 0);text-align:center;width:1.8em;height:1.8em;line-height:1.8em;border-radius:100%;color:transparent;background-color:#BBE3C5;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+	1
+</p>
+</section>
+                    </section>
+                </section>
+            </section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:center;color:#1CA9B8;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<strong style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">周期节点</strong> 
+</p>
+</section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:0.5em 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;border-top-width:1px;border-top-style:dotted;border-top-color:#1CA9B8;"></section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:15px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px 10px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:justify;font-size:14px;color:#433C3C;letter-spacing:0.5px;line-height:2;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	变化的高成交量节点总是显示出截至目前最重要的日内交易发生在哪里，并反映出了交易期间最受欢迎的价格。另一方面，低成交量节点显示出目前受到较少关注的价格，也因此基本被市场参与者所忽略。
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	高低成交量节点的周期特性可以指出交易机会。交易时段内，在这个价格节点的吸引力不断来回推拉的作用下，市场频繁地回到这个价格。这在所有的市场条件下都会出现，但是在正在巩固并有待形成强大趋势的市场上是最普遍的。
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	形成高成交量节点的价格水平可以被用来确定“聪明”的钱在哪儿投资，常常代表支撑和阻力的关键区域。市场上的支撑和阻力位代表价格突破之前震荡和停滞的区域。
+</p>
+</section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:0.5em auto;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:center;"><br />
+</section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:15px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px 10px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:justify;font-size:14px;color:#433C3C;letter-spacing:0.5px;line-height:2;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	人们的情绪和行为在很大程度上影响着支撑（或该区域的下限）和阻力（或该区域的上限）。在某种程度上，价格图表可被看作是情绪图形的一种显示，如恐惧和贪婪、乐观和悲观，以及人类行为比如从众行为。
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	举例来说，恐惧和贪婪对支撑和阻力位有很大的影响。当价格下降到支撑位时，做多的交易者总会加仓以赚更多的钱；做空的交易者则频繁的平仓因为他们惧怕亏损。从众行为在这个例子中也被得到很好地体现，当交易者聚集在（并进一步加强）这些支撑和阻力位时，这增加了成交量并创造了成交量分布中的高成交量节点。
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	这样，成交量分布的分析可以帮助确定支撑或阻力位的显著性，并有助于显示市场参与者对未来市场预期将如何做出反应。
+</p>
+</section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:10px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px 10px 0px 0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;vertical-align:middle;width:267.1875px;">
+                <section class="" powered-by="xiumi.us" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+                    <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;font-size:6px;text-align:right;">
+                        <section class="" style="margin:0px auto;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;border:1px solid rgba(255, 255, 255, 0);text-align:center;width:1.8em;height:1.8em;line-height:1.8em;border-radius:100%;color:transparent;background-color:#BBE3C5;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+	1
+</p>
+</section>
+                    </section>
+                </section>
+            </section>
+            <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;vertical-align:middle;width:133.59375px;">
+                <section class="" powered-by="xiumi.us" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+                    <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;font-size:21px;text-align:center;">
+                        <section class="" style="margin:0px auto;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;border:1px solid rgba(255, 255, 255, 0);width:1.8em;height:1.8em;line-height:1.8em;border-radius:100%;color:#FFFFFF;background-color:#CBE2DD;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<strong style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">3</strong> 
+</p>
+</section>
+                    </section>
+                </section>
+            </section>
+            <section class="" style="margin:0px;padding:0px 0px 0px 10px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;vertical-align:middle;width:267.1875px;">
+                <section class="" powered-by="xiumi.us" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+                    <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;font-size:6px;">
+                        <section class="" style="margin:0px auto;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;display:inline-block;border:1px solid rgba(255, 255, 255, 0);text-align:center;width:1.8em;height:1.8em;line-height:1.8em;border-radius:100%;color:transparent;background-color:#BBE3C5;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+	1
+</p>
+</section>
+                    </section>
+                </section>
+            </section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:center;color:#1CA9B8;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<strong style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">用节点做交易</strong> 
+</p>
+</section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:0.5em 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;border-top-width:1px;border-top-style:dotted;border-top-color:#1CA9B8;"></section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:15px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px 10px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:justify;font-size:14px;color:#433C3C;letter-spacing:0.5px;line-height:2;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	由于交易量分布的动态特性，它可以成为一个特别有用的工具来确定日内交易的入场点和出场点。首先，控制点和价格区间的形成可以指出价格未来的走势，在有大量交易活动后（即交易开始几小时后）它即成为最重要的因素。
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<span style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;color:#C62F25;"><strong style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">寻找价值</strong></span> 
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<span style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;color:#928585;">当现在的价格下降到价格区间及控制点以下，表明价格会上升并重返最活跃的价格。</span> 
+</p>
+</section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:10px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:center;"><br />
+</section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:15px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px 10px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:justify;font-size:14px;color:#433C3C;letter-spacing:0.5px;line-height:2;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	因为价格区间和控制点代表高引力区域，在这些区域参与者看到了最高的价值，如果当前价格下降到出了这个区域，它可能会提供一个参考：如果当前价格在控制点下，做多；如果价格在控制点之上，做空。
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	在上图中，我们通过寻找低交易量节点来寻找潜在的入场点。低交易量节点可以提供较好的入场点，因为他们代表过去被忽略的价格。当我们预期价格控制点方向上的价格变化时这种情况会再次出现。在高于当前价格的最低交易量节点来设置一个止损买单可以提供一个好的长期入场点。
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<strong style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;"><span style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;color:#C62F25;">交易管理</span></strong> 
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<span style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;color:#928585;">在低交易量节点设置止损买单。在高于入场价格的高交易量节点处设置收益目标，并在低于入场价格的高交易量节点下设置保护性止损指令。</span> 
+</p>
+</section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:10px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:center;"><br />
+</section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:15px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px 10px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:justify;font-size:14px;color:#433C3C;letter-spacing:0.5px;line-height:2;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	高交易量节点可以提供出场点的大概率位置。因为市场预期已经发现前期较有吸引力的价格，这代表卖的好机会。上图显示潜在的出场点的位置以符合高于入场点的高交易量节点。在这个例子中，我们使用了两个出场点：收益目标1和收益目标2。在高交易量节点下方设置保护性止损。这样做可以最小化当价格跳动至低于高交易量节点然后又上升时止损离场的可能。
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<br />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<strong style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;"><span style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;color:#C62F25;">退出分析</span></strong> 
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<span style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;color:#928585;">价格达到高交易量节点，在利润目标1和利润目标2处出场。</span> 
+</p>
+</section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:10px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:center;"><br />
+</section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:15px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px 10px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:justify;font-size:14px;color:#433C3C;letter-spacing:0.5px;line-height:2;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	上图表明价格达到了高交易量节点，并在利润目标1和利润目标2出场。如果价格继续上升并超过了价格区间，下一步应该关注的是有可能出现的做空的进入点位，因为价格可能会会到当天的控制点。不想做空的交易员会等待下次机会，即价格在控制点之下时。
+</p>
+</section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:0.5em 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:center;"><br />
+</section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:15px 0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px 10px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;text-align:justify;font-size:14px;color:#433C3C;letter-spacing:0.5px;line-height:2;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	交易量分布为交易者显示了到目前交易发生在哪，并发生了多少。因为它是动态的，只要有新的指令进入都会变化，在日内交易中它非常有用。应该注意的是本文列举的交易例子只代表用交易量分布做交易计划和策略的一种方法。交易者可以通过尝试和观察来寻找使用这个重要交易工具的独特方法。
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;white-space:normal;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<br />
+</p>
+</section>
+        </section>
+    </section>
+    <section class="" powered-by="xiumi.us" style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(62, 62, 62); font-family: " helvetica="" neue",="" helvetica,="" "hiragino="" sans="" gb",="" "microsoft="" yahei",="" arial,="" sans-serif;="" line-height:="" 25.6px;="" white-space:="" normal;="" widows:="" 1;="" box-sizing:="" border-box="" !important;="" word-wrap:="" break-word="" !important;"="">
+        <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+            <section class="" style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;color:#928585;line-height:1;">
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;text-align:center;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<span style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;font-size:14px;letter-spacing:0px;">▲</span> 
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<span style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;font-size:14px;letter-spacing:0px;"><br style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;" />
+</span> 
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;max-width:100%;text-align:center;box-sizing:border-box !important;word-wrap:break-word !important;">
+	<span style="margin:0px;padding:0px;max-width:100%;box-sizing:border-box !important;word-wrap:break-word !important;font-size:14px;letter-spacing:0px;">— END —</span> 
+</p>
+</section>
+        </section>
+    </section>
+<p>
+	<br />
+</p>
+<p>
+	<br />
+</p> 
+			  
+              <div class="pointImageList">
+               
+              </div>
+            </div>       
+          </div>
+          <!--<div class="answerTips"><p><span>声明：</span>以上内容由上海牛霸网络科技有限公司原创，未经允许不得转载！</p></div>!-->
+           
+        </div>
+         
+               <div class="who_zan" id="praiseUserDiv">
+                  
+              </div>
+              
+      
+         </div>
+<div id="articleHeader">
+	<h4>下一篇：<a href="./?p=27&a=view&r=55">知识 | 逆势中如何挑选强势涨停板？</a></h4>
+		<h4>上一篇：<a href="./?p=27&a=view&r=53">什么是期权</a> </h4>
+	</div>
+</div>
+      <div class="center-yeshu" id="page"> </div>
+    </div>
+    <div class="center-r">	
+	<ul class="tuijian">
+	<p><i></i><span>最新伙伴</span></p>
+	</ul>
+      <ul class="center-fr">
+	  <li>
+          <p>手把手教你如何寻找转势龙头</p>
+          <a href="./?p=27&a=view&r=56"><img src="/upload/201712/20171203220147518.png" alt="手把手教你如何寻找转势龙头" /></a> </li>
+        <li><li>
+          <p>知识 | 逆势中如何挑选强势涨停板？</p>
+          <a href="./?p=27&a=view&r=55"><img src="/upload/201712/20171203220201814.png" alt="知识 | 逆势中如何挑选强势涨停板？" /></a> </li>
+        <li><li>
+          <p>干货 | 如何巧用成交量分布正确交易</p>
+          <a href="./?p=27&a=view&r=54"><img src="/upload/201712/20171203220217948.png" alt="干货 | 如何巧用成交量分布正确交易" /></a> </li>
+        <li><li>
+          <p>什么是期权</p>
+          <a href="./?p=27&a=view&r=53"><img src="/upload/201712/20171203220234799.png" alt="什么是期权" /></a> </li>
+        <li>      </ul>
+	  
+      <ul class="tuijian">
+        <p><i></i><span>热门推荐</span></p>
+		
+       <li><a href="./?p=29&a=view&r=84"><i></i>信鑫公告| 关于“清明”假期休市安排的通知</a></li><li><a href="./?p=29&a=view&r=83"><i></i>国内商品期货多数收涨 焦炭涨逾3%</a></li><li><a href="./?p=29&a=view&r=82"><i></i>一大波政策来了！独角兽回A是否引爆创业板？是否引发资金...</a></li><li><a href="./?p=29&a=view&r=81"><i></i>券商逐鹿场外期权业务 业绩与市场集中度双提升</a></li><li><a href="./?p=29&a=view&r=80"><i></i>余力：如何利用期权实现长期稳健的收益</a></li>		
+      </ul>
+    </div>
+  </div>
+</div>	  
+	  
+	   </div>
+  <div class="clear"></div>
+  <div class="m_gao2"></div>
+</div>
+<!--match_content end -->
+<div class="footerBox" id="include_footer" data-hasbindevent="yes">
+  <div class="footer">
+    <div class="footerTop">
+      <dl>
+        <dt class="one">关于我们</dt>
+        <dd style="margin-left:35px">
+          <a target="_blank" href="">加入我们 </a> <a target="_blank" href="">合作伙伴 </a> <a target="_blank" href="">公司愿景 </a>         </dd>
+      </dl>
+      <dl>
+        <dt class="two">帮助中心</dt>
+        <dd style="margin-left:35px">
+          <a target="_blank" href="">如何微信跟投 </a> <a target="_blank" href="">常见问题 </a>         </dd>
+      </dl>
+   <dl>
+        <dt class="three">关注我们</dt>
+        <dd>
+          <div class="footAttention footAttentionOne">
+            <p>
+              <a target="_blank" href="http://weibo.com/opforsaken/home?wvr=5&lf=reg">新浪博客 </a>             </p>
+            <a target="_blank" href="#"></a> </div>
+          <!--            <div class="footAttention footAttentionTwo">
+             <p>新浪微博</p>
+             <a href="#">@股票跟投</a>
+           </div> -->
+          <div class="footAttention footAttentionThree">
+            <p>
+              <a target="_blank" href="">微信公众号 </a>             </p>          
+        </dd>
+      </dl>
+      <dl>
+        <dt class="four">联系我们</dt>
+        <dd>
+           <div class="footContact">
+            <p>电子信箱</p>
+            <b>gpqiquan@foxmail.com             </div> <div class="footContact">
+            <p>联系电话</p>
+            <b>&nbsp;021-31137738             </div>        </dd>
+      </dl>
+      <dl class="foot_down2wm">
+        <dt class="down2wm">公众号</dt>
+        <dd>
+          
+			 
+			 <div class="footContact">
+          <p>扫一扫二维码</p>
+            <b>APP下载            <div class="foot_down2wm_img"><img src="/upload/201804/20180402114907466.png" width="120" height="120"></div>
+          </div>        </dd>
+      </dl>
+      <div class="clear"></div>
+    </div>
+    <div class="links">
+      <p class="til">友情链接</p>
+      <p class="list">
+        <a target="_blank" href="http://dc.simuwang.com/?utm_source=12">私募排排网 </a>       </p>
+    </div>
+    <div class="footerBot">
+      <p>
+        暂无数据！      </p>
+      <p class="right">
+         <p>免责声明：信鑫资讯平台仅提供服务对接功能，对用户发布的投资观点及操作建议不承担任何责任；投资有风险，入市需谨慎！</p>      </p>
+      <p class="pic"> <a href="#" target="_blank"><img src="/skins/doccms_model_1/images/pic_68.png" width="55" height="21"></a> <a href="#" target="_blank"><img src="/skins/doccms_model_1/images/pic_69.png" width="55" height="21"></a> </p>
+    </div>
+  </div>
+</div>
+<div id="footerContent"></div>
+<div class="fkfd">
+  <div class="fd" id="toTop"> </div>
+</div>
+<div class="w_gotoTop2"> <a class="w_bgs w_gser" id="bizQQ_WPA_a"></a> <a href="#" class="w_bgs w_backMeg"></a> <a href="javascript:;" class="w_bgs w_goTop" id="gototop" style="display: none"></a> </div>
+<a href="#" class="backTopNew">顶部</a>
+</body>
+</html>
+<!--本网站由稻壳企业建站系统生成 Power by DocCms x1.0&grysoft@qq.com -->

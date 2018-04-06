@@ -1,0 +1,5348 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 10]><html class="ie10 nojs rtl" lang="ar-AE" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 10]><!--><html class="gtie10 nojs rtl" lang="ar-AE" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+        
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1; requiresActiveX=true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<title>التداول عبر الإنترنت | التداول المالي | عقود CFD والفوركس | IG AR</title><meta name="keywords" content="" />
+<meta class="swiftype" name="description" content="IG هي أكبر مزود للـ CFD والفوركس في دبي. نحن نقدم خدمة تداول عقود CFD لآلاف الأسهم، بالإضافة إلى الفوركس، وعقود المؤشرات، والسلع، والخيارات وغيرها." />
+<meta name="locale" id="locale" content="ar_AE" />
+<meta name="softid" id="softid" content="igcom" />
+<meta http-equiv="content-language" content="ar-ae"/>
+        <meta name="msvalidate.01" content="A7BAE9DC6422D54EAD1CE552A263DE29"/>
+            <meta name="google-site-verification" content="NP6_JVVKAfnsuc3j536nyvXWorGgCoETGtb3S9YeZto"/>
+            <link href="https://plus.google.com/u/1/100217775071198895189/" rel="publisher"/>
+            <link rel="canonical" href="https://www.ig.com/ar-ae"/>
+<meta property="og:site_name" content="IG" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/og_image.jpg" />
+<meta property="og:title" content="Home (Dubai Arabic)" />
+<meta property="og:url" content="https://www.ig.com/ar-ae" />
+<meta property="og:description" content="IG هي أكبر مزود للـ CFD والفوركس في دبي. نحن نقدم خدمة تداول عقود CFD لآلاف الأسهم، بالإضافة إلى الفوركس، وعقود المؤشرات، والسلع، والخيارات وغيرها."/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">CQURLInfo={"requestPath":"/content/igcom/ar_AE","extension":"html","selectors":[],"systemId":"c8e9067a-79aa-4945-9014-bf0391a036c7","runModes":"prod,crx3,nosamplecontent,uk,publish,publish-prod,crx3tar"};</script>
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_shell.min.js"></script>
+
+
+<script>
+
+    PS.util.jspVars.set('loggedin.bannerText')(['تم تسجيل دخولك حاليا في الحساب TYPE NAME', 'تسجيل الخروج']);
+    PS.util.jspVars.set('loggedin.popupText')('لديك <br/> منصة التداول مفتوحة في علامة تبويب أخرى');
+    //URL for user details:
+    PS.util.jspVars.set('loggedin.authURL')('/validate/api/session/client-id');
+    PS.util.jspVars.set('loggedin.authTimeOut')(3000);
+    PS.util.jspVars.set('loggedin.myIgHomepage')('/myig/goto/homepage');
+    //URL for remote logoff:
+    PS.util.jspVars.set('loggedin.outURL')('https://deal.ig.com/dealing/pd/websiteLogout.htm');
+    
+
+    
+        //this enables authentication for this template but not for the iframe or login template
+        PS.util.jspVars.set('loggedin.authThisTemplate')(true);
+    
+    PS.util.jspVars.set('websiteCountry')("ar-ae");
+    PS.util.jspVars.set('homepageLink')("/content/igcom/ar_AE.html");
+    PS.util.jspVars.set('shareWithIgmarkets')();
+    PS.util.jspVars.set('user.redirects')([{"name":"","segment":"ig_client","redirectPath":"/ar-ae/welcome-page","percentage":0},{"name":"","segment":"ig_loggedIn","redirectPath":"/ar-ae/welcome-page","percentage":100},{"name":"","segment":"ig_demoClient","redirectPath":"/ar-ae/welcome-page","percentage":100}]);
+    PS.util.jspVars.set('deprecatedBrowsers')({"msie":"7"});
+    PS.util.jspVars.set('deprecatedBrowsersPopup')({});
+    PS.util.jspVars.set('permanent_sticky')();
+    PS.util.jspVars.set('google.analytics.tracking.id')("UA-53269626-40");
+    PS.util.jspVars.set('analytics.s_account')("adviggroupigcomaelive,adviggrouprollup");
+    PS.util.jspVars.set('analytics.page_title')("IG ");
+    PS.util.jspVars.set('analytics.cq_page_name')("ar_AE");
+    PS.util.jspVars.set('analytics.path')("/content/igcom/ar_AE");
+    PS.util.jspVars.set('analytics.trackingTagDelay')("0");
+    PS.util.jspVars.set('siteID')("dbm");
+    PS.util.jspVars.set('loggedin.myigbutton')(['My IG']);
+    PS.util.jspVars.set('loggedin.loginLinkMyIGTextReplacement')(
+        ['MyIG']);
+    
+    
+    PS.util.jspVars.set('createAccountTest')({
+        "urlA": "/ar-ae/application-form-new",
+        "mobileurlA": "/register#/page/1/country/AE/locale/ar_AE/platform/mobileweb",
+        "urlB": "/ar-ae/application-form-new",
+        "mobileurlB": "/register#/page/1/country/AE/locale/ar_AE/platform/mobileweb",
+        "urlC": "",
+        "mobileurlC": "",
+        "excludeMobile": false,
+        "accountUrl": "/ar-ae/create-account"
+    });
+    
+    
+    
+    //T&T Config
+    PS.util.jspVars.set('tandt.linkReplacements')([]);
+    PS.util.jspVars.set('tandt.customID')('igComAEAR');
+    PS.util.jspVars.set('tandt.timeout')(700);
+
+    //Sets the JSON for the hero panel
+    PS.util.jspVars.set('heroPanelSegmentSettings')('{}');
+
+    //Live chat
+    PS.util.jspVars.set('livechat.currentPageLiveChatDisable')(false);
+    PS.util.jspVars.set('livechat.activateLiveChat')("false");
+    PS.util.jspVars.set('livechat.popupPageUri')("/ar-ae/live-chat");
+    PS.util.jspVars.set('livechat.apiUri')("");
+    PS.util.jspVars.set('livechat.initialisationUri')("");
+    PS.util.jspVars.set('livechat.deploymentID')("57220000000000V");
+    PS.util.jspVars.set('livechat.organisationID')("00D200000006kCZ");
+    PS.util.jspVars.set('livechat.buttonID')("573w0000000Gqxt");
+    PS.util.jspVars.set('livechat.promptTimeDelay')("60000");
+
+    //EngHouse livechat
+    PS.util.jspVars.set('enghouselivechat.activateLiveChat')("false");
+    PS.util.jspVars.set('enghouselivechat.popupPageUri')("/ar-ae/enghouse-chat");
+    PS.util.jspVars.set('enghouselivechat.currentPageLiveChatDisable')(false);
+    PS.util.jspVars.set('enghouselivechat.currentPageLiveChatPromptStyle')("grey");
+    PS.util.jspVars.set('enghouselivechat.disabledInTree')(false);
+    PS.util.jspVars.set('enghouselivechat.ignoreTreeDisable')(false);
+    PS.util.jspVars.set('enghouselivechat.forceCalendar')(false);
+
+    PS.util.jspVars.set('login.ajax')(false);
+
+    PS.util.jspVars.set('skypeLinksEnable')(false);
+    PS.util.jspVars.set('appsflyer.linkreplace')("true");
+
+    //Social Login
+    PS.util.jspVars.set('login.facebook')({
+        "fbLoginWithAccount": "false",
+        "fbLoginSocialAccountApiURL": "",
+        "fbLoginSocialSessionApiURL": "",
+        "fbLoginClientSecuritySessionApiURL": "",
+        "fbLoginDealerURL": "",
+        "fbLoginAppID": "",
+        "fbLoginCountry": "",
+        "fbLoginLanguage": "",
+        "fbLoginTimeout": "3000"
+    });
+
+    // Apple app injected banner
+    PS.util.jspVars.set('applebanner.disable')(false);
+    PS.util.jspVars.set('applebanner.ipad')("1336992208");
+    PS.util.jspVars.set('applebanner.iphone')("1336991855");
+
+    PS.util.Initialize.init();
+
+    // Add custom class If IE10 browser
+    var ua = navigator.userAgent.toLowerCase();
+    var rootHtml = document.getElementsByTagName('html')[0];
+    var match = /(edge)[ \/]([\w.]+)/.exec(ua) ||
+        /(vivaldi)[ \/]([\w.]+)/.exec(ua) ||
+        /(chrome)[ \/]([\w.]+)/.exec(ua) ||
+        /version(?=.*?(safari))[\/]([\w.]+)/.exec(ua) ||
+        /(webkit)[ \/]([\w.]+)/.exec(ua) ||
+        /(opera)(?:.*version|)[ \/]([\w.]+)/.exec(ua) ||
+        /(msie) ([\w.]+)/.exec(ua) ||
+        /(firefox)[ \/]([\w.]+)/.exec(ua) ||
+        ua.indexOf("compatible") < 0 && /(mozilla)(?:.*? rv:([\w.]+)|)/.exec(ua) ||
+        [];
+
+    if (match[1] === 'msie' && match[2] === '10.0') {
+        rootHtml.className += ' ie10';
+    }
+
+    if (PS.util.isAndroidStockBrowser(ua)) {
+        rootHtml.className += ' androidStockBrowser';
+    }
+
+</script>
+
+
+
+<script>
+    //Page Content Meta tags
+    PS.util.jspVars.set('contentMetatags')("");
+</script>
+
+<script>
+    
+    
+
+
+
+
+
+
+    var i18n= i18n || {};
+i18n['clientlibs.browsers.deprecated.name.chrome']='\u0646\u0633\u062E\u0629 \u0645\u0646 Chrome';i18n['clientlibs.yes_no_cr']='\u0646\u0639\u0645 (\u0644\u0627 CR)';i18n['clientlibs.dates.may']='\u0645\u0627\u064A\u0648';i18n['clientlibs.mcarousel.next']='\u0627\u0644\u062A\u0627\u0644\u0649';i18n['clientlibs.liveprices.change']='\u0627\u0644\u0641\u0631\u0642';i18n['clientlibs.dates.saturday']='\u0627\u0644\u0633\u0628\u062A';i18n['clientlibs.browsers.deprecated.name.msie']='\u0625\u0635\u062F\u0627\u0631 Internet Explorer';i18n['clientlibs.liveprices.updated']='\u0645\u064F\u062D\u064E\u062F\u0651\u062B\u0629';i18n['clientlibs.browsers.deprecated.default.browser']='\u0627\u0644\u0645\u062A\u0635\u0641\u062D';i18n['clientlibs.no']='\u0644\u0627';i18n['clientlibs.browsers.deprecated.name.mozilla']='\u0646\u0633\u062E\u0629 \u0645\u0646 Firefox';i18n['clientlibs.browsers.deprecated.default.upgradelink']='https:\/\/www.google.com\/chrome';i18n['clientlibs.liveprices.swapLong']='Offer Swap Point';i18n['clientlibs.dates.april']='\u0623\u0628\u0631\u064A\u0644';i18n['clientlibs.secondaryNav.more']='\u0627\u0644\u0645\u0632\u064A\u062F';i18n['clientlibs.dates.august']='\u0623\u063A\u0633\u0637\u0633';i18n['clientlibs.dates.march']='\u0645\u0627\u0631\u0633';i18n['clientlibs.table.filter']='GB';i18n['clientlibs.dates.wednesday']='\u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621';i18n['clientlibs.liveprices.percentageChange']='\u0627\u0644\u0641\u0631\u0642 %';i18n['clientlibs.livechat.prompt']='Live Chat';i18n['clientlibs.dates.november']='\u0646\u0648\u0641\u0645\u0628\u0631';i18n['clientlibs.browsers.deprecated.name.safari']='version of Safari';i18n['clientlibs.browsers.deprecated.upgradelink.mozilla']='';i18n['clientlibs.dates.friday']='\u0627\u0644\u062C\u0645\u0639\u0629';i18n['clientlibs.dates.february']='\u0641\u0628\u0631\u0627\u064A\u0631';i18n['clientlibs.lightbox.close']='\u0625\u063A\u0644\u0627\u0642';i18n['clientlibs.dates.october']='\u0623\u0643\u062A\u0648\u0628\u0631';i18n['clientlibs.more.button']='\u0627\u0644\u0645\u0632\u064A\u062F';i18n['clientlibs.dates.december']='\u062F\u064A\u0633\u0645\u0628\u0631';i18n['clientlibs.dates.monday']='\u0627\u0644\u0625\u062B\u0646\u064A\u0646';i18n['clientlibs.dates.thursday']='\u0627\u0644\u062E\u0645\u064A\u0633';i18n['clientlibs.liveprices.swapShort']='Bid Swap Point';i18n['clientlibs.dates.format']='{2} {3} {1} {0} {4}:{5}';i18n['clientlibs.twitter.reply']='reply';i18n['clientlibs.browsers.deprecated.upgradelink.msie']='http:\/\/windows.microsoft.com\/en-au\/internet-explorer\/download-ie';i18n['clientlibs.dates.tuesday']='\u0627\u0644\u062B\u0644\u0627\u062B\u0627\u0621';i18n['clientlibs.dates.september']='\u0633\u0628\u062A\u0645\u0628\u0631';i18n['clientlibs.yes']='\u0646\u0639\u0645';i18n['clientlibs.liveprices.bid']='\u0628\u064A\u0639';i18n['clientlibs.dates.sunday']='\u0627\u0644\u0623\u062D\u062F';i18n['clientlibs.dates.june']='\u064A\u0648\u0646\u064A\u0648';i18n['clientlibs.dates.july']='\u064A\u0648\u0644\u064A\u0648';i18n['clientlibs.dates.january']='\u064A\u0646\u0627\u064A\u0631';
+    
+
+
+
+
+
+
+    var i18n= i18n || {};
+i18n['forms.preferredname']='\u0627\u0644\u0627\u0633\u0645 \u0627\u0644\u0645\u0641\u0636\u0644';i18n['forms.validmin']='\u0646\u0623\u0633\u0641, \u064A\u062C\u0628 \u0627\u0645\u0644\u0627\u0621 \u0647\u0630\u0647 \u0627\u0644\u062E\u0627\u0646\u0629 \u0628\u0627\u0644\u062D\u062F \u0627\u0644\u0623\u062F\u0646\u0649 \u0645\u0646 \u0627\u0644\u0623\u062D\u0631\u0641';i18n['forms.pleasecomplete']='\u064A\u0631\u062C\u0649 \u062A\u0639\u0628\u0626\u0629 \u062C\u0645\u064A\u0639 \u0627\u0644\u062D\u0642\u0648\u0644 \u0641\u064A \u0627\u0644\u0646\u0645\u0648\u0630\u062C';i18n['forms.validalphanum']='\u064A\u0645\u0643\u0646 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0627\u0644\u062D\u0631\u0648\u0641 \u0648\u0627\u0644\u0623\u0631\u0642\u0627\u0645 \u0641\u0642\u0637';i18n['forms.sendinfo']='\u0646\u0648\u062F \u0623\u0646 \u0646\u062A\u0635\u0644 \u0628\u0643 \u0639\u0646 \u0637\u0631\u064A\u0642 \u0627\u0644\u0628\u0631\u064A\u062F \u0627\u0644\u0625\u0644\u0643\u062A\u0631\u0648\u0646\u064A \u0645\u0639 \u0623\u062D\u062F\u062B \u0627\u0644\u0623\u062E\u0628\u0627\u0631 \u0648\u062A\u062D\u062F\u064A\u062B\u0627\u062A \u0627\u0644\u0645\u0646\u062A\u062C\u0627\u062A \u0648\u0639\u0631\u0648\u0636\u0646\u0627. \u0646\u062D\u0646 \u0644\u0646 \u0646\u0642\u0648\u0645 \u0628\u0627\u0644\u0627\u0641\u0631\u0627\u062C \u0639\u0646 \u0627\u0644\u062A\u0641\u0627\u0635\u064A\u0644 \u0627\u0644\u0634\u062E\u0635\u064A\u0629 \u0627\u0644\u062E\u0627\u0635\u0629 \u0628\u0643 \u0625\u0644\u0649 \u0623\u064A \u0634\u0631\u0643\u0629 \u062E\u0627\u0631\u062C IG \u0644\u0623\u063A\u0631\u0627\u0636 \u0627\u0644\u0628\u0631\u064A\u062F \u0623\u0648 \u0627\u0644\u062A\u0633\u0648\u064A\u0642. \u0625\u0630\u0627 \u0643\u0646\u062A \u062A\u0641\u0636\u0644 \u0639\u062F\u0645 \u062A\u0644\u0642\u064A \u0645\u0639\u0644\u0648\u0645\u0627\u062A \u0645\u0646 \u0642\u0628\u0644\u0646\u0627\u060C \u064A\u0631\u062C\u0649 \u0648\u0636\u0639 \u0639\u0644\u0627\u0645\u0629 \u0647\u0646\u0627.';i18n['forms.duplicate.username']='The username is already used';i18n['forms.validemail']='\u064A\u0631\u062C\u0649 \u0625\u062F\u062E\u0627\u0644 \u0639\u0646\u0648\u0627\u0646 \u0628\u0631\u064A\u062F \u0625\u0644\u0643\u062A\u0631\u0648\u0646\u064A \u0635\u0627\u0644\u062D';i18n['forms.yes']='\u0646\u0639\u0645';i18n['forms.duplicate.failure']='The email is already used';i18n['forms.addressLine1']='\u0627\u0644\u0639\u0646\u0648\u0627\u0646';i18n['forms.countrycode']='\u064A\u0631\u062C\u0649 \u0625\u062F\u0631\u0627\u062C \u0631\u0645\u0632 \u0627\u0644\u0628\u0644\u062F \u0625\u0630\u0627 \u062E\u0627\u0631\u062C \u062F\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629';i18n['forms.validpassword']='Your password should contain one upper case letter, one lower case letter and one number.';i18n['forms.address']='\u0627\u0644\u0639\u0646\u0648\u0627\u0646';i18n['forms.account']='\u0631\u0642\u0645 \u0627\u0644\u062D\u0633\u0627\u0628';i18n['forms.miss']='\u0627\u0644\u0622\u0646\u0633\u0629';i18n['forms.country']='\u0627\u0644\u062F\u0648\u0644\u0629';i18n['forms.validmax']='\u0644\u0642\u062F \u062A\u062C\u0627\u0648\u0632\u062A \u0627\u0644\u062D\u062F \u0627\u0644\u0623\u0642\u0635\u0649 \u0644\u0644\u0623\u062D\u0631\u0641';i18n['forms.noscript']='\u062A\u062A\u0637\u0644\u0628 \u0623\u0634\u0643\u0627\u0644\u0627 \u0644\u062A\u0645\u0643\u064A\u0646 JavaScript';i18n['forms.validdate']='\u0635\u064A\u063A\u0629 \u0627\u0644\u062A\u0627\u0631\u064A\u062E \u062E\u0627\u0637\u0626\u0629';i18n['forms.mrs']='\u0627\u0644\u0633\u064A\u062F\u0629';i18n['forms.city']='\u0627\u0644\u0645\u062F\u064A\u0646\u0629';i18n['forms.existing']='\u0647\u0644 \u0623\u0646\u062A \u0639\u0645\u064A\u0644 \u062D\u0627\u0644\u064A\u0627\u064B\u061F';i18n['forms.validalpha']='\u064A\u0645\u0643\u0646 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0627\u0644\u062D\u0631\u0648\u0641 \u0641\u0642\u0637';i18n['forms.validUsername']='This username is unavailable. Please choose another.';i18n['forms.validphonenumber']='Please enter a valid phone number';i18n['forms.phone']='\u0627\u0644\u0647\u0627\u062A\u0641';i18n['forms.town']='\u0627\u0644\u0645\u062F\u064A\u0646\u0629';i18n['forms.state']='\u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629';i18n['forms.validconfirmation']='\u0627\u0644\u062D\u0642\u0648\u0644 \u063A\u064A\u0631 \u0645\u062A\u0637\u0627\u0628\u0642\u0629';i18n['forms.name']='\u0627\u0644\u0627\u0633\u0645';i18n['forms.email']='\u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0628\u0631\u064A\u062F \u0627\u0644\u0625\u0644\u0643\u062A\u0631\u0648\u0646\u064A';i18n['forms.dr']='\u0627\u0644\u062F\u0643\u062A\u0648\u0631';i18n['forms.submiterror']='\u0642\u062F \u0641\u0634\u0644 \u0627\u0644\u0646\u0645\u0648\u0630\u062C \u0644\u062A\u0642\u062F\u064A\u0645 \u064A\u0631\u062C\u0649 \u0627\u0644\u0627\u062A\u0635\u0627\u0644 \u0628IG \u0628\u0634\u0643\u0644 \u0645\u0628\u0627\u0634\u0631';i18n['forms.lastname']='\u0627\u0633\u0645 \u0627\u0644\u0639\u0627\u0626\u0644\u0629';i18n['forms.title']='\u0627\u0644\u0644\u0642\u0628';i18n['forms.firstname']='\u0627\u0644\u0627\u0633\u0645 \u0627\u0644\u0627\u0648\u0644';i18n['forms.validnumeric']='\u064A\u0645\u0643\u0646 \u0627\u0633\u062A\u062E\u062F\u0627\u0645 \u0623\u0631\u0642\u0627\u0645 \u0641\u0642\u0637';i18n['forms.postcode']='\u0627\u0644\u0631\u0645\u0632 \u0627\u0644\u0628\u0631\u064A\u062F\u064A';i18n['forms.ms']='';i18n['forms.mr']='\u0627\u0644\u0633\u064A\u062F';i18n['forms.prof']='\u0627\u0644\u0628\u0631\u0648\u0641\u064A\u0633\u0648\u0631';i18n['forms.no']='\u0644\u0627';i18n['forms.terms']='\u0644\u0642\u062F \u0642\u0631\u0623\u062A \u0648\u0641\u0647\u0645\u062A \u0627\u0644\u0634\u0631\u0648\u0637';i18n['forms.required']='\u0647\u0630\u0627 \u0627\u0644\u062D\u0642\u0644 \u0645\u0637\u0644\u0648\u0628';
+
+    
+var tagData = [[{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CU","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","mkbUCIOQtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google every page tag","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","965208700"],["google_conversion_color",""],["google_conversion_label",""],["google_custom_params","obj-window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=SH","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","lUjrCPuQtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (DEMO)","cookie_name":"ID","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"ig_all","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","rNL0CKOMtQMQhY7w3gM"],["google_custom_params","window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"CS=1","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","VhK2CIuPtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CO","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","CwJ9COuStQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"A=1","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","Pm0JCJuNtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing Everypage nojs","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"","type":"element","src":"http://www.googleadservices.com/pagead/conversion/__GOOGLEID__/?label=__GOOGLELABEL__&amp;guid=ON&amp;script=0","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["GOOGLEID","1037885815"],["GOOGLELABEL","1biwCOvb5QMQ98Lz7gM"]]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=IN","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label",""],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing Every Page (CLIENT)","cookie_name":"ID","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","965208700"],["google_conversion_color",""],["google_conversion_label",""],["google_custom_params","window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=OP","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","36ACCNuUtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google every page tag","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","941811208"],["google_conversion_color",""],["google_conversion_label",""],["google_custom_params","obj-window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]}],[{"vendor":"Diligent","description":"wtp101 tag (Sitewide)","cookie_name":"ID","cookie_value":"PTI=IN","qs_name":"","qs_value":"","element":"js","func":"","scope":"site","segment":"","type":"script","src":"//www.wtp101.com/pixel?id=__DILIGENT_ID__","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["DILIGENT_ID","19249"]]},{"vendor":"Diligent","description":"wtp101 tag (Sitewide)","cookie_name":"ID","cookie_value":"A=1","qs_name":"","qs_value":"","element":"js","func":"","scope":"site","segment":"","type":"script","src":"//www.wtp101.com/pixel?id=__DILIGENT_ID__","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["DILIGENT_ID","19246"]]},{"vendor":"Diligent","description":"wtp101 tag (Sitewide)","cookie_name":"ID","cookie_value":"CS=1","qs_name":"","qs_value":"","element":"js","func":"","scope":"site","segment":"","type":"script","src":"//www.wtp101.com/pixel?id=__DILIGENT_ID__","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["DILIGENT_ID","19247"]]},{"vendor":"Diligent","description":"wtp101 tag (Sitewide)","cookie_name":"ID","cookie_value":"PTI=OP","qs_name":"","qs_value":"","element":"js","func":"","scope":"site","segment":"","type":"script","src":"//www.wtp101.com/pixel?id=__DILIGENT_ID__","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["DILIGENT_ID","19253"]]},{"vendor":"Diligent","description":"wtp101 tag (Sitewide)","cookie_name":"ID","cookie_value":"PTI=BI","qs_name":"","qs_value":"","element":"js","func":"","scope":"site","segment":"","type":"script","src":"//www.wtp101.com/pixel?id=__DILIGENT_ID__","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["DILIGENT_ID","19252"]]},{"vendor":"Diligent","description":"wtp101 tag (Sitewide)","cookie_name":"ID","cookie_value":"PTI=RA","qs_name":"","qs_value":"","element":"js","func":"","scope":"site","segment":"","type":"script","src":"//www.wtp101.com/pixel?id=__DILIGENT_ID__","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["DILIGENT_ID","19255"]]},{"vendor":"Diligent","description":"wtp101 tag (Sitewide)","cookie_name":"ID","cookie_value":"PTI=SH","qs_name":"","qs_value":"","element":"js","func":"","scope":"site","segment":"","type":"script","src":"//www.wtp101.com/pixel?id=__DILIGENT_ID__","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["DILIGENT_ID","19254"]]},{"vendor":"Diligent","description":"wtp101 tag (Sitewide)","cookie_name":"ID","cookie_value":"PTI=CU","qs_name":"","qs_value":"","element":"js","func":"","scope":"site","segment":"","type":"script","src":"//www.wtp101.com/pixel?id=__DILIGENT_ID__","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["DILIGENT_ID","19250"]]},{"vendor":"Diligent","description":"wtp101 tag (Sitewide)","cookie_name":"ID","cookie_value":"PTI=CO","qs_name":"","qs_value":"","element":"js","func":"","scope":"site","segment":"","type":"script","src":"//www.wtp101.com/pixel?id=__DILIGENT_ID__","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["DILIGENT_ID","19251"]]}],[{"vendor":"Misc","description":"Bat bing","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"ig_all","type":"script","src":"//bat.bing.com/bat.js","secureSrc":"//bat.bing.com/bat.js","forceCachedScript":false,"delay":"","channel":"","post_vars":[["__uetq","obj-(function f() {var o = {ti: \"4051597\"};o.q = window['uetq'],window['uetq'] = new UET(o),window['uetq'].push(\"pageLoad\")})()"]],"pre_vars":[],"src_vars":[]}],[{"vendor":"DoubleClick","description":"Doubleclick Floodlight (PUBLIC PAGE)","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"page","segment":"ig_all","type":"element","src":"//__SRC__.fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=random","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4743519"],["TYPE","du-ar0"],["CAT","homep0"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=IN","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien582"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=OP","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien551"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CO","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien622"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=RA","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien241"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=BI","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien620"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"A=1","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien602"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"CS=1","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien824"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (DEMO)","cookie_name":"ID","cookie_value":"demo-account","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"ig_all","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien668"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=SH","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien735"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CU","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien950"]]}],[{"vendor":"Twitter","description":"Week Ahead Conversion","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//analytics.twitter.com/i/adsct?txn_id=__TXNID__&p_id=Twitter","secureSrc":"//analytics.twitter.com/i/adsct?txn_id=__TXNID__&p_id=Twitter","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["TXNID","nu9nj"]]},{"vendor":"Twitter","description":"Week Ahead Conversion","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//analytics.twitter.com/i/adsct?txn_id=__TXNID__&p_id=Twitter","secureSrc":"//analytics.twitter.com/i/adsct?txn_id=__TXNID__&p_id=Twitter","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["TXNID","l6psf"]]}],[{"vendor":"Facebook","description":"Facebook Ads Pixel","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"ig_all","type":"script","src":"http://connect.facebook.net/en_US/fbds.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["window._fbds.pixelId","225352300992409"]],"src_vars":[]},{"vendor":"Facebook","description":"Facebook Conversion Pixel Everypage David Spring","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//www.facebook.com/tr?id=__ID__&ev=__EV__&noscript=__NOSCRIPT__","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["ID","700264553410790"],["EV","ViewContent"],["NOSCRIPT","1"]]},{"vendor":"Facebook","description":"Facebook Conversion Pixel Everypage David Spring","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//www.facebook.com/tr?id=__ID__&ev=__EV__&noscript=__NOSCRIPT__","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["ID","468765006666851"],["EV","PageView"],["NOSCRIPT","1"]]},{"vendor":"Facebook","description":"An alternative to the full JS tag, that uses their recommended noscript version. This is the Everypage one","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"https://www.facebook.com/tr?id=__VAR__&amp;ev=PixelInitialized","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","700264553410790"]]}],[{"vendor":"CrazyEgg","description":"crazyegg-pagewide","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"js","func":"","scope":"page","segment":"","type":"element","src":"//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/2156.js?timestamp","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[]}]];
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">CQURLInfo={"requestPath":"/content/igcom/ar_AE","extension":"html","selectors":[],"systemId":"c8e9067a-79aa-4945-9014-bf0391a036c7","runModes":"prod,crx3,nosamplecontent,uk,publish,publish-prod,crx3tar"};</script>
+<link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_shell.min.css" type="text/css">
+
+
+    <link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_shell_rtl.min.css" type="text/css">
+
+
+
+
+    <link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_common.min.css" type="text/css">
+
+    
+        <link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_common_rtl.min.css" type="text/css">
+
+    
+
+
+
+
+
+
+
+<!-- taken from https://mathiasbynens.be/notes/touch-icons -->
+
+<!-- For iPhone 6 Plus with @3Ã display: -->
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-180x180-precomposed.png">
+<!-- For iPad with @2Ã display running iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-152x152-precomposed.png">
+<!-- For iPad with @2Ã display running iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-144x144-precomposed.png">
+<!-- For iPhone with @2Ã display running iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-120x120-precomposed.png">
+<!-- For iPhone with @2Ã display running iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-114x114-precomposed.png">
+<!-- For the iPad mini and the first- and second-generation iPad (@1Ã display) on iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-76x76-precomposed.png">
+<!-- For the iPad mini and the first- and second-generation iPad (@1Ã display) on iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-72x72-precomposed.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-precomposed.png"><!-- 57Ã57px -->
+
+<meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@IGcom">
+<meta name="twitter:creator" content="@IGAus">
+<meta name="twitter:domain" content="www.IG.com">
+
+<meta name="twitter:app:name:iphone" content="">
+<meta name="twitter:app:id:iphone" content="">
+<meta name="twitter:app:url:iphone" content="">
+
+<meta name="twitter:app:name:ipad" content="">
+<meta name="twitter:app:url:ipad" content="">
+<meta name="twitter:app:id:ipad" content="">
+
+<meta name="twitter:app:name:googleplay" content="">
+<meta name="twitter:app:url:googleplay" content="">
+<meta name="twitter:app:id:googleplay" content="">
+
+
+
+</head>
+
+    
+
+
+
+
+
+<body class=' ar-ae homepage-template wide-content-template responsive'>
+
+
+
+
+
+
+
+
+
+
+<div class="wrapper">
+    
+
+
+
+<div class="wrapper-header" data-swiftype-index="false">
+
+    
+
+
+
+
+
+
+    <div class="header clearfix">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="nt-strip" data-swiftype-index="false">
+    <div class="nt-strip__inner  single-secondary-nav-only">
+        
+            <div class="nt-strip__content-left nt-strip__dropdown-container">
+                <input type="checkbox" id="nt-strip__site-switcher-toggle" class="nt-strip__dropdown-toggle">
+                <label for="nt-strip__site-switcher-toggle">
+                    <span class="nt-strip__current-site">More from IG</span>
+                    <i class="icon icon--dropdown-chevron"></i>
+                </label>
+                <ul class="first-level">
+                    
+
+
+
+
+
+
+
+                    
+                        <li class="nt-strip__secondary-navigation">
+                            <ul class="second-level">
+                                
+
+
+
+
+
+
+
+    <li class="nt-strip__help-and-support">
+        <a class="" href="http://portal.ig.com/support/Help?MenuItem=Help&webSiteId=dbm&webSiteLocale=ar_AE">
+            <i class="icon icon--help-and-support"></i>
+            <span>الدعم</span>
+        </a>
+    </li>
+
+                            </ul>
+                        </li>
+                    
+                </ul>
+            </div>
+        
+        <div class="nt-strip__content-right nt-strip__dropdown-container">
+            <div class="nt-strip__secondary-navigation ">
+                <ul class="first-level">
+                    <li class="nt-strip__account-inbox">
+                        <a href="#">
+                            <i class="icon icon--inbox"></i>
+                            <span>البريد الالكتروني الوارد</span>
+                        </a>
+                    </li>
+                    
+
+
+
+
+
+
+
+    <li class="nt-strip__help-and-support">
+        <a class="" href="http://portal.ig.com/support/Help?MenuItem=Help&webSiteId=dbm&webSiteLocale=ar_AE">
+            <i class="icon icon--help-and-support"></i>
+            <span>الدعم</span>
+        </a>
+    </li>
+
+                </ul>
+            </div>
+            <div id="account-controls" class="nt-strip__account-controls">
+                <div class="nt-strip__prospect">
+                    <ul>
+                        
+                            <li class="logged-out-cta">
+                                <a class="nt-strip__login-cta" href="/ar-ae/login">
+                                    تسجيل الدخول
+                                </a>
+                            </li>
+                        
+                        
+                            <li class="logged-out-cta">
+                                <a class="nt-strip__signup-cta" href="/ar-ae/create-account">
+                                    أنشئ حسابا
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </div>
+                <div class="nt-strip__account-dropdown nt-strip__dropdown-container"
+                     data-translation-isa-accounts="ISA accounts"
+                     data-translation-sipp-accounts="SIPP accounts"
+                     data-translation-leveraged-accounts="العقود مقابل الفروقات"
+                     data-translation-sharedealing-accounts="Share dealing"
+                     data-translation-smart-portfolio-accounts="Smart Portfolio"
+                     data-translation-funds="رصيد"
+                     data-translation-value="القيمة"
+                     data-translation-profit="الربح">
+
+                    
+
+                    <input type="checkbox" id="nt-strip__account-dropdown-toggle" class="nt-strip__dropdown-toggle" autocomplete="off">
+                    <label for="nt-strip__account-dropdown-toggle">
+                        <i class="icon icon--account"></i>
+                        <span>
+	                        <span class="nt-strip__account-name"></span>
+	                        <span>حسابي</span>
+                        </span>
+                        <i class="icon icon--dropdown-chevron"></i>
+                    </label>
+                    <ul class="first-level">
+                        <li class="nt-strip__account-information"></li>
+                        <li class="myig_c myig" id="myig-link-main">
+                            <a class="account-myig" href="#">
+                                My IG
+                            </a>
+                        </li>
+                        
+                            <li class="nt-strip__secondary-navigation">
+                                <ul class="second-level">
+                                    <li class="nt-strip__account-inbox">
+                                        <a href="#">
+                                            <i class="icon icon--inbox"></i>
+                                            <span>البريد الالكتروني الوارد</span>
+                                        </a>
+                                    </li>
+                                    
+
+
+
+
+
+
+
+    <li class="nt-strip__help-and-support">
+        <a class="" href="http://portal.ig.com/support/Help?MenuItem=Help&webSiteId=dbm&webSiteLocale=ar_AE">
+            <i class="icon icon--help-and-support"></i>
+            <span>الدعم</span>
+        </a>
+    </li>
+
+                                </ul>
+                            </li>
+                        
+                        
+                        <li>
+                            <a class="nt-strip__account-logout account-logout" id="account-logout" href="https://deal.ig.com/dealing/pd/websiteLogout.htm">
+                                تسجيل الخروج
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+    <div class="main-head">
+        
+
+
+
+
+
+
+
+
+
+
+<div class="fluid-width inner">
+    <div class="header__top">
+        <div class="logo__container">
+            <a class="logo-link" href="/ar-ae">
+                <span class="screenreader">IG</span>
+            </a>
+        </div>
+        
+            <div class="header__navigation">
+                
+                    
+                        <div class="menu-mobile jsMenuMobile" id="menu-mobile">
+                            <span id="hamburger-icon" class="hamburger-icon"></span>
+                            <span class="screenreader">Menu</span>
+                        </div>
+                    
+                
+
+                
+
+
+
+
+
+
+<div class="main-menu-container jsMainMenu">
+    
+
+        <ul class="menu first-level-menu" data-localepath="ar_AE">
+
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/ar-ae/indices">
+                        المؤشرات
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/ar-ae/indices" data-mainlink="نظرة عامة">
+                                    المؤشرات
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/indices/indices-cfd-details">
+                                        تكاليف وتفاصيل المؤشرات عبر العقود مقابل الفروقات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/indices/indices-mt4-details">
+                                        تكاليف وتفاصيل المؤشرات MT4 عبر العقود مقابل الفروقات
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/ar-ae/shares">
+                         الأسهم عبر العقود مقابل الفروقات
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/ar-ae/shares" data-mainlink="نظرة عامة">
+                                     الأسهم عبر العقود مقابل الفروقات
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/shares/shares-cfd-details">
+                                        تكاليف وتفاصيل الأسهم عبر العقود الفروقات  
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/shares/shares-dma">
+                                        الأسهم عبر الوصول المباشر للأسواق
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/shares/out-of-hours-shares">
+                                        الساعات الممتدة للأسهم الأمريكية
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/ar-ae/forex">
+                        الفوركس عبر العقود مقابل الفروقات 
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/ar-ae/forex" data-mainlink="نظرة عامة">
+                                    الفوركس عبر العقود مقابل الفروقات 
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/forex/forex-product-details">
+                                         تكاليف وتفاصيل الفوركس عبر العقود مقابل الفروقات 
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/forex/forex-direct">
+                                        الفوركس المباشر
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/forex/forex-mt4-details">
+                                        تفاصيل الفوركس MT4 
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/forex/how-to-trade-forex">
+                                        كيف تتداول الفوركس 
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/forex/how-does-forex-trading-work">
+                                        كيف يعمل تداول الفوركس؟
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/forex/what-is-forex-trading">
+                                        ما هو تداول الفوركس؟
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/forex/the-benefits-of-forex-trading">
+                                        فوائد تداول الفوركس
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/forex/forex-trading-examples">
+                                        أمثلة لتداول الفوركس
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/forex/what-moves-forex-markets">
+                                        ما الذي يحرك أسواق الفوركس
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/ar-ae/commodities">
+                        السلع
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/ar-ae/commodities" data-mainlink="نظرة عامة">
+                                    السلع
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/commodities/commodities-product-details">
+                                        تكاليف وتفاصيل السلع عبر العقود مقابل الفروقات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/commodities/commodities-mt4-details">
+                                        تفاصيل  وتكاليف السلع MT4 عبر العقود مقابل الفروقات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/commodities/precious-metals-trading">
+                                        تداول المعادن النفيسة عبر العقود مقابل الفروقات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/commodities/oil">
+                                        تداول النفط
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/ar-ae/other-markets">
+                        أسواق أخرى
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/ar-ae/other-markets" data-mainlink="نظرة عامة">
+                                    أسواق أخرى
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/cryptocurrency-trading">
+                                         تداول العملات الافتراضية عبر العقود مقابل الفروقات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/digital-100s-trading">
+                                          ديجيتال  100s عبر العقود مقابل الفروقات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/options-trading">
+                                        الخيارات عبر العقود مقابل الفروقات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/trading-interest-rates">
+                                        أسعار الفائدة عبر العقود مقابل الفروقات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/trading-sectors">
+                                         القطاعات عبر العقود مقابل الفروقات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/bonds">
+                                        السندات عبر العقود مقابل الفروقات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/trading-etps">
+                                        المنتجات المتداولة في البورصة عبر العقود مقابل الفروقات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/weekend-trading">
+                                        تداول عطلة نهاية الأسبوع
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/ar-ae/services">
+                        خدمات IG
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/ar-ae/services" data-mainlink="نظرة عامة">
+                                    خدمات IG
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/cfd-trading">
+                                        تداول العقود مقابل الفروقات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/professional-corporate-trader">
+                                        حساب الشركات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/our-charges">
+                                        رسومنا
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/product-details">
+                                        تفاصيل المنتج
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/whats_new">
+                                        ما الجديد في IG؟
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/ar-ae/trading-platform-devices">
+                        منصات التداول
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/ar-ae/trading-platform-devices" data-mainlink="نظرة عامة">
+                                    منصات التداول
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/desktop-trading-platform">
+                                        الويب
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/trading-apps">
+                                        تطبيقات التداول
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/trading-platform-metatrader">
+                                        MetaTrader 4
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/advanced-platforms">
+                                        المنصات المتطورة
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/platform-features">
+                                        مزايا المنصة
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/compare-trading-platforms">
+                                        مقارنة بين الميزات 
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/ar-ae/ig-financial-markets">
+                        رؤية حول الأسواق
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/ar-ae/ig-financial-markets" data-mainlink="نظرة عامة">
+                                    رؤية حول الأسواق
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/market-data">
+                                        بيانات السوق
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/ig-economic-calendar">
+                                        الأجندة الاقتصادية
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/signal-centre">
+                                        مركز التوصيات
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/trade-of-the-week">
+                                        تداول الأسبوع
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/opec-meeting">
+                                        اجتماع منظمة الدول المصدرة للنفط (أوبك)
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/ar-ae/market-training">
+                        التدريب على الأسواق
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/ar-ae/market-training" data-mainlink="نظرة عامة">
+                                    التدريب على الأسواق
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/seminars">
+                                        الندوات التعليمية
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/trading-academy">
+                                        المقالات والأدلة
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/ar-ae/risk-management">
+                                        إدارة المخاطر
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+        </ul>
+    
+</div>
+
+            </div>
+        
+        <div class="header__right">
+            <div class="header__international ">
+                
+                <div class="language-switcher parbase">
+
+
+
+
+
+
+
+    
+        <ul>
+            
+                <li>
+                    <a href="/ae">English</a>
+                </li>
+            
+        </ul>
+    
+    
+</div>
+
+            </div>
+            <div class="search__container">
+            
+                
+                    
+
+
+
+
+
+
+
+
+    
+        
+            <div class="st-search__tooltip-icon"></div>
+        
+        <div class="st-search st-search--tooltip" data-install.key="" data-website.country.title="AR" data-engine.key="xQHcFcXUjEx5sS84rA4y" data-page.types.to.search="all" data-no.background="false" data-hide.images.and.url="false">
+            <div class="st-search__wrapper">
+            
+                <label class="st-search__title">البحث</label>
+            
+            <form class="st-search__searchbox">
+                <input type="text" class="st-search__searchbox-input" autocomplete="off">
+                <input class="st-search__searchbox-submit" type="submit" value=" ">
+            </form>
+                <div class="st-search__results-wrapper">
+                    
+                    <div class="st-search__results"></div>
+                    <div class="st-search__no-results">لم يتم العثور على نتائج</div>
+                    
+                        <div class="st-search__redirect">
+                            <p class="cta">
+                                <a class="normal" data-base.url="/ar-ae/search-results-page" href="">الاطلاع على المزيد من نتائج البحث</a>
+                            </p>
+                        </div>
+                    
+                        <div class="st-search__pagination">
+                            <a>1</a>
+                            <a>2</a>
+                            <a>3</a>
+                            <a>4</a>
+                            <a>5</a>
+                            <a>6</a>
+                            <a>7</a>
+                            <a>8</a>
+                            <a>9</a>
+                            <a>10</a>
+                        </div>
+                </div>
+            </div>
+            <div class="market-search" data-locale="en_GB" data-defaultNumMarketResults="5">
+                <div class="market-search__wrapper">
+                    <div class="market-search__title">
+                        Related search:
+                        <span class="link-related-search" class="enhanced">
+                            <a href="#">Market Data</a>
+                        </span>
+                    </div>
+                    <div class="market-search__results">
+                        <table class="market-search__table">
+                            <thead>
+                            <tr>
+                                <th class="market-name">
+                                    <span>
+                                        Market Data
+                                    </span>
+                                </th>
+                                <th class="market-type">
+                                    <span>
+                                        Type of market
+                                    </span>
+                                </th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="link-market-search-block">
+                        <div class="link-market-search"><a href="#">See all Market data search results &gt;</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    
+
+
+
+
+
+                
+                
+            
+            </div>
+        </div>
+    </div>
+    
+        
+
+
+
+
+
+
+
+    <div class="main-home-line"></div>
+
+
+
+    
+</div>
+    </div>
+</div>
+
+    
+
+
+
+
+    
+
+
+
+
+    <div class="content-wrapper">
+
+        
+            <div class="top-inline-disclaimer" data-swiftype-index="false">
+                تعد العقود مقابل الفروقات منتجا ذو رافعة مالية، ويمكن أن يؤدي إلى خسائر تتجاوز الإيداعات. يرجى التأكد من أنك تفهم تماما المخاطر والحرص على إدارة تعرضك. قد لا يكون تداول العقود مقابل الفروقات مناسباً للجميع، لذلك، <a href=" https://www.ig.com/usermanagement/customeragreements?agreementType=risk_disclosure_notice&igCompany=igae&locale=ar_AE">الرجاء التأكد من أنك تفهم كلياً المخاطر</a>.
+            </div>
+        
+
+        
+
+
+        
+
+
+
+
+
+
+
+
+
+<div class="value-proposition-component value-proposition-banner parbase">
+
+
+
+
+
+
+
+</div>
+
+
+<div class="content-parsys parsys"><div class="inline-disclaimer-draggable parbase section">
+
+
+
+
+
+
+
+    <div class="inline-disclaimer-draggable " data-swiftype-index="false">
+        <div id="inline-disclaimer" class="inline-disclaimer">
+            
+                
+                
+                    تعد العقود مقابل الفروقات منتجا ذو رافعة مالية، ويمكن أن يؤدي إلى خسائر تتجاوز الإيداعات. يرجى التأكد من أنك تفهم تماما المخاطر والحرص على إدارة تعرضك. قد لا يكون تداول العقود مقابل الفروقات مناسباً للجميع، لذلك، <a href=" https://www.ig.com/usermanagement/customeragreements?agreementType=risk_disclosure_notice&igCompany=igae&locale=ar_AE">الرجاء التأكد من أنك تفهم كلياً المخاطر</a>.
+                
+            
+        </div>
+    </div>
+</div>
+<div class="ghost section">
+
+</div>
+<div class="ghost section">
+
+</div>
+<div class="decorator parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div
+    class='decorator-inner 
+            
+            
+                
+            
+        
+
+        
+            
+            
+                m-b-20 
+            
+        
+    '
+    style='min-height: 0px; '
+>
+    <div
+        class='background-decorator    '
+
+        
+
+    ></div>
+
+    
+
+    
+        <div class="innercomponent parsys"><div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    white
+                    dark-text-theme
+                    col-padding
+                    col-margin-bot
+                    
+                    
+                    "
+                    
+                    
+                        data-background-desktop="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/decorator/innercomponent/columns.adaptive.full.high.jpg/1473156632371.jpg"
+                        data-background-tablet="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/decorator/innercomponent/columns.adaptive.full.high.jpg/1473156632371.jpg"
+                        data-background-mobile="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/decorator/innercomponent/columns.adaptive.full.medium.jpg/1473156632371.jpg"
+                    >
+
+        <div class="cols col-88">
+
+        <div class="col col1 parsys">
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            bg-none 
+            image-layout-none
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h1
+            class="heading h2"
+            
+        >
+             <font color="white">انضم الى مزود العقود مقابل الفروقات الأول في العالم*<sup style="font-size: 60%;"></sup>
+
+        </h1>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p class="primary-standfirst">احصل على وصول سريع ومرن إلى الأسواق&nbsp;<span dir="RTL">المالية العالمية بفضل منصتنا للتداول&nbsp;الحائزة على جائزة، وتطبيقات الجوال المبتكرة، بالإضافة إلى دعم للعملاء على مدار 24 ساعة.</span></p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-center">
+        <a class="button  button-green js_target" href="/ar-ae/create-account" target="_self">
+                أنشئ حسابا
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-none
+                    
+                    
+                    col-margin-bot
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-444">
+
+        <div class="col col1 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading">ابدأ الآن</h3>
+
+<p class="heading"><a href="/content/igcom/en_AE/ex-nav/create-account.html">أ</a><a href="/ar-ae/create-account">نشئ حسابا</a></p>
+
+<p><a href="/ar-ae/market-training">تعلم التداول</a></p>
+
+<p><a href="/ar-ae/login">سجّل الدخول للبدء في التداول</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading">اطّلع على رسوم السوق</h3>
+
+<p><a href="/ar-ae/commodities/commodities-product-details">رسوم تداول السلع</a></p>
+
+<p><a href="/ar-ae/indices/indices-cfd-details">رسوم تداول المؤشرات</a></p>
+
+<p><a href="/ar-ae/our-charges">رسوم العقود مقابل الفروقات والهوامش</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+            <div class="col col3 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading">اعثر على تداولك المقبل</h3>
+
+<p class="heading"><a href="/ar-ae/market-data">اطّلع على بيانات السوق</a></p>
+
+<p><a href="/content/igcom/en_AE/ex-nav/economic-calendar-daily-newsletter.html">ا</a><a href="/ar-ae/market-update">حصل على تحديثات الأخبار بشكل يومي</a></p>
+
+<p><a href="/content/igcom/en_AE/ig-financial-markets/market-news-and-analysis.html">ا</a><a href="/ar-ae/cfd-trading">لق نظرة على تداول العقود مقابل الفروقات</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+
+</div>
+
+    
+</div>
+</div>
+<div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="live-prices section">
+
+
+
+
+
+
+
+<script type="text/javascript">
+    PS.util.jspVars.set("isManualSiteIdOverrideEnabled")("false");
+</script>
+
+
+
+</div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-none
+                    
+                    
+                    col-margin-bot
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-106">
+
+        <div class="col col1 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            white dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             اختر من بين أكثر من 15.000 سوق
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p class="secondary-standfirst">شارك مزود العقود مقابل الفروقات الرائد عالميا</p>
+
+<p class="no-bottom-margin"><a href="/ar-ae/indices">المؤشرات</a>&nbsp;| <a href="/ar-ae/shares">الأسهم</a>&nbsp;| <a href="/ar-ae/forex">الفوركس</a>&nbsp;| <a href="/ar-ae/commodities">السلع</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="live-prices section">
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    PS.util.jspVars.set("isManualSiteIdOverrideEnabled")("false");
+</script>
+<div class="livePricesWrapper top50">
+    
+        
+        
+            
+                <h2 class="heading">أسعار مباشرة</h2>
+            
+            <table cellpadding="0" cellspacing="0" class="livePriceTable withMessage"
+                   data-mobileLinks="true"
+                   data-epics="{IX.D.FTSE.CFD.IP=, IX.D.DOW.IFD.IP=, IX.D.DAX.IFD.IP=, CS.D.GBPUSD.DUB.IP=SCALED, CS.D.EURUSD.CFD.IP=SCALED, CS.D.CFDGOLD.CFDGC.IP=, CC.D.CL.UNC.IP=, UB.D.FB.CASH.IP=PUBLIC_SCALED}"
+                   data-columns="V2-F-BID,OFR,CPT"
+                   data-lscore="https://a.c-dn.net/b/0wNpa0.js#lightstreamer.6.1.4.min.js"
+                   data-time ="false"
+                   data-streaming="//a.c-dn.net/c/etc/designs/onedomain/clientlibs_ps_part/js/libs/wt-fe-clientstreaming-streaming-with-dependencies.min.js"
+                   data-siteid="dbm"
+                   data-sitecode="ar-ae"
+                   data-siteoverrideid=""
+                   data-siteoverridecountry="" >
+            <thead>
+            <tr>
+                <th class="first">الأسواق</th>
+                
+                    <th>بيع</th>
+                
+                    <th>شراء</th>
+                
+                    <th class="lastLpColumn">الفرق</th>
+                
+            </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/ar-ae/indices/markets-indices/ftse-100">FTSE 100</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                    <td class="message" colspan="3" rowspan="8">
+                                        <div source="lightstreamer" table="list" data-item="0" data-field="V2-F-BID">
+                                            liveprices.javascriptrequired
+                                        </div>
+                                    </td>
+                                
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="0" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="0" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/ar-ae/indices/markets-indices/wall-street">Wall Street</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="1" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="1" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="1" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/ar-ae/indices/markets-indices/germany-30">Germany 30</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="2" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="2" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="2" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/ar-ae/forex/markets-forex/gbp-usd">GBP/USD</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="3" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="3" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="3" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/ar-ae/forex/markets-forex/eur-usd">Spot FX EUR/USD</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="4" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="4" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="4" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/ar-ae/commodities/markets-commodities/gold">Spot Gold</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="5" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="5" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="5" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/ar-ae/commodities/markets-commodities/us-light-crude">US Light Crude</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="6" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="6" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="6" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                
+                                    <a href="/ar-ae/shares/markets-shares/facebook-inc-FB-US">Facebook Inc (All Sessions)</a>
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="7" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="7" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="7" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+            </tbody>
+            </table>
+            
+                <div class="disclaimer" data-swiftype-index="false">
+                        <p><span style="color: rgb(136, 136, 136); font-size: 12px; line-height: 15px;">تخضع هذه الأسعار&nbsp;</span><a href="/ar-ae/site-terms-and-conditions">لشروط &nbsp;وأحكام الموقع</a><span style="color: rgb(136, 136, 136); font-size: 12px; line-height: 15px;">. الأسعار إرشادية فقط.</span></p>
+
+                </div>
+            
+        
+    
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="promo-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            white dark-text-theme
+            text-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            content-no-margin
+            crop-left
+            
+            
+            
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d050/col%20col2/promo_5c3d.adaptive.320.medium.jpg/1504166186775.jpg"  data-width="600" data-height="261" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d050/col%20col2/promo_5c3d.adaptive.320.high.jpg/1504166186775.jpg"    data-width="600" data-height="261" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d050/col%20col2/promo_5c3d.adaptive.480.high.jpg/1504166186775.jpg"    data-width="600" data-height="261" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d050/col%20col2/promo_5c3d.adaptive.476.high.jpg/1504166186775.jpg"    data-width="600" data-height="261" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d050/col%20col2/promo_5c3d.adaptive.620.high.jpg/1504166186775.jpg"    data-width="600" data-height="261" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d050/col%20col2/promo_5c3d.adaptive.full.high.jpg/1504166186775.jpg"   data-width="600" data-height="261" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+               <a href="/ar-ae/seminars" title="" target="_self">
+                   
+                   <img src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d050/col%20col2/promo_5c3d.adaptive.320.low.jpg/1504166186775.jpg" alt="">
+                   
+               </a>
+               
+           </noscript>
+    </span>
+
+            </div><div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             تعلم التداول
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p>احضر إلى نداوتنا <strong>المجانية</strong> المنظمة من طرف متحدثين ذوي خبرة واسعة في الأسواق المالية،&nbsp;تم تدريبهم لتوجيهك&nbsp;بخصوص كل ما يتعلق بتداول العقود مقابل الفروقات.&nbsp;</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-center">
+        <a class="button  button-blue js_target" href="/ar-ae/seminars" target="_self">
+                 المزيد هنا
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+        <div class="cta bottom cta-sec freetext">
+                
+        </div>
+    
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    white
+                    dark-text-theme
+                    col-padding
+                    col-margin-bot
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-444">
+
+        <div class="col col1 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+                
+                    data-background-desktop="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d157/col%20col1/rich_content.adaptive.full.high.jpg/1429286617744.jpg"
+                    data-background-tablet="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d157/col%20col1/rich_content.adaptive.full.high.jpg/1429286617744.jpg"
+                    data-background-mobile="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d157/col%20col1/rich_content.adaptive.full.medium.jpg/1429286617744.jpg"
+                
+                data-background-img-width="530"
+                data-background-img-height="110"
+                data-background-img-resize="true"
+                style="
+                    
+                    min-height:110px;
+                "
+            
+            class="theme
+            
+             
+            text-layout-full-width
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            content-no-margin
+            crop-center
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="list parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="list-wrapper js_list clearfix style-key-benefits none-bg dark-text-theme">
+    
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             التداول الناجح يعني اتخاذ القرار الصحيح
+
+        </h2>
+    
+    
+
+
+
+    
+        <div class="description-heading"><p><b>اجعل قرارك الاول ناجحا</b></p>
+</div>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+
+        
+
+            
+
+                
+                <ul class='list-container clearfix list-vertical cols-1' data-cols='1'>
+
+                
+                    
+
+                        
+
+                            <li value="1" class="item1">
+                                <div class="inner">
+
+    
+
+    
+        <h3>رائد معترف به</h3>
+    
+
+    
+        <div class="desc"><p>نحن رائد سوق عالمي موثوق به منذ سنة 1974</p>
+</div>
+    
+
+</div>
+                            </li>
+                            
+                            
+
+                        
+                    
+
+                        
+
+                            <li value="2" class="item2">
+                                <div class="inner">
+
+    
+
+    
+        <h3>احصل على المزيد بتكلفة أقل</h3>
+    
+
+    
+        <div class="desc"><p>فروقات&nbsp;ضيقة،&nbsp;هوامش منخفضة وأكثر من 15,000 سوق</p>
+</div>
+    
+
+</div>
+                            </li>
+                            
+                            
+
+                        
+                    
+
+                        
+
+                            <li value="3" class="item3">
+                                <div class="inner">
+
+    
+
+    
+        <h3>منصة متفوقة</h3>
+    
+
+    
+        <div class="desc"><p>نَفّذْ&nbsp;استراتيجيتك&nbsp;على منصة سريعة، وقوية، وموثوق بها&nbsp;و متنقلة كذلك</p>
+</div>
+    
+
+</div>
+                            </li>
+                            
+                            
+
+                        
+                    
+                
+
+                
+                
+                
+                
+
+                </ul>
+            
+        
+        
+    
+
+    
+
+</div>
+</div>
+<div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            content-no-padding
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p>تعرف على المزيد:&nbsp;<span style="font-size: 14px;">&nbsp;</span><a class="normal" href="/ex-nav/about-ig/why-ig" style="font-size: 14px; background-color: rgb(255, 255, 255);">لماذا IG</a>&nbsp;| <a class="normal" href="/ar-ae/cfd-trading" style="background-color: rgb(255, 255, 255);">تداول CFD</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+                
+                    data-background-desktop="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d157/col%20col2/rich_content.adaptive.full.high.jpg/1429286618116.jpg"
+                    data-background-tablet="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d157/col%20col2/rich_content.adaptive.full.high.jpg/1429286618116.jpg"
+                    data-background-mobile="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d157/col%20col2/rich_content.adaptive.full.medium.jpg/1429286618116.jpg"
+                
+                data-background-img-width="530"
+                data-background-img-height="110"
+                data-background-img-resize="true"
+                style="
+                    
+                    min-height:110px;
+                "
+            
+            class="theme
+            
+             
+            text-layout-full-width
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            content-no-margin
+            crop-center
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="list parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="list-wrapper js_list clearfix style-key-benefits none-bg dark-text-theme">
+    
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             تداول أسرع.. تداول الآن
+
+        </h2>
+    
+    
+
+
+
+    
+        <div class="description-heading"><p><strong>منصاتنا&nbsp;هي الأسرع و الموثوق بها اكثر و الأكثر فاعلية من كل المنصات التي بنيناها</strong></p>
+</div>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+
+        
+
+            
+
+                
+                <ul class='list-container clearfix list-vertical cols-1' data-cols='1'>
+
+                
+                    
+
+                        
+
+                            <li value="1" class="item1">
+                                <div class="inner">
+
+    
+
+    
+        <h3>تصميم واضح</h3>
+    
+
+    
+        <div class="desc"><p>واجهة تداول كلاسيكية</p>
+</div>
+    
+
+</div>
+                            </li>
+                            
+                            
+
+                        
+                    
+
+                        
+
+                            <li value="2" class="item2">
+                                <div class="inner">
+
+    
+
+    
+        <h3>في تحسّن دائم</h3>
+    
+
+    
+        <div class="desc"><p>تحديثات منتظمة و مزايا جديدة</p>
+</div>
+    
+
+</div>
+                            </li>
+                            
+                            
+
+                        
+                    
+
+                        
+
+                            <li value="3" class="item3">
+                                <div class="inner">
+
+    
+
+    
+        <h3>أسعار أفضل</h3>
+    
+
+    
+        <div class="desc"><p>أفضل الأسعار من مصادر متعددة</p>
+</div>
+    
+
+</div>
+                            </li>
+                            
+                            
+
+                        
+                    
+                
+
+                
+                
+                
+                
+
+                </ul>
+            
+        
+        
+    
+
+    
+
+</div>
+</div>
+<div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            content-no-padding
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p>تعرف على المزيد:&nbsp;<a class="normal" href="/ar-ae/platform-features" style="font-size: 14px; background-color: rgb(255, 255, 255);">ميزات المنصة</a>&nbsp;| <a href="/ar-ae/trading-apps">تطبيقات&nbsp;التداول</a>&nbsp;|&nbsp;<a class="normal" href="/ar-ae/shares/shares-dma" style="font-size: 14px; background-color: rgb(255, 255, 255);">منصة تداول&nbsp;L2</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+            <div class="col col3 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+                
+                    data-background-desktop="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d157/col%20col3/rich_content.adaptive.full.high.jpg/1429286618323.jpg"
+                    data-background-tablet="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d157/col%20col3/rich_content.adaptive.full.high.jpg/1429286618323.jpg"
+                    data-background-mobile="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_d157/col%20col3/rich_content.adaptive.full.medium.jpg/1429286618323.jpg"
+                
+                data-background-img-width="530"
+                data-background-img-height="110"
+                data-background-img-resize="true"
+                style="
+                    
+                    min-height:110px;
+                "
+            
+            class="theme
+            
+             
+            text-layout-full-width
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            content-no-margin
+            crop-right
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="list parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="list-wrapper js_list clearfix style-key-benefits none-bg dark-text-theme">
+    
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             نظرة خبيرة ومساعدة محترفة
+
+        </h2>
+    
+    
+
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+
+        
+
+            
+
+                
+                <ul class='list-container clearfix list-vertical cols-1' data-cols='1'>
+
+                
+                    
+
+                        
+
+                            <li value="1" class="item1">
+                                <div class="inner">
+
+    
+
+    
+        <h3>تعليم العملاء</h3>
+    
+
+    
+        <div class="desc"><p>احضرشخصيا إلى ندوة مجانية</p>
+</div>
+    
+
+</div>
+                            </li>
+                            
+                            
+
+                        
+                    
+
+                        
+
+                            <li value="2" class="item2">
+                                <div class="inner">
+
+    
+
+    
+        <h3>مجموعة واسعة من الأدوات و البيانات</h3>
+    
+
+    
+        <div class="desc"><p>بيانات مجانية حول كل سوق رئيسية، التقويم الإقتصادي، تعليقات، تحليلات وألمزيد&nbsp;</p>
+</div>
+    
+
+</div>
+                            </li>
+                            
+                            
+
+                        
+                    
+
+                        
+
+                            <li value="3" class="item3">
+                                <div class="inner">
+
+    
+
+    
+        <h3>مساعدة محترفة</h3>
+    
+
+    
+        <div class="desc"><p>دعم محلي ودّي على اطلاع ، على مدار 24 ساعة في اليوم</p>
+</div>
+    
+
+</div>
+                            </li>
+                            
+                            
+
+                        
+                    
+                
+
+                
+                
+                
+                
+
+                </ul>
+            
+        
+        
+    
+
+    
+
+</div>
+</div>
+<div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            content-no-padding
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p>تعرف على المزيد:&nbsp;<a class="normal" href="/ar-ae/seminars" style="font-size: 14px; background-color: rgb(255, 255, 255);">الندوات</a>&nbsp;|&nbsp;<a class="normal" href="/ar-ae/trading-academy" style="font-size: 14px; background-color: rgb(255, 255, 255);">المقالات</a>&nbsp;|&nbsp;<a class="normal" href="/ar-ae/market-news-and-analysis" style="font-size: 14px; background-color: rgb(255, 255, 255);">الأخبار</a>&nbsp;|&nbsp;<a class="normal" href="/ar-ae/ig-financial-markets" style="font-size: 14px; background-color: rgb(255, 255, 255);">النظرة الداخلية</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-width
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h2 class="heading" style="text-align: center;"><font color="black">ابدأ التداول في&nbsp;3 خطوات...</font></h2>
+
+<h3 class="heading" style="text-align: center;"><font color="black">إنشاء حساب مجاني لتداول العقود مقابل الفروقات</font></h3>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    white
+                    dark-text-theme
+                    col-padding
+                    col-no-margin
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-444">
+
+        <div class="col col1 parsys"><div class="promo-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            grey dark-text-theme
+            text-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            crop-center
+            js_clickable 
+            
+            
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col1/promo.adaptive.320.medium.png/1504097890260.png"  data-width="373" data-height="84" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col1/promo.adaptive.320.high.png/1504097890260.png"    data-width="373" data-height="84" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col1/promo.adaptive.480.high.png/1504097890260.png"    data-width="373" data-height="84" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col1/promo.adaptive.476.high.png/1504097890260.png"    data-width="373" data-height="84" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col1/promo.adaptive.620.high.png/1504097890260.png"    data-width="373" data-height="84" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col1/promo.adaptive.full.high.png/1504097890260.png"   data-width="373" data-height="84" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+               <a href="/ar-ae/create-account" title="" target="_self">
+                   
+                   <img src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col1/promo.adaptive.320.low.png/1504097890260.png" alt="">
+                   
+               </a>
+               
+           </noscript>
+    </span>
+
+            </div><div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 style="text-align: center;">املأ&nbsp;الإستمارة</h3>
+
+<h3 style="text-align: center;">يمكننا <span style="text-align: center;">عادة&nbsp;</span>التأكد من صحة&nbsp;وثائقك في&nbsp;اليوم&nbsp;نفسه</h3>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class=" normal js_target" href="/ar-ae/create-account" target="_self">
+                
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="promo-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            light-grey dark-text-theme
+            text-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            crop-center
+            js_clickable 
+            
+            
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col2/promo.adaptive.320.medium.png/1501766645312.png"  data-width="373" data-height="84" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col2/promo.adaptive.320.high.png/1501766645312.png"    data-width="373" data-height="84" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col2/promo.adaptive.480.high.png/1501766645312.png"    data-width="373" data-height="84" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col2/promo.adaptive.476.high.png/1501766645312.png"    data-width="373" data-height="84" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col2/promo.adaptive.620.high.png/1501766645312.png"    data-width="373" data-height="84" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col2/promo.adaptive.full.high.png/1501766645312.png"   data-width="373" data-height="84" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+               <a href="/ar-ae/create-account" title="" target="_self">
+                   
+                   <img src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col2/promo.adaptive.320.low.png/1501766645312.png" alt="">
+                   
+               </a>
+               
+           </noscript>
+    </span>
+
+            </div><div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 style="text-align: center;">موّل&nbsp;حسابك</h3>
+
+<p style="text-align: center;">أودع الأرصدة في حسابك فورا بواسطة بطاقتك الائتمانية&nbsp;أو بطاقة الخصم الخاصة بك، أو عبر حوالة مصرفية</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class=" normal js_target" href="/ar-ae/create-account" target="_self">
+                
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+            <div class="col col3 parsys"><div class="promo-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            light-grey dark-text-theme
+            text-bottom
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            crop-center
+            js_clickable 
+            
+            
+            
+            ">
+
+        
+            <div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col3/promo.adaptive.320.medium.png/1501766660166.png"  data-width="373" data-height="84" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col3/promo.adaptive.320.high.png/1501766660166.png"    data-width="373" data-height="84" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col3/promo.adaptive.480.high.png/1501766660166.png"    data-width="373" data-height="84" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col3/promo.adaptive.476.high.png/1501766660166.png"    data-width="373" data-height="84" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col3/promo.adaptive.620.high.png/1501766660166.png"    data-width="373" data-height="84" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col3/promo.adaptive.full.high.png/1501766660166.png"   data-width="373" data-height="84" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+               <a href="/ar-ae/create-account" title="" target="_self">
+                   
+                   <img src="//a.c-dn.net/c/content/igcom/ar_AE/_jcr_content/content-parsys/columns_440a/col%20col3/promo.adaptive.320.low.png/1501766660166.png" alt="">
+                   
+               </a>
+               
+           </noscript>
+    </span>
+
+            </div><div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 style="text-align: center;">قم بتداولك الأول</h3>
+
+<p style="text-align: center;">استخدم أدواتنا للعثورعلى&nbsp;فرصة،&nbsp;ثم قم بتداولك</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class=" normal js_target" href="/ar-ae/create-account" target="_self">
+                
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    
+                    col-margin-bot
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-4444">
+
+        <div class="col col1 parsys">
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p style="text-align: center;">ضبط مجاني للحساب&nbsp;بدون تحميل</p>
+
+<p style="text-align: center;">ابدأ التداول في لحظات</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-center">
+        <a class="button  button-green js_target" href="/ar-ae/create-account" target="_self">
+                أنشئ حسابا
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+
+        
+            <div class="col col3 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p style="text-align: center;">وصول فوري دون مخاطر</p>
+
+<p style="text-align: center;">أرصدة افتراضية بقيمة 10.000$</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-center">
+        <a class="button  button-ghost-black js_target" href="/ar-ae/demo-account" target="_self">
+                حساب تجريبي مجاني
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+            <div class="col col4 parsys">
+</div>
+
+        
+    </div>
+</div>
+
+</div>
+<div class="linkList section">
+
+
+
+
+
+
+
+<div class="linkList-wrapper
+ linkList-bg
+
+    inline 
+"
+
+    style="background-color:#fff;"
+>
+
+
+
+    
+        <ul class="linkList-items ">
+
+        
+            <li class="linkList-item logo-icon logo-facebook-icon-small top  js_clickable">
+                
+                    
+                        <a href="https://www.facebook.com/IGcomMENA" class="normal  js_target"><span>فيسبوك</span></a>
+                    
+                    
+                
+
+            </li>
+        
+            <li class="linkList-item logo-icon logo-twitter-icon-small top  js_clickable">
+                
+                    
+                        <a href="https://twitter.com/igmena" class="normal  js_target"><span>تويتر</span></a>
+                    
+                    
+                
+
+            </li>
+        
+            <li class="linkList-item logo-icon logo-youtube-icon-small top  js_clickable">
+                
+                    
+                        <a href="https://www.youtube.com/c/IGMENAregion" class="normal  js_target" target="_blank"><span>يوتيوب</span></a>
+                    
+                    
+                
+
+            </li>
+        
+
+        </ul>
+    
+    
+
+</div></div>
+<div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p><font color="black">&nbsp;* أكبر مزود&nbsp;بالتجزئة&nbsp;للعقود مقابل الفروقات عن طريق الايرادات (باستثناء FX). المصدر: (القوائم المالية المنشورة بفبراير 2018).</font></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+    </div>
+
+    
+        
+        
+            
+
+
+
+
+
+
+
+
+<div class="footer-wrapper clearfix" data-swiftype-index="false">
+    <div class="footer">
+
+        <div class="footer-promos">
+            <div class="footer-promos-parsys iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-promos-parsys iparsys parsys"></div>
+</div>
+</div>
+
+        </div>
+
+        <div class="footer-main">
+
+            <div class="footer-menu ">
+                <div class="footer-menu-parsys iparsys parsys"><div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    
+                    
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-4444">
+
+        <div class="col col1 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="https://www.ig.com/ar-ae/market-data">الأسواق</a></h3>
+
+<p class="heading"><a href="/ar-ae/forex">فوركس</a></p>
+
+<p><a href="/ar-ae/indices">مؤشرات</a></p>
+
+<p><a href="/ar-ae/shares">أسهم</a></p>
+
+<p><a href="/ar-ae/digital-100s-trading">خيارات ديجيتال&nbsp;100s</a></p>
+
+<p><a href="/ar-ae/other-markets">أسواق أخرى</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/ar-ae/services">خدمات IG</a></h3>
+
+<p><a href="/ar-ae/cfd-trading">تداول CFD</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+
+        
+            <div class="col col3 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/ar-ae/trading-platform-devices">منصات التداول</a></h3>
+
+<p class="heading"><a href="/ar-ae/desktop-trading-platform">منصة الويب</a></p>
+
+<p><a href="/ar-ae/trading-apps">تطبيق التداول</a></p>
+
+<p><a href="/ar-ae/advanced-platforms">منصات متقدمة</a></p>
+
+<p><a href="/ar-ae/compare-trading-platforms">قارن المزايا</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+            <div class="col col4 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/ar-ae/ig-financial-markets">تحليل IG</a></h3>
+
+<p><a href="/ar-ae/market-news-and-analysis">أخبار السوق</a></p>
+
+<p>&nbsp;</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+    </div>
+</div>
+
+</div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-menu-parsys iparsys parsys"></div>
+</div>
+</div>
+
+            </div>
+
+            
+                <div class="footer-contact">
+                    <div class="footer-contact-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/ar-ae/contact-us"><font color="white">اتصل بنا</font></a></h3>
+
+<p>العملاء الجدد:</p>
+
+<p><a dir="ltr" href="tel:045592100">00971 (0) 4 559 2108</a></p>
+
+<p>العملاء:</p>
+
+<p><a dir="ltr" href="tel:045592100">00971 (0) 4 559 2100</a></p>
+
+<p>تويتر:</p>
+
+<p><a href="http://twitter.com/IGMENA">IGMENA@</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-contact-parsys iparsys parsys"></div>
+</div>
+</div>
+
+                </div>
+            
+
+            <div class="footer-bottom">
+                <div class="footer-links">
+                    <div>
+                        <a class="footer-international flag flag-ar-ae" href="https://www.ig.com/?rc=true">AR-AE
+                        </a>
+                    </div>
+                    <div class="footer-links-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p>&nbsp;</p>
+
+<p><font color="white"><a href="/ar-ae">IG&nbsp;</a>|&nbsp;<a href="/ar-ae/sitemap-ig">خريطة الموقع</a>&nbsp;|&nbsp;<a class="normal" href="/ar-ae/terms-and-agreements">الشروط والإتفاقيات</a>&nbsp;|<a href="/ar-ae/privacy">&nbsp;</a><a href="https://www.ig.com/ar-ae/privacy">الخصوصية</a><a href="/ar-ae/privacy">&nbsp;</a>&nbsp;| <a href="/ar-ae/about-ig">&nbsp;من نحن؟</a></font></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-links-parsys iparsys parsys"></div>
+</div>
+</div>
+
+                    <div class="footer-social sharebanner">
+                        <p>تابعنا عبر الإنترنت:</p>
+                        <ul>
+                            
+                                <li class="social-icon facebook"><a href="https://www.facebook.com/igcomMENA">Facebook</a></li>
+                            
+                            
+                                <li class="social-icon twitter"><a href="https://twitter.com/IGMENA">Twitter</a></li>
+                            
+                            
+                            
+                                <li class="social-icon youtube"><a href="https://www.youtube.com/c/IGMENAregion">YouTube</a></li>
+                            
+                            
+                            
+                            
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="footer-disclaimer">
+            <div class="footer-disclaimer-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p class="heading"><strong>تعد العقود مقابل الفروقات&nbsp;</strong><strong>منتجا ذو رافعة مالية ويمكن أن يؤدي إلى خسائر تتجاوز الإيداعات. يرجى التأكد من أنك تفهم تماما المخاطر والحرص على إدارة تعرضك.</strong></p>
+
+<p class="heading"><span dir="RTL" lang="AR-LB" style="font-family: Arial, sans-serif;"><strong>قد لا يكون تداول العقود مقابل الفروقات مناسبا للجميع<span style="font-size: 11pt;">، لذلك، الرجاء التأكد من أنك تفهم المخاطر تماما. IG&nbsp;لا تعطي استشارات أو نصائح أو أراء بهدف الحصول على العقود مقابل الفروقات، حيازتها أو التخلص منها. IG ليست مستشاراً مالياً وكل الخدمات التي توفرها&nbsp;تنفيذية فقط</span></strong><span style="font-size: 11pt;">.</span></span></p>
+
+<p>شركة <span dir="LTR">IG</span> المحدودة مسجلة في 2702 و 2703 الطابق 27، البرج 2، الفتان كارنسي هاوس، مركز دبي المالي العالمي, دبي، الامارات العربية المتحدة . IG &nbsp;مرخصة من طرف سلطة دبي للخدمات المالية و مسجلة في مركز دبي المالي العالمي،&nbsp;تحت رقم المرجع الخاص بالشركة (<span dir="LTR">F001780</span>).</p>
+
+<p>المعلومات الموجودة في هذا&nbsp;الموقع ليست موجهة لمواطني الولايات المتحدة الأميركية، بلجيكا أو أي بلد خارج الامارات العربية المتحدة وليست قابلة للتوزيع أو الاستخدام من طرف أي شخص في أي بلد أو سلطة قضائية، حيث توزيع أو استخدام هذه المعلومات مناقض للقوانين أو التنظيمات المحلية.</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-disclaimer-parsys iparsys parsys"></div>
+</div>
+</div>
+
+        </div>
+
+        <div class="footer-colophon">
+            <div class="footer-year">
+                <div class="footer-logo">
+                    <a href="/ar-ae">
+                        <img src="https://a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/schema_image.jpg" width="20"/>
+                    </a>
+                </div>
+                <div class="footer-year-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p>2018 - 2003</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-year-parsys iparsys parsys"></div>
+</div>
+</div>
+
+            </div>
+            <div class="footer-external-links">
+                <div class="footer-external-links-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p><a href="http://www.iggroup.com/">مجموعة IG</a>&nbsp;|<a href="/ar-ae/institutions"> المؤسسات</a> | <a href="http://www.iggroup.com/corporate/careers.html">وظائف</a>&nbsp;|<a href="/ar-ae/marketing-partnership">&nbsp;شركاء التسويق</a><a href="/ar-ae/marketing-partnership">&nbsp;</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-external-links-parsys iparsys parsys"></div>
+</div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        
+    
+
+    
+
+
+
+
+
+
+
+    
+        <div id="inline-disclaimer" class="inline-disclaimer hidden">
+            تعد العقود مقابل الفروقات منتجا ذو رافعة مالية، ويمكن أن يؤدي إلى خسائر تتجاوز الإيداعات. يرجى التأكد من أنك تفهم تماما المخاطر والحرص على إدارة تعرضك. قد لا يكون تداول العقود مقابل الفروقات مناسباً للجميع، لذلك، <a href=" https://www.ig.com/usermanagement/customeragreements?agreementType=risk_disclosure_notice&igCompany=igae&locale=ar_AE">الرجاء التأكد من أنك تفهم كلياً المخاطر</a>.
+        </div>
+    
+    
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+        
+        <script type="text/javascript" src="https://a.c-dn.net/b/21o5MV/ig-fe-login-min.js"></script>
+        <script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_ps.min.js"></script>
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <script type="application/ld+json">
+            [{"@context":"http://schema.org","@type":"WebSite","name":"IG","alternateName":"IG AR","url":"https://www.ig.com/ar-ae","potentialAction":{"@type":"SearchAction","target":"https://www.ig.com/ar-ae/search-results-page?q={search_term}","query-input":"required name=search_term"}},{"@context":"http://schema.org","@type":"Organization","name":"IG","url":"https://www.ig.com/ar-ae","logo":"https://a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/schema_image.jpg","sameAs":["https://www.facebook.com/igcomMENA","https://twitter.com/IGMENA"],"contactPoint":[{"@type":"ContactPoint","telephone":"+971 (0)4 559 2108","contactType":"customer support"}]}]
+
+        </script>
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            <script src="https://cdn.optimizely.com/js/5595260258.js"></script>
+        
+    
+
+</body>
+
+</html>

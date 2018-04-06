@@ -1,0 +1,2010 @@
+<!DOCTYPE html>
+<html data-ng-app="myApp"  lang="zh-hans" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/favicon.png" type="image/png" />
+<script src="//rum.monitis.com/get/jsbenchmark.min.js?id=114087" type="text/javascript" async="async"></script><meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.hycm.com/cn/products" />
+<link rel="shortlink" href="https://www.hycm.com/cn/node/10" />
+  <title>交易产品 | HYCM兴业投资</title>
+  <link type="text/css" rel="stylesheet" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/css/css_IdCCTN0DGoQg4jymu0qIG7wWAp43zmaXOnVjd5ZgVbA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/css/css_FeA0_CmPiiubDUGwGykRusXrMVO-BdZsaGzYW9zDrRs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/css/css_cMo1o7yTlBd0bTTpK2op0hH-CFXxoQeAgPfgCTTPaxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/css/css_bY8nDFdaIKwteyqmfBwNmB2MNGm2o84wkZNEBOIUNDM.css" media="all" />
+<style>.md-layer-1-0-0{z-index:2 !important;}.md-layer-1-0-1{z-index:2!important;}.md-layer-1-1-0{z-index:999 !important;color:#ffffff !important;}.md-layer-1-1-1{z-index:1000!important;}.md-layer-1-1-2{z-index:998 !important;}.md-layer-1-2-0{z-index:999 !important;}.md-layer-1-2-1{z-index:1000!important;}.md-layer-1-3-0{z-index:999 !important;}.md-layer-1-3-1{z-index:1000!important;}.md-layer-1-4-0{z-index:999 !important;}.md-layer-1-4-1{z-index:1000!important;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/css/css_bXD_KwDY4Uxf2ADDnUfO7XE540GTrR5Wdcv4k3-RX2A.css" media="all" />
+<style>@media (max-width:460px){.hideonmobile{display:none !important;}}
+#sliding-popup.sliding-popup-bottom{background:#f1f5f5;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#333 !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/css/css_SaF03WYxgjL3b93C4YBLDn2bxYxTQKixOR4PE62Fn5Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/css/css_e6xNt9Eme9yGikxuCjorsbfeYR3oah84e_cSmbJkL2Q.css" media="all" />
+  <script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://www.hycm.com/cn/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.hycm.com/cn/misc/drupal.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/jquery_update/replace/ui/ui/minified/jquery.ui.tabs.min.js?v=1.10.2"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/jquery_update/replace/misc/1.9/jquery.ba-bbq.min.js?v=1.2.1"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.5/js/bootstrap.js"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/admin_menu/admin_devel/admin_devel.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/languages/zh-hans_7nILwr8RGxNSQTLNaEIoaAznztix6739g39kptF2ORU.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/hycm_menu/js/main.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/hycm_menu/js/jquery.menu-aim.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/md_slider/js/jquery.touchwipe.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/md_slider/js/modernizr.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/md_slider/js/jquery-migrate-1.2.1.min.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/md_slider/js/jquery.easing.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/md_slider/js/md-slider.js?p6lqna"></script>
+<script>(function($) {
+      $(document).ready(function() {
+          effectsIn = Drupal.settings.inEffects;
+          effectsOut = Drupal.settings.outEffects;
+          var options_1 = Drupal.settings.md_slider_options_1;$('#md-slider-1-block').mdSlider(options_1);
+      });
+    })(jQuery);</script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/angular.min.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/angular-route.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/jquery-ui.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/resource.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/angular-messages.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/angular-count-to.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/ui-bootstrap-tpls-0.11.0.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/chosen.jquery.min.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/angular-cookies.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/js.cookie.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/track_campaign_id.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/page/validation_form.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/common.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/services/userService.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/lib/core-js/shim.min.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/lib/vue/vue.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/component/alert.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/language_selector/js/modernizr.custom.79639.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/language_selector/js/dropdown_init.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/quicktabs/js/qt_ui_tabs.js?p6lqna"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/cn\/","pathPrefix":"","ajaxPageState":{"theme":"hycmcn","theme_token":"KgQcsbpxY1d6L4i36fcyYC1qPkIKsSxhkpQajCcvWGI","js":{"sites\/www.hycm.com.cn\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/js\/cbpHorizontalMenu.min.js":1,"0":1,"sites\/www.hycm.com.cn\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/www.hycm.com.cn\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/www.hycm.com.cn\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/www.hycm.com.cn\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/www.hycm.com.cn\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/www.hycm.com.cn\/modules\/jquery_update\/replace\/misc\/1.9\/jquery.ba-bbq.min.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/js\/bootstrap.js":1,"sites\/www.hycm.com.cn\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/zh-hans_7nILwr8RGxNSQTLNaEIoaAznztix6739g39kptF2ORU.js":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/js\/main.js":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/js\/jquery.menu-aim.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/jquery.touchwipe.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/modernizr.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/jquery-migrate-1.2.1.min.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/jquery.easing.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/md-slider.js":1,"1":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular.min.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular-route.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/jquery-ui.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/resource.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular-messages.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular-count-to.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/ui-bootstrap-tpls-0.11.0.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/chosen.jquery.min.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular-cookies.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/js.cookie.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/track_campaign_id.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/page\/validation_form.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/common.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/services\/userService.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/lib\/core-js\/shim.min.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/lib\/vue\/vue.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/component\/alert.js":1,"sites\/www.hycm.com.cn\/modules\/language_selector\/js\/modernizr.custom.79639.js":1,"sites\/www.hycm.com.cn\/modules\/language_selector\/js\/dropdown_init.js":1,"sites\/www.hycm.com.cn\/modules\/quicktabs\/js\/qt_ui_tabs.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"modules\/field\/theme\/field.css":1,"sites\/www.hycm.com.cn\/modules\/footer_sitemap\/footer_sitemap.css":1,"modules\/node\/node.css":1,"sites\/www.hycm.com.cn\/modules\/views\/css\/views.css":1,"sites\/www.hycm.com.cn\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/www.hycm.com.cn\/modules\/ctools\/css\/ctools.css":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/css\/reset.css":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/css\/style_drop.css":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/css\/animate.css":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/css\/md-slider.css":1,"0":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/css\/md-slider-style.css":1,"1":1,"2":1,"sites\/www.hycm.com.cn\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/www.hycm.com.cn\/modules\/language_selector\/css\/style_dropdown.css":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/css\/page\/page.css":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/css\/page\/products.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/css\/bootstrap.min.css":1,"sites\/www.hycm.com.cn\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/css\/style.css":1}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"md_slider_options_1":{"fullwidth":false,"transitionsSpeed":800,"width":"","height":"","enableDrag":false,"responsive":true,"pauseOnHover":true,"loop":true,"showLoading":false,"loadingPosition":"bottom","showArrow":true,"showBullet":true,"posBullet":"2","showThumb":false,"posThumb":"1","slideShowDelay":"9000","slideShow":true,"styleBorder":"0","styleShadow":"0","videoBox":false},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003E\u672c\u7f51\u7ad9\u6211\u4eec\u4f7f\u7528\u4e86cookies\u4ee5\u589e\u5f3a\u60a8\u7684\u7528\u6237\u4f53\u9a8c\u3002\u003C\/h2\u003E\u003Cp\u003E\u70b9\u51fb\u6b64\u9875\u9762\u4e0a\u7684\u4efb\u4f55\u94fe\u63a5\u610f\u5473\u7740\u60a8\u540c\u610f\u6211\u4eec\u8bbe\u7f6ecookies\u3002\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons-div\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022btn red-whitebg-btn\u0022\u003E\u662f\u7684\uff0c\u6211\u540c\u610f\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022btn red-btn\u0022\u003E\u4e0d\uff0c\u6211\u60f3\u4e86\u89e3\u66f4\u591a\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003E\u591a\u8c22\u60a8\u540c\u610f\u6211\u4eec\u8bbe\u7f6ecookies\u3002\u003C\/h2\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003E\u9690\u85cf\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003E\u4e86\u89e3\u66f4\u591a\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":59,"popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.hycm.com\/cn\/sites\/www.hycm.com.cn\/files\/HYCM_CN_Cookies_Policy.pdf","popup_link_new_window":1,"popup_position":null,"popup_language":"zh-hans","domain":""},"quicktabs":{"qt_trading_products":{"name":"trading_products","active_tab":"0","history":0}},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+  
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TTMH9LL');</script>
+<!-- End Google Tag Manager -->
+  
+</head>
+<body class="navbar-is-fixed-top html not-front not-logged-in no-sidebars page-node page-node- page-node-10 node-type-page i18n-zh-hans">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1229664-35', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+        <header id="navbar" role="banner" class="navbar navbar-fixed-top navbar-default">
+	<div class="topheadernav">
+		
+				            <div  class="container">
+	<div ng-controller="CommController">
+
+
+		<div ng-if="demoAuth">
+
+			<div class="navactions pull-right">
+				<a class="dropdown-toggle" data-toggle="dropdown" id="topnavbtn_references"><i class="glyphicon glyphicon-triangle-bottom"></i></a>
+				<ul class="dropdown-content dropdown-container dropdown-actions" id="actDropdown">
+					<div class="container">
+						<div class="dropdown langcontent col-md-3 col-md-offset-1">
+							<a class="latoR textR" title=""	href="">余额</a>
+
+							<ul class="ul-no-pad list-inline pl-0">					
+								<li>账户余额 (USD): &#36;									<span id="total_balanceUSD"></span>
+								</li>
+
+							</ul>
+						</div>
+						<div class="dropdown col-md-2">
+							<a class="textR" ng-click="logout()"/>登出</a>
+						</div>
+						<div class="dropdown col-md-2">
+							<a class="textR" href="/cn/support/faq">常见问答</a>
+						</div>
+					</div>
+				</ul>
+			</div>
+
+		</div>
+
+  		<div ng-cloak ng-switch="isAuthIN()">
+  
+     		<div ng-switch-when="truein" ng-if="step_url && !demoAuth">
+
+				<div class="navactions pull-right">
+					<a class="dropdown-toggle" data-toggle="dropdown" id="topnavbtn_references"><i class="glyphicon glyphicon-triangle-bottom"></i></a>
+					<ul class="dropdown-content dropdown-container dropdown-actions" id="actDropdown">
+						<div class="container">
+							<div class="dropdown langcontent col-md-3 col-md-offset-1">
+								<a class="latoR textR" title=""	href="">余额</a>
+
+								<ul class="ul-no-pad list-inline pl-0">					
+									<li>账户余额 (USD): &#36;										<span id="total_balanceUSD"></span>
+									</li>
+			<!-- 						<li>账户余额 (CNY): &#165; 										<span id="total_balanceCNY"></span>
+									</li> -->
+
+								</ul>
+							</div>
+							<div class="dropdown col-md-2">
+								<a class="textR" ng-click="logout()"/>登出</a>
+							</div>
+							<div class="dropdown col-md-2">
+								<a class="textR" href="/cn/support/faq">常见问答</a>
+							</div>
+						</div>
+					</ul>
+				</div>
+
+			</div>
+
+			<section id="block-language-selector-language-selector--2" class="block block-language-selector pull-right clearfix">
+
+      
+  <div data-toggle="dropdown" class="navactions selected-country"> <a id="dropbtn" class="com-sp flag-global"><span>CN</span></a></div><ul id="customDropdown" class="dropdown-content dropdown-container"><div class="container"><ul class="dropdown langcontent col-md-2 col-md-offset-1"><div class=" textR">语言</div></ul><ul class="dropdown col-md-2"><li><a href="/ar"><h6 class="flag ar">العربية</h6></a></li><li><a href="/en"><h6 class="flag en">English</h6></a></li><li><a href="/es"><h6 class="flag es">Español</h6></a></li></ul><ul class="dropdown col-md-2"><li><a href="/it"><h6 class="flag it">Italiano</h6></a></li><li><a href="/ru"><h6 class="flag ru">Русский</h6></a></li><li><a href="/cn"><h6 class="flag cn">中文</h6></a></li></ul></div></ul>
+</section>
+			<div ng-switch-when="out" ng-if="!demoAuth" >
+			<section id="block-block-7--2" class="block block-block clearfix">
+
+      
+  <div class="license-no-header"><p>FCA许可证号: <span class="textR"><a class="textLink" href="https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfHH0AAN" target="_blank">186171</a><a></a></span></p></div>
+</section>
+	
+			</div>
+			<div ng-cloak ng-switch-when="truein" ng-if="step_url && !demoAuth" class="pull-right" ><p class="latoR">欢迎您<a href="/cn/account/overview"> 
+				<span id="username_top">{{email}}</span></a></p>
+			</div>
+		</div>
+
+		<div ng-cloak ng-if="demoAuth"  class="pull-right"><p class="latoR">欢迎您<a href="/cn/demo/account/overview"> <span id="username_top">{{email}}</span></a></p></div>
+	</div>
+
+</div>
+		          		
+	</div>
+   <div class="container">
+    <div class="navbar-header">
+              <a class="logo navbar-btn pull-left" href="/cn/" title="Home">
+          <img src="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/logo_hycm_cn.svg" alt="兴业投资外汇平台" />
+        </a>
+      
+      
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar top-bar"></span>
+  <span class="icon-bar middle-bar"></span>
+  <span class="icon-bar bottom-bar"></span>
+        </button>
+               <div class="reg_log_btn_tablet hidden-lg ">
+          <a class="btn green-btn hidden hidden-lg " href="/cn/account/overview" id="prof_btn_top">账户概况</a>
+          <a class="btn red-whitebg-btn "  id="login_btn_top"  href="/cn/login">登录</a>
+
+        </div>
+    </div>
+  
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                                            <div class="region region-navigation">
+    <section id="block-block-15" class="block block-block pull-right clearfix">
+
+      
+  <div class="pos-log">
+<a id="login_btn" href="/cn/login" class="btn red-whitebg-btn hidden-xs hidden-sm hidden-md">登录</a>
+<a id="prof_btn" href="/cn/account/overview" class="btn green-btn hidden hidden-xs hidden-sm hidden-md">账户概况</a>
+<a href="/cn/register" class="btn red-btn chating hidden-xs hidden-sm hidden-md">开立账户</a>
+<a id="login_btn" href="https://ib.hycm.com/login.hyml?lang=zh_CN" target="_blank" class="btn red-whitebg-btn hidden-xs hidden-sm hidden-md">IB管理后台</a>
+</div>
+</section>
+<section id="block-hycm-menu-hycm-menu" class="block block-hycm-menu pull-left clearfix">
+
+      
+  <div class="cd-dropdown-wrapper"><nav id="cbp-hrmenu" class="cbp-hrmenu">
+					<ul class="cd-dropdown-content"><li class="has-children"><a class="" href="#"><h4 class="">关于我们</h4></a>
+							<div class="cbp-hrsub">
+								<div class="cbp-hrsub-inner"> 
+					<div class="text-desc hidden-sm hidden-xs">  <h4 class=" textR">关于我们</h4>
+                    <p>欢迎来到兴业投资（英国）！兴业投资（英国）受FCA监管，是外汇和CFD交易的市场领导者</p>
+                    <a class="grey-btn btn textW" href="/cn/about">了解更多</a>
+                  </div>
+<div><ul class="cd-secondary-dropdown is-hidden">
+                    		<li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+<li><a href="/cn/about/advantages">公司优势</a></li>
+<li><a href="/cn/about/license-and-regulation">监管与资金安全</a></li>
+<li><a  href="/cn/about/group-history">集团历史</a></li>
+<li><a href="/cn/about/international-offices">国际办事处</a></li>
+<li><a href="/cn/about/awards">兴业奖项</a></li>
+<li><a  href="/cn/support/contact">联系我们</a></li>
+</ul></div>
+</div>
+</div>
+</li>
+<li class="has-children"><a class="" href="#"><h4 class="">交易产品</h4></a>
+	<div class="cbp-hrsub">
+	<div class="cbp-hrsub-inner">
+	<div class="text-desc hidden-sm hidden-xs">   <h4 class="textR">交易产品</h4>
+                    <p>在这里，您可以全面了解到兴业投资（英国）所有的产品信息以及点差/保证金</p>
+                    <a class="grey-btn btn textW" href="/cn/products">了解更多 </a>	</div>
+<div><ul class="cd-sec-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+                    <li><a class="" href="/cn/products?product=0">外汇</a></li>
+			<li><a class="" href="/cn/products?product=1">贵金属</a></li>
+			<!-- <li><a class="" href="/cn/products?product=2">能源</a></li>
+			<li><a class="" href="/cn/products?product=3">软性商品</a></li> -->
+			<li><a class="" href="/cn/products?product=2">股票和指数</a></li>		
+			<!-- <li><a class="" href="/cn/products?product=2">指数</a></li>	-->
+			<li><a class="" href="/cn/products?product=3">点差和保证金</a></li>					
+					</ul></div></div></div></li>
+					<li class="has-children"><a class="" href="#"><h4 class="">外汇平台</h4></a>
+							<div class="cbp-hrsub">
+								<div class="cbp-hrsub-inner"> 
+									<div class="text-desc hidden-sm hidden-xs"> 
+										<h4 class="textR">外汇平台</h4>
+										 <p>多种外汇交易平台任您选择，电脑版、手机版和网页版一应俱全</p>
+										  <a class="grey-btn btn textW" href="/cn/platforms">了解更多 </a>
+									</div>
+									<div>
+									<ul class="cd-5-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+<li><a href="/cn/platforms/account-types">账户类型</a></li>
+<li><a href="/cn/platforms/trader">电脑版 HY Trader</a></li>
+<li><a  href="/cn/platforms/mobile-trading">手机版 移动端交易</a></li>
+<li><a href="/cn/platforms/webTrader">网页版 HY WebTrader</a></li>
+</ul>
+</div>
+</div></div></li>
+<li class="has-children"><a class="" href="#"><h4 class="">教育与工具</h4></a>
+<div class="cbp-hrsub">
+		<div class="cbp-hrsub-inner"> 
+				<div class="text-desc hidden-sm hidden-xs"> 
+					<h4 class=" textR">教育与工具</h4>
+						<p>知识是开启财富的钥匙！兴业投资（英国）为您提供全面及详实的学习视频，以及外汇平台交易所需的工具和即时资讯</p>
+                    <a class="grey-btn btn textW" href="/cn/education-and-markets">了解更多 </a>	</div>
+									<div>
+		<ul class="cd-thrd-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+		<li><a  href="/cn/education-and-markets/videos">视频教程</a></li>
+		<li><a  href="/cn/sites/www.hycm.com.cn/themes/hycmcn/platforms/ebook.pdf" target="_blank">电子教程</a></li>
+	 <li><a href="/cn/education-and-markets/trading-signals">交易信号</a></li>
+		<li><a href="/cn/education-and-markets/economic-calendar">财经日历</a></li>
+		<li><a href="/cn/education-and-markets/news">即时新闻</a></li>
+		<li><a href="/cn/education-and-markets/daily-commentary">每日评论</a></li>
+		<li><a href="/cn/education-and-markets/daily-outlook">今日播报</a></li>
+	<!-- <li><a href="/cn/education-and-markets/webinars">在线讲座</a></li> -->
+	     <li><a href="http://edu.pro-daily.com"  target="_blank">在线讲座</a></li>
+		<li><a href="/cn/education-and-markets/forex-getting-started">外汇入门</a></li>
+		<li><a href="/cn/hylp/2017finance-talk" target="_blank">年度专题</a></li>
+		
+</ul>
+</div>
+</div></div></li>
+
+<li class="has-children"><a class="" href="#"><h4 class="">合作伙伴</h4></a>
+							<div class="cbp-hrsub">
+								<div class="cbp-hrsub-inner"> 
+							<div class="text-desc hidden-sm hidden-xs"> 
+ <h4 class=" textR">合作伙伴</h4>
+     <p>成为兴业投资（英国）的盟友和介绍经纪人（IBs)，享有全面的技术和业务支援服务</p>
+    <a class="grey-btn btn textW" href="/cn/partnerships">了解更多 </a>
+      </div>
+<div>
+<ul class="cd-5-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+
+<li><a href="/cn/partnerships/media-affiliates">媒体盟友</a></li>
+<li><a href="/cn/partnerships/introducing-brokers">介绍经纪人</a></li>
+<li><a href="/cn/partnerships/white-label-partners">白标伙伴</a></li>
+
+</ul></div></div>
+	</div></li>
+<li class="has-children"><a class="" href="#"><h4 class="">客户支持</h4></a>
+<div class="cbp-hrsub">
+	<div class="cbp-hrsub-inner"> 
+<div class="text-desc hidden-sm hidden-xs"> 
+ <h4 class=" textR">客户支持</h4>
+     <p>我们的客户服务5天24小时为您提供帮助</p>
+    <a class="grey-btn btn textW" href="/cn/support/contact">了解更多 </a>
+      </div>
+<div>
+<ul class="cd-4-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li><li><a  href="/cn/support/contact">联系我们</a></li>
+<li><a href="/cn/support/getting-started">开户流程</a></li>
+<li><a href="/cn/hylp/activity-review">线上活动</a></li>
+<li><a href="/cn/support/event" target="_blank">线下活动</a></li>
+<li><a  href="/cn/support/account-funding">支付方式</a></li>
+<li><a  href="/cn/support/forms-and-documents">常用表单</a></li>
+<li><a href="/cn/support/holiday-notice">假期通知</a></li>
+<li><a href="/cn/support/contract-expiry-notice">期货到期通知</a></li>
+<li><a href="/cn/support/faq">常见问答</a></li>
+<li><a  href="/cn/support/risk-warning">风险警告及披露</a></li>
+</ul></div>
+</div></div>
+</li>
+</ul>
+</nav></div>
+</section>
+  </div>
+                  </nav>
+      </div>
+      </div>
+</header>
+
+
+    <div class="innerbanner topbanner-products"> <div class="container">
+  <h1 class="banner-title">交易产品</h1></div>
+    </div>
+       
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+      <div class="Section-quotes"> 
+	<div class="maincontent container">
+  	<div class="row">   
+        <div class="region region-content-quotes">
+    <section id="block-block-13" class="block block-block clearfix">
+
+      
+  <div class="hidden-xs hidden-sm ">
+<ul id="side-bar" class="side-pannel side-bar"><li>
+  <a href="#" class="text qq" onclick="live800Click()"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>客服</a></li>
+ <li> <a href="/cn/banking" class="text deposit"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>入金</a></li>
+ <li> <a href="/cn/register" target="_blank" class="text reg"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>开户</a></li>
+ <li> <a href="/cn/demo" target="_blank" class="text demo"><i class="comm-small-icons2 side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i></a></li>
+ <li> <a href="/cn/platforms/trader" target="_blank" class="text down"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>下载</a></li>
+ <li> <a href="" class="text qrcode"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>微信 <img class="qrshow" src="/sites/www.hycm.com.cn/themes/hycmcn/images/common/QR-HYCM-CN.jpg" /></a></li>
+
+</ul></div>
+</section>
+  </div>
+ </div>
+</div>
+</div>
+       <section class="col-sm-12">
+                  <a id="main-content"></a>
+    
+                                        <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-10" class="node node-page clearfix" about="/cn/products" typeof="foaf:Document">
+    <header>
+            <span property="dc:title" content="交易产品" class="rdf-meta element-hidden"></span>      </header>
+        </article>
+
+</section>
+<section id="block-quicktabs-trading-products" class="block block-quicktabs clearfix">
+
+      
+  <div  id="quicktabs-trading_products" class="quicktabs-ui-wrapper"><ul class="ng-cloak"><li><a href="#qt-trading_products-ui-tabs1">外汇</a></li><li><a href="#qt-trading_products-ui-tabs2">贵金属</a></li><li><a href="#qt-trading_products-ui-tabs3">股票和指数</a></li><li><a href="#qt-trading_products-ui-tabs4">点差和保证金</a></li></ul><div  id="qt-trading_products-ui-tabs1"><article id="node-263" class="node node-page clearfix" about="/cn/forex" typeof="foaf:Document">
+    <header>
+            <span property="dc:title" content="" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">  <ul class="nav nav-tabs products"><li class="active"><a data-toggle="tab" href="#tab1">产品特点</a></li>
+    <li><a data-toggle="tab" href="#tab2">交易细则</a></li>
+    <li><a data-toggle="tab" href="#tab3">交易实例</a></li>
+  </ul><div class="tab-content">
+    <div id="tab1" class="tab-pane fade in active">
+    <p> 外汇被认为是世界上最活跃的和最流动的金融产品。每天全球的外汇交易成交量估计超过4兆美元，其中超过一半是在兴业投资（英国）总部所在地的伦敦交易。</p> 
+    <p> 现货外汇交易是透过金融机构进行场外交易而有别于通过交易所进行交易的产品，因为没有实际货物交换的场所也没有中央交易所。外汇交易在全球主要的金融中心如伦敦、纽约和东京进行。</p> 
+    <p> 在每周五天市场运作时，外汇的交易时间没有限制，而主要货币之间的汇率会不停地更新。这样的高流通量和价格经常波动的情况令外汇投资吸引了大量有经验的投资者。</p> 
+
+<h4 class="pt-30 textR">外汇交易有诸多投资优势：</h4>
+<div class="pt-30">
+<div class="grey-circle pull-left">1</div>
+<div class="ys-pl"><h5 class="textR">高流通量 </h5>
+<p>每日在外汇市场中超过四兆美元的成交量和数以百万计投资者的参与，因而总有机会以一个相当透明的价格进入和退出市场。</p></div>
+</div>
+<div class="pt-30">
+<div class="grey-circle pull-left">2</div>
+<div class="ys-pl"><h5 class="textR">24小时交易  </h5>
+<p>外汇市场是一个24小时连续开放的全球市场，从星期一新西兰惠灵顿开市开始到星期五美国市场收市结束为止。尽管分布在世界各地的外汇市场各自有固定的交易时间，但由于时差的原因，各个市场互相连接或重叠，因此交易者们一天24小时都有机会进行交易。</p></div>
+</div>
+<div class="pt-30">
+<div class="grey-circle pull-left">3</div>
+<div class="ys-pl"><h5 class="textR">可预测的市场</h5>
+<p>外汇市场的趋势是有重复性的，且有规律可循。这让市场参与者在有效利用辅助分析工具后可增加价格的预期性。</p></div>
+</div>
+<div class="pt-30">
+<div class="grey-circle pull-left">4</div>
+<div class="ys-pl"><h5 class="textR">双向交易均有获利机会</h5>
+<p>因为外汇市场在不断地变动着，总是有进行交易的机会，去选择一个货币相对于另一个货币是贬值或升值。因此，投资者可以通过多仓或空仓策略而获利。</p></div>
+</div>
+    </div>
+    <div id="tab2" class="tab-pane fade">
+     <div class="col-md-5 trading-rules">
+	 <h4 class="textBlack">a.损益计算</h4>
+	  <h5 class="textR pt-30">以报价货币的损益(浮动和变现利润/损失均换算为美元)：</h5>
+	 <p> (1)美元/日元(USDJPY)，美元/瑞士法郎(USDCHF)，美元/加元(USDCAD) <br />
+(卖价-买价)*合约面值*合约份数/收盘价=以美元计价的损益</p>
+<h5 class="textR pt-30">以美元计价的损益：</h5><p>(2)欧元/美元(EURUSD)，英镑/美元(GBPUSD)，澳元/美元(AUDUSD)<br />
+(卖价-买价)*合约面值*合约份数=以美元计价的损益<br />
+*上述计算过程不包含佣金费用。
+</p>
+	 </div>
+	 
+	 <div class="col-md-5 col-md-offset-1 trading-rules">
+	 <h4 class="textBlack">b.费率计算</h4>
+	  <h5 class="textR pt-30">利息计算：</h5>
+	 <p>(1)美元/日元( USDJPY )，美元/瑞士法郎( USDCHF )，美元/加元( USDCAD)</p>
+<p>{[(合约面值*合约份数*利息率)]/360}*天数=以美元计价的利息
+</p>
+<p>(2)欧元/美元(EURUSD)，英镑/美元(GBPUSD)，澳元/美元(AUDUSD)</p>
+<p>[(开盘价*合约面值*合约份数*利息率)/360]*天数=以美元计价的利息</p>
+
+<h5 class="textR pt-30">资金保管费：</h5><p>保管费费率*保管天数*合约份数=资金保管费
+</p>
+	 </div>
+    </div>
+    <div id="tab3" class="tab-pane fade">
+     <h5 class="textR">卖美元/日元合约</h5>
+	 <p>一份美元/日元合约面值为100000美元，报价点差为2.6点(1点等于0.01波动，且最小的价格波动幅度为0.001)，每份合约保证金需求为1，000美元。</p><p>
+</p><p>客户认为美元价值高估，未来对于日元会走弱，为应对这种情况，客户打算卖美元/日元合约。</p>
+<p>美元/日元105.300/326报价，客户以105.300的价格卖出5手，这需要5，000美元的存款，客户每手交易最少需要1，000美元的存款。</p>
+<p>美元兑日元确实走弱，价格因此跌至104.270/296，客户决定平仓，以104.296的价格买入5手。客户在交易中赚取1.004，或是100.4点(105.300-104.296)。
+如果以105.300的价格卖又以104.296的价格买，那么以美元计算的1.004的盈利为：(105.300-104.296)* 100,000/ 104.296 = $962.44 (每份合约)。因此总盈利为$ 4812.20 ($962.44* 5份合约)。</p>
+<div class="row pt-30">
+<div class="col-md-8">
+<table class="table internal table-striped"><tbody><tr><td>5手美元/日元 卖价105.300– 买价104.296</td><td>+100.4点</td>
+    </tr><tr><td>((105.300-104.296)*100000) / 104.296</td><td>+$962.44每份合约</td>
+    </tr><tr><td>$962.44*5 (合约数量)</td><td>$4812.20盈利</td>
+    </tr><tr><td>*以上计算不包含佣金费用</td><td></td>
+    </tr></tbody></table></div>
+	</div>
+	
+	<p>如客户并非在即日内平仓，而继续持仓至下个交易日，我们会执行过夜利息调整。</p>
+	<h5 class="textR pt-30">买英镑/美元合约</h5>
+	
+	<p>一份英镑/美元合约面值为100000英镑，报价点差为2.8点(1点等于0.00001波动，且最小的价格波动幅度为0.00001)，每份合约的保证金要求为1,500美元。
+	</p><p>
+客户认为英镑价值低估，未来对于美元会升值。为应对这种情况，客户决定买英镑/美元合约。</p><p>
+英镑/美元报价为1.50420/448。客户以1.50448的价格买3手，这需要4,500美元的存款，客户每手交易需要最少1,500美元的存款。</p><p>
+英镑/美元价格跌到1.50000/028。客户决定平仓以减少亏损，因此以1.50000的价格卖出3手。所以他在交易中每手损失了0.00448或44.8点(1.50448-1.50000)。</p><p>
+如果以1.50448的价格买又以1.50000的价格卖，那么以美元计算的0.00448的损失为：(1.50448-1.50000)*100,000=-$448（每份合约）。因此总亏损为$ 1,344 ($448* 3份合约)。</p>
+	<div class="row pt-30">
+<div class="col-md-8">
+<table class="table internal table-striped"><tbody><tr><td>3手英镑/美元 卖价1.50448 – 买价1.50000</td><td>-0.00448</td>
+    </tr><tr><td>(1.50448-1.50000) *100000 = -$448</td><td>-$455每份合约</td>
+    </tr><tr><td>-$448 *3 (合约数量) = -$1,344</td><td>$1,344亏损</td>
+    </tr><tr><td>*以上计算不包含佣金费用</td><td></td>
+    </tr></tbody></table></div>
+</div>
+	<p>如客户并非在即日内平仓，而继续持仓至下个交易日，我们会执行过夜利息调整。</p>
+    </div>
+ 
+  </div>
+</div></div></div>    </article>
+</div><div  id="qt-trading_products-ui-tabs2"><article id="node-265" class="node node-page clearfix" about="/cn/metals" typeof="foaf:Document">
+    <header>
+            <span property="dc:title" content="" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">  <ul class="nav nav-tabs products"><li class="active"><a data-toggle="tab" href="#tab4">产品特点</a></li>
+    <li><a data-toggle="tab" href="#tab5">交易细则</a></li>
+    <li><a data-toggle="tab" href="#tab6">交易实例</a></li>
+  </ul><div class="tab-content">
+    <div id="tab4" class="tab-pane fade in active">
+    <p> 兴业投资（英国）提供黄金和白银的实时价格。多年以来市场已经证明了对这些产品的需求，包括个人投资者和机构投资者，无论是作为投机或风险对冲为目的。</p>
+<br /><p>兴业投资（英国）的金属产品以差价合约(CFD)形式交易，投资者能够以市价做多或做空。
+</p>
+    </div>
+    <div id="tab5" class="tab-pane fade">
+     <div class="col-md-5 trading-rules">
+	 <h4 class="textBlack">a.损益计算</h4>
+	 <p class="pt-30">(卖价-买价)*合约面值*合约份数=以美元计算的损益</p>
+	 <p> 
+*上述计算过程不包含佣金费用。
+</p> </div>
+	 
+	 <div class="col-md-5 col-md-offset-1 trading-rules">
+	 <h4 class="textBlack">b.费率计算</h4>
+	  <h5 class="textR pt-30">利息计算：</h5>
+	 <p>(1)现货黄金和现货白银合约</p>
+	<p> [(开盘价*合约面值*合约份数*利息率)/360]*天数=以美元计算的利息<br />
+铜CFD：期货差价合约(CFD)没有利息费用。
+
+</p>
+
+<p class="pt-30">(2)保管费计算：</p>
+<p>保管费费率*天数*合同份数=保管费</p><p>
+</p><p>*以上条款会根据市场情况进行调整。请见我们最新的通知或联系伦敦交易室获得最新的信息。
+</p>
+	 </div>
+    </div>
+    <div id="tab6" class="tab-pane fade">
+     <h5 class="textR pt-30">卖黄金合约</h5>
+	 <p>一份即期黄金合约(SPT_GLD)面值为100盎司(以下金属的价值以此为基础)，报价点差为50美分($0.50)，最小变动单位为$0.05，每份合约保证金要求为$1000。</p><p>
+	 
+</p><p>客户认为黄金的估值过高，未来将会下跌，为应对这种情况，客户决定卖出黄金。</p>
+<p>
+即期黄金合约的报价是910.90/40（也就是说报价是910.90 – 910.40），客户以910.90的价格卖出7手即期黄金合约，这需要$7000的总存款。客户每手交易需要提供最小的存款为$1000。
+</p>
+<p>
+即期黄金价格下跌到907.40/90，客户决定对他短期的交易进行平仓。他以907.90的价格买进7手的即期黄金，那么客户在(910.90 - 907.90)的交易中每份合约盈利$3。
+</p>
+<p>如果每份合约面值为100盎司，我们应盈利100*$3。因此以美元计算每份合约的盈利为：100*$3=$300，总盈利为$2100($300*7份合约)。</p>
+
+<div class="row pt-30">
+<div class="col-md-8">
+<table class="table internal table-striped"><tbody><tr><td>7手即期黄金合约 卖价910.90-买价907.90</td><td>+$3</td>
+    </tr><tr><td>1盎司盈利3美元，100盎司盈利</td><td>+$300</td>
+    </tr><tr><td>$300*7（合约数量）</td><td>$2100盈利</td>
+    </tr><tr><td>*以上计算不包含佣金费用</td><td></td>
+    </tr></tbody></table></div>
+	</div>	
+	<p>如客户并非在即日内平仓，而继续持仓至下个交易日，我们会执行过夜利息调整。</p>
+
+    </div>
+ 
+  </div>
+</div></div></div>    </article>
+</div><div  id="qt-trading_products-ui-tabs3"><article id="node-267" class="node node-page clearfix" about="/cn/indices" typeof="foaf:Document">
+    <header>
+            <span property="dc:title" content="" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">  <ul class="nav nav-tabs products"><li class="active"><a data-toggle="tab" href="#tabd">产品特点</a></li>
+    <li><a data-toggle="tab" href="#tabe">交易细则</a></li>
+    <li><a data-toggle="tab" href="#tabf">交易实例</a></li>
+    <li><a href="/sites/www.hycm.com.cn/files/HYCM_CN_Financial_Statements.pdf" target="_blank">财务报表</a></li>
+  </ul><div class="tab-content">
+    <div id="tabd" class="tab-pane fade in active">
+    <p> 兴业投资（英国）的股票产品以差价合约(CFD)形式交易，相比传统的股票交易，成本更低。</p>
+<br /><p> 股票差价合约(CFD)已经快速发展成为个人和机构投资者的交易产品。您无需真正持有股票，也无需像传统股票交易一样需要支付多项交易费用。</p>
+<br /><p>CFD追踪和反映个别股票或指数价格，投资股票CFD，您除了可以享受股票价格变动带来的利润外，您还可以获得对应的股息权益(取决于您是否持有多头还是空头)。
+</p>
+
+<h4 class="pt-30 textR">CFD的优点</h4>
+<div class="pt-30">
+
+<div class="grey-circle pull-left">1</div>
+<div class="ys-pl"><h5 class="textR">买卖皆可 </h5>
+<p>由于您所投资的是股票价格的变动而非实际持有，所以可以同时买和卖，不用等到隔天进行结算。即便股价下跌，通过卖出也照样能盈利。</p></div>
+</div>
+<div class="pt-30">
+<div class="grey-circle pull-left">2</div>
+<div class="ys-pl"><h5 class="textR">即时交易</h5>
+<p>一键即可交易，无需等待确认。</p></div>
+</div>
+<div class="pt-30">
+<div class="grey-circle pull-left">3</div>
+<div class="ys-pl"><h5 class="textR">保证金交易/杠杆比率 </h5>
+<p>交易CFD只需要支付保证金而不用支付全款。这样一来可以让您有效率地使用您的资金，只需要付出交易金额的一小部分作为保证金，就能够参与市场，灵活调配投资组合，并扩大投资收益。</p></div>
+</div>
+<div class="pt-30">
+<div class="grey-circle pull-left">4</div>
+<div class="ys-pl"><h5 class="textR">高效率、低交易成本 </h5>
+<p>交易CFD交易不用付印花税和交易所的费用，带来的利润也不用支付资产增值税(例如英国，但客户所在国家具体的情况可能有不同)。</p></div>
+</div>
+<div class="pt-30">
+<div class="grey-circle pull-left">5</div>
+<div class="ys-pl"><h5 class="textR">享有股息 </h5>
+<p>股票CFD的拥有者将会获得股息派发，参与股票的拆细或合并，正如他们拥有实际的股份一样，唯一不同的是CFD拥有者没有任何的投票权。</p></div>
+</div>
+<div class="pt-30">
+<div class="grey-circle pull-left">6</div>
+<div class="ys-pl"><h5 class="textR">简单  </h5>
+<p>CFD的交易跟现货市场的交易本质上没有不同，一样会以最快速度和接近现货的市场价进行交易。</p></div>
+</div>
+    </div>
+    <div id="tabe" class="tab-pane fade">
+     <div class="col-md-3 trading-rules">
+	 <h4 class="textBlack">a.损益计算</h4>
+	 <p class="pt-30">(卖价-买价)*合约面值*合约份数=以美元计算的损益</p>
+	 <p> 
+*上述计算过程不包含佣金费用。
+</p> </div>
+	 
+	 <div class="col-md-3 col-md-offset-1 trading-rules">
+	 <h4 class="textBlack">b.费率计算</h4>
+	  <h5 class="textR pt-30">(1)利息计算：</h5>
+	 <p>[(开盘价*合约面值*合约份数*利息率)/360]*天数=以美元计算的利息
+</p>
+
+  <h5 class="textR pt-30">(2)资金保管费：</h5>
+<p>保管费费率*天数*合约份数=保管费</p><p>
+
+	 </p></div>
+	 
+	  <div class="col-md-3 col-md-offset-1 trading-rules">
+	 <h4 class="textBlack">c.股息及其它</h4>
+	  <h5 class="textR pt-30">股息</h5>
+	 <p>股息调整发生在持有股票的除息日。多仓的客户，股息调整会记入客户账户的贷方。空仓的客户，股息调整会从客户账户里扣除。股息是全额的，不涉及税金调整。
+</p>
+
+  <h5 class="textR pt-30">分红，股票分割</h5>
+<p>在分红的情况下，股票分割或类似事件会影响持有的份额。兴业投资（英国）会确定并适当调整相关的股票差价合约。这些调整会带来账户必要的缩减或集中，以保护持有者在该事件之前进行保证金交易时的经济等价权利和义务。</p><p>新持有的份额可能会或上或下影响客户对股票CFD仓位的重新定义。</p><p>
+</p><p>*以上条款会根据市场情况进行调整。请见我们最新的通知或联系伦敦交易室获得最新的信息。</p>
+	 </div>
+    </div>
+    <div id="tabf" class="tab-pane fade">
+     <h5 class="textR pt-30">卖出现货戴尔（SPT_DELL)</h5>
+	 <p>一客户相信戴尔股票被高估，且将很快下滑。</p><p>
+	 
+</p><p>现货戴尔CFD合约（1000股）报价为11.70/76。该客户在11.70卖出5手，这一共需要5000美元的保证金，因每份合约保证金要求为1000美金。</p>
+<p>
+戴尔股价下跌到10.10/16，客户决定平掉空单。于是，他在10.16买入5手戴尔，因此客户每股赚了$1.54（11.70-10.16）。
+</p>
+<p>
+咖啡的价格，如期涨到125.45/75，客户决定平仓，以125.45的价格卖出4手合约，因此客户在交易中有0.4点的盈利。
+</p>
+<p>如果客户在11.70卖出，并在10.16买入，那么每股盈利$1.54以美元计价将为：
+（11.70-10.16）x1000=$1540每份合约，总的盈利为$7700($1540*5份合约)。
+</p>
+
+<div class="row pt-30">
+<div class="col-md-8">
+<table class="table internal table-striped"><tbody><tr><td>买5手价格11.70– 卖5手价格10.16</td><td>+$1.54每股</td>
+    </tr><tr><td>（11.70-10.16）x1000=$1540</td><td>+$1540每份合约</td></tr><tr><td>$1540*5(合约数量) =$7700</td><td>$7700盈利</td></tr></tbody></table></div></div>
+<p>如客户并非在即日内平仓，而继续持仓至下个交易日，我们会执行过夜利息调整。</p>
+    </div>
+ 
+  </div>
+</div></div></div>    </article>
+</div><div  id="qt-trading_products-ui-tabs4"><article id="node-22" class="node node-page clearfix" about="/cn/products/specifications" typeof="foaf:Document">
+    <header>
+            <span property="dc:title" content="" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><!--  <div class="table-responsive mt-30">
+<table id="table1" class="table table_products">
+	<thead>
+		<tr>
+			<th class="">产品</th>
+			<th class="">代码</th>
+			<th class="">微型账户点差<sup>1</sup></th>
+			<th class="hidden-sm hidden-xs">标准/特等账户点差<sup>1</sup></th>
+			<th class="hidden-sm hidden-xs">合约面值</th>
+			<th class="hidden-sm hidden-xs">最小价格差别<sup>2</sup></th>
+			<th class="hidden-sm hidden-xs">价格最小跳幅</th>
+			<th class="hidden-sm hidden-xs">基点价值</th>
+			<th class="hidden-sm hidden-xs">保证金要求<sup>3</sup></th>
+			<th class="hidden-sm hidden-xs">保证金币种</th>
+            <th class=""></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td class="">欧元兑美元 </td>
+			<td class="">EURUSD</td>
+			<td class="">2.0 pip</td>
+			<td class="hidden-sm hidden-xs">1.8 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 EUR</td>
+			<td class="hidden-sm hidden-xs">3.6 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 USD</td>
+			<td class="hidden-sm hidden-xs">1.00 USD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">EUR</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row1"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row1" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>1.8 pip</b></p>
+				    <p>合约面值 : <b>10,000 EUR</b></p>
+					<p>最小价格差别 : <b>3.6 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 USD</b></p>
+					<p>基点价值 : <b>1.00 USD</b></p>
+					<p>保证金要求 : <b>0.50%</b></p>
+					<p>保证金币种 : <b>EUR</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+		<tr>
+			<td class="">美元兑日元</td>
+			<td class="">USDJPY</td>
+			<td class="">2.5 pip</td>
+			<td class="hidden-sm hidden-xs">2.3 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 USD</td>
+			<td class="hidden-sm hidden-xs">4.7 pip </td>
+			<td class="hidden-sm hidden-xs">0.001 JPY</td>
+			<td class="hidden-sm hidden-xs">100 JPY</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">USD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row2"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row2" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>2.3 pip</b></p>
+				    <p>合约面值 : <b>10,000 USD</b></p>
+					<p>最小价格差别 : <b>4.7 pip</b></p>
+					<p>价格最小跳幅 : <b>0.001 JPY</b></p>
+					<p>基点价值 : <b>100 JPY</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>USD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+		<tr>
+			<td class="">英镑兑美元</td>
+			<td class="">GBPUSD</td>
+			<td class="">2.7 pip</td>
+			<td class="hidden-sm hidden-xs">2.5 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 GBP</td>
+			<td class="hidden-sm hidden-xs">5.0 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 USD</td>
+			<td class="hidden-sm hidden-xs">1.00 USD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">GBP</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row3"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row3" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>2.5 pip</b></p>
+				    <p>合约面值 : <b>10,000 GBP</b></p>
+					<p>最小价格差别 : <b>5.0 pip </b></p>
+					<p>价格最小跳幅 : <b>0.00001	USD</b></p>
+					<p>基点价值 : <b>1.00 USD</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>GBP</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+		<tr>
+			<td class="">美元兑瑞士法郎</td>
+			<td class="">USDCHF</td>
+			<td class="">3.0 pip</td>
+			<td class="hidden-sm hidden-xs">2.8 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 USD</td>
+			<td class="hidden-sm hidden-xs">5.7 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 CHF</td>
+			<td class="hidden-sm hidden-xs">1.00 CHF</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">USD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row4"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row4" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>2.8 pip</b></p>
+				    <p>合约面值 : <b>10,000 USD</b></p>
+					<p>最小价格差别 : <b>5.7 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 CHF</b></p>
+					<p>基点价值 : <b>1.00 CHF</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>USD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+		<tr >
+			<td class="">澳大利亚元兑美元</td>
+			<td class="">AUDUSD</td>
+			<td class="">2.7 pip</td>
+			<td class="hidden-sm hidden-xs">2.5 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 AUD</td>
+			<td class="hidden-sm hidden-xs">5.0 pip </td>
+			<td class="hidden-sm hidden-xs">0.00001	USD</td>
+			<td class="hidden-sm hidden-xs">1.00 USD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">AUD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row5"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row5" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>2.5 pip</b></p>
+				    <p>合约面值 : <b>10,000 AUD</b></p>
+					<p>最小价格差别 : <b>5.0 pip </b></p>
+					<p>价格最小跳幅 : <b>0.00001	USD</b></p>
+					<p>基点价值 : <b>1.00 USD</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>AUD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+		<tr>
+			<td class="">美元兑加拿大元</td>
+			<td class="">USDCAD</td>
+			<td class="">3.0 pip</td>
+			<td class="hidden-sm hidden-xs">2.8 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 USD</td>
+			<td class="hidden-sm hidden-xs">5.7 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001  CAD</td>
+			<td class="hidden-sm hidden-xs">1.00 CAD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">USD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row6"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row6" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>2.8 pip</b></p>
+				    <p>合约面值 : <b>10,000 USD</b></p>
+					<p>最小价格差别 : <b>5.7 pip </b></p>
+					<p>价格最小跳幅 : <b>0.00001  CAD</b></p>
+					<p>基点价值 : <b>1.00 CAD</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>USD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+	<tr>
+			<td class="">新西兰元兑美元</td>
+			<td class="">NZDUSD</td>
+			<td class="">3.9 pip</td>
+			<td class="hidden-sm hidden-xs">3.7 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 NZD</td>
+			<td class="hidden-sm hidden-xs">7.3 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001	USD</td>
+			<td class="hidden-sm hidden-xs">1.00 USD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">NZD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row7"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row7" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>3.7 pip</b></p>
+				    <p>合约面值 : <b>10,000 NZD</b></p>
+					<p>最小价格差别 : <b>7.3 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 USD</b></p>
+					<p>基点价值 : <b>1.00 USD</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>NZD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+
+<tr>
+			<td class="">澳大利亚元兑加拿大元</td>
+			<td class="">AUDCAD</td>
+			<td class="">6.8 pip</td>
+			<td class="hidden-sm hidden-xs">5.8 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 AUD</td>
+			<td class="hidden-sm hidden-xs">11.7 pip </td>
+			<td class="hidden-sm hidden-xs">0.00001 CAD</td>
+			<td class="hidden-sm hidden-xs">1.00 CAD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">AUD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row17"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row17" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>5.8 pip</b></p>
+				    <p>合约面值 : <b>10,000 AUD</b></p>
+					<p>最小价格差别 : <b>11.7 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 CAD</b></p>
+					<p>基点价值 : <b>1.00 CAD</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>AUD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr>
+			<td class="">澳大利亚元兑日元</td>
+			<td class="">AUDJPY</td>
+			<td class="">5.4 pip</td>
+			<td class="hidden-sm hidden-xs">4.4 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 AUD</td>
+			<td class="hidden-sm hidden-xs">8.8 pip </td>
+			<td class="hidden-sm hidden-xs">0.001 JPY</td>
+			<td class="hidden-sm hidden-xs">100.00 JPY</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">AUD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row18"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row18" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>4.4 pip</b></p>
+				    <p>合约面值 : <b>10,000 AUD</b></p>
+					<p>最小价格差别 : <b>8.8 pip</b></p>
+					<p>价格最小跳幅 : <b>0.001 JPY</b></p>
+					<p>基点价值 : <b>100.00 JPY</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>AUD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr>
+			<td class="">澳大利亚元兑新西兰元</td>
+			<td class="">AUDNZD</td>
+			<td class="">8.3 pip</td>
+			<td class="hidden-sm hidden-xs">7.3 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 AUD</td>
+			<td class="hidden-sm hidden-xs">14.7 pip </td>
+			<td class="hidden-sm hidden-xs">0.00001 NZD</td>
+			<td class="hidden-sm hidden-xs">1.00 NZD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">AUD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row19"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row19" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>7.3 pip</b></p>
+				    <p>合约面值 : <b>10,000 AUD</b></p>
+					<p>最小价格差别 : <b>14.7 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 NZD</b></p>
+					<p>基点价值 : <b>1.00 NZD</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>AUD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+
+<tr>
+			<td class="">澳大利亚元兑瑞士法郎</td>
+			<td class="">AUDCHF</td>
+			<td class="">7.2 pip</td>
+			<td class="hidden-sm hidden-xs">6.2 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 AUD</td>
+			<td class="hidden-sm hidden-xs">12.3 pip </td>
+			<td class="hidden-sm hidden-xs">0.00001 CHF</td>
+			<td class="hidden-sm hidden-xs">1.00 CHF</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">AUD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row20"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row20" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>6.2 pip</b></p>
+				    <p>合约面值 : <b>10,000 AUD</b></p>
+					<p>最小价格差别 : <b>12.3 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 CHF</b></p>
+					<p>基点价值 : <b>1.00 CHF</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>AUD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr>
+			<td class="">英镑兑澳大利亚元</td>
+			<td class="">GBPAUD</td>
+			<td class="">7.7 pip</td>
+			<td class="hidden-sm hidden-xs">6.7 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 GBP</td>
+			<td class="hidden-sm hidden-xs">13.3 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 AUD</td>
+			<td class="hidden-sm hidden-xs">1.00 AUD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">GBP</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row21"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row21" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>6.7 pip</b></p>
+				    <p>合约面值 : <b>10,000 GBP</b></p>
+					<p>最小价格差别 : <b>13.3 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 AUD</b></p>
+					<p>基点价值 : <b>1.00 AUD</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>GBP</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">英镑兑加拿大元</td>
+			<td class="">GBPCAD</td>
+			<td class="">7.7 pip</td>
+			<td class="hidden-sm hidden-xs">6.7 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 GBP</td>
+			<td class="hidden-sm hidden-xs">13.3 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 CAD</td>
+			<td class="hidden-sm hidden-xs">1.00 CAD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">GBP</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row22"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row22" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>6.7 pip</b></p>
+				    <p>合约面值 : <b>10,000 GBP</b></p>
+					<p>最小价格差别 : <b>13.3 pip </b></p>
+					<p>价格最小跳幅 : <b>0.00001 CAD</b></p>
+					<p>基点价值 : <b>1.00 CAD</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>GBP</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">英镑兑日元</td>
+			<td class="">GBPJPY</td>
+			<td class="">6.0 pip</td>
+			<td class="hidden-sm hidden-xs">5.0 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 GBP</td>
+			<td class="hidden-sm hidden-xs">10.0 pip</td>
+			<td class="hidden-sm hidden-xs">0.001 JPY</td>
+			<td class="hidden-sm hidden-xs">100 JPY</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">GBP</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row23"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row23" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>5.0 pip</b></p>
+				    <p>合约面值 : <b>10,000 GBP</b></p>
+					<p>最小价格差别 : <b>10.0 pip</b></p>
+					<p>价格最小跳幅 : <b>0.001 JPY</b></p>
+					<p>基点价值 : <b>100 JPY</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>GBP</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr>
+			<td class="">英镑兑新西兰元</td>
+			<td class="">GBPNZD</td>
+			<td class="">10.3 pip</td>
+			<td class="hidden-sm hidden-xs">9.3 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 GBP</td>
+			<td class="hidden-sm hidden-xs">18.7 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 NZD</td>
+			<td class="hidden-sm hidden-xs">1.00 NZD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">GBP</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row24"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row24" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>9.3 pip</b></p>
+				    <p>合约面值 : <b>10,000 GBP</b></p>
+					<p>最小价格差别 : <b>18.7 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 NZD</b></p>
+					<p>基点价值 : <b>1.00 NZD</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>GBP</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">英镑兑瑞士法郎</td>
+			<td class="">GBPCHF</td>
+			<td class="">8.3 pip</td>
+			<td class="hidden-sm hidden-xs">7.3 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 GBP</td>
+			<td class="hidden-sm hidden-xs">14.7 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 CHF</td>
+			<td class="hidden-sm hidden-xs">1.00 CHF</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">GBP</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row25"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row25" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>7.3 pip</b></p>
+				    <p>合约面值 : <b>10,000 GBP</b></p>
+					<p>最小价格差别 : <b>14.7 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 CHF</b></p>
+					<p>基点价值 : <b>1.00 CHF</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>GBP</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">加拿大元兑日元</td>
+			<td class="">CADJPY</td>
+			<td class="">6.5 pip</td>
+			<td class="hidden-sm hidden-xs">5.5 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 CAD</td>
+			<td class="hidden-sm hidden-xs">11.0 pip</td>
+			<td class="hidden-sm hidden-xs">0.001JPY</td>
+			<td class="hidden-sm hidden-xs">100 JPY</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">CAD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row26"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row26" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>5.5 pip</b></p>
+				    <p>合约面值 : <b>10,000 CAD</b></p>
+					<p>最小价格差别 : <b>11.0 pip</b></p>
+					<p>价格最小跳幅 : <b>0.001JPY</b></p>
+					<p>基点价值 : <b>100 JPY</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>CAD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr>
+			<td class="">加拿大元兑瑞士法郎</td>
+			<td class="">CADCHF</td>
+			<td class="">6.8 pip</td>
+			<td class="hidden-sm hidden-xs">5.8 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 CAD</td>
+			<td class="hidden-sm hidden-xs">11.7 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 CHF</td>
+			<td class="hidden-sm hidden-xs">1.00 CHF</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">CAD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row27"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row27" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>5.8 pip</b></p>
+				    <p>合约面值 : <b>10,000 CAD</b></p>
+					<p>最小价格差别 : <b>11.7 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 CHF</b></p>
+					<p>基点价值 : <b>1.00 CHF</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>CAD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">欧元兑澳大利亚元</td>
+			<td class="">EURAUD</td>
+			<td class="">6.8 pip</td>
+			<td class="hidden-sm hidden-xs">5.8 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 EUR</td>
+			<td class="hidden-sm hidden-xs">11.7 pip </td>
+			<td class="hidden-sm hidden-xs">0.00001 AUD</td>
+			<td class="hidden-sm hidden-xs">1.00 AUD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">EUR</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row28"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row28" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>5.8 pip</b></p>
+				    <p>合约面值 : <b>10,000 EUR</b></p>
+					<p>最小价格差别 : <b>11.7 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 AUD</b></p>
+					<p>基点价值 : <b>1.00 AUD</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>EUR</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">欧元兑英镑</td>
+			<td class="">EURGBP</td>
+			<td class="">4.2 pip</td>
+			<td class="hidden-sm hidden-xs">3.2 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 EUR</td>
+			<td class="hidden-sm hidden-xs">6.3 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 GBP</td>
+			<td class="hidden-sm hidden-xs">1.00 GBP</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">EUR</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row29"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row29" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>3.2 pip</b></p>
+				    <p>合约面值 : <b>10,000 EUR</b></p>
+					<p>最小价格差别 : <b>6.3 pip</b></p>
+					<p>价格最小跳幅 : <b>.00001 GBP</b></p>
+					<p>基点价值 : <b>1.00 GBP</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>EUR</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">欧元兑加拿大元</td>
+			<td class="">EURCAD</td>
+			<td class="">6.8 pip</td>
+			<td class="hidden-sm hidden-xs">5.8 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 EUR</td>
+			<td class="hidden-sm hidden-xs">11.7 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 CAD</td>
+			<td class="hidden-sm hidden-xs">1.00 CAD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">EUR</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row30"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row30" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>5.8 pip</b></p>
+				    <p>合约面值 : <b>10,000 EUR</b></p>
+					<p>最小价格差别 : <b>11.7 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 CAD</b></p>
+					<p>基点价值 : <b>1.00 CAD</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>EUR</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">欧元兑日元</td>
+			<td class="">EURJPY</td>
+			<td class="">4.7 pip</td>
+			<td class="hidden-sm hidden-xs">3.7 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 EUR</td>
+			<td class="hidden-sm hidden-xs">7.3 pip</td>
+			<td class="hidden-sm hidden-xs">0.001 JPY</td>
+			<td class="hidden-sm hidden-xs">100 JPY</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">EUR</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row31"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row31" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>3.7 pip</b></p>
+				    <p>合约面值 : <b>10,000 EUR</b></p>
+					<p>最小价格差别 : <b>7.3 pip</b></p>
+					<p>价格最小跳幅 : <b>0.001 JPY</b></p>
+					<p>基点价值 : <b>100 JP</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>EUR</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">欧元兑新西兰元</td>
+			<td class="">EURNZD</td>
+			<td class="">10.2 pip</td>
+			<td class="hidden-sm hidden-xs">9.2 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 EUR</td>
+			<td class="hidden-sm hidden-xs">18.3 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 NZD</td>
+			<td class="hidden-sm hidden-xs">1.00 NZD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">EUR</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row32"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row32" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>9.2 pip</b></p>
+				    <p>合约面值 : <b>10,000 EUR</b></p>
+					<p>最小价格差别 : <b>18.3 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 NZD</b></p>
+					<p>基点价值 : <b>1.00 NZD</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>EUR</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">欧元兑瑞士法郎 </td>
+			<td class="">EURCHF</td>
+			<td class="">5.2 pip</td>
+			<td class="hidden-sm hidden-xs">4.2 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 EUR</td>
+			<td class="hidden-sm hidden-xs">8.3 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 CHF</td>
+			<td class="hidden-sm hidden-xs">1.00 CHF</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">EUR</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row33"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row33" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>4.2 pip</b></p>
+				    <p>合约面值 : <b>10,000 EUR</b></p>
+					<p>最小价格差别 : <b>8.3 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 CHF</b></p>
+					<p>基点价值 : <b>1.00 CHF</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>EUR</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">新西兰元兑加拿大元</td>
+			<td class="">NZDCAD</td>
+			<td class="">6.8 pip</td>
+			<td class="hidden-sm hidden-xs">5.8 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 NZD</td>
+			<td class="hidden-sm hidden-xs">11.7 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 CAD</td>
+			<td class="hidden-sm hidden-xs">1.00 CAD</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">NZD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row35"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row35" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>5.8 pip</b></p>
+				    <p>合约面值 : <b>10,000 NZD</b></p>
+					<p>最小交易规模 : <b>11.7 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 CAD</b></p>
+					<p>基点价值 : <b>1.00 CAD</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>NZD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">新西兰元兑日元</td>
+			<td class="">NZDJPY</td>
+			<td class="">6.8 pip</td>
+			<td class="hidden-sm hidden-xs">5.8 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 NZD</td>
+			<td class="hidden-sm hidden-xs">11.7 pip</td>
+			<td class="hidden-sm hidden-xs">0.001 JPY</td>
+			<td class="hidden-sm hidden-xs">100 JPY</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">NZD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row36"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row36" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>5.8 pip</b></p>
+				    <p>合约面值 : <b>10,000 NZD</b></p>
+					<p>最小价格差别 : <b>11.7 pip</b></p>
+					<p>价格最小跳幅 : <b>0.001 JPY</b></p>
+					<p>基点价值 : <b>100 JPY</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>NZD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr>
+			<td class="">新西兰元兑瑞士法郎</td>
+			<td class="">NZDCHF</td>
+			<td class="">7.7 pip</td>
+			<td class="hidden-sm hidden-xs">6.7 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 NZD</td>
+			<td class="hidden-sm hidden-xs">13.3 pip</td>
+			<td class="hidden-sm hidden-xs">0.00001 CHF</td>
+			<td class="hidden-sm hidden-xs">1.00 CHF</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">NZD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row37"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row37" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>6.7 pip</b></p>
+				    <p>合约面值 : <b>10,000 NZD</b></p>
+					<p>最小价格差别 : <b>13.3 pip</b></p>
+					<p>价格最小跳幅 : <b>0.00001 CHF</b></p>
+					<p>基点价值 : <b>1.00 CHF</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>NZD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">瑞士法郎兑日元</td>
+			<td class="">CHFJPY</td>
+			<td class="">6.0 pip</td>
+			<td class="hidden-sm hidden-xs">5.0 pip</td>
+			<td class="hidden-sm hidden-xs">10,000 CHF</td>
+			<td class="hidden-sm hidden-xs">10.0 pip</td>
+			<td class="hidden-sm hidden-xs">0.001 JPY</td>
+			<td class="hidden-sm hidden-xs">100 JPY</td>
+			<td class="hidden-sm hidden-xs">0.50%</td>
+			<td class="hidden-sm hidden-xs">CHF</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row38"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row38" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>5.0 pip</b></p>
+				    <p>合约面值 : <b>10,000 CHF</b></p>
+					<p>最小价格差别 : <b>10.0 pip</b></p>
+					<p>价格最小跳幅 : <b>0.001 JPY</b></p>
+					<p>基点价值 : <b>100 JPY</b></p>
+					<p>保证金要求  : <b>0.50%</b></p>
+					<p>保证金币种  : <b>CHF</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 22:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 23:01 - 21:00 周日-周五</p>
+                 </div>
+		</tr>
+
+<tr >
+			<td class="">美元指数</td>
+			<td class="">SPT_DXY</td>
+			<td class="">8.7</td>
+			<td class="hidden-sm hidden-xs">7.7</td>
+			<td class="hidden-sm hidden-xs">$100 Per Indx Point</td>
+			<td class="hidden-sm hidden-xs">15.4 </td>
+			<td class="hidden-sm hidden-xs">0.001 USD</td>
+			<td class="hidden-sm hidden-xs">1.00 USD</td>
+			<td class="hidden-sm hidden-xs">1.00%</td>
+			<td class="hidden-sm hidden-xs">USD</td>
+			<td class="">
+                <a class="" data-toggle="collapse" data-target="#row39"  aria-expanded="false">
+		            <i class="glyphicon glyphicon-plus"></i>
+		            <i class="glyphicon glyphicon-minus"></i>
+		        </a>
+            </td>
+		</tr>
+		<tr id="row39" class="collapse">
+			<td class="prod_open " colspan="10">
+				<div class=" hidden-md hidden-lg">
+				    <p>标准/特等账户点差 : <b>7.7 pip</b></p>
+				    <p>合约面值 : <b>$100 PER INDX POINT</b></p>
+					<p>最小价格差别 : <b>15.4 </b></p>
+					<p>价格最小跳幅 : <b>0.001 USD</b></p>
+					<p>基点价值 : <b>1.00 USD</b></p>
+					<p>保证金要求  : <b>1.00%</b></p>
+					<p>保证金币种  : <b>USD</b></p>
+                 </div>
+				<div colspan="10">
+				    <p>交易时间 (格林威治时间，晚北京时间8小时）: <p>
+					<p >美国夏令时 0:01 - 20:00 周日-周五</p>
+					<p >美国冬令时 1:01 - 21:00 周日-周五</p>
+					<p >每日交易休整 (格林威治时间，晚北京时间8小时）: </p>
+					<p >美国夏令时 20:00 - 0:01</p>
+					<p >美国冬令时 21:00 - 1:01</p>
+                 </div>
+		</tr>
+	</tbody>
+</table>
+</div>
+<br>
+<p>微型账户的合约面值是标准账户的1/10，标准账户的合约面值是特等账户的1/10</p>
+<p>1.以上是正常市场环境下的点差，可能在没有任何通知的情况下改变。对于一些商品差价合约，第二个月合约的标准点差为即月合约两倍。例如，即期原油差价合约的标准点差为4个点，第二个月的则为8个点，直到其成为当期合约。</p>
+<br>
+<p>2.设置限价单、止损单、止盈和止损订单的最小价位差别通常是外汇、金属、农产品和指数CFD点差的两倍，是股票CFD点差的8倍。请注意，最小价位差别可能根据市场环境在没有任何通知的情况下改变。</p>
+<br>
+<p>3.关于MT4账户的保证金要求按照百分比的方式显示。</p>
+<br>
+<p>4. 有关美国现货原油CFD的滚存调整：在近月美国原油CFD合约到期日，所有未平仓合约和已开立的订单将会做出以下调整。到期日当天，所有现货美国原油CFD会在18:30-21:00 GMT（夏令时）和19:30-22:00 GMT（冬令时）暂停交易。</p>
+<p>i. 现货美国原油CFD的报价会从近月合约（即将到期的美国原油CFD合约）变为下月合约。</p>
+<p>ii. 所有持有未平仓合约的账户将会进行贷方/借方的调整。调整会根据两份美国原油CFD合约的结算价差计算出来。贷方/借方调整后，所有持有现货美国原油CFD未平仓合约的客户账户净资金将不受影响。</p>
+<p>iii. 所有未平仓合约对应的止损和限价挂单，以及止损和获利单将会相应地被调整。</p>
+<br>  -->
+<div class="pdflook">
+<a class="textLink" target="_blank" href="/sites/www.hycm.com.cn/files/HYCM_CN_micro.pdf">固定微型账户产品规格</a><br /><a class="textLink" target="_blank" href="/sites/www.hycm.com.cn/files/HYCM_CN_standard.pdf">固定标准账户产品规格</a><br /><a class="textLink" target="_blank" href="/sites/www.hycm.com.cn/files/HYCM_CN_premium.pdf">固定特等账户产品规格</a><br /><!-- <a class="textLink" target="_blank" href="/sites/www.hycm.com.cn/files/HYCM_CN_specialty.pdf">浮动专业账户产品规格</a><br>
+<a class="textLink" target="_blank" href="/sites/www.hycm.com.cn/files/HYCM_CN_vip.pdf">浮动机构/VIP账户产品规格</a><br> --><a class="textLink" target="_blank" href="/sites/www.hycm.com.cn/files/HYCM_CN_Summer_Time.pdf">标准时间 (夏令时) 交易时间</a><br /><a class="textLink" target="_blank" href="/sites/www.hycm.com.cn/files/HYCM_CN_Winter_Time.pdf">标准时间 (冬令时) 交易时间</a><br /><a class="textLink" target="_blank" href="/sites/www.hycm.com.cn/files/HYCM_CN_rate_fee_calc.pdf">隔夜利息</a>
+</div></div></div></div>    </article>
+</div></div>
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+
+
+  <footer class="footer">
+    <div class="footer-top">
+    <div class="container">
+      <div class="region region-footer">
+    <section id="block-block-6" class="block block-block clearfix">
+
+      
+  <p class="textW risk"><b>高风险投资提示：</b>差价合约（CFD）是一种使用保证金交易的复杂的金融产品。交易差价合约（CFD）具有高风险。您有可能亏损掉所有资金。这些产品可能不适合所有人。您应当确保您已理解其中所涉及的风险。若有需要，请咨询个别专家建议，且在您能够承担的亏损范围内投资。请综合所有相关情况以及您的个人资源，仔细考虑这些交易是否适合您。我们不建议客户用所有账户余额来满足保证金要求。客户可以通过要求改变杠杆限制将风险敞口水平降到最低。更多详情，请参阅兴业投资（英国）<a class="textR" href="https://www.hycm.com/cn/support/risk-warning">风险警告及披露</a>。另外，网站内容仅供参考，并不作为推荐或建议。兴业投资（英国）发布的宣传中包含的任何过去表现的参考或模拟不能作为未来结果的可靠指标。客户对其在兴业投资（英国）的所有业务或投资单独负责。</p>
+</section>
+  </div>
+    </div></div>
+            <div class="footer-first">
+    <div class="container">
+      <div class="region region-footer-first">
+    <section id="block-footer-sitemap-footer-sitemap" class="block block-footer-sitemap textW clearfix">
+
+      
+  <div id="footer-sitemap" class="clearfix">
+  <div class="fs-block-content"><div class="main-menu"><ul class="footer_links_main-menu total-items-6 parent-items-0 single-items-0"><li class="menu-443 depth-1 total-children-6 parent-children-0 single-children-6  first"><a href="/cn/about" class="fs-root-link">关于我们</a><ul class="footer_links_main-menu total-items-6 parent-items-0 single-items-0"><li class="menu-444 depth-1 fs-no-children  first"><a href="/cn/about/advantages">公司优势</a></li>
+<li class="menu-445 depth-1 fs-no-children"><a href="/cn/about/license-and-regulation">监管与资金安全</a></li>
+<li class="menu-446 depth-1 fs-no-children"><a href="/cn/about/group-history">集团历史</a></li>
+<li class="menu-447 depth-1 fs-no-children"><a href="/cn/about/international-offices">国际办事处</a></li>
+<li class="menu-448 depth-1 fs-no-children"><a href="/cn/about/awards">兴业奖项</a></li>
+<li class="menu-449 depth-1 fs-no-children  last"><a href="/cn/support/contact">联系我们</a></li>
+</ul></li>
+<li class="menu-450 depth-1 total-children-4 parent-children-0 single-children-4  active"><a href="/cn/products" class="fs-root-link active">交易产品</a><ul class="footer_links_main-menu total-items-4 parent-items-0 single-items-0"><li class="menu-461 depth-1 fs-no-children  first"><a href="https://www.hycm.com/cn/products?product=0" title="">外汇</a></li>
+<li class="menu-463 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/products?product=1" title="">贵金属</a></li>
+<li class="menu-1169 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/products?product=2">股票和指数</a></li>
+<li class="menu-466 depth-1 fs-no-children  last"><a href="https://www.hycm.com/cn/products?product=3">点差和保证金</a></li>
+</ul></li>
+<li class="menu-467 depth-1 total-children-4 parent-children-0 single-children-4"><a href="/cn/platforms" class="fs-root-link">外汇平台</a><ul class="footer_links_main-menu total-items-4 parent-items-0 single-items-0"><li class="menu-468 depth-1 fs-no-children  first"><a href="/cn/platforms/account-types">账户类型</a></li>
+<li class="menu-469 depth-1 fs-no-children"><a href="/cn/platforms/trader">电脑版 HY Trader</a></li>
+<li class="menu-470 depth-1 fs-no-children"><a href="/cn/platforms/mobile-trading">手机版 移动端交易</a></li>
+<li class="menu-471 depth-1 fs-no-children  last"><a href="/cn/platforms/webTrader">网页版 HY WebTrader</a></li>
+</ul></li>
+<li class="menu-472 depth-1 total-children-10 parent-children-0 single-children-10"><a href="/cn/education-and-markets" class="fs-root-link">教育与工具</a><ul class="footer_links_main-menu total-items-10 parent-items-0 single-items-0"><li class="menu-473 depth-1 fs-no-children  first"><a href="/cn/education-and-markets">视频教程</a></li>
+<li class="menu-1195 depth-1 fs-no-children"><a href="/cn/www.hycm.com.cn/themes/hycmcn/platforms/ebook.pdf" target="_blank">电子教程</a></li>
+<li class="menu-474 depth-1 fs-no-children"><a href="/cn/education-and-markets/trading-signals">交易信号</a></li>
+<li class="menu-475 depth-1 fs-no-children"><a href="/cn/education-and-markets/economic-calendar">财经日历</a></li>
+<li class="menu-567 depth-1 fs-no-children"><a href="/cn/education-and-markets/news">即时新闻</a></li>
+<li class="menu-1180 depth-1 fs-no-children"><a href="/cn/education-and-markets/daily-commentary">每日评论</a></li>
+<li class="menu-566 depth-1 fs-no-children"><a href="/cn/education-and-markets/daily-outlook">今日播报</a></li>
+<li class="menu-739 depth-1 fs-no-children"><a href="/cn/education-and-markets/webinars" target="_blank">在线讲座</a></li>
+<li class="menu-1181 depth-1 fs-no-children"><a href="/cn/education-and-markets/forex-getting-started">外汇入门</a></li>
+<li class="menu-1198 depth-1 fs-no-children  last"><a href="/cn/hylp/2017finance-talk" target="_blank">年度专题</a></li>
+</ul></li>
+<li class="menu-476 depth-1 total-children-3 parent-children-0 single-children-3"><a href="/cn/partnerships" class="fs-root-link">合作伙伴</a><ul class="footer_links_main-menu total-items-3 parent-items-0 single-items-0"><li class="menu-477 depth-1 fs-no-children  first"><a href="/cn/partnerships/media-affiliates">媒体盟友</a></li>
+<li class="menu-478 depth-1 fs-no-children"><a href="/cn/partnerships/introducing-brokers">介绍经纪人</a></li>
+<li class="menu-479 depth-1 fs-no-children  last"><a href="/cn/partnerships/white-label-partners">白标伙伴</a></li>
+</ul></li>
+<li class="menu-481 depth-1 total-children-10 parent-children-0 single-children-10  last"><a href="/cn/support/contact" title="" class="fs-root-link">客户支持</a><ul class="footer_links_main-menu total-items-10 parent-items-0 single-items-0"><li class="menu-482 depth-1 fs-no-children  first"><a href="/cn/support/contact" title="">联系我们</a></li>
+<li class="menu-483 depth-1 fs-no-children"><a href="/cn/support/getting-started">开户流程</a></li>
+<li class="menu-1188 depth-1 fs-no-children"><a href="/cn/hylp/activity-review" target="_blank">线上活动</a></li>
+<li class="menu-985 depth-1 fs-no-children"><a href="/cn/support/event" target="_blank">线下活动</a></li>
+<li class="menu-484 depth-1 fs-no-children"><a href="/cn/support/account-funding">支付方式</a></li>
+<li class="menu-485 depth-1 fs-no-children"><a href="/cn/support/forms-and-documents">常用表单</a></li>
+<li class="menu-775 depth-1 fs-no-children"><a href="/cn/support/holiday-notice">假期通知</a></li>
+<li class="menu-781 depth-1 fs-no-children"><a href="/cn/support/contract-expiry-notice">期货到期通知</a></li>
+<li class="menu-487 depth-1 fs-no-children"><a href="/cn/support/faq">常见问答</a></li>
+<li class="menu-568 depth-1 fs-no-children  last"><a href="/cn/support/risk-warning">风险警告及披露</a></li>
+</ul></li>
+</ul></div>
+</div>
+</div>
+
+</section>
+  </div>
+    </div></div>
+             <div class="footer-second">
+    <div class="container">
+     
+      <div class="region region-footer-second">
+    <section id="block-block-9" class="block block-block clearfix">
+
+      
+  <div class="row">
+<div class="col-md-8 col-sm-12">
+<ul class="list-inline footer-contact-links"><li class="col-sm-4 col-xs-12 footer-icons-xs"> <a href="/cn/support/contact"><i class="com-sp contact-links pull-left contact col-xs-offset-4 col-xs-1 col-md-offset-0  col-sm-offset-0"></i> <h5 class="textW col-xs-4 col-md-7 col-sm-7 text-left">联系我们</h5></a></li>
+<li class="col-sm-4 col-xs-12 footer-icons-xs"><a onclick="live800Click();" href="#"><i class="com-sp contact-links pull-left livechat col-xs-offset-4 col-xs-1 col-md-offset-0  col-sm-offset-0"></i><h5 class="textW col-xs-4 col-md-7 col-sm-7 text-left">在线客服</h5></a></li>
+<li class="col-sm-4 col-xs-12 call-xs footer-icons-xs"><a href="" data-toggle="modal" data-target="#CallBackModal"><i class="com-sp contact-links pull-left call col-xs-offset-4 col-xs-1 col-md-offset-0  col-sm-offset-0"></i><h5 class="textW col-xs-4 col-md-7 col-sm-7 text-left">来电回访</h5></a></li></ul></div>
+<!--<div class="col-md-4 col-sm-12">
+<ul class="list-inline social-media-links tb-xs lp">
+<li class="col-sm-2 col-sm-offset-1 col-xs-2 col-xs-offset-1 col-md-offset-2"> <a target="_blank" href="https://twitter.com/HYCM">
+            <i class="com-sp social-media lp twitter"></i></a></li>    
+           <li class="col-sm-2 col-xs-2"> <a target="_blank" href="https://www.facebook.com/hycm">
+            <i class="com-sp social-media  facebook"></i></a></li>        
+    <li class="col-sm-2 col-xs-2"><a target="_blank" href="">
+            <i class="com-sp social-media  tumblr"></i></a></li>
+           <li class="col-sm-2 col-xs-2"> <a  target="_blank" href="https://www.linkedin.com/company/hycm">
+            <i class="com-sp social-media  instagram"></i></a></li>
+            <li class="col-sm-2 col-xs-2"><a  target="_blank" href="https://plus.google.com/106861226736161719453/about">
+            <i class="com-sp social-media gplus"></i></a></li>
+ </ul></div>--></div>
+
+  <div class="modal fade call-back-top " id="CallBackModal" role="dialog">
+    <div class="modal-dialog call-back">
+    
+      <!-- Modal content-->
+      <div class="modal-content call-back-bg">
+       <button class="glyphicon glyphicon-remove callb pull-right" aria-hidden="true" data-dismiss="modal" type="button"></button>
+        <div class="modal-header">
+          <i class="com-sp contact-links pull-left call call-phone"></i>
+          <h2 class="textW modal-title">来电回访</h2>
+        </div>
+
+        <div class="fix-model" ng-controller="HomeController">
+
+          <form name="userFormCB" novalidate="" ng-submit="userFormCB.$valid &amp;&amp; SendData()" id="userFormCB">
+            <div class="fix-table">
+
+			<div id="succ1CB" class="alert alert-success alert-dismissable hidden">
+				<button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+				已成功提交请求。我们将尽快电话您。
+			</div>
+
+			<div id="err1CB" class="alert alert-danger alert-dismissable hidden">
+				<button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+				系统出错。 请稍后再试。
+			</div>
+
+              <div id="name_divCB" class="form-group callB pt-30" ng-class="{'has-error': (submitted2CB &amp;&amp; userFormCB.firstNameCB.$invalid)}" show-errors="">
+		<div class="col-sm-12-CB"><label class="latoR control-label">名: </label>
+		<input ng-pattern="/^[A-Za-z\-\s\'\_\u0391-\uFFE5]+$/" id="name_inpCB" onblur="click_remove_error(this)" ng-click="submitted2CB=false; clicked2CB=true;" type="text" class="form-control" name="firstNameCB" ng-model="firstNameCB" required="" maxlength="35" /></div>
+		<div class="col-sm-12-CB"><span ng-cloak="" ng-if="(clicked2CB &amp;&amp; userFormCB.firstNameCB.$invalid) || (submitted2CB &amp;&amp; userFormCB.firstNameCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+		<span class="alert-box latoM">请输入名</span></span> 
+	     </div></div>
+<div id="surname_divCB" class="form-group callB" ng-class="{'has-error': (submitted02CB &amp;&amp; userFormCB.surnameCB.$invalid)}" show-errors="">
+		<div class="col-sm-12-CB"><label class="latoR control-label">姓: </label>
+		  <input ng-pattern="/^[A-Za-z]+$/" id="surname_inpCB" onblur="click_remove_error(this)" ng-click="submitted02CB=false; clicked02CB=true;" type="text" class="form-control" name="surnameCB" ng-model="surnameCB" required="" maxlength="40" /></div>
+		<div class="col-sm-12-CB"><span ng-cloak="" ng-if="(clicked02CB &amp;&amp; userFormCB.surnameCB.$invalid) || (submitted02CB &amp;&amp; userFormCB.surnameCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+		  <span class="alert-box latoM">请输入姓 </span></span>
+                </div>
+	     </div>
+           <div id="email_divCB" ng-class="{'has-error': (submittedCB &amp;&amp; userFormCB.emailCB.$invalid)}" class="form-group callB" show-errors="">
+             <div class="col-sm-12-CB"><label class="latoR control-label">电子邮箱: </label>
+             <input ng-class="{'ng-valid': (userFormCB.emailCB.$valid)}" id="email_inpCB" type="email" onblur="click_remove_error(this)" ng-click="submittedCB=false; clickedCB=true;" validate-email="" class="form-control" name="emailCB" ng-model="emailCB" required="" /></div>
+             <div class="col-sm-12-CB"><span ng-cloak="" ng-if="(clickedCB &amp;&amp; userFormCB.emailCB.$invalid)  || (submittedCB &amp;&amp; userFormCB.emailCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+             <span class="alert-box latoM">请输入电子邮箱, 例如 <a href="mailto:example@gmail.com">example@gmail.com</a></span></span> 
+           </div></div>
+
+          <div class="form-group callB" ng-class="{'has-error': (submitted7CB &amp;&amp; userFormCB.areaListCB.$invalid)}">
+		<div class="col-sm-12-CB"><label class="latoR">国家: </label>
+		<select class="change select-inp form-control" ng-model="areaListCB" name="areaListCB" ng-options="areaCB as areaCB.ch_name for areaCB in areasCB" required=""><option value="" disabled="disabled" selected="selected">- 选择 -</option></select></div>
+		<div class="col-sm-12-CB"><span ng-cloak="" ng-if="(submitted7CB &amp;&amp; userFormCB.areaListCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+		<span class="alert-box latoM">请选择国家</span></span></div>
+	</div>
+
+
+        <div id="phone_divCB" class="form-group callB" ng-class="{'has-error': (submitted4CB &amp;&amp; userFormCB.phoneCB.$invalid)}" show-errors="">
+         <div class="col-sm-12-CB"> <label class="latoR">联络电话:</label>
+         <input type="text" disabled="disabled" ng-model="areaListCB.value" class="phone-prefix form-control" /><input ng-minlength="8" maxlength="20" id="phone_inpCB" onblur="click_remove_error(this)" ng-click="submitted4CB=false; clicked4CB=true;" class="phone-input form-control" name="phoneCB" type="text" ng-model="phoneCB" required="required" numbers-only="numbers-only" /></div>
+          <div class="col-sm-12-CB"><span ng-cloak="" ng-if="(clicked4CB &amp;&amp; userFormCB.phoneCB.$invalid) || (submitted4CB &amp;&amp; userFormCB.phoneCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+            <span class="alert-box latoM">请输入联络电话</span></span> </div>
+        </div>
+            
+            <div id="question_divCB" class="form-group callB" ng-class="{'has-error': (submitted3CB &amp;&amp; userFormCB.questionCB.$invalid)}" show-errors="">
+              <div class="col-sm-12-CB"><label class="latoR">问题: </label>
+              <textarea id="question_inpCB" type="text" onblur="click_remove_error(this)" ng-click="submitted3CB=false; clicked3CB=true;" class="form-control call-back-question pull-left" name="questionCB" ng-model="questionCB" required=""></textarea></div><div class="col-sm-12-CB"><span ng-cloak="" ng-if="(clicked3CB &amp;&amp; userFormCB.questionCB.$invalid) || (submitted3CB &amp;&amp; userFormCB.questionCB.$invalid)" class="glyphicon glyphicon-play"> 
+                <span class="alert-box latoM">请输入问题</span></span> </div>
+             
+            </div>
+
+</div>
+
+          <div id="div_btn_CB" class="xs-center mt-10">          
+          <button id="btn_addCB" class="btn green-btn mt-30" type="submit" ng-click="submittedCB=true;submitted2CB=true;submitted02CB=true;submitted3CB=true;submitted4CB=true;submitted7CB=true;">
+            <span id="load_anim" class="hidden"></span><span id="load_msg" class="hidden">LOADING...</span><span id="text_btn">提交</span>
+          </button>
+        </div>
+
+           </form>
+
+         </div>
+
+      </div>
+     </div>
+      
+    </div>
+</section>
+  </div>
+   </div></div>
+             <div class="footer-third">
+    <div class="container">
+      <div class="row">
+      <div class="region region-footer-third">
+    <section id="block-block-14" class="block block-block clearfix">
+
+      
+  <div class="text-center footer-meta">
+<img alt="Home" style="width=130px;" src="/cn/sites/www.hycm.com.cn/files/logo_hycm_cn.svg" /><ul class="latoM terms-links list-inline normal-terms"><li><a href="/cn/support/forms-and-documents">条款和细则</a></li>
+                <li><a href="/cn/about/license-and-regulation">客户资金保护</a></li>
+                <li><a href="/cn/support/forms-and-documents">常用表单</a></li>
+                <li><a href="/cn/support/forms-and-documents">Cookies政策</a></li>
+                <li><a href="/cn/support/forms-and-documents">个人隐私条款</a></li>
+              </ul><ul class="latoM terms-links list-inline hidden yahui-terms"><li><a href="/cn/sites/www.hycm.com.cn/files/HYCM_CN_Customer_Agreement1.pdf">用户协议</a></li>
+                <li><a href="/cn/sites/www.hycm.com.cn/files/HYCM%20Terms%20of%20Business_CN.pdf">商业条款</a></li>
+              </ul></div>
+
+
+
+
+
+
+</section>
+  </div>
+    </div></div></div>
+              <div class="footer-last">
+    <div class="container">
+      <div class="region region-footer-fourth">
+    <section id="block-block-1" class="block block-block clearfix">
+
+      
+  <p class="licen latoM text-center">
+<span class="copyri bold"> COPYRIGHT&copy; 
+2018- 兴业投资（英国）是兴业资本市场（英国）有限公司的交易名称。版权所有</span><br>
+英国伦敦EC2N 2AN，思罗克英顿大街28号3楼 <br>
+兴业投资（英国）由英国金融市场行为管理局（FCA）授权并监管，许可证号：<a class="textLink" href="https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfHH0AAN" target="_blank">186171</a>
+</p>
+</section>
+  </div>
+    </div></div>
+             <div class="footer-fixed">
+      <div class="region region-footer-fixed-bottom">
+    <section id="block-block-21" class="block block-block clearfix">
+
+      
+  <h6 class="latoR text-center risk">风险提示：所有外汇及差价合约交易都会对您的资本带来高风险。您有可能亏损掉所有资金。因此，这些产品可能不适合所有人。您应当确保您已理解其中所涉及的风险，若有需要，请咨询个别专家建议。</h6>
+</section>
+  </div>
+    </div>
+      </footer>
+
+    <script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/eu_cookie_compliance/js/eu_cookie_compliance.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/hycm_menu/js/cbpHorizontalMenu.min.js?p6lqna"></script>
+<script>(function($){
+				cbpHorizontalMenu.init();
+			})(jQuery);</script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/bootstrap/js/bootstrap.js?p6lqna"></script>
+    
+<script>
+function live800Click(){
+document.getElementById('live800iconlink').click();
+}
+</script>
+
+
+<div style='display:none;'><a href='http://www.live800.com'>ΤΪΟίΏΝ·ώ</a></div><script language="javascript" src="https://chat8.live800.com/live800/chatClient/textButton.js?jid=1221985430&companyID=299276&configID=149790&codeType=custom&ss=1"></script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTMH9LL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+</body>
+
+
+</html>

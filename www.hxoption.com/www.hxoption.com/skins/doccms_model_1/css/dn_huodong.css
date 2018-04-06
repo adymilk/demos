@@ -1,0 +1,83 @@
+body { ,Arial, Helvetica, sans-serif; font-size: 12px; color: #777777; background: #FFF; margin: 0px; padding:0; line-height:24px;}
+div,form,img,input,ul,ol,li,dl,dt,dd,p{margin:0; padding:0; border:0; behavior: url("imger/iepngfix.htc");}
+h1,h2,h3,h4,h5,h6{ margin:0; padding:0;}
+table,td,tr,th{ border:none; margin:0; padding:0;}
+a{color: #777777; text-decoration:none;}
+a:link{color: #777777; text-decoration:none;}
+a:hover{color: #aa8535; text-decoration:none;}
+
+
+.clear{ clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+.m_gao{ clear:both; height:30px;}
+.m_gao2{ clear:both; height:25px;}
+
+#warp{ clear:both; width:960px; margin:0px auto;}
+
+#top{ clear:both; width:960px;}
+.logo_tou{ clear:both; width:960px; padding:20px 0px 15px 0px;}
+
+
+#daohang{ clear:both; width:960px; height:45px; background:#2c2c2c; overflow:hidden;}
+
+.m_dh{ float:left; width:700px;}
+.m_dh table{ clear:both; list-style:none; text-align:left; background:#2c2c2c;}
+.m_dh table td{ text-align:center; border-right:1px #4c4944 solid;}
+.m_dh ul{ clear:both; height:45px; list-style:none; font-family:'微软雅黑''黑体' ,Arial; color:#FFF;}
+.m_dh table td a{ padding:0px 25px; height:45px; line-height:45px; background:#2c2c2c; font-size:16px; font-family:'微软雅黑''黑体' ,Arial; color:#FFF; text-decoration:none; display:block; }
+.m_dh table td a:link{padding:0px 25px; height:45px; line-height:45px; background:#2c2c2c; font-size:16px; font-family:'微软雅黑''黑体' ,Arial; color:#FFF; text-decoration:none; display:block;}
+.m_dh table td a:hover{ padding:0px 25px; height:45px; line-height:45px; background:#b38967; font-size:16px; font-family:'微软雅黑''黑体' ,Arial; color:#000; text-decoration:none; display:block;}
+.dh_x{ clear:both; border-bottom:1px #a98344 solid; padding-top:10px; padding-left:245px;}
+.dh_two{ clear:both; border-bottom:1px #a98344 solid; font-family:'微软雅黑''黑体' ,Arial; font-size:14px; color:#a98344; font-weight:bold; line-height:30px; padding-left:70px;}
+.dh_two a{color: #a98344; text-decoration:none;}
+.dh_two a:link{color: #a98344; text-decoration:none;}
+.dh_two a:hover{color: #000; text-decoration:none;}
+.m_ss{ float:right; width:210px; height:29px; padding:8px 12px 8px 0px;}
+.sousuo{ width:190px; float:right; background:#FFF; height:29px; }
+.ss_zuo{ width:163px; float:left; padding-top:3px;}
+.in1{ clear:both; width:160px; line-height:20px; border:0px #FFF solid;}
+.ss_you{ width:24px; float:right; padding-top:4px;}
+
+
+#m_01{ clear:both; padding-top:20px;}
+.m1_left{ float:left; background:#efe8d9; width:636px; height:255px;}
+.m1_right{ float:right; width:310px; height:255px;}
+
+.m_02{ clear:both;}
+.m_02 p{ line-height:22px; padding:10px 8px; clear:both;}
+.m_02 span{ color:#aa8535;}
+.m_02 span a{color: #aa8535; text-decoration:none;}
+.m_02 span a:link{color: #aa8535; text-decoration:none;}
+.m_02 span a:hover{color: #aa8535; text-decoration: underline;}
+.m2_left{ float:left; width:635px;}
+.m2l_z{ float:left; width:310px;}
+.m2l_y{ float:left; width:310px; padding:3px;}
+.m2_right{ float:right; width:310px;}
+.m2_tu{ clear:both; padding-top:15px; text-align:center;}
+.jj_nei{ clear:both; border:1px #d1cdc5 solid; border-top:none;}
+.jj_nei span{ color:#aa8535;}
+.jj_nei span a{color: #aa8535; text-decoration:none;}
+.jj_nei span a:link{color: #aa8535; text-decoration:none;}
+.jj_nei span a:hover{color: #aa8535; text-decoration: underline;}
+
+.m_xmu{ clear:both; height:20px; background:url(http://www.daonong.com/imger/dn_003.gif) repeat-x; padding-left:12px;}
+
+
+#m_03{ clear:both; padding-top:20px;}
+.sj_tiao{ clear:both; height:20px; background:#efe8d9;}
+
+
+
+
+
+
+#jiao{ clear:both; background:#2c2c2c; width:930px; margin:0px auto; padding:10px 15px; font-size:12px; color:#dddddd;}
+.logo{ float:left; width:200px;}
+.about{ float:right; width:600px; font-size:12px; color:#adadac; padding-right:5px; padding-top:5px; line-height:24px; text-align:right;}
+.about a{color: #adadac; text-decoration:none;}
+.about a:link{color: #adadac; text-decoration:none;}
+.about a:hover{color: #aa8535; text-decoration:none;}
+
+
+

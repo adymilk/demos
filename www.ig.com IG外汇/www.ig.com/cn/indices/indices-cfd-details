@@ -1,0 +1,5584 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 10]><html class="ie10 nojs" lang="zh-TW" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 10]><!--><html class="gtie10 nojs" lang="zh-TW" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+        
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1; requiresActiveX=true">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+
+
+    <meta class="swiftype" name="page-type" data-type="enum" content="default">
+
+
+
+
+
+
+
+
+
+<title>指數差價合約詳細資料和股票指數差價合約的費用</title><meta name="keywords" content="" />
+<meta class="swiftype" name="description" content="進一步了解我們提供的每個股票指數差價合約的指數差價合約詳細資料，包括合約價值、交易時數和規定利潤率。
+" />
+<meta name="locale" id="locale" content="zh_TW" />
+<meta name="softid" id="softid" content="igcom" />
+<meta http-equiv="content-language" content="zh-tw"/>
+        <meta name="applicable-device" content="pc,mobile"/>
+        <link rel="canonical" href="https://www.ig.com/cn/indices/indices-cfd-details"/>
+<meta property="og:site_name" content="IG" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/og_image.jpg" />
+<meta property="og:title" content="股指差價合約詳情" />
+<meta property="og:url" content="https://www.ig.com/cn/indices/indices-cfd-details" />
+<meta property="og:description" content="進一步了解我們提供的每個股票指數差價合約的指數差價合約詳細資料，包括合約價值、交易時數和規定利潤率。
+"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">CQURLInfo={"requestPath":"/content/igcom/zh_TW/other-markets/indices-trading/indices-trading-costs/indices-cfd-details","extension":"html","selectors":[],"systemId":"c8e9067a-79aa-4945-9014-bf0391a036c7","runModes":"prod,crx3,nosamplecontent,uk,publish,publish-prod,crx3tar"};</script>
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_shell.min.js"></script>
+
+
+<script>
+
+    PS.util.jspVars.set('loggedin.bannerText')(['您現已登入您的 TYPE NAME 賬戶', 'Logout']);
+    PS.util.jspVars.set('loggedin.popupText')('交易平台在另外一個標籤頁中打開');
+    //URL for user details:
+    PS.util.jspVars.set('loggedin.authURL')('/validate/api/session/client-id');
+    PS.util.jspVars.set('loggedin.authTimeOut')(3000);
+    PS.util.jspVars.set('loggedin.myIgHomepage')('/myig/goto/homepage');
+    //URL for remote logoff:
+    PS.util.jspVars.set('loggedin.outURL')('https://deal.ig.com/dealing/pd/websiteLogout.htm');
+    
+
+    
+        //this enables authentication for this template but not for the iframe or login template
+        PS.util.jspVars.set('loggedin.authThisTemplate')(true);
+    
+    PS.util.jspVars.set('websiteCountry')("cn");
+    PS.util.jspVars.set('homepageLink')("/content/igcom/zh_TW.html");
+    PS.util.jspVars.set('shareWithIgmarkets')();
+    PS.util.jspVars.set('user.redirects')([]);
+    PS.util.jspVars.set('deprecatedBrowsers')({"msie":"7"});
+    PS.util.jspVars.set('deprecatedBrowsersPopup')({});
+    PS.util.jspVars.set('permanent_sticky')();
+    PS.util.jspVars.set('google.analytics.tracking.id')("UA-53269626-23");
+    PS.util.jspVars.set('analytics.s_account')("adviggroupaucnlive,adviggrouprollup");
+    PS.util.jspVars.set('analytics.page_title')("股指差價合約詳情");
+    PS.util.jspVars.set('analytics.cq_page_name')("indices-cfd-details");
+    PS.util.jspVars.set('analytics.path')("/content/igcom/zh_TW/other-markets/indices-trading/indices-trading-costs/indices-cfd-details");
+    PS.util.jspVars.set('analytics.trackingTagDelay')("0");
+    PS.util.jspVars.set('siteID')("aum");
+    PS.util.jspVars.set('loggedin.myigbutton')(['My IG']);
+    PS.util.jspVars.set('loggedin.loginLinkMyIGTextReplacement')(
+        ['打開My IG']);
+    
+    
+    PS.util.jspVars.set('createAccountTest')({
+        "urlA": "/cn/application-form-new",
+        "mobileurlA": "/register#/page/1/country/AU/locale/zh_TW/platform/mobileweb",
+        "urlB": "/cn/application-form-new",
+        "mobileurlB": "/register#/page/1/country/AU/locale/zh_TW/platform/mobileweb",
+        "urlC": "",
+        "mobileurlC": "",
+        "excludeMobile": false,
+        "accountUrl": "/cn/create-account"
+    });
+    
+    
+    
+    //T&T Config
+    PS.util.jspVars.set('tandt.linkReplacements')([]);
+    PS.util.jspVars.set('tandt.customID')('igComAUCN');
+    PS.util.jspVars.set('tandt.timeout')(700);
+
+    //Sets the JSON for the hero panel
+    PS.util.jspVars.set('heroPanelSegmentSettings')('{"hpDefault":{"colorScheme":"none-bg","additionalColorScheme":"light","imagePath":""}}');
+
+    //Live chat
+    PS.util.jspVars.set('livechat.currentPageLiveChatDisable')(false);
+    PS.util.jspVars.set('livechat.activateLiveChat')("false");
+    PS.util.jspVars.set('livechat.popupPageUri')("");
+    PS.util.jspVars.set('livechat.apiUri')("");
+    PS.util.jspVars.set('livechat.initialisationUri')("");
+    PS.util.jspVars.set('livechat.deploymentID')("");
+    PS.util.jspVars.set('livechat.organisationID')("");
+    PS.util.jspVars.set('livechat.buttonID')("");
+    PS.util.jspVars.set('livechat.promptTimeDelay')("");
+
+    //EngHouse livechat
+    PS.util.jspVars.set('enghouselivechat.activateLiveChat')("true");
+    PS.util.jspVars.set('enghouselivechat.popupPageUri')("/cn/enghouse-chat");
+    PS.util.jspVars.set('enghouselivechat.currentPageLiveChatDisable')(false);
+    PS.util.jspVars.set('enghouselivechat.currentPageLiveChatPromptStyle')("grey");
+    PS.util.jspVars.set('enghouselivechat.disabledInTree')(false);
+    PS.util.jspVars.set('enghouselivechat.ignoreTreeDisable')(false);
+    PS.util.jspVars.set('enghouselivechat.forceCalendar')(true);
+
+    PS.util.jspVars.set('login.ajax')(true);
+
+    PS.util.jspVars.set('skypeLinksEnable')(false);
+    PS.util.jspVars.set('appsflyer.linkreplace')("true");
+
+    //Social Login
+    PS.util.jspVars.set('login.facebook')({
+        "fbLoginWithAccount": "false",
+        "fbLoginSocialAccountApiURL": "",
+        "fbLoginSocialSessionApiURL": "",
+        "fbLoginClientSecuritySessionApiURL": "",
+        "fbLoginDealerURL": "",
+        "fbLoginAppID": "",
+        "fbLoginCountry": "",
+        "fbLoginLanguage": "",
+        "fbLoginTimeout": "3000"
+    });
+
+    // Apple app injected banner
+    PS.util.jspVars.set('applebanner.disable')(false);
+    PS.util.jspVars.set('applebanner.ipad')("1336992208");
+    PS.util.jspVars.set('applebanner.iphone')("1336991855");
+
+    PS.util.Initialize.init();
+
+    // Add custom class If IE10 browser
+    var ua = navigator.userAgent.toLowerCase();
+    var rootHtml = document.getElementsByTagName('html')[0];
+    var match = /(edge)[ \/]([\w.]+)/.exec(ua) ||
+        /(vivaldi)[ \/]([\w.]+)/.exec(ua) ||
+        /(chrome)[ \/]([\w.]+)/.exec(ua) ||
+        /version(?=.*?(safari))[\/]([\w.]+)/.exec(ua) ||
+        /(webkit)[ \/]([\w.]+)/.exec(ua) ||
+        /(opera)(?:.*version|)[ \/]([\w.]+)/.exec(ua) ||
+        /(msie) ([\w.]+)/.exec(ua) ||
+        /(firefox)[ \/]([\w.]+)/.exec(ua) ||
+        ua.indexOf("compatible") < 0 && /(mozilla)(?:.*? rv:([\w.]+)|)/.exec(ua) ||
+        [];
+
+    if (match[1] === 'msie' && match[2] === '10.0') {
+        rootHtml.className += ' ie10';
+    }
+
+    if (PS.util.isAndroidStockBrowser(ua)) {
+        rootHtml.className += ' androidStockBrowser';
+    }
+
+</script>
+
+
+
+<script>
+    //Page Content Meta tags
+    PS.util.jspVars.set('contentMetatags')("");
+</script>
+
+<script>
+    
+    
+
+
+
+
+
+
+    var i18n= i18n || {};
+i18n['clientlibs.dates.january']='January';i18n['clientlibs.yes_no_cr']='\u662F (\u6C92\u6709\u4FDD\u8B49\u6B62\u640D)';i18n['clientlibs.dates.february']='February';i18n['clientlibs.more.button']='\u66F4\u591A';i18n['clientlibs.liveprices.bid']='Bid';i18n['clientlibs.livechat.prompt']='\u5728\u7DDA\u54A8\u8A62';i18n['clientlibs.table.filter']='GB';i18n['clientlibs.browsers.deprecated.name.safari']='version of Safari';i18n['clientlibs.browsers.deprecated.default.browser']='';i18n['clientlibs.dates.october']='October';i18n['clientlibs.dates.thursday']='Thursday';i18n['clientlibs.no']='\u5426';i18n['clientlibs.liveprices.swapLong']='Offer Swap Point';i18n['clientlibs.dates.september']='September';i18n['clientlibs.dates.friday']='Friday';i18n['clientlibs.browsers.deprecated.name.chrome']='version of Chrome';i18n['clientlibs.dates.december']='December';i18n['clientlibs.dates.april']='April';i18n['clientlibs.dates.june']='June';i18n['clientlibs.dates.july']='July';i18n['clientlibs.dates.wednesday']='Wednesday';i18n['clientlibs.twitter.reply']='';i18n['clientlibs.liveprices.updated']='Updated';i18n['clientlibs.dates.august']='August';i18n['clientlibs.dates.format']='{2} {3} {1} {0} {4}:{5}';i18n['clientlibs.dates.may']='May';i18n['clientlibs.lightbox.close']='';i18n['clientlibs.dates.monday']='Monday';i18n['clientlibs.dates.tuesday']='Tuesday';i18n['clientlibs.dates.sunday']='Sunday';i18n['clientlibs.browsers.deprecated.upgradelink.mozilla']='http:\/\/www.mozilla.org\/en-GB\/firefox\/update\/';i18n['clientlibs.browsers.deprecated.upgradelink.msie']='http:\/\/windows.microsoft.com\/en-au\/internet-explorer\/download-ie';i18n['clientlibs.yes']='\u662F';i18n['clientlibs.mcarousel.next']='';i18n['clientlibs.browsers.deprecated.default.upgradelink']='';i18n['clientlibs.dates.november']='November';i18n['clientlibs.browsers.deprecated.name.msie']='Internet Explorer';i18n['clientlibs.dates.saturday']='Saturday';i18n['clientlibs.browsers.deprecated.name.mozilla']='version of Firefox';i18n['clientlibs.dates.march']='March';i18n['clientlibs.secondaryNav.more']='\u66F4\u591A\u8CC7\u6599';i18n['clientlibs.liveprices.swapShort']='Bid Swap Point';
+    
+
+
+
+
+
+
+    var i18n= i18n || {};
+i18n['forms.mrs']='\u592A\u592A';i18n['forms.validalpha']='\u50C5\u53EF\u586B\u5BEB\u5B57\u6BCD';i18n['forms.state']='\u5DDE\/\u7701';i18n['forms.validmax']='\u5DF2\u8D85\u904E\u6700\u5927\u5B57\u7B26\u9650\u5236\u3002';i18n['forms.noscript']='\u5FC5\u9808\u5141\u8A31 JavaScript \u624D\u80FD\u4F7F\u7528\u8868\u683C';i18n['forms.phone']='\u96FB\u8A71';i18n['forms.validconfirmation']='\u5B57\u6BB5\u4E0D\u5339\u914D';i18n['forms.dr']='\u91AB\u751F\/\u535A\u58EB';i18n['forms.ms']='\u5973\u58EB';i18n['forms.mr']='\u5148\u751F';i18n['forms.no']='\u5426';i18n['forms.validphonenumber']='\u8ACB\u586B\u5BEB\u6709\u6548\u7684\u96FB\u8A71\u865F\u78BC';i18n['forms.city']='\u57CE\u5E02';i18n['forms.duplicate.failure']='The email is already used';i18n['forms.address']='\u5730\u5740';i18n['forms.account']='\u5E33\u6236\u865F\u78BC';i18n['forms.firstname']='\u540D';i18n['forms.validmin']='\u5F88\u62B1\u6B49\uFF0C\u4E0D\u6EFF\u8DB3\u6700\u5C11\u5B57\u7B26\u6578\u8981\u6C42\u3002';i18n['forms.email']='\u96FB\u90F5';i18n['forms.miss']='\u5C0F\u59D0';i18n['forms.lastname']='\u59D3';i18n['forms.prof']='\u6559\u6388';i18n['forms.terms']='\u6211\u5DF2\u7D93\u95B1\u8B80\u4E26\u660E\u767D\u6240\u6709\u689D\u6B3E';i18n['forms.sendinfo']='\u6211\u4E0D\u5E0C\u671B\u6536\u5230\u6709\u95DC IG \u7522\u54C1\u53CA\u670D\u52D9\u4FE1\u606F\u7684\u96FB\u90F5\u3002';i18n['forms.validnumeric']='\u50C5\u53EF\u586B\u5BEB\u6578\u5B57';i18n['forms.name']='\u59D3\u540D';i18n['forms.pleasecomplete']='\u8ACB\u586B\u5BEB\u8868\u683C\u4E2D\u7684\u6240\u6709\u6B04\u76EE';i18n['forms.required']='\u5FC5\u987B\u586B\u5BEB\u6B64\u9805';i18n['forms.preferredname']='';i18n['forms.duplicate.username']='The username is already used';i18n['forms.validUsername']='This username is unavailable. Please choose another.';i18n['forms.addressLine1']='\u5730\u5740';i18n['forms.validalphanum']='\u50C5\u53EF\u586B\u5BEB\u5B57\u6BCD\u6216\u6578\u5B57';i18n['forms.title']='\u7A31\u8B02';i18n['forms.validemail']='\u8ACB\u586B\u5BEB\u6709\u6548\u7684\u96FB\u90F5';i18n['forms.postcode']='\u90F5\u7DE8';i18n['forms.validdate']='\u65E5\u671F\u683C\u5F0F\u7121\u6548(\u5169\u4F4D\u65E5\u671F-\u5169\u4F4D\u6708\u5206-\u56DB\u4F4D\u5E74\u4EFD,\u5169\u4F4D\u65E5\u671F\/\u5169\u4F4D\u6708\u5206\/\u56DB\u4F4D\u5E74\u4EFD,\u5169\u4F4D\u6708\u5206-\u5169\u4F4D\u65E5\u671F-\u56DB\u4F4D\u5E74\u4EFD, \u5169\u4F4D\u6708\u5206\/\u5169\u4F4D\u65E5\u671F\/\u56DB\u4F4D\u5E74\u4EFD)';i18n['forms.countrycode']='\u8ACB\u586B\u5BEB\u570B\u5BB6\u4EE3\u78BC(\u6FB3\u6D32\u9664\u5916)';i18n['forms.validpassword']='Your password should contain one upper case letter, one lower case letter and one number.';i18n['forms.town']='\u57CE\u5E02';i18n['forms.yes']='\u662F';i18n['forms.country']='\u570B\u5BB6';i18n['forms.existing']='\u60A8\u662F\u5426\u6211\u5011\u7684\u73FE\u6709\u5BA2\u6236?';i18n['forms.submiterror']='Form has failed to submit. Please contact IG directly.';
+
+    
+var tagData = [[{"vendor":"Google","description":"Google AdWords Conversion","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"page","segment":"ig_all","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1025540600"],["google_conversion_label","UesbCPCCkQIQ-IOC6QM"],["google_remarketing_only",""],["google_conversion_color",""],["google_conversion_language",""],["google_conversion_format",""],["google_conversion_value",""],["google_conversion_currency",""]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"A=1","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","Pm0JCJuNtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CU","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","mkbUCIOQtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=IN","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label",""],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google every page tag","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1025540600"],["google_conversion_color",""],["google_conversion_label","UesbCPCCkQIQ-IOC6QM"],["google_custom_params","obj-window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=SH","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","lUjrCPuQtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (DEMO)","cookie_name":"ID","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"ig_all","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","rNL0CKOMtQMQhY7w3gM"],["google_custom_params","window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"CS=1","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","VhK2CIuPtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CO","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","CwJ9COuStQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=OP","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","36ACCNuUtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]}],[{"vendor":"Baidu","description":"Baidu Search Indexation","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"ig_all","type":"script","src":"http://push.zhanzhang.baidu.com/push.js","secureSrc":"https://zz.bdstatic.com/linksubmit/push.js","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[]}],[{"vendor":"Drawbridge","description":"Drawbridge cookie mapping","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//p.adsymptotic.com/d/px/?_pid=13724&_psign=ae9ce5b020d32e3e92e1e6af5fc5312e&_puuid=#$$s_vi$$#","secureSrc":"//p.adsymptotic.com/d/px/?_pid=13724&_psign=ae9ce5b020d32e3e92e1e6af5fc5312e&_puuid=#$$s_vi$$#","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[]}],[{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=IN","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien582"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=OP","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien551"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CO","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien622"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=RA","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien241"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=BI","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien620"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"A=1","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien602"]]},{"vendor":"DoubleClick","description":"Doubleclick Floodlight (PUBLIC EVERYPAGE)","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//__SRC__.fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=random","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","dr001"],["CAT","aucnd0"],["ID",""]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"CS=1","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien824"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"page","segment":"ig_all","type":"element","src":"//__SRC__.fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","range798"],["CAT","au-en208"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=SH","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien735"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (DEMO)","cookie_name":"ID","cookie_value":"","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"ig_all","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien668"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CU","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien950"]]}],[{"vendor":"Facebook","description":"An alternative to the full JS tag, that uses their recommended noscript version.","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"site","segment":"ig_all","type":"element","src":"https://www.facebook.com/tr?id=__VAR__&amp;ev=PixelInitialized","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["VAR","225352300992409"]]}]];
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">CQURLInfo={"requestPath":"/content/igcom/zh_TW/other-markets/indices-trading/indices-trading-costs/indices-cfd-details","extension":"html","selectors":[],"systemId":"c8e9067a-79aa-4945-9014-bf0391a036c7","runModes":"prod,crx3,nosamplecontent,uk,publish,publish-prod,crx3tar"};</script>
+<link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_shell.min.css" type="text/css">
+
+
+
+
+    <link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_common.min.css" type="text/css">
+
+    
+
+
+
+
+
+
+
+<!-- taken from https://mathiasbynens.be/notes/touch-icons -->
+
+<!-- For iPhone 6 Plus with @3Ã display: -->
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-180x180-precomposed.png">
+<!-- For iPad with @2Ã display running iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-152x152-precomposed.png">
+<!-- For iPad with @2Ã display running iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-144x144-precomposed.png">
+<!-- For iPhone with @2Ã display running iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-120x120-precomposed.png">
+<!-- For iPhone with @2Ã display running iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-114x114-precomposed.png">
+<!-- For the iPad mini and the first- and second-generation iPad (@1Ã display) on iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-76x76-precomposed.png">
+<!-- For the iPad mini and the first- and second-generation iPad (@1Ã display) on iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-72x72-precomposed.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-precomposed.png"><!-- 57Ã57px -->
+
+<meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@IGcom">
+<meta name="twitter:creator" content="@IGcom">
+<meta name="twitter:domain" content="www.IG.com">
+
+<meta name="twitter:app:name:iphone" content="">
+<meta name="twitter:app:id:iphone" content="">
+<meta name="twitter:app:url:iphone" content="">
+
+<meta name="twitter:app:name:ipad" content="">
+<meta name="twitter:app:url:ipad" content="">
+<meta name="twitter:app:id:ipad" content="">
+
+<meta name="twitter:app:name:googleplay" content="">
+<meta name="twitter:app:url:googleplay" content="">
+<meta name="twitter:app:id:googleplay" content="">
+
+
+
+</head>
+
+    
+
+
+
+
+
+<body class="igcom indices-cfd-details top-content-page responsive">
+
+
+
+
+
+
+
+
+
+
+<div class="wrapper">
+    
+
+
+
+<div class="wrapper-header" data-swiftype-index="false">
+
+    
+
+
+
+
+
+
+    <div class="header clearfix">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="nt-strip" data-swiftype-index="false">
+    <div class="nt-strip__inner  single-secondary-nav-only">
+        
+            <div class="nt-strip__content-left nt-strip__dropdown-container">
+                <input type="checkbox" id="nt-strip__site-switcher-toggle" class="nt-strip__dropdown-toggle">
+                <label for="nt-strip__site-switcher-toggle">
+                    <span class="nt-strip__current-site">更多IG內容</span>
+                    <i class="icon icon--dropdown-chevron"></i>
+                </label>
+                <ul class="first-level">
+                    
+
+
+
+
+
+
+
+                    
+                        <li class="nt-strip__secondary-navigation">
+                            <ul class="second-level">
+                                
+
+
+
+
+
+
+
+    <li class="nt-strip__help-and-support">
+        <a class="" href="http://portal.ig.com/support/Help?MenuItem=Help&webSiteId=aum&webSiteLocale=zh_TW">
+            <i class="icon icon--help-and-support"></i>
+            <span>幫助</span>
+        </a>
+    </li>
+
+                            </ul>
+                        </li>
+                    
+                </ul>
+            </div>
+        
+        <div class="nt-strip__content-right nt-strip__dropdown-container">
+            <div class="nt-strip__secondary-navigation ">
+                <ul class="first-level">
+                    <li class="nt-strip__account-inbox">
+                        <a href="#">
+                            <i class="icon icon--inbox"></i>
+                            <span>收件箱</span>
+                        </a>
+                    </li>
+                    
+
+
+
+
+
+
+
+    <li class="nt-strip__help-and-support">
+        <a class="" href="http://portal.ig.com/support/Help?MenuItem=Help&webSiteId=aum&webSiteLocale=zh_TW">
+            <i class="icon icon--help-and-support"></i>
+            <span>幫助</span>
+        </a>
+    </li>
+
+                </ul>
+            </div>
+            <div id="account-controls" class="nt-strip__account-controls">
+                <div class="nt-strip__prospect">
+                    <ul>
+                        
+                            <li class="logged-out-cta">
+                                <a class="nt-strip__login-cta" href="/cn/login">
+                                    登錄
+                                </a>
+                            </li>
+                        
+                        
+                            <li class="logged-out-cta">
+                                <a class="nt-strip__signup-cta" href="/cn/create-account">
+                                    申請賬戶
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </div>
+                <div class="nt-strip__account-dropdown nt-strip__dropdown-container"
+                     data-translation-isa-accounts="ISA accounts"
+                     data-translation-sipp-accounts="SIPP accounts"
+                     data-translation-leveraged-accounts="差價合約"
+                     data-translation-sharedealing-accounts="Share dealing"
+                     data-translation-smart-portfolio-accounts="Smart Portfolio"
+                     data-translation-funds="資金"
+                     data-translation-value="價值"
+                     data-translation-profit="盈利">
+
+                    
+
+                    <input type="checkbox" id="nt-strip__account-dropdown-toggle" class="nt-strip__dropdown-toggle" autocomplete="off">
+                    <label for="nt-strip__account-dropdown-toggle">
+                        <i class="icon icon--account"></i>
+                        <span>
+	                        <span class="nt-strip__account-name"></span>
+	                        <span>賬戶</span>
+                        </span>
+                        <i class="icon icon--dropdown-chevron"></i>
+                    </label>
+                    <ul class="first-level">
+                        <li class="nt-strip__account-information"></li>
+                        <li class="myig_c myig" id="myig-link-main">
+                            <a class="account-myig" href="#">
+                                My IG
+                            </a>
+                        </li>
+                        
+                            <li class="nt-strip__secondary-navigation">
+                                <ul class="second-level">
+                                    <li class="nt-strip__account-inbox">
+                                        <a href="#">
+                                            <i class="icon icon--inbox"></i>
+                                            <span>收件箱</span>
+                                        </a>
+                                    </li>
+                                    
+
+
+
+
+
+
+
+    <li class="nt-strip__help-and-support">
+        <a class="" href="http://portal.ig.com/support/Help?MenuItem=Help&webSiteId=aum&webSiteLocale=zh_TW">
+            <i class="icon icon--help-and-support"></i>
+            <span>幫助</span>
+        </a>
+    </li>
+
+                                </ul>
+                            </li>
+                        
+                        
+                        <li>
+                            <a class="nt-strip__account-logout account-logout" id="account-logout" href="https://deal.ig.com/dealing/pd/websiteLogout.htm">
+                                Logout
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+    <div class="main-head">
+        
+
+
+
+
+
+
+
+
+
+
+<div class="fluid-width inner">
+    <div class="header__top">
+        <div class="logo__container">
+            <a class="logo-link" href="/cn">
+                <span class="screenreader">IG</span>
+            </a>
+        </div>
+        
+            <div class="header__navigation">
+                
+                    
+                        <div class="menu-mobile jsMenuMobile" id="menu-mobile">
+                            <span id="hamburger-icon" class="hamburger-icon"></span>
+                            <span class="screenreader">Menu</span>
+                        </div>
+                    
+                
+
+                
+
+
+
+
+
+
+<div class="main-menu-container jsMainMenu">
+    
+
+        <ul class="menu first-level-menu" data-localepath="zh_TW">
+
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/cn/forex">
+                        外匯
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/cn/forex" data-mainlink="概覽">
+                                    外匯
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/forex/forex-direct">
+                                        外匯直接接入 (Forex Direct)
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/forex/forex-trading-costs">
+                                        外匯差價合約交易費用與詳情
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/forex/the-benefits-of-forex-trading">
+                                        外匯交易的優勢
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/forex/forex-trading-examples">
+                                        外匯交易示例
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/forex/what-moves-forex-markets">
+                                        哪些因素會影響外匯市場走勢
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main main-current ">
+                    <a class="menu-link" href="/cn/indices">
+                        指數
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/cn/indices" data-mainlink="概覽">
+                                    指數
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec sec-current">
+                                    <a class="menu-link" href="/cn/indices/indices-trading-costs">
+                                        指數交易費用與詳情
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/cn/shares">
+                        股票差價合約
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/cn/shares" data-mainlink="概覽">
+                                    股票差價合約
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/shares/shares-trading-costs">
+                                        股票交易費用與詳情
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/shares/out-of-hours-shares">
+                                        美股延長交易時間
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/shares/shares-dma">
+                                        股票 DMA
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/cn/commodities">
+                        交易大宗商品
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/cn/commodities" data-mainlink="概覽">
+                                    交易大宗商品
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/commodities/commodities-trading-cost">
+                                        商品交易費用與詳情
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/commodities/oil">
+                                        石油交易
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/cn/other-markets">
+                        其他市場
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/cn/other-markets" data-mainlink="概覽">
+                                    其他市場
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/digital100-trading">
+                                        數位100
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/options-trading">
+                                        期權
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/aud-denominated-trading">
+                                        以澳元計值的差價合約
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/trading-interest-rates">
+                                        利率交易
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/trading-sectors">
+                                        行業
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/bonds">
+                                        債券
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/trading-etps">
+                                        ETPs
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/ipo-list">
+                                        IPOs
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/weekend-trading">
+                                        週末交易
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/cryptocurrency-trading">
+                                        交易數字加密貨幣
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/cn/services">
+                        我們的服務
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/cn/services" data-mainlink="概覽">
+                                    我們的服務
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/cfd-trading">
+                                        差價合約 (CFD)
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/professional-corporate-trader">
+                                        公司賬戶
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/premium-services">
+                                        尊貴服務
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/our-charges">
+                                        我們的收費
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/risks">
+                                        有何風險？
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/risk-management">
+                                        風險管理
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/about-ig">
+                                        關於IG
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/cn/trading-platform-devices">
+                        交易平台
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/cn/trading-platform-devices" data-mainlink="概覽">
+                                    交易平台
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/desktop-trading-platform">
+                                        網上平台
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/trading-apps">
+                                        交易程式
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/advanced-trading-platforms">
+                                        高級交易平台
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/trading-platform-features">
+                                        平台特色
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/compare-trading-platforms">
+                                        功能比較
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/trading-platform-metatrader">
+                                        MetaTrader 4
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/cn/ig-financial-markets">
+                        市場透視
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/cn/ig-financial-markets" data-mainlink="概覽">
+                                    市場透視
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/market-data">
+                                        市場數據
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/market-news-and-analysis">
+                                        新聞及分析
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/ig-economic-calendar">
+                                        財經日曆
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/ig-market-screener">
+                                        市場篩選
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/signal-centre">
+                                        信號中心
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/cn/market-training">
+                        交易培訓
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/cn/market-training" data-mainlink="概覽">
+                                    交易培訓
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/seminars">
+                                        講座
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/platform-walkthroughs">
+                                        平台導覽
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/trading-academy">
+                                        文章及指南
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/getting-the-edge">
+                                        把握優勢
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/introduction-programme">
+                                        新客戶交易優惠
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/glossary-trading-terms">
+                                        交易相關詞彙表
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/cn/market-training/risk-management">
+                                        管理您的風險
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+        </ul>
+    
+</div>
+
+            </div>
+        
+        <div class="header__right">
+            <div class="header__international ">
+                
+                <div class="language-switcher parbase">
+
+
+
+
+
+
+</div>
+
+            </div>
+            <div class="search__container">
+            
+                
+                    
+
+
+
+
+
+
+
+
+    
+        
+            <div class="st-search__tooltip-icon"></div>
+        
+        <div class="st-search st-search--tooltip" data-install.key="" data-website.country.title="CN" data-engine.key="3x1q4Ya8B29SR9y2KafE" data-page.types.to.search="all" data-no.background="false" data-hide.images.and.url="false">
+            <div class="st-search__wrapper">
+            
+                <label class="st-search__title">搜尋</label>
+            
+            <form class="st-search__searchbox">
+                <input type="text" class="st-search__searchbox-input" autocomplete="off">
+                <input class="st-search__searchbox-submit" type="submit" value=" ">
+            </form>
+                <div class="st-search__results-wrapper">
+                    
+                    <div class="st-search__results"></div>
+                    <div class="st-search__no-results">No results found</div>
+                    
+                        <div class="st-search__redirect">
+                            <p class="cta">
+                                <a class="normal" data-base.url="/cn/search-results-page" href="">查看更多搜索結果</a>
+                            </p>
+                        </div>
+                    
+                        <div class="st-search__pagination">
+                            <a>1</a>
+                            <a>2</a>
+                            <a>3</a>
+                            <a>4</a>
+                            <a>5</a>
+                            <a>6</a>
+                            <a>7</a>
+                            <a>8</a>
+                            <a>9</a>
+                            <a>10</a>
+                        </div>
+                </div>
+            </div>
+            <div class="market-search" data-locale="zh_TW" data-defaultNumMarketResults="5">
+                <div class="market-search__wrapper">
+                    <div class="market-search__title">
+                        Related search:
+                        <span class="link-related-search" class="enhanced">
+                            <a href="#">Market Data</a>
+                        </span>
+                    </div>
+                    <div class="market-search__results">
+                        <table class="market-search__table">
+                            <thead>
+                            <tr>
+                                <th class="market-name">
+                                    <span>
+                                        Market Data
+                                    </span>
+                                </th>
+                                <th class="market-type">
+                                    <span>
+                                        Type of market
+                                    </span>
+                                </th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="link-market-search-block">
+                        <div class="link-market-search"><a href="#">See all Market data search results &gt;</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    
+
+
+
+
+
+                
+                
+            
+            </div>
+        </div>
+    </div>
+    
+        
+
+
+
+
+
+
+
+
+
+    <div class="sec-menu-container">
+        
+            <div class="breadcrumbs-container">
+                <ul class="breadcrumbs">
+                    
+                        <li class="breadcrumb ">
+                            <a href="/cn/indices">指數</a>
+                        </li>
+                    
+                        <li class="breadcrumb last">
+                            <a href="/cn/indices/indices-trading-costs">指數交易費用與詳情</a>
+                        </li>
+                    
+                </ul>
+            </div>
+        
+
+        
+            <div class="header-bottom" id="secondary-top50-menu">
+                <div class="header-secondary-nav">
+                    <ul class="secondary-nav" id="secondary-nav">
+                        
+                            <li class="menu-item-secondary  active"
+                                id="menu-item-0">
+                                <a href="/cn/indices/indices-cfd-details"> 股指差價合約詳情</a>
+                            </li>
+                        
+                            <li class="menu-item-secondary "
+                                id="menu-item-1">
+                                <a href="/cn/indices/indices-mt4-details"> 指數 MT4 差價合約詳情 </a>
+                            </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        
+    </div>
+
+    
+</div>
+    </div>
+</div>
+
+    
+
+
+
+
+    
+
+
+
+
+    <div class="content-wrapper">
+
+        
+
+        
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="value-proposition-component value-proposition-banner parbase">
+
+
+
+
+
+
+
+
+    <div class="valuePropositionBanner">
+        
+            <div>
+                <span class="white-icon heritage"></span>
+                
+                    <a href="/cn/about-ig">
+                
+                1974年倫敦誕生
+                
+                    </a>
+                
+            </div>
+        
+            <div>
+                <span class="white-icon clients"></span>
+                
+                    <a href="/cn/about-ig">
+                
+                逾185000全球客戶信心之選 
+                
+                    </a>
+                
+            </div>
+        
+            <div>
+                <span class="white-icon markets"></span>
+                
+                    <a href="/cn/about-ig">
+                
+                15,000種豐富金融市場
+                
+                    </a>
+                
+            </div>
+        
+    </div>
+</div>
+
+
+<div class="igColumns section">
+
+    <div class="cols col-124 ">
+        <div class="col col1 parsys">
+
+                    
+                        
+                            <div class="hero-panel none-bg"
+                                 style="background-image: url('');">
+                                <div class="fluid-width light">
+                                    <h1 class="heading">股指差價合約詳情</h1>
+                                    <div class="hero-parsys parsys"><div class="global-component parbase section">
+
+
+
+
+
+<div class="global-component">
+    
+    
+        
+            
+                
+                    
+                        <div class="new-content-component">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+                
+                    data-background-desktop="//a.c-dn.net/c/content/igcom/zh_TW/global-components/promo-product-details/_jcr_content/global-component/content_component.adaptive.full.high.jpg/1497586148584.jpg"
+                    data-background-tablet="//a.c-dn.net/c/content/igcom/zh_TW/global-components/promo-product-details/_jcr_content/global-component/content_component.adaptive.full.high.jpg/1497586148584.jpg"
+                    data-background-mobile="//a.c-dn.net/c/content/igcom/zh_TW/global-components/promo-product-details/_jcr_content/global-component/content_component.adaptive.full.medium.jpg/1497586148584.jpg"
+                
+                data-background-img-width="1193"
+                data-background-img-height="285"
+                data-background-img-resize="false"
+                style="
+                    
+                    
+                "
+            
+            class="theme
+            
+            bg-none 
+            image-full-background
+            
+            
+            content-padding
+            text-position-top
+            
+            imagesize50
+            content-margin-bot
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             立即開始交易
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p>快速免費開設IG帳戶，無最低存款或交易要求。也可借助免費模擬帳戶，無憂體驗IG平台！</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class="button  button-ghost-black js_target" href="/cn/demo-account" target="_self">
+                免費模擬帳戶
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+            <div class="cta right cta-sec">
+                
+                    <a class=" button button-green js_target" href="/cn/create-account" target="_self">
+                            申請帳戶
+                    </a>
+                
+            </div>
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+                    
+                    
+                
+            
+            
+        
+    
+</div></div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    
+                    
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-124">
+
+        <div class="col col1 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            crop-right
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p><strong>下表顯示我們提供的股指差價合約的詳細資料。</strong></p>
+
+<p>我們提供廣泛全球股票指數的現貨和期貨差價合約。我們的現金指數差價合約為無到期日合約，旨在複製基礎指數現貨價格，并進行利息率和股息調整[7]。指數期貨差價合約到期日是未來的一個指定日期並現金結算，詳細資料請參見「結算詳情」部分[11]。您可以要求在股指期貨差價合約到期時延長至下一個到日期[10]。</p>
+
+<p>[方括號] 所指示的相關附註信息。</p>
+
+<p>下述時間若未經特別說明，則均為澳洲東部時間。</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys">
+</div>
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+
+</div>
+
+                                </div>
+                                
+
+
+
+
+
+
+
+                            </div>
+                        
+                        
+                    
+
+
+            <div class="content-parsys parsys"><div class="mPanelParent js_panels section">
+
+
+
+
+
+<div class="mp-parsys parsys"><div class="mPanel section">
+
+
+
+
+
+<h3 class="h-med js_tabs js_heading " data-overlay=false data-hash="" data-image="" data-type="js_tabs" data-tabs-type="regular" data-trigger="" data-triggerOnce="false" data-allowFullWidth="false" data-closeCtaOnly="false" data-group="">
+    
+
+    現貨
+
+    
+</h3>
+<div class="mp-parsys2 parsys"><div class="table section">
+
+
+
+
+
+
+<script>
+    PS.util.jspVars.set("removeTableProperties")(false);
+</script>
+
+<div class="responsive-table">
+
+    <h2>熱門市場</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+		</tr>
+	</thead>
+</table>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th rowspan="1"><strong>指數名稱</strong> [1]</th>
+			<th rowspan="1"><strong>每張合約價值<br>
+			標準 / 迷你 [1]</strong></th>
+			<th rowspan="1">交易時間 [2]</th>
+			<th colspan="1"><strong>交易點差&nbsp;</strong>[3]</th>
+			<th rowspan="1"><strong>有限風險溢價</strong> [4]*</th>
+			<th rowspan="1"><strong>每張合約的保證金要求 </strong>[5]<br>
+			標準 / 迷你</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><p>&nbsp;</p>
+
+			<p><b><a href="/cn/indices/markets-indices/china-300" class="insight-link">中國300指數</a></b><br>
+			24 小時</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td><p>&nbsp;</p>
+
+			<p>CNH300 / CNH60</p>
+			</td>
+			<td><p>&nbsp;</p>
+
+			<p>11.15-13.30<br>
+			15.00-17.00<br>
+			所有其他時間<br>
+			&nbsp;</p>
+			</td>
+			<td><p>&nbsp;</p>
+
+			<p>3<br>
+			3<br>
+			12</p>
+			</td>
+			<td width="69"><p>&nbsp;</p>
+
+			<p>5</p>
+			</td>
+			<td><p>&nbsp;</p>
+			2%</td>
+		</tr>
+		<tr class="trColor">
+			<td><b><a href="/cn/indices/markets-indices/china-a50" class="insight-link">中國A50</a></b><br>
+			24 小時</td>
+			<td>$1 / $0.20</td>
+			<td>11.00-18.30<br>
+			19.00-06.45<br>
+			所有其他時間</td>
+			<td><p>12</p>
+
+			<p>12*</p>
+
+			<p>36</p>
+			</td>
+			<td width="69">20</td>
+			<td>2%</td>
+		</tr>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/china-h-shares" class="insight-link">中國H股指數</a></b><br>
+			24 小時</td>
+			<td>HKD50 / HKD10</td>
+			<td>11.15-14.00<br>
+			15.00-18.30<br>
+			19.15-03.00<br>
+			所有其他時間</td>
+			<td><p>10</p>
+
+			<p>10</p>
+
+			<p>10*</p>
+
+			<p>10</p>
+			</td>
+			<td width="69">10</td>
+			<td>1.5%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/hong-kong-hs42" class="insight-link">香港 HS50 指數</a></strong><br>
+			24 小時</td>
+			<td>HKD50 / HKD10</td>
+			<td>11.15-14.00<br>
+			15.00-18.30<br>
+			19.15-02.59<br>
+			所有其他時間<br>
+			&nbsp;</td>
+			<td>6<br>
+			6<br>
+			6*<br>
+			20</td>
+			<td width="64">10</td>
+			<td>1.5%</td>
+		</tr>
+		<tr class="trColor">
+			<td><strong><a href="/cn/indices/markets-indices/australia-200" class="insight-link">澳洲200指數</a></strong><br>
+			24 小時</td>
+			<td>AUD25 / AUD5<p>&nbsp;</p>
+			</td>
+			<td><p>10.00-16.00<br>
+			16.00-16.30<br>
+			17.10-08.00<br>
+			09.50-10.00</p>
+
+			<p>所有其他時間</p>
+			</td>
+			<td>1<br>
+			2<br>
+			3<br>
+			2*<br>
+			4</td>
+			<td>1.5</td>
+			<td>0.5%</td>
+		</tr>
+		<tr class="trColor">
+			<td><strong><a href="/cn/indices/markets-indices/ftse-100" class="insight-link">富時 100</a></strong><br>
+			24 小時</td>
+			<td>£10 / £2</td>
+			<td>16.00-17.00<br>
+			17.00-01.30<br>
+			01.30-06.00<br>
+			所有其他時間</td>
+			<td>2<br>
+			1<br>
+			2<br>
+			4</td>
+			<td>1</td>
+			<td><span>0.5%</span></td>
+		</tr>
+		<tr>
+			<td><p><b><a href="/cn/indices/markets-indices/wall-street" class="insight-link">華爾街</a></b><br>
+			24 小時</p>
+			</td>
+			<td>$10 / $2</td>
+			<td><p>23.30-06.00</p>
+
+			<p>17.00-23.30</p>
+
+			<p>06.15-06.30<br>
+			07.00-08.00</p>
+
+			<p>所有其他時間</p>
+			</td>
+			<td><p>1.8</p>
+
+			<p>2.8</p>
+
+			<p>5.8</p>
+
+			<p>5.8</p>
+
+			<p>3.8</p>
+			</td>
+			<td width="64">2</td>
+			<td><span>0.5%</span></td>
+		</tr>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/us-spx-500" class="insight-link">美國500指數</a></b><br>
+			24 小時</td>
+			<td>$250 / $50</td>
+			<td><p>23.30-06.00</p>
+
+			<p>06.15-06.30<br>
+			07.00-08.00<br>
+			所有其他時間</p>
+			</td>
+			<td>0.4<br>
+			0.9<br>
+			0.9<br>
+			0.6</td>
+			<td width="64">0.25</td>
+			<td><span>0.5%</span></td>
+		</tr>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/germany-30" class="insight-link">德國30指數</a></b><br>
+			24 小時</td>
+			<td>€25 /&nbsp;<span>€5</span></td>
+			<td>17.00-01.30<br>
+			01.30-06.00<br>
+			06.00-16.00<br>
+			16.00-17.00</td>
+			<td>1<br>
+			2<br>
+			5<br>
+			2</td>
+			<td width="64">1.5</td>
+			<td><span>0.5%</span></td>
+		</tr>
+		<tr>
+			<td><p><b><a href="/cn/indices/markets-indices/japan-225" class="insight-link">日本225指數</a> </b>[1a]</p>
+
+			<p>24 小時</p>
+			</td>
+			<td>$5 / $1</td>
+			<td><p>09.30 - 06.15</p>
+
+			<p>06.15 - 07.00<br>
+			08.00 - 09.30</p>
+
+			<p>所有其他時間</p>
+			</td>
+			<td><p>7</p>
+
+			<p>15</p>
+
+			<p>15</p>
+
+			<p>30</p>
+			</td>
+			<td width="64">8</td>
+			<td>0.75%</td>
+		</tr>
+		<tr>
+			<td><p><b><a href="/cn/indices/markets-indices/weekend-ftse-100" class="insight-link">周日 富時 100 現貨</a></b><br>
+			僅限網上交易</p>
+			</td>
+			<td>£10 / £2</td>
+			<td>週六 11.00 - 週一07.40</td>
+			<td>5.8</td>
+			<td>&nbsp;</td>
+			<td><span>0.5%</span></td>
+		</tr>
+		<tr>
+			<td><p><b><a href="/cn/indices/markets-indices/weekend-germany-30" class="insight-link">周日 德國 30 現貨</a></b><br>
+			僅限網上交易</p>
+			</td>
+			<td>$25 / $5</td>
+			<td>週六 11.00 - 週一07.40</td>
+			<td><p>7</p>
+			</td>
+			<td>&nbsp;</td>
+			<td><span>0.5%</span></td>
+		</tr>
+		<tr>
+			<td><p><b><a href="/cn/indices/markets-indices/weekend-wall-street" class="insight-link">周日 華爾街 現貨</a></b><br>
+			僅限網上交易</p>
+			</td>
+			<td>€10 / €2</td>
+			<td>週六 11.00 - 週一07.40</td>
+			<td><p>7</p>
+			</td>
+			<td>&nbsp;</td>
+			<td><span>0.5%</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h2>超微型</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th><strong>指數名稱</strong> [1]</th>
+			<th><strong>每張合約價值</strong></th>
+			<th>交易時間 [2]</th>
+			<th><strong>交易點差&nbsp;</strong>[3]</th>
+			<th><strong>有限風險溢價</strong> [4]</th>
+			<th><strong>每張合約的保證金要求 </strong>[5]</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="trColor">
+			<td><strong><a href="/cn/indices/markets-indices/australia-200" class="insight-link">澳洲200指數</a></strong><br>
+			24 小時</td>
+			<td>AUD1<p>&nbsp;</p>
+			</td>
+			<td><p>10.00-16.00<br>
+			16.00-16.30<br>
+			17.10-08.00<br>
+			09.50-10.00</p>
+
+			<p>所有其他時間</p>
+			</td>
+			<td>1<br>
+			2<br>
+			3<br>
+			2*<br>
+			4</td>
+			<td>1.5</td>
+			<td>1%</td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>&nbsp;</h4>
+
+<h2>北美及中美洲市場</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th rowspan="1"><strong>指數名稱 [1]</strong></th>
+			<th rowspan="1"><strong>每張合約價值<br>
+			標準 / 迷你 [1]</strong></th>
+			<th rowspan="1"><strong>交易時間 [2]</strong></th>
+			<th colspan="1"><strong>交易點差</strong> [3]</th>
+			<th colspan="1" rowspan="1">有限風險溢價 [4]*</th>
+			<th rowspan="1"><p><strong>每張合約的保證金要求&nbsp;</strong><span>[5]</span><br>
+			<span>標準 / 迷你</span></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/us-tech-100" class="insight-link">美國科技股100指數</a></b><br>
+			<span>24 小時</span></td>
+			<td>$100 / $20</td>
+			<td><p>23.30-06.00</p>
+
+			<p>06.15-06.30</p>
+
+			<p>07.00-08.00</p>
+
+			<p>所有其他時間</p>
+			</td>
+			<td><p>1</p>
+
+			<p>3</p>
+
+			<p>3</p>
+
+			<p>2</p>
+			</td>
+			<td width="64">1.5</td>
+			<td><span>0.5%</span></td>
+		</tr>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/russell-2000" class="insight-link">羅素 2000</a></b></td>
+			<td><span>$50 / $10</span></td>
+			<td><p>06.15-06.30</p>
+
+			<p>07.00-08.00</p>
+
+			<p>所有其他時間</p>
+			</td>
+			<td><p>0.8</p>
+
+			<p>0.8</p>
+
+			<p>0.3</p>
+			</td>
+			<td width="64">0.3</td>
+			<td><span>0.5%</span></td>
+		</tr>
+		<tr>
+			<td><b>US FANG</b><br>
+			&nbsp;</td>
+			<td>$50 / $10</td>
+			<td>12.30-06.00</td>
+			<td><p>2</p>
+			</td>
+			<td>1</td>
+			<td>4%</td>
+		</tr>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/mexico-35" class="insight-link">墨西哥35指數</a></b><br>
+			&nbsp;</td>
+			<td>MXN50 / MXN10</td>
+			<td>22.30-06.00</td>
+			<td><p>40*</p>
+			</td>
+			<td>40</td>
+			<td>5%</td>
+		</tr>
+		<tr>
+			<td><b>巴西 60 [1c]</b><br>
+			&nbsp;</td>
+			<td>BRL 5 / BRL 1</td>
+			<td>22.00-05.55</td>
+			<td><p>100*</p>
+			</td>
+			<td width="64">&nbsp;</td>
+			<td>5%</td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>&nbsp;</h4>
+
+<h2>歐洲市場</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th rowspan="1"><strong>指數名稱 [1]</strong></th>
+			<th rowspan="1"><strong>每張合約價值<br>
+			標準 / 迷你 [1]</strong></th>
+			<th rowspan="1"><strong>交易時間 [2]</strong></th>
+			<th colspan="1"><strong>交易點差&nbsp;[3]</strong></th>
+			<th colspan="1" rowspan="1"><strong>有限風險溢價 [4]*</strong></th>
+			<th rowspan="1"><p><strong>每張合約的保證金要求&nbsp;</strong><span>[5]</span><br>
+			<span>標準 / 迷你</span></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/eu-stocks-50" class="insight-link">歐洲股 50</a></strong><br>
+			24 小時</td>
+			<td><span>€10 / €2</span></td>
+			<td><p>16.00-06.00</p>
+
+			<p>06.00-16.00</p>
+			</td>
+			<td><p>1.5</p>
+
+			<p>3</p>
+			</td>
+			<td width="64">2</td>
+			<td><span>1%</span></td>
+		</tr>
+		<tr>
+			<td><p><strong><a href="/cn/indices/markets-indices/france-40" class="insight-link">法國40指數</a></strong></p>
+
+			<p>24 小時</p>
+			</td>
+			<td><span>€</span><span>10 /&nbsp;</span><span>€2</span></td>
+			<td>17.00-01.30<p>01.30-06.00</p>
+
+			<p>06.00-16.00<br>
+			16.00-17.00</p>
+			</td>
+			<td><p>1</p>
+
+			<p>2</p>
+
+			<p>4</p>
+
+			<p>2</p>
+			</td>
+			<td width="64">1</td>
+			<td><span>1%</span></td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/italy-40" class="insight-link">意大利40指數</a></strong><br>
+			24 小時</td>
+			<td><span>€5 / €1</span></td>
+			<td><p align="center">17.00-01.50</p>
+
+			<p>01.50-04.30</p>
+
+			<p>04.30-15.00</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td><p>20</p>
+
+			<p>20*</p>
+
+			<p>48</p>
+			</td>
+			<td width="64">12</td>
+			<td><span>1%</span></td>
+		</tr>
+		<tr>
+			<td><p><strong><a href="/cn/indices/markets-indices/holland-25" class="insight-link">荷蘭 25</a></strong></p>
+
+			<p>24 小時</p>
+			</td>
+			<td><span>€200 /&nbsp;</span><span>€40</span></td>
+			<td><p align="center">17.00-01.30</p>
+
+			<p align="center">01.30-06.00</p>
+
+			<p align="center">06.00-16.00</p>
+
+			<p>16.00-17.00</p>
+			</td>
+			<td><p>0.1</p>
+
+			<p>0.3</p>
+
+			<p>0.5</p>
+
+			<p>0.3</p>
+			</td>
+			<td width="64">0.3</td>
+			<td><span>1%</span></td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/norway-25" class="insight-link">挪威 25</a></strong><br>
+			24 小時</td>
+			<td>NOK100 / NOK20</td>
+			<td><p align="center">17.00-00.20</p>
+
+			<p>00.20-17.00</p>
+			</td>
+			<td><p>0.5</p>
+
+			<p>1.5</p>
+			</td>
+			<td width="64">0.4</td>
+			<td>1.5%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/portugal-20" class="insight-link">葡萄牙20指數</a></strong><br>
+			24 小時</td>
+			<td><span>€1</span></td>
+			<td><p align="center">17.06-01.30</p>
+
+			<p>01.30-17.06</p>
+			</td>
+			<td colspan="1" rowspan="1"><p>20</p>
+
+			<p>50</p>
+			</td>
+			<td width="64">10</td>
+			<td><span>10%</span></td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/spain-35" class="insight-link">西班牙35指數</a></strong><br>
+			24 小時</td>
+			<td><span>€10 /&nbsp;</span><span>€2</span></td>
+			<td><p align="center">16.00-17.00</p>
+
+			<p align="center">18.00-01.30</p>
+
+			<p align="center">01.30-04.00</p>
+
+			<p align="center">04.00-16.00</p>
+			</td>
+			<td><p>5*</p>
+
+			<p>5</p>
+
+			<p>5*</p>
+
+			<p>12</p>
+			</td>
+			<td width="64">3</td>
+			<td>1%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/sweden-30" class="insight-link">瑞典30指數</a></strong><br>
+			24 小時</td>
+			<td>SEK100 / SEK20</td>
+			<td><p>17.00-01.25</p>
+
+			<p>01.25-17.00</p>
+			</td>
+			<td><p>0.5</p>
+
+			<p>1.5</p>
+			</td>
+			<td width="64">0.8</td>
+			<td>1%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/switzerland-blue-chip" class="insight-link">瑞士藍籌股指數</a></strong><br>
+			24 小時</td>
+			<td>CHF10 / CHF2</td>
+			<td><p>16.00-06.00</p>
+
+			<p>06.00-16.00</p>
+			</td>
+			<td><p>2*</p>
+
+			<p>6</p>
+			</td>
+			<td width="64">2</td>
+			<td>1%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/ftse-250" class="insight-link">金融時報250指數</a></strong></td>
+			<td>£10 / £2</td>
+			<td>17.15-01.30</td>
+			<td colspan="1" rowspan="1">指數價格的0.2%</td>
+			<td width="64">指數價格的0.3%</td>
+			<td>指數價格的5%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/techmark" class="insight-link">英國科技股</a></strong></td>
+			<td>£10 / £2</td>
+			<td>17.15-01.30</td>
+			<td colspan="1" rowspan="1">指數價格的0.2%</td>
+			<td width="64">指數價格的0.3%</td>
+			<td>指數價格的5%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/germany-mid-cap-50" class="insight-link">德國中型50指數</a></strong></td>
+			<td><span>€5 /&nbsp;</span><span>€1</span></td>
+			<td>16.10-06.00</td>
+			<td>6*</td>
+			<td width="64">5</td>
+			<td><span>1.5%</span></td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/germany-tech-30" class="insight-link">德國科技30指數</a></strong></td>
+			<td><span>€10 /&nbsp;</span><span>€2</span></td>
+			<td>16.00-06.00</td>
+			<td>2*</td>
+			<td width="64">1</td>
+			<td><span>1.5%</span></td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/hungary-12" class="insight-link">匈牙利12指數</a></strong></td>
+			<td>HUF50 / HUF10</td>
+			<td>17.05-01.00</td>
+			<td>180*</td>
+			<td width="64">100</td>
+			<td>5%</td>
+		</tr>
+		<tr>
+			<td><strong>希臘 25</strong></td>
+			<td><span>€2 /&nbsp;€0.4</span></td>
+			<td>17.15-00.20</td>
+			<td>15*</td>
+			<td width="64">n/a</td>
+			<td><span>10%</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>&nbsp;</h4>
+
+<h2>亞洲及南非市場</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th rowspan="1" width="192"><strong>指數名稱 [1]</strong></th>
+			<th rowspan="1" width="103"><strong>每張合約價值<br>
+			標準 / 迷你 [1]</strong></th>
+			<th rowspan="1" width="90"><strong>交易時間 [2]</strong></th>
+			<th colspan="1" width="72">交易點差 [3]</th>
+			<th rowspan="1"><strong>有限風險溢價</strong> [4]*</th>
+			<th rowspan="1" width="197"><strong>每張合約的保證金要求</strong> [5]<br>
+			標準 / 迷你</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><p>&nbsp;</p>
+
+			<p><b><a href="/cn/indices/markets-indices/china-300" class="insight-link">中國300指數</a></b><br>
+			24 小時</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td><p>&nbsp;</p>
+
+			<p>CNH300 / CNH60</p>
+			</td>
+			<td><p>&nbsp;</p>
+
+			<p>11.15-13.30<br>
+			15.00-17.00<br>
+			所有其他時間<br>
+			&nbsp;</p>
+			</td>
+			<td><p>&nbsp;</p>
+
+			<p>3<br>
+			3<br>
+			12</p>
+			</td>
+			<td width="69"><p>&nbsp;</p>
+
+			<p>5</p>
+			</td>
+			<td><p>&nbsp;</p>
+			2%</td>
+		</tr>
+		<tr class="trColor">
+			<td><b><a href="/cn/indices/markets-indices/china-a50" class="insight-link">中國A50</a></b><br>
+			24 小時</td>
+			<td>$1 / $0.20</td>
+			<td>11.00-18.30<br>
+			19.00-06.45<br>
+			所有其他時間</td>
+			<td><p>12</p>
+
+			<p>12*</p>
+
+			<p>36</p>
+			</td>
+			<td width="69">20</td>
+			<td>2%</td>
+		</tr>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/china-h-shares" class="insight-link">中國H股指數</a></b><br>
+			24 小時</td>
+			<td>HKD50 / HKD10</td>
+			<td>11.15-14.00<br>
+			15.00-18.30<br>
+			19.15-03.00<br>
+			所有其他時間</td>
+			<td><p>10</p>
+
+			<p>10</p>
+
+			<p>10*</p>
+
+			<p>10</p>
+			</td>
+			<td width="69">10</td>
+			<td>1.5%</td>
+		</tr>
+		<!--<tr class="trColor">
+  <td><strong>Korea 200</strong><br />
+  09.00-15.05</td>
+  <td>KRW5000</td>
+  <td>20</td>
+  <td>20</td>
+  <td>KRW7,625,000/<br>KRW15,250,000</td></tr>-->
+		<tr>
+			<td><b>馬來西亞 30</b></td>
+			<td>MYR50 / MYR10</td>
+			<td>10.45-14.44<br>
+			16.30-19.14</td>
+			<td><p>3</p>
+
+			<p>3</p>
+			</td>
+			<td width="69">2</td>
+			<td>5%</td>
+		</tr>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/singapore-blue-chip" class="insight-link">新加坡藍籌股</a></b><br>
+			24 小時</td>
+			<td>SGD100 / SGD40</td>
+			<td>10.30-19.10<br>
+			19.40-06.39<br>
+			所有其他時間</td>
+			<td><p>0.1*</p>
+
+			<p>0.1*</p>
+
+			<p>0.6</p>
+			</td>
+			<td width="69">0.2</td>
+			<td>1%</td>
+		</tr>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/south-africa-40" class="insight-link">南非40指數</a></b><br>
+			24 小時</td>
+			<td>ZAR50 / ZAR10</td>
+			<td>16.30-01.30<br>
+			所有其他時間</td>
+			<td><p>8*</p>
+
+			<p>50*</p>
+			</td>
+			<td width="69">6</td>
+			<td>1.5%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/india-50" class="insight-link">印度50</a></strong></td>
+			<td>$10 / $2</td>
+			<td><p>12.45-20.00</p>
+
+			<p>20.40-06.45</p>
+
+			<p>11.00-13.45</p>
+
+			<p>20.00-20.15<br>
+			所有其他時間</p>
+			</td>
+			<td><p>2</p>
+
+			<p>5</p>
+
+			<p>5</p>
+
+			<p>5</p>
+
+			<p>10</p>
+			</td>
+			<td width="69">4</td>
+			<td>1.5%</td>
+		</tr>
+		<tr class="trColor">
+			<td><b><a href="/cn/indices/markets-indices/taiwan-index" class="insight-link">台灣指數</a></b><br>
+			&nbsp;</td>
+			<td>$100 / $20</td>
+			<td>10.45-15.44<br>
+			16.45-06.39</td>
+			<td>0.4*</td>
+			<td width="69">0.2</td>
+			<td>5%</td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>&nbsp;</h4>
+
+
+    
+
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="ghost section">
+
+</div>
+<div class="mPanel section">
+
+
+
+
+
+<h3 class="h-med js_tabs js_heading " data-overlay=false data-hash="" data-image="" data-type="js_tabs" data-tabs-type="regular" data-trigger="" data-triggerOnce="false" data-allowFullWidth="false" data-closeCtaOnly="false" data-group="">
+    
+
+    期貨
+
+    
+</h3>
+<div class="mp-parsys2 parsys"><div class="table section">
+
+
+
+
+
+
+<script>
+    PS.util.jspVars.set("removeTableProperties")(false);
+</script>
+
+<div class="responsive-table">
+
+    <h2>熱門市場</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th rowspan="1"><strong>指數名稱</strong> [1]</th>
+			<th rowspan="1"><strong>每張合約<br>
+			的價值<br>
+			標準 / 迷你 [1]</strong></th>
+			<th rowspan="1">交易時間 [2]</th>
+			<th colspan="1"><strong>交易點差&nbsp;</strong>[3]</th>
+			<th rowspan="1"><strong>有限風險溢價</strong> [4]*</th>
+			<th rowspan="1"><strong>每張合約的<br>
+			保證金要求 </strong>[5]<br>
+			標準 / 迷你</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="trColor">
+			<td><strong><a href="/cn/indices/markets-indices/australia-200" class="insight-link">澳洲200指數</a></strong><br>
+			24 小時</td>
+			<td>AUD25 / AUD5</td>
+			<td>09.50-16.30<br>
+			17.10-08.00<br>
+			所有其他時間</td>
+			<td>3<br>
+			4<br>
+			7</td>
+			<td>2</td>
+			<td>0.5%</td>
+		</tr>
+		<tr class="trColor">
+			<td><strong><a href="/cn/indices/markets-indices/ftse-100" class="insight-link">富時100指數</a></strong><br>
+			24 小時</td>
+			<td>£10 / £2</td>
+			<td>17.00-01.30<br>
+			所有其他時間</td>
+			<td><p>4</p>
+
+			<p>8</p>
+			</td>
+			<td>0.8</td>
+			<td>0.5%</td>
+		</tr>
+		<tr>
+			<td><p><b><a href="/cn/indices/markets-indices/wall-street" class="insight-link">華爾街</a></b><br>
+			24 小時</p>
+			</td>
+			<td>$10 / $2</td>
+			<td>17.00-06.00<br>
+			所有其他時間</td>
+			<td><p>6</p>
+
+			<p>10</p>
+			</td>
+			<td width="64">1.8</td>
+			<td>0.5%</td>
+		</tr>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/us-spx-500" class="insight-link">美國500指數</a></b><br>
+			24 小時</td>
+			<td>$250 / $50</td>
+			<td>08.00-06.15<br>
+			06.15-06.30<br>
+			06.30-07.00<br>
+			07.00-14.00</td>
+			<td><p>1</p>
+
+			<p>1.4</p>
+
+			<p>1</p>
+
+			<p>1.4</p>
+			</td>
+			<td width="64">0.4</td>
+			<td>0.5%</td>
+		</tr>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/germany-30" class="insight-link">德國30指數</a></b><br>
+			24 小時</td>
+			<td>€25 /&nbsp;<span>€5</span></td>
+			<td>17.00-01.30<br>
+			所有其他時間</td>
+			<td><p>6</p>
+
+			<p>12</p>
+			</td>
+			<td width="64">1.5</td>
+			<td><span>0</span>.5%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/hong-kong-hs42" class="insight-link">香港 HS50 指數</a></strong><br>
+			24 小時</td>
+			<td>HKD50 / HKD10</td>
+			<td>11.15-14.00<br>
+			15.00-18.30<br>
+			19.15-02.59<br>
+			所有其他時間<br>
+			&nbsp;</td>
+			<td><p>16</p>
+
+			<p>16</p>
+
+			<p>16*</p>
+
+			<p>30</p>
+			</td>
+			<td width="64">10</td>
+			<td>1.5%</td>
+		</tr>
+		<tr>
+			<td><p><b><a href="/cn/indices/markets-indices/japan-225" class="insight-link">日本225指數</a> </b>[1a]</p>
+
+			<p>24 小時</p>
+			</td>
+			<td>$5 / $1</td>
+			<td>09.45 - 06.15<br>
+			06.15 - 09.45</td>
+			<td><p>20</p>
+
+			<p>30</p>
+			</td>
+			<td width="64">8</td>
+			<td>0.75%</td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>&nbsp;</h4>
+
+<h2>北美及中美洲市場</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th rowspan="1"><strong>指數名稱 [1]</strong></th>
+			<th rowspan="1"><strong>每張合約<br>
+			的價值<br>
+			標準 / 迷你 [1]</strong></th>
+			<th rowspan="1"><strong>交易時間 [2]</strong></th>
+			<th colspan="1"><strong>交易點差</strong> [3]</th>
+			<th colspan="1" rowspan="1">有限風險溢價 [4]*</th>
+			<th rowspan="1"><p><strong>每張合約的<br>
+			保證金要求&nbsp;</strong><span>[5]</span><br>
+			<span>標準 / 迷你</span></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/us-tech-100" class="insight-link">美國科技股100指數</a></b><br>
+			<span>24 小時</span></td>
+			<td>$100 / $20</td>
+			<td><p>08.00-06.15</p>
+
+			<p>06.15-06.30</p>
+
+			<p>06.30-07.00</p>
+
+			<p>07.00-08.00</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td><p>3</p>
+
+			<p>4</p>
+
+			<p>3</p>
+
+			<p>4</p>
+			</td>
+			<td width="64">1.5</td>
+			<td>0.5%</td>
+		</tr>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/russell-2000" class="insight-link">美國羅素2000指數</a></b><br>
+			&nbsp;</td>
+			<td><span>$500 / $100</span></td>
+			<td><p>06.15-06.30</p>
+
+			<p>07.00-08.00</p>
+
+			<p>所有其他時間</p>
+			</td>
+			<td><p>0.8</p>
+
+			<p>0.8</p>
+
+			<p>0.3</p>
+			</td>
+			<td width="64">0.3</td>
+			<td>0.5%</td>
+		</tr>
+		<tr>
+			<td><b>美國FANG</b><br>
+			&nbsp;</td>
+			<td><span>$50 / $10</span></td>
+			<td><p>23.30-06.00</p>
+			</td>
+			<td><p>6</p>
+			</td>
+			<td width="64">1</td>
+			<td>4%</td>
+		</tr>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/mexico-35" class="insight-link">墨西哥35指數</a></b><br>
+			&nbsp;</td>
+			<td>MXN50 / MXN10</td>
+			<td>22.30-06.00</td>
+			<td><p>50*</p>
+			</td>
+			<td width="64">40</td>
+			<td>5%</td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>&nbsp;</h4>
+
+<h2>歐洲市場</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th rowspan="1"><strong>指數名稱 [1]</strong></th>
+			<th rowspan="1"><strong>每張合約<br>
+			的價值<br>
+			標準 / 迷你 [1]</strong></th>
+			<th rowspan="1"><strong>交易時間 [2]</strong></th>
+			<th colspan="1"><strong>交易點差&nbsp;[3]</strong></th>
+			<th colspan="1" rowspan="1"><strong>有限風險溢價 [4]</strong>*</th>
+			<th rowspan="1"><p><strong>每張合約的<br>
+			保證金要求&nbsp;</strong><span>[5]</span><br>
+			<span>標準 / 迷你</span></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/eu-stocks-50" class="insight-link">歐洲股 50</a></strong><br>
+			24 小時</td>
+			<td><span>€10 / €2</span></td>
+			<td>16.00-06.00<p>06.00-16.00</p>
+			</td>
+			<td><p>2</p>
+
+			<p>4</p>
+			</td>
+			<td width="64">1</td>
+			<td><span>0.5%</span></td>
+		</tr>
+		<tr>
+			<td><p><strong><a href="/cn/indices/markets-indices/france-40" class="insight-link">法國40指數</a></strong></p>
+
+			<p>24 小時</p>
+			</td>
+			<td><span>€</span><span>10 /&nbsp;</span><span>€2</span></td>
+			<td><p>16.00-06.00</p>
+
+			<p>06.00-16.00</p>
+			</td>
+			<td><p>4</p>
+
+			<p>8</p>
+			</td>
+			<td width="64">1</td>
+			<td><span>0.5%</span></td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/italy-40" class="insight-link">意大利40指數</a></strong><br>
+			24 小時</td>
+			<td><span>€5 / €1</span></td>
+			<td><p>17.00-01.50</p>
+
+			<p>01.50-04.30</p>
+
+			<p>04.30-17.00</p>
+			</td>
+			<td><p>8</p>
+
+			<p>8*</p>
+
+			<p>38</p>
+			</td>
+			<td width="64">12</td>
+			<td><span>0.75%</span></td>
+		</tr>
+		<tr>
+			<td><p><strong><a href="/cn/indices/markets-indices/holland-25" class="insight-link">荷蘭25指數</a></strong></p>
+
+			<p>24 小時</p>
+			</td>
+			<td><span>€200 /&nbsp;</span><span>€40</span></td>
+			<td><p>17.00-01.30</p>
+
+			<p>01.30-06.00</p>
+
+			<p>06.00-16.00</p>
+
+			<p>16.00-17.00</p>
+			</td>
+			<td><p>0.2</p>
+
+			<p>0.3</p>
+
+			<p>0.6</p>
+
+			<p>0.3</p>
+			</td>
+			<td width="64">0.4</td>
+			<td><span>0.75%</span></td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/norway-25" class="insight-link">挪威25指數</a></strong><br>
+			24 小時</td>
+			<td>NOK100 / NOK20</td>
+			<td><p>17.00-00.15</p>
+
+			<p>01.25-17.00</p>
+			</td>
+			<td><p>0.7</p>
+
+			<p>1.5</p>
+			</td>
+			<td width="64">0.6</td>
+			<td>0.75%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/spain-35" class="insight-link">西班牙35指數</a></strong><br>
+			24 小時</td>
+			<td><span>€10 /&nbsp;</span><span>€2</span></td>
+			<td><p>16.00-17.00</p>
+
+			<p>18.00-01.30</p>
+
+			<p>01.30-04.00</p>
+
+			<p>04.00-16.00</p>
+			</td>
+			<td><p>8*</p>
+
+			<p>8</p>
+
+			<p>18</p>
+			</td>
+			<td width="64">4.5</td>
+			<td><span>0.75%</span></td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/sweden-30" class="insight-link">瑞典30指數</a></strong><br>
+			24 小時</td>
+			<td>SEK100 / SEK20</td>
+			<td><p>17.00-01.25</p>
+
+			<p>01.25-17.00</p>
+			</td>
+			<td><p>0.7</p>
+
+			<p>1.5</p>
+			</td>
+			<td width="64">0.8</td>
+			<td>0.75%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/switzerland-blue-chip" class="insight-link">瑞士藍籌股指數</a></strong><br>
+			24 小時</td>
+			<td>CHF10 / CHF2</td>
+			<td><p>16.00-06.00</p>
+
+			<p>06.00-16.00</p>
+			</td>
+			<td><p>6*</p>
+
+			<p>10</p>
+			</td>
+			<td width="64">2</td>
+			<td>0.75%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/austria-20" class="insight-link">奧地利 20</a></strong></td>
+			<td>€10 /&nbsp;€2</td>
+			<td>17.05-01.30</td>
+			<td>10*</td>
+			<td width="64">5</td>
+			<td>5%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/germany-mid-cap-50" class="insight-link">德國中型50指數</a></strong></td>
+			<td><span>€5 /&nbsp;</span><span>€1</span></td>
+			<td>16.10-06.00</td>
+			<td>8*</td>
+			<td width="64">5</td>
+			<td><span>1.5%</span></td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/germany-tech-30" class="insight-link">德國科技30指數</a></strong></td>
+			<td><span>€10 /&nbsp;</span><span>€2</span></td>
+			<td>18.00-06.00</td>
+			<td>3*</td>
+			<td width="64">1</td>
+			<td><span>1.5%</span></td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/hungary-12" class="insight-link">匈牙利12指數</a></strong></td>
+			<td>HUF50 / HUF10</td>
+			<td>17.05-01.00</td>
+			<td>200*</td>
+			<td width="64">200</td>
+			<td>5%</td>
+		</tr>
+		<tr>
+			<td><strong>希臘 25</strong></td>
+			<td><span>€5 /&nbsp;€1</span></td>
+			<td>17.15-00.20</td>
+			<td>4*</td>
+			<td width="64">n/a</td>
+			<td><span>10%</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>&nbsp;</h4>
+
+<h2>亞洲、澳洲及南非市場</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th rowspan="1"><strong>指數名稱 [1]</strong></th>
+			<th rowspan="1"><strong>每張合約<br>
+			的價值<br>
+			標準 / 迷你 [1]</strong></th>
+			<th rowspan="1"><strong>交易時間 [2]</strong></th>
+			<th colspan="1">交易點差 [3]</th>
+			<th rowspan="1"><strong>有限風險溢價</strong> [4]*</th>
+			<th rowspan="1"><strong>每張合約的<br>
+			保證金要求</strong> [5]<br>
+			標準 / 迷你</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/china-h-shares" class="insight-link">中國H股指數</a></b><br>
+			24 小時</td>
+			<td>HKD50 / HKD10</td>
+			<td>11.15-14.00<br>
+			15.00-18.30<br>
+			19.15-02.59<br>
+			所有其他時間</td>
+			<td><p>12</p>
+
+			<p>12</p>
+
+			<p>12*</p>
+
+			<p>24</p>
+			</td>
+			<td width="64">15</td>
+			<td>1.5%</td>
+		</tr>
+		<!--<tr class="trColor">
+  <td><strong>Korea 200</strong><br />
+  09.00-15.05</td>
+  <td>KRW5000</td>
+  <td>20</td>
+  <td>20</td>
+  <td>KRW7,625,000/<br>KRW15,250,000</td></tr>-->
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/singapore-blue-chip" class="insight-link">新加坡藍籌股</a></b><br>
+			24 小時</td>
+			<td>SGD100 / SGD40</td>
+			<td>10.30-19.10<br>
+			20.15-03.54</td>
+			<td><p>0.2*</p>
+
+			<p>0.2*</p>
+
+			<p>1</p>
+			</td>
+			<td width="64">0.2</td>
+			<td>0.75%</td>
+		</tr>
+		<tr>
+			<td><b><a href="/cn/indices/markets-indices/south-africa-40" class="insight-link">南非40指數</a></b><br>
+			24 小時</td>
+			<td>ZAR50 / ZAR10</td>
+			<td>16.30-01.30<br>
+			所有其他時間</td>
+			<td><p>12*</p>
+
+			<p>50</p>
+			</td>
+			<td width="64">6</td>
+			<td>1.5%</td>
+		</tr>
+		<tr class="trColor">
+			<td><b><a href="/cn/indices/markets-indices/taiwan-index" class="insight-link">台灣指數</a></b><br>
+			&nbsp;</td>
+			<td>$100 / $20</td>
+			<td>10.45-15.44<br>
+			16.45-06.39</td>
+			<td>0.5*</td>
+			<td width="64">0.2</td>
+			<td>5%</td>
+		</tr>
+	</tbody>
+</table>
+
+<h4>&nbsp;</h4>
+
+<h2>其他市場</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th rowspan="1"><strong>指數名稱 [1]</strong></th>
+			<th rowspan="1"><strong>每張合約<br>
+			的價值<br>
+			標準 / 迷你 [1]</strong></th>
+			<th rowspan="1"><strong>交易時間 [2]</strong></th>
+			<th colspan="1"><strong>交易點差</strong>&nbsp;[3]</th>
+			<th colspan="1" rowspan="1">有限風險溢價 [4]*</th>
+			<th rowspan="1"><p><strong>每張合約的<br>
+			保證金要求&nbsp;</strong><span>[5]</span><br>
+			<span>標準 / 迷你</span></p>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><strong><a href="/cn/commodities/markets-commodities/us-dollar-basket" class="insight-link">美元籃子</a></strong></td>
+			<td>$10 / $5</td>
+			<td><p>10.00-07.00</p>
+			</td>
+			<td><p>5</p>
+			</td>
+			<td><p>10</p>
+			</td>
+			<td>0.5%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/volatility-index" class="insight-link">波動率指數（VIX）</a></strong></td>
+			<td>$1000 / $200</td>
+			<td><p>08.00-07.00</p>
+			</td>
+			<td>0.08</td>
+			<td>0.2</td>
+			<td>12.5%</td>
+		</tr>
+		<tr>
+			<td><strong><a href="/cn/indices/markets-indices/eu-volatility-index" class="insight-link">EU 波動率指數</a></strong></td>
+			<td><span>€</span>1000 / <span>€20</span>0</td>
+			<td>17.05-06.00</td>
+			<td>0.16</td>
+			<td>0.4</td>
+			<td><span>14%</span>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+
+    
+
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="ghost section">
+
+</div>
+<div class="mPanel section">
+
+
+
+
+
+<h3 class="h-med js_tabs js_heading " data-overlay=false data-hash="" data-image="" data-type="js_tabs" data-tabs-type="regular" data-trigger="" data-triggerOnce="false" data-allowFullWidth="false" data-closeCtaOnly="false" data-group="">
+    
+
+    結算詳情
+
+    
+</h3>
+<div class="mp-parsys2 parsys"><div class="table section">
+
+
+
+
+
+
+<script>
+    PS.util.jspVars.set("removeTableProperties")(false);
+</script>
+
+<div class="responsive-table">
+
+    <h2>熱門市場</h2>
+
+<p><strong>澳洲 200 指數</strong><br>
+最後交易日: 合約月份第三個星期四。結算︰S&amp;P/ASX 200 於最後交易日所報的特殊開盤報價 (SOQ)，準確至小數點後一位。 而SOQ是根據S&amp;P/ASX 200的每一只成分股在最後交易日的 首個交易價格計算 (不管這些股票在澳交所何時成交第一筆交易)。 交易月份︰3月、6月、9月、12月</p>
+
+<p><strong>富時</strong><strong><sup>®</sup></strong><strong> 100</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：倫敦國際金融期權及期貨交易所於最後交易日所報的富時100指數交易所交收價(EDSP)， 而EDSP是根據富時100指數即日現貨市場的競價，該價格於最後交易日的上午10時10分開始，成份股集合競價應在上午10時15分前完成。交易月份：當月和翌月，當季和下季的最後一個月。</p>
+
+<p><strong>華爾街指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：道瓊斯工業平均指數的特別開盤報價(SOQ)SOQ是根據道瓊斯工業平均指數30隻成份股在紐約證交</p>
+
+<h2>熱門市場</h2>
+
+<p><strong>澳洲 200 指數</strong><br>
+最後交易日: 合約月份第三個星期四。結算︰S&amp;P/ASX 200 於最後交易日所報的特殊開盤報價 (SOQ)，準確至小數點後一位。 而SOQ是根據S&amp;P/ASX 200的每一只成分股在最後交易日的 首個交易價格計算 (不管這些股票在澳交所何時成交第一筆交易)。 交易月份︰3月、6月、9月、12月</p>
+
+<p><strong>富時</strong><strong><sup>®</sup></strong><strong> 100</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：倫敦國際金融期權及期貨交易所於最後交易日所報的富時100指數交易所交收價(EDSP)， 而EDSP是根據富時100指數即日現貨市場的競價，該價格於最後交易日的上午10時10分開始，成份股集合競價應在上午10時15分前完成。交易月份：當月和翌月，當季和下季的最後一個月。</p>
+
+<p><strong>華爾街指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：道瓊斯工業平均指數的特別開盤報價(SOQ)SOQ是根據道瓊斯工業平均指數30隻成份股在紐約證交所的系列開盤報價計算。交易月份：當月和翌月，當季和下季的最後一個月。</p>
+
+<p><strong>美國</strong><strong>500</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：標普500指數的特別開盤報價。交易月份：3月、6月、9月、12月</p>
+
+<p><strong>德國</strong><strong>30</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五（或前一個營業日）。結算：根據各指數的成份股於下午1時（歐洲中部時間）開始在電子交易系統Xetra即日競價中釐定的價格。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>香港恒生</strong><strong>50</strong><strong>指數</strong><br>
+最後交易日：該月最後一個香港營業日前的營業日。請注意，此合約僅可在最後交易日下午4時（香港時間）前交易。結算：恒生指數於最後交易日在香港期貨交易所的結算價，該結算價是恒生指數於最後交易日每五分鐘間隔的平均價，四捨五入至最接近整數。在當前交易月份最後一週開始報翌月價格。</p>
+
+<p><strong>日經</strong><strong>225</strong><strong>指數</strong><br>
+最後交易日：合約月份第二個星期五前的營業日或前一個營業日。此合約可在最後交易日下午9時15分（倫敦時間）前交易。結算：日經225平均指數於最後交易日翌日的特別開盤報價，該價格用於結算在大阪證券交易所交易的日經225指數期貨，並四捨五入至指數小數點後一位。交易月份：3月、6月、9月、12月。</p>
+
+<h2>中北美市場</h2>
+
+<p><strong>墨西哥</strong><strong>35</strong><strong>指數</strong></p>
+
+<p>最後交易日：合約月份第三個星期五或前一個營業日。結算：根據MEX BOLSA指數期貨於墨西哥衍生工具市場的最終結算價。交易月份：每季－3月、7月、9月、12月。</p>
+
+<p><strong>美國科技</strong><strong>100</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：指數成份股的納斯達克正式開市價(NOOP)。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>美國羅素</strong><strong>2000</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：根據洲際交易所紐約商品交易所所報的羅素2000指數最終結算價。交易月份：3月、6月、9月、12月。</p>
+
+<h2>歐洲市場</h2>
+
+<p><strong>奧地利</strong><strong>20</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：根據維也納證券交易所於IG最後交易日後首個銀行營業日所報的奧地利交易指數結算價。交易月份：所有流通月份。</p>
+
+<p><strong>歐盟</strong><strong>50</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：歐洲期交所於最後交易日上午11時50分至中午12時（歐洲中部時間）所報的道瓊斯歐洲STOXX 50指數平均價格。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>法國</strong><strong>40</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：根據泛歐交易所於最後交易日所報的法國CAC 40指數交易所交收結算價(EDSP)，而EDSP是按照最後交易日下午3時40分至下午4時（巴黎時間，包括在下午4時後發佈的最後一個數值）的指數值算術平均數（四捨五入至小數點後一位）計算。交易月份：當月和下月。</p>
+
+<p><strong>德國中型股</strong><strong>50</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：歐洲期交所於合約月份第三個星期五即日競價時段釐定的M-Dax價格。交易月份：3月、6月、9月和12月。</p>
+
+<p><strong>德國科技</strong><strong>30</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五（或前一個營業日）。結算：根據歐洲期交所於最後交易日所報的TechDAX指數最終結算值。結算值是根據指數成份股於下午1時（歐洲中部時間）開始的即日競價時段在電子交易系統Xetra釐定的價格。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>希臘</strong><strong>25</strong><strong>指數</strong><br>
+最後交易日：合約當月的第3個星期五或者是之前一個工作日。結算方式：根據雅典衍生品交易所公布的最終富時/雅典大盤指數期貨（ATHEX Large Cap index）結算價格。交易月份：當月和下一個月。</p>
+
+<p><strong>匈牙利</strong><strong>12</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：根據布達佩斯交易所期貨在布達佩斯證券交易所的最終結算價。交易月份：12月</p>
+
+<p><strong>意大利</strong><strong>40</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：根據意大利證券交易所所報的富時<sup>®</sup>MIB指數期貨結算價。結算價是按照指數股份於最後交易日後星期五的股價計算的富時<sup>®</sup>/MIB指數值。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>荷蘭</strong><strong>25</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：根據最後交易日下午2時30分至15.00每一分鐘間隔計算的阿姆斯特丹指數平均值。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>挪威</strong><strong>25</strong><strong>指數</strong><br>
+最後交易日：每個月第三個星期四。結算：根據Turquoise（倫敦證券及衍生工具交易所）所報的OBX指數期貨正式收市價。交易月份：所有月份。</p>
+
+<p><strong>波蘭</strong><strong>20</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：根據WIG 20指數期貨在華沙證券交易所的最終結算價。交易月份：3月、7月、9月、12月。</p>
+
+<p><strong>西班牙</strong><strong>35</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：根據西班牙期貨及期權交易所於到期日下午4時15分至下午4時44分（馬德里時間）所報的IBEX 35指數平均值。交易月份：當月和下月（若有流通）。</p>
+
+<p><strong>瑞士藍籌指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：根據歐洲期交所於合約月份第三個星期五（即最後交易日的翌日）所報的SMI指數結算值，而結算值是按照SMI指數成份股於第三個星期五在泛歐藍籌股交易所的開市價計算。交易月份：3月、6月、9月、12月</p>
+
+<p><strong>瑞典</strong><strong>30</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：根據納斯達克OMX於最後交易日所報的OMXS30指數最終結算價，而該價格使用OMXS30指數期貨前一日的收市價及OMXS30指數於到期日的成交量加權平均價計算。交易月份：所有月份</p>
+
+<h2>亞洲、澳洲及南非市場</h2>
+
+<p><strong>澳交所</strong><strong>200</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期四。結算：標準普爾/澳洲證交所200指數於最後交易日的特別開市報價(SOQ)，四捨五入至小數點後一點，而SOQ使用標準普爾/澳洲證交所200指數各成份股於最後交易日的首個成交價計算，而不論有關股票在澳洲證交所交易日首次成交的時間。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>中國</strong><strong>H</strong><strong>股指數</strong><br>
+最後交易日：合約月份最後營業日前一個交易日。結算：根據合約月份最後一個營業日前的交易日計算的恒生中國企業指數最終結算價。交易月份：當月和下月。</p>
+
+<p><strong>印度</strong><strong>50</strong><strong>指數</strong><br>
+最後交易日：合約月份最後一個星期四。結算：根據 CNX Nifty指數於合約月份最後一個星期四在新加坡交易所的正式收市價。交易月份：當前流通月份。</p>
+
+<p><strong>日本綜合指數</strong><br>
+最後交易日：合約月份第二個星期五前的交易日結算：根據東京證券交易所於最後交易日翌日所報的相關東證股價指數期貨合約特別結算價，而特別結算價是根據成份股於最後交易日後營業日的開市價。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>新加坡藍籌指數</strong><br>
+最後交易日：合約月份倒數第二個新加坡交易日。結算：根據新加坡交易所於最後交易日翌日所報的摩根士丹利資本國際新加坡自由指數特別開市報價。交易月份：當前流通月份。</p>
+
+<p><strong>南非</strong><strong>40</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期四。結算：根據約翰內斯堡證券交易所於合約月份第三個星期四所報的富時<sup>®</sup>/JSE Top 40指數期貨正式結算價。交易月份：當前流通月份。</p>
+
+<p><strong>台灣指數</strong><br>
+最後交易日：合約月份最後營業日前一個交易日。結算：根據新加坡交易所於最後交易日後的營業日所報的摩根士丹利資本國際台灣指數特別結算價。交易月份：當前流通月份。</p>
+
+<h2>其他市場</h2>
+
+<p><strong>美元籃子</strong><br>
+最後交易日：合約月份第三個星期三前的星期五。結算：根據紐約商品交易所於我們最後一個交易日的美元指數期貨合約收市價。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>波動性指數（VIX）</strong><br>
+最後交易日：合約月份翌月第三個星期五前30天的交易日。結算：根據芝加哥期權交易所於最後交易日翌日所報的VIX期貨最終結算值。最終結算值根據指數的特別開盤報價(SOQ)釐定，而SOQ是根據SPX成份期權的系列開市價計算。交易月份：前兩個月份。</p>
+
+<p><strong>EU 波動性指數</strong><br>
+最後交易日：合約月份翌月第三個星期五前30天的交易日。VSTOXX 的最後結算價由歐洲期貨交易所（Eurex）在最後結算日提供，該價格將根據相關基礎指數價值在最後一個交易日的歐洲中部時間 11.30 至12.00 之間的平均值計算。交易月份：前兩個月份。</p>
+
+<p>所的系列開盤報價計算。交易月份：當月和翌月，當季和下季的最後一個月。</p>
+
+<p>&nbsp;</p>
+
+<p><strong>美國</strong><strong>500</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：標普500指數的特別開盤報價。交易月份：3月、6月、9月、12月</p>
+
+<p><strong>德國</strong><strong>30</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五（或前一個營業日）。結算：根據各指數的成份股於下午1時（歐洲中部時間）開始在電子交易系統Xetra即日競價中釐定的價格。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>香港恒生</strong><strong>50</strong><strong>指數</strong><br>
+最後交易日：該月最後一個香港營業日前的營業日。請注意，此合約僅可在最後交易日下午4時（香港時間）前交易。結算：恒生指數於最後交易日在香港期貨交易所的結算價，該結算價是恒生指數於最後交易日每五分鐘間隔的平均價，四捨五入至最接近整數。在當前交易月份最後一週開始報翌月價格。</p>
+
+<p><strong>日經</strong><strong>225</strong><strong>指數</strong><br>
+最後交易日：合約月份第二個星期五前的營業日或前一個營業日。此合約可在最後交易日下午9時15分（倫敦時間）前交易。結算：日經225平均指數於最後交易日翌日的特別開盤報價，該價格用於結算在大阪證券交易所交易的日經225指數期貨，並四捨五入至指數小數點後一位。交易月份：3月、6月、9月、12月。</p>
+
+<h2>中北美市場</h2>
+
+<p><strong>墨西哥</strong><strong>35</strong><strong>指數</strong></p>
+
+<p>最後交易日：合約月份第三個星期五或前一個營業日。結算：根據MEX BOLSA指數期貨於墨西哥衍生工具市場的最終結算價。交易月份：每季－3月、7月、9月、12月。</p>
+
+<p><strong>美國科技</strong><strong>100</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：指數成份股的納斯達克正式開市價(NOOP)。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>美國羅素</strong><strong>2000</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：根據洲際交易所紐約商品交易所所報的羅素2000指數最終結算價。交易月份：3月、6月、9月、12月。</p>
+
+<h2>歐洲市場</h2>
+
+<p><strong>奧地利</strong><strong>20</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：根據維也納證券交易所於IG最後交易日後首個銀行營業日所報的奧地利交易指數結算價。交易月份：所有流通月份。</p>
+
+<p><strong>比利時</strong><strong>20</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：根據布魯塞爾泛歐交易所於最後交易日下午3時40分至下午4時（布魯塞爾時間）公佈的比利時20指數平均值。</p>
+
+<p><strong>歐盟</strong><strong>50</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：歐洲期交所於最後交易日上午11時50分至中午12時（歐洲中部時間）所報的道瓊斯歐洲STOXX 50指數平均價格。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>法國</strong><strong>40</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：根據泛歐交易所於最後交易日所報的法國CAC 40指數交易所交收結算價(EDSP)，而EDSP是按照最後交易日下午3時40分至下午4時（巴黎時間，包括在下午4時後發佈的最後一個數值）的指數值算術平均數（四捨五入至小數點後一位）計算。交易月份：當月和下月。</p>
+
+<p><strong>德國中型股</strong><strong>50</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：歐洲期交所於合約月份第三個星期五即日競價時段釐定的M-Dax價格。交易月份：3月、6月、9月和12月。</p>
+
+<p><strong>德國科技</strong><strong>30</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五（或前一個營業日）。結算：根據歐洲期交所於最後交易日所報的TechDAX指數最終結算值。結算值是根據指數成份股於下午1時（歐洲中部時間）開始的即日競價時段在電子交易系統Xetra釐定的價格。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>希臘</strong><strong>25</strong><strong>指數</strong><br>
+最後交易日：合約當月的第3個星期五或者是之前一個工作日。結算方式：根據雅典衍生品交易所公布的最終富時/雅典大盤指數期貨（ATHEX Large Cap index）結算價格。交易月份：當月和下一個月。</p>
+
+<p><strong>匈牙利</strong><strong>12</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：根據布達佩斯交易所期貨在布達佩斯證券交易所的最終結算價。交易月份：12月</p>
+
+<p><strong>意大利</strong><strong>40</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：根據意大利證券交易所所報的富時<sup>®</sup>MIB指數期貨結算價。結算價是按照指數股份於最後交易日後星期五的股價計算的富時<sup>®</sup>/MIB指數值。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>荷蘭</strong><strong>25</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：根據最後交易日下午2時30分至15.00每一分鐘間隔計算的阿姆斯特丹指數平均值。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>挪威</strong><strong>25</strong><strong>指數</strong><br>
+最後交易日：每個月第三個星期四。結算：根據Turquoise（倫敦證券及衍生工具交易所）所報的OBX指數期貨正式收市價。交易月份：所有月份。</p>
+
+<p><strong>波蘭</strong><strong>20</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：根據WIG 20指數期貨在華沙證券交易所的最終結算價。交易月份：3月、7月、9月、12月。</p>
+
+<p><strong>西班牙</strong><strong>35</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：根據西班牙期貨及期權交易所於到期日下午4時15分至下午4時44分（馬德里時間）所報的IBEX 35指數平均值。交易月份：當月和下月（若有流通）。</p>
+
+<p><strong>瑞士藍籌指數</strong><br>
+最後交易日：合約月份第三個星期五。結算：根據歐洲期交所於合約月份第三個星期五（即最後交易日的翌日）所報的SMI指數結算值，而結算值是按照SMI指數成份股於第三個星期五在泛歐藍籌股交易所的開市價計算。交易月份：3月、6月、9月、12月</p>
+
+<p><strong>瑞典</strong><strong>30</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期五或前一個營業日。結算：根據納斯達克OMX於最後交易日所報的OMXS30指數最終結算價，而該價格使用OMXS30指數期貨前一日的收市價及OMXS30指數於到期日的成交量加權平均價計算。交易月份：所有月份</p>
+
+<h2>亞洲、澳洲及南非市場</h2>
+
+<p><strong>澳交所</strong><strong>200</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期四。結算：標準普爾/澳洲證交所200指數於最後交易日的特別開市報價(SOQ)，四捨五入至小數點後一點，而SOQ使用標準普爾/澳洲證交所200指數各成份股於最後交易日的首個成交價計算，而不論有關股票在澳洲證交所交易日首次成交的時間。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>中國</strong><strong>H</strong><strong>股指數</strong><br>
+最後交易日：合約月份最後營業日前一個交易日。結算：根據合約月份最後一個營業日前的交易日計算的恒生中國企業指數最終結算價。交易月份：當月和下月。</p>
+
+<p><strong>印度</strong><strong>50</strong><strong>指數</strong><br>
+最後交易日：合約月份最後一個星期四。結算：根據 CNX Nifty指數於合約月份最後一個星期四在新加坡交易所的正式收市價。交易月份：當前流通月份。</p>
+
+<p><strong>日本綜合指數</strong><br>
+最後交易日：合約月份第二個星期五前的交易日結算：根據東京證券交易所於最後交易日翌日所報的相關東證股價指數期貨合約特別結算價，而特別結算價是根據成份股於最後交易日後營業日的開市價。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>新加坡藍籌指數</strong><br>
+最後交易日：合約月份倒數第二個新加坡交易日。結算：根據新加坡交易所於最後交易日翌日所報的摩根士丹利資本國際新加坡自由指數特別開市報價。交易月份：當前流通月份。</p>
+
+<p><strong>南非</strong><strong>40</strong><strong>指數</strong><br>
+最後交易日：合約月份第三個星期四。結算：根據約翰內斯堡證券交易所於合約月份第三個星期四所報的富時<sup>®</sup>/JSE Top 40指數期貨正式結算價。交易月份：當前流通月份。</p>
+
+<p><strong>台灣指數</strong><br>
+最後交易日：合約月份最後營業日前一個交易日。結算：根據新加坡交易所於最後交易日後的營業日所報的摩根士丹利資本國際台灣指數特別結算價。交易月份：當前流通月份。</p>
+
+<h2>其他市場</h2>
+
+<p><strong>美元籃子</strong><br>
+最後交易日：合約月份第三個星期三前的星期五。結算：根據紐約商品交易所於我們最後一個交易日的美元指數期貨合約收市價。交易月份：3月、6月、9月、12月。</p>
+
+<p><strong>波動性指數（VIX）</strong><br>
+最後交易日：合約月份翌月第三個星期五前30天的交易日。結算：根據芝加哥期權交易所於最後交易日翌日所報的VIX期貨最終結算值。最終結算值根據指數的特別開盤報價(SOQ)釐定，而SOQ是根據SPX成份期權的系列開市價計算。交易月份：前兩個月份。</p>
+
+<p>我們的波動率指數(VIX)和美元籃子無到期日合約與其他現貨指數市場計價方式不同。我們採用的是與無到期日大宗商品一致的價格衍生方式，而非複製標的指數價格。這意味著，在這些市場上，我們的無到期日價格與標的指數價格並不相同。融資計算方式同樣與無到期日商品一致。如需更多詳情，請聯繫我們的支援團隊。</p>
+
+<p><strong>EU 波動性指數</strong><br>
+最後交易日：合約月份翌月第三個星期五前30天的交易日。VSTOXX 的最後結算價由歐洲期貨交易所（Eurex）在最後結算日提供，該價格將根據相關基礎指數價值在最後一個交易日的歐洲中部時間 11.30 至12.00 之間的平均值計算。交易月份：前兩個月份。</p>
+
+
+    
+
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="mPanel section">
+
+
+
+
+
+<h3 class="h-med js_tabs js_heading " data-overlay=false data-hash="" data-image="" data-type="js_tabs" data-tabs-type="regular" data-trigger="" data-triggerOnce="false" data-allowFullWidth="false" data-closeCtaOnly="false" data-group="">
+    
+
+    相關市場
+
+    
+</h3>
+<div class="mp-parsys2 parsys"><div class="table section">
+
+
+
+
+
+
+<script>
+    PS.util.jspVars.set("removeTableProperties")(false);
+</script>
+
+<div class="responsive-table">
+
+    <h2>熱門市場</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th class="left">
+			<h4>股指</h4>
+			</th>
+			<th>
+			<h4>相關期滿市場</h4>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>富時<sup>®</sup>&nbsp;100</td>
+			<td>英國富時 100</td>
+		</tr>
+		<tr>
+			<td>華爾街</td>
+			<td>道瓊斯工業平均數 30</td>
+		</tr>
+		<tr>
+			<td>美國 500</td>
+			<td>美國標普 500</td>
+		</tr>
+		<tr>
+			<td>德國 30</td>
+			<td>德國 DAX 30</td>
+		</tr>
+		<tr>
+			<td>香港 HS50</td>
+			<td>恒生指數</td>
+		</tr>
+		<tr>
+			<td>日本 225</td>
+			<td>日經 225</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h2>北美及中美洲市場</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th>
+			<h4>股指</h4>
+			</th>
+			<th>
+			<h4>相關期滿市場</h4>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>美國羅素 2000</td>
+			<td>羅素 2000 指數</td>
+		</tr>
+		<tr>
+			<td>美國科技股 100</td>
+			<td>納斯達克 100 指數</td>
+		</tr>
+		<tr>
+			<td>墨西哥 35</td>
+			<td>墨西哥BOLSA IPC 指數</td>
+		</tr>
+		<tr>
+			<td>巴西 60</td>
+			<td>巴西 BMF IBOVESPA 指數</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h2>歐洲市場</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th>
+			<h4>股指</h4>
+			</th>
+			<th>
+			<h4>相關期滿市場</h4>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>比利時 20</td>
+			<td>BEL 20</td>
+		</tr>
+		<tr>
+			<td>歐洲股 50</td>
+			<td>Dow Jones Euro STOXX 50</td>
+		</tr>
+		<tr>
+			<td>法國 40</td>
+			<td>CAC 40</td>
+		</tr>
+		<tr>
+			<td>富時<sup>®</sup> 250</td>
+			<td>FTSE<sup>®</sup> 250</td>
+		</tr>
+		<tr>
+			<td>德國中型股 50</td>
+			<td>MDAX</td>
+		</tr>
+		<tr>
+			<td>德國科技股 30</td>
+			<td>TecDAX</td>
+		</tr>
+		<tr>
+			<td>意大利 40</td>
+			<td>FTSE<sup>®</sup>/MIB</td>
+		</tr>
+		<tr>
+			<td>荷蘭 25</td>
+			<td>AEX</td>
+		</tr>
+		<tr>
+			<td>挪威 25</td>
+			<td>OBX</td>
+		</tr>
+		<tr>
+			<td>葡萄牙 20</td>
+			<td>PSI 20</td>
+		</tr>
+		<tr>
+			<td>西班牙 35</td>
+			<td>IBEX 35</td>
+		</tr>
+		<tr>
+			<td>瑞典 30</td>
+			<td>OMXS30</td>
+		</tr>
+		<tr>
+			<td>瑞士藍籌股</td>
+			<td>SMI</td>
+		</tr>
+		<tr>
+			<td>Techmark</td>
+			<td>FTSE<sup>®</sup> techMARK 100</td>
+		</tr>
+		<tr>
+			<td>希臘 25</td>
+			<td>富時/ 雅典大盤 （Large Cap index ）</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h2>亞洲、澳洲及南非市場</h2>
+
+<table class="table-zebra-rows" border="1">
+	<thead>
+		<tr>
+			<th>
+			<h4>股指</h4>
+			</th>
+			<th>
+			<h4>相關期滿市場</h4>
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>澳洲 200</td>
+			<td>S&amp;P/ASX 200</td>
+		</tr>
+		<tr>
+			<td>中國300指數</td>
+			<td>上海、深圳中國300指數期貨加合理價值</td>
+		</tr>
+		<tr>
+			<td>中國 H 股</td>
+			<td>恒生中國企業指數</td>
+		</tr>
+		<tr>
+			<td>中國 A50</td>
+			<td>新華 A50 指數期貨加合理價值</td>
+		</tr>
+		<tr>
+			<td>印度 50</td>
+			<td>Nifty Fifty</td>
+		</tr>
+		<!--<tr>
+<td>Korea 200 </td>
+<td>KOSPI 200 </td></tr>-->
+		<tr>
+			<td>新加坡藍籌股</td>
+			<td>新加坡自由指數</td>
+		</tr>
+		<tr>
+			<td>南非 40</td>
+			<td>FTSE<sup>®</sup>/JSE Top 40</td>
+		</tr>
+		<tr>
+			<td>台灣指數</td>
+			<td>MSCI 台灣指數</td>
+		</tr>
+	</tbody>
+</table>
+
+
+    
+
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="mPanel section">
+
+
+
+
+
+<h3 class="h-med js_tabs js_heading " data-overlay=false data-hash="" data-image="" data-type="js_tabs" data-tabs-type="regular" data-trigger="" data-triggerOnce="false" data-allowFullWidth="false" data-closeCtaOnly="false" data-group="">
+    
+
+    附註
+
+    
+</h3>
+<div class="mp-parsys2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            crop-right
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p>我們的股票指數是特別形式的差價合約，讓客戶投資於股票指數價值變化，但不會令客戶交收任何股票或工具。最低交易張數通常是一張合約，請參閱交易平台中的「獲取資訊」一頁，以查閱各市場的最低交易規模。除非發出書面通知，否則將不會收取額外佣金。</p>
+
+<p>1. 有特別註明的指數可供 24 小時交易，時間由週日晚上11時至週五晚上 10時 (倫敦時間)。其他指數則只可在相關基礎市場開啟時才可交易。有關公眾假期的交易時間，請向我們的交易員查詢。</p>
+
+<p>我們對所有指數市場提供標準及迷你合約的交易，並為部分市場提供超迷你合約交易。合約價值是每完整指數點的價值。</p>
+
+<p>a) 請注意，日經225指數以美元計值合約為定價依據。</p>
+
+<p>b) 巴西60指數以巴西裡爾計值合約為定價依據。盈虧按照巴西裡爾計算，須轉換至賬戶基礎貨幣方可取款。</p>
+
+<p>2. 所有列出的交易時間均為悉尼時間，除非另有註明。請注意︰實際交易時間取決於各指數所在國家的當地時間。</p>
+
+<p>3.a) 指數差價合約的價格參照基礎市場的近月合約。現貨差價合約的價格根據現貨指數及相關期貨合約價格而適當調整。期貨差價合約的報價，不是根據近月合約，而是按合約及近月的價格進行調整。按照近月期貨合約報價的差價合約價格不會進行調整。</p>
+
+<p>b) 以便發佈更準確、可靠的價格信息，IG依據理論計算中國300和中國A50的公允價值，而非依賴於基礎市場的差異。一般情況下，一旦現貨與期貨市場間存在價格差異，套利者便會讓市場返回其公允價值。然而，由於中國的交易限制，套利交易通常受到限制，導致基礎市場差異與理論公允價值間的巨大差異以及波動。</p>
+
+<p>c) 點差可能隨時變動，尤其是當市況波動時。對於24小時交易的指數市場，點差取決於相關基礎市場各自是否處於「開市」或「收市」交易時段。其他指數市場僅在基礎市場開市時段報價。我們的交易點差可能變動，以反映每天不同時間的流動性。上表列出每個交易時段的一般點差。</p>
+
+<p>d) 交易點差可能固定或變動。如果使用的是可變點差，則上表中的點差為基礎市場點差加之IG的點差。<strong>任何可變交易點差均標有星號（*）</strong>。</p>
+
+<p>e) 對於所有指數市場，當基礎市場開放時，我們不會使用權重或偏差計算方式對來源價格進行調整（除了公允價值調整）。</p>
+
+<p>f) 在24小時指數市場的「收市交易時段」，我們的報價反映了我們本身對市場的預期，包括參考其他相關開市市場的價格變化。此外，其他客戶完成的交易也可能影響我們的報價。在這段時間，市場上可能沒有可衡量我們報價的參考價格。</p>
+
+<p>4. 對於限制風險交易，開倉時會收取額外費用。如果買入價或賣出價達到選定的止蝕位，限制風險倉位將會平倉。市場上可能沒有可衡量我們報價的參考價格，尤其是當基礎市場收市時。</p>
+
+<p>如果價格達到某一客戶的限制風險止蝕位並因此（舉例說）賣出以平倉，則沽售一事本身可能推低我們的報價至另一客戶的限制風險倉位必須平倉的價位。</p>
+
+<p>5. 請注意，分級收取保證金在此適用，亦即大額倉位或須繳交較高的保證金。您可在交易平台各個市場的獲取資訊下拉頁面找到適用的分級式保證金。詳情請參閱<a href="/cn/our-charges">保證金</a>頁面。</p>
+
+<p>6. 華爾街指數、美國500指數、美國科技100指數及美國羅素2000指數期貨可在到期日下午2時30分前交易，換言之在上述時間前下達止蝕或限制買賣盤。</p>
+
+<p>7.&nbsp;<strong>&nbsp;以下附註僅與現貨市場相關。</strong>股票指數差價合約是不會到期的更新交易（除非另作要求，請參閱附註9）。未平倉期間每日均會計算調整，以反映利息<strong> (i)</strong>及（如有必要）股息<strong>(ii)</strong>的影響。<br>
+<br>
+<strong>i)</strong> 在下午10時（倫敦時間）前開倉且在下午10時（倫敦時間）後仍未平倉的任何倉位將會計算每日利息調整。對於以澳元計值的股票指數合約，在下午4時50分（悉尼時間）前開倉且在下午4時50分（悉尼時間）後仍未平倉的任何倉位將會計算每日利息調整，這些調整每日在客戶的賬戶中列出。請注意，在星期五未平倉的倉位將會計算覆蓋週末的3日融資成本。&nbsp;</p>
+
+<p>利息調整的計算方式如下：<br>
+<br>
+<strong>D = n x L x C x i / 365</strong><br>
+<br>
+其中：<br>
+<br>
+D = 每日利息調整<br>
+n = 交易手數<br>
+L = 一手的大小<br>
+C = 晚上10點（倫敦時間）的相關指數價格<br>
+i = 適用年利率<br>
+<br>
+備注：在公式應用中，富時®100與其他使用英鎊、新加坡幣和南非蘭特作為結算貨幣的市場均使用365天作為分母，而其他市場則使用360天作為分母。不論您使用何種交易貨幣，印度50指數現貨合約的倉位將會使用流通貨幣印度盧比(INR)的利率計算隔夜融資費用；巴西60指數將使用流通貨幣巴西裡爾(BRL)的利率計算隔夜融資費用；中國A50指數或中國300指數的現金合約的倉位將會使用流通貨幣離岸人民幣(offshore CNH)的利率計算隔夜融資費用；南非40的倉位結算將會使用流通貨幣南非蘭特(ZAR)的利率計算隔夜融資費用；馬來西亞30的倉位結算將會使用流通貨幣馬來西亞林吉特(MYR)計算隔夜融資費用。<br>
+<br>
+長倉的利息將從客戶的賬戶中扣除；短倉的利息則存入客戶賬戶或從賬戶中扣除。</p>
+
+<p><strong>ii)</strong> 股息會作出調整以反映指數的除息調整。這是指數價格必須向下調整的點數，以反映指數中將在現貨市場收市時除息的股份。我們將使用彭博估計的除息數據（錯誤和遺漏除外），並四捨五入至該指數的最低上落價位以釐定調整數額。若為長倉，股息調整將存入客戶賬戶；若為短倉，股息調整將從客戶賬戶中扣除。</p>
+
+<p>8. 倘若買賣的貨幣並非您的基準貨幣，您的損益將以該貨幣計值，並將以該貨幣在您的賬戶中入賬。根據預設指示，我們每日自動將您賬戶中的任何正數或負數結餘兌換至您的基準貨幣。您可透過我們的線上交易平台隨時更改此預設指示。</p>
+
+<p>9. 客戶可要求未平倉股票指數倉位在提出要求當日到期。</p>
+
+<p>倘若符合以下任一條件，我們應不會同意有關要求：</p>
+
+<p><strong>a) </strong>倉位的張數超過10張合約<br>
+<strong>b) </strong>在相關到期市場收市前不足兩個小時內提出要求</p>
+
+<p>如果我們同意一項到期要求，有關交易將成為「到期交易」，並將按照相關到期市場的正式收市價（即上面「相關市場」頁面列出的價格）自動到期。</p>
+
+<p>10. 對於大多數期貨市場倉位，客戶可在自動平倉前隨時要求轉倉至較後的日期。轉倉涉及舊倉平倉及開立新倉。我們正常會在倉位即將到期前嘗試聯絡客戶，以提供轉倉機會。儘管如此，我們無法承諾必然如此行事，客戶仍然有責任按意願作出指示以便倉位到期前轉倉。</p>
+
+<p>11. 任何未轉倉的期貨差價合約倉位將于到期日，依據相關到期市場的官方收盤價格結算，并加上或減去IG點差的一半。富時100指數和華爾街期貨指數的差價合約例外，該兩項市場到期時無需計IG點差。</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+</div>
+
+</div>
+
+</div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    col-padding
+                    col-margin-bot
+                    
+                    
+                    "
+                    
+                    
+                        data-background-desktop="//a.c-dn.net/c/content/igcom/zh_TW/other-markets/indices-trading/indices-trading-costs/indices-cfd-details/_jcr_content/content-parsys/columns_b1af.adaptive.full.high.jpg/1437743955701.jpg"
+                        data-background-tablet="//a.c-dn.net/c/content/igcom/zh_TW/other-markets/indices-trading/indices-trading-costs/indices-cfd-details/_jcr_content/content-parsys/columns_b1af.adaptive.full.high.jpg/1437743955701.jpg"
+                        data-background-mobile="//a.c-dn.net/c/content/igcom/zh_TW/other-markets/indices-trading/indices-trading-costs/indices-cfd-details/_jcr_content/content-parsys/columns_b1af.adaptive.full.medium.jpg/1437743955701.jpg"
+                    >
+
+        <div class="cols col-84">
+
+        <div class="col col1 parsys"><div class="global-component parbase section">
+
+
+
+
+
+<div class="global-component">
+    
+    
+        
+            
+                
+                    
+                        <div class="new-content-component">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            bg-none 
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             立刻開戶
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p><span>無最低存款要求，數分鐘內即可交易</span></p>
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class="button  button-ghost-black js_target" href="/cn/demo-account" target="_self">
+                免費模擬賬戶
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+            <div class="cta right cta-sec">
+                
+                    <a class=" button button-green js_target" href="/cn/create-account" target="_self">
+                            申請賬戶
+                    </a>
+                
+            </div>
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+                    
+                    
+                
+            
+            
+        
+    
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys">
+</div>
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="list parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="list-wrapper js_list clearfix style-general-list  ">
+    
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             您可能感興趣的... 
+
+        </h2>
+    
+    
+
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+
+        
+        
+
+            
+                
+                    <ul class='list-container clearfix list-horizontal cols-3' data-cols='3'>
+                
+                    <li value="1">
+                        <div class="inner">
+
+    
+        <h3>
+            <a href="/cn/trading-platform-devices">平台及應用程式</a>
+        </h3>
+    
+
+    
+
+    
+        <div class="desc"><p>擁有桌面流覽器的平台，以及適用於所有設備的應用程式。</p>
+</div>
+    
+
+</div>
+                    </li>
+                
+            
+                
+                    <li value="2">
+                        <div class="inner">
+
+    
+        <h3>
+            <a href="/cn/l2-trading-platform">直接市場接入(DMA)交易</a>
+        </h3>
+    
+
+    
+
+    
+        <div class="desc"><p>使用我們的直接市場接入(DMA)平台，直接交易股票和外匯市場。</p>
+</div>
+    
+
+</div>
+                    </li>
+                
+            
+                
+                    <li value="3">
+                        <div class="inner">
+
+    
+        <h3>
+            <a href="/cn/charts">圖表</a>
+        </h3>
+    
+
+    
+
+    
+        <div class="desc"><p>我們擁有適用於任何情況下、針對每位元交易者的圖表。</p>
+</div>
+    
+
+</div>
+                    </li>
+                
+                    </ul>
+                
+            
+
+        
+    
+
+    
+
+</div>
+</div>
+<div class="mPanel section">
+
+
+
+
+
+<h3 class="h-med js_lightbox js_heading " data-overlay=false data-hash="" data-image="" data-type="js_lightbox"  data-trigger="cfdtypes" data-triggerOnce="false" data-allowFullWidth="false" data-closeCtaOnly="false" data-group="">
+    
+        <a id="cfdtypes" name="cfdtypes">
+    
+
+    差價合約的類型
+
+    
+        </a>
+    
+</h3>
+<div class="mp-parsys2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            crop-left
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h3
+            class="heading "
+            
+        >
+             差價合約的類型
+
+        </h3>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p><strong>現貨</strong></p>
+
+<p>我們的標準差價合約旨在複製基礎市場的現貨價格。</p>
+
+<p><strong>迷你</strong></p>
+
+<p>迷你合約的運作與正常合約類似，惟單一合約的價值大為減少。在某些市場，這可能會導致迷你合約的點差較大。迷你合約可限制您的風險程度，但同時亦限制獲利機會。</p>
+
+<p><strong>期貨</strong></p>
+
+<p>期貨合約在未來的指定時間到期。您可在到期日前平倉，但不能轉倉至到期日後。期貨合約的點差一般略高於現貨合約，原因是期貨合約已計入隔夜融資費用。</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+</div>
+<div class="mPanel section">
+
+
+
+
+
+<h3 class="h-med js_lightbox js_heading " data-overlay=false data-hash="" data-image="" data-type="js_lightbox"  data-trigger="spread" data-triggerOnce="false" data-allowFullWidth="false" data-closeCtaOnly="false" data-group="">
+    
+        <a id="spread" name="spread">
+    
+
+    點差
+
+    
+        </a>
+    
+</h3>
+<div class="mp-parsys2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            crop-left
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h3
+            class="heading "
+            
+        >
+             點差
+
+        </h3>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p>我們提供相關市價的「買價」和「賣價」，這兩個價格之間的差異稱為「<strong>點差</strong>」。</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+</div>
+<div class="mPanel section">
+
+
+
+
+
+<h3 class="h-med js_lightbox js_heading " data-overlay=false data-hash="" data-image="" data-type="js_lightbox"  data-trigger="limitedriskpremium" data-triggerOnce="false" data-allowFullWidth="false" data-closeCtaOnly="false" data-group="">
+    
+        <a id="limitedriskpremium" name="limitedriskpremium">
+    
+
+    有限風險溢價
+
+    
+        </a>
+    
+</h3>
+<div class="mp-parsys2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            crop-left
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h3
+            class="heading "
+            
+        >
+             有限風險溢價
+
+        </h3>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p>採用<strong>保證止蝕</strong>機制的倉位嚴格限制最大虧損。在建立此類倉位時將有少量額外費用。</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+</div>
+<div class="mPanel section">
+
+
+
+
+
+<h3 class="h-med js_lightbox js_heading " data-overlay=false data-hash="" data-image="" data-type="js_lightbox"  data-trigger="margin" data-triggerOnce="false" data-allowFullWidth="false" data-closeCtaOnly="false" data-group="">
+    
+        <a id="margin" name="margin">
+    
+
+    保證金要求
+
+    
+        </a>
+    
+</h3>
+<div class="mp-parsys2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            crop-left
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h3
+            class="heading "
+            
+        >
+             保證金要求
+
+        </h3>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p>&nbsp;<strong>保證金要求</strong>是指您開倉時需要為每張合約提供的資金數額。&nbsp;</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+</div>
+<div class="mPanel section">
+
+
+
+
+
+<h3 class="h-med js_lightbox js_heading " data-overlay=false data-hash="" data-image="" data-type="js_lightbox"  data-trigger="extendedhours" data-triggerOnce="false" data-allowFullWidth="false" data-closeCtaOnly="false" data-group="">
+    
+        <a id="extendedhours" name="extendedhours">
+    
+
+    延長交易時段
+
+    
+        </a>
+    
+</h3>
+<div class="mp-parsys2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            crop-left
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h3
+            class="heading "
+            
+        >
+             延長交易時段 
+
+        </h3>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p>我們每日24小時提供一系列的股票指數。我們在相關基礎市場開市<strong>（開市時段</strong>交易）或收市<strong>（收市時段交易</strong>）提供不同的最低<strong>點差</strong>。在開市時，由於流動性增加，因此<strong>點差</strong>最低，但<strong>點差</strong>會在收市後擴闊。</p>
+
+<p>對於若干市場，我們在相關基礎市場收市後提供<strong>「延長交易時段」</strong><strong>點差</strong>，一般低於收市時段的價位。</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+</div>
+
+</div>
+
+
+        </div>
+        <div class="col col2 parsys">
+            
+                <div class="contact-us parbase">
+
+
+
+
+
+
+
+
+
+<div class="contact-us-wrapper jsContactUs">
+    
+    
+    <div class="rich-component">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p>我們提供一週5天24小時中文客服，澳洲東部時間週一上午7時至週六上午7時30分全天24小時（北京時間週一上午5時至週六上午5時30分）。之後您的電話將被轉至IG全球英文客戶熱線，澳洲東部時間週日下午6時至週六上午8時全天24小時，及週六下午7時至周日上午3時提供服務。</p>
+
+<p class="large-label primary-standfirst"><a class="telephone" href="tel:1800 601 818">1800 601 818</a></p>
+
+<p>您也可以撥打國際電話</p>
+
+<p><a href="http://tel:61398601776">+61 (3) 9860 1776</a> 或致函</p>
+
+<p>&nbsp;<a href="mailto:helpdesk.cn@ig.com">helpdesk.cn@ig.com</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+
+    
+    
+
+</div></div>
+
+            
+            
+            <div class="secondary-parsys parsys"><div class="ghost section">
+
+</div>
+
+</div>
+
+        </div>
+    </div>
+</div>
+    </div>
+
+    
+        
+        
+            
+
+
+
+
+
+
+
+
+<div class="footer-wrapper clearfix" data-swiftype-index="false">
+    <div class="footer">
+
+        <div class="footer-promos">
+            <div class="footer-promos-parsys iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-promos-parsys iparsys parsys"></div>
+</div>
+</div>
+
+        </div>
+
+        <div class="footer-main">
+
+            <div class="footer-menu ">
+                <div class="footer-menu-parsys iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-menu-parsys iparsys parsys"><div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    
+                    
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-4444">
+
+        <div class="col col1 parsys"><div class="new-content-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            image-layout-full-bottom
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/cn/market-data">市場資料</a></h3>
+
+<p class="heading"><a href="/cn/forex">外匯</a></p>
+
+<p><a href="/cn/indices">指數</a></p>
+
+<p><a href="/cn/shares">股票</a></p>
+
+<p><a href="/cn/options-trading">期權</a></p>
+
+<p><a href="/cn/other-markets">其他市場 </a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/cn/services">我們的服務</a></h3>
+
+<p><a href="/cn/cfd-trading">差價合約交易</a></p>
+
+<p><a href="/cn/our-charges">我們的收費</a></p>
+
+<p><a href="/cn/premium-services">尊貴服務</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+
+        
+            <div class="col col3 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/cn/trading-platform-devices">交易平台及應用程式</a></h3>
+
+<p class="heading"><a href="/cn/desktop-trading-platform">網頁平台</a></p>
+
+<p><a href="/cn/trading-apps">應用程式</a></p>
+
+<p><a href="/cn/advanced-trading-platforms">高級交易平台</a></p>
+
+<p><a href="/cn/compare-trading-platforms">平台功能比較</a></p>
+
+<p><a href="/cn/demo-account">模擬帳戶</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+            <div class="col col4 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/cn/ig-financial-markets">市場透視</a></h3>
+
+<p><a href="/cn/market-news-and-analysis">市場新聞</a></p>
+
+<p><a href="/cn/market-data">市場數據</a></p>
+
+<p><a href="/cn/signal-centre">信號中心</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+    </div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+            </div>
+
+            
+                <div class="footer-contact">
+                    <div class="footer-contact-parsys iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-contact-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><a href="/cn/contact-us">聯繫我們</a></h3>
+
+<p>澳洲免費電話: <a href="tel:1800 601 818">1800 601 818</a></p>
+
+<p>國際電話： <a href="tel:+61398601776">+61(3)98601776</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+</div>
+</div>
+</div>
+
+                </div>
+            
+
+            <div class="footer-bottom">
+                <div class="footer-links">
+                    <div>
+                        <a class="footer-international flag flag-cn" href="https://www.ig.com/?rc=true">CN
+                        </a>
+                    </div>
+                    <div class="footer-links-parsys iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-links-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p><a href="/cn">IG</a> &nbsp;&nbsp; <a href="/cn/sitemap-ig">站內導航</a> &nbsp;&nbsp; <a href="/cn/terms-and-agreements">條款及細則&nbsp; &nbsp;&nbsp; </a><a href="/cn/privacy">隱私</a> &nbsp; <a href="http://portal.ig.com/support/Help?MenuItem=Help&amp;webSiteId=aum&amp;webSiteLocale=zh_TW">支持與幫助</a> &nbsp; <a href="/cn/about-ig">關於IG</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+</div>
+</div>
+</div>
+
+                    <div class="footer-social sharebanner">
+                        <p></p>
+                        <ul>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                                <li class="social-icon weibo"><a href="http://www.weibo.com/igmarkets">Weibo</a></li>
+                            
+                            
+                                <li class="social-icon wechat"><a href="https://www.ig.com/zh/igwechat">Wechat</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="footer-disclaimer">
+            <div class="footer-disclaimer-parsys iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-disclaimer-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p style="text-align: center;"><strong>差價合約為杠杆性金融產品，有可能招致超出您的存款的損失。您並非實際擁有或持有任何相關基礎資產。請在交易前仔細閱讀我們的<a href="/cn/customer-agreement">產品披露聲明</a>。<br>
+敬請在交易前完全了解所涉及的風險，並謹慎管理風險敞口。</strong></p>
+
+<p style="text-align: center;">注：股票交易目前仅在英文网站提供。<br>
+IG 不提供任何關於購買、持有或出售差價合約的建議、推薦或意見。 IG 並非財務顧問，提供的所有服務僅基於執行交易指令。<br>
+<br>
+敬請注意中文語言服務並不保證在任何時候均能提供。英語是我們服務所使用的主要語言，亦是我們所有合同文件中具有法律效力的語言。<br>
+您在必須對帳戶采取行動時有可能無法聯絡我們中文服務工作人員。<br>
+<br>
+IG Markets成立於英國，註冊號 4008957，英國金融行為監管局頒發牌照號195355。依據澳洲公司法（2001年），IG在澳洲註冊為外資企業，註冊號 84 099 019 851。<br>
+<br>
+IG Markets Limited 擁有本網站的所有權及使用權。ABN 84 099 019 851，澳洲金融服務執照號：220440。新西蘭金融衍生品發行商執照，金融服務商（FSP）號碼18923。<br>
+<br>
+本網站所包含之所有信息均不構成對IG Group或其附屬公司的任何金融產品的直接投資邀請或建議。網站內容僅供參考。網站訪問者不應依賴本網站信息並將其視為作為或不作為之依據。對於任何個人依據本網站或網站的信息采取的作為或不作為所導致的結果，我們將毋須承擔任何責任。</p>
+
+<p style="text-align: center;"><em>本網站信息不針對美國、比利時或澳大利亞及新西蘭以外的任何國家的居民，不向身處與發佈或使用該信息有違當地法律法規的國家或管轄地之人發送或供其使用。</em><br>
+&nbsp;</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+</div>
+</div>
+</div>
+
+        </div>
+
+        <div class="footer-colophon">
+            <div class="footer-year">
+                <div class="footer-logo">
+                    <a href="/cn">
+                        <img src="https://a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/schema_image.jpg" width="20"/>
+                    </a>
+                </div>
+                <div class="footer-year-parsys iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-year-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p>©2003-2018</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+</div>
+</div>
+</div>
+
+            </div>
+            <div class="footer-external-links">
+                <div class="footer-external-links-parsys iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-external-links-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p><a href="http://www.iggroup.com/">IG 集團</a> &nbsp;| &nbsp;<a href="/cn/marketing-partnership">營銷夥伴</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+</div>
+</div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        
+    
+
+    
+
+
+
+
+
+
+
+    
+    
+        <div class="sticky-footer" id="sticky-footer" data-swiftype-index="false">
+            <div class="fluid-width">
+                <p class="disclaimer-text">
+                    差價合約為槓桿性金融產品。差價合約交易未必適合每位人士并有可能招致超出您的初始保證金的損失，敬請交易前完全了解所涉及的風險。
+                </p>
+                
+                    <div class="close-icon" id="sticky-footer-close-icon"></div>
+                
+            </div>
+        </div>
+    
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+        
+        <script type="text/javascript" src="https://a.c-dn.net/b/21o5MV/ig-fe-login-min.js"></script>
+        <script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_ps.min.js"></script>
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+    <script type="application/ld+json">
+        {"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.ig.com/cn/indices","name":"指數"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.ig.com/cn/indices/indices-trading-costs","name":"指數交易費用與詳情"}}]}
+
+    </script>
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            <script src="https://cdn.optimizely.com/js/5595260258.js"></script>
+        
+    
+
+</body>
+
+</html>

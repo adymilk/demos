@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="icon" href="/images/favicon.ico">
+	<title> BCR</title>
+	<link rel="stylesheet" type="text/css" href="/css/libs.css">
+	<meta name="baidu-site-verification" content="k5h0uYCb8q" />
+	<!-- BA Custom CSS | Combine with Bootstrap Core CSS | Custom CSS | Language CSS -->
+
+<link href="/css/app.css" rel="stylesheet">
+
+<script src="/js/jquery-2.2.3.min.js"></script>
+<script src="/js/jquery-ui.js"></script>
+<!-- Bootstrap Tooltip requirement -->
+<script src="/js/tether.min.js"></script>
+<!-- Bootstrap Core JS -->
+<script src="/js/bootstrap.js"></script>
+<!-- Select2 -->
+<script src="/js/select2.min.js"></script>
+<!-- For Retina Display | This Javascript will look for alternative image file name ends with @2x  -->
+<script src="/js/effects/retina.js"></script>
+<!-- Parallax Background Image -->
+<script src="/js/effects/parallax.js"></script>
+<!-- Scroll Reveal -->
+<script src="/js/effects/scrollreveal.min.js"></script>
+<!-- Automatically Hide Navbar -->
+<script src="/js/effects/autohidingnavbar.js"></script>
+<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+<!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
+<script src="/js/ie-emulation-modes-warning.js"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!--
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		jQuery(".navbar-fixed-top").autoHidingNavbar();
+	});
+</script>
+-->
+
+
+
+	<script type="text/javascript">
+	$.noConflict();
+</script>
+	<script charset="UTF-8" src="https://wpa.b.qq.com/cgi/wpa.php"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110479038-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-110479038-1');
+	</script>
+	
+	<!--Start of Zendesk Chat Script-->
+    
+	</script>
+	<!--End of Zendesk Chat Script-->
+</head>
+<body>
+
+	<section class="outterContainer">
+		<header class="navbar-fixed-top navbar-full clearfix">
+<div class="top-menu">
+	<ul class="top-menu-list">
+		<li class="top-menu-link">
+			<a href="https://livechat.boldchat.com/aid/4562144580678228633/bc.chat?cwdid=140061973393820365&wdid=3869741265524507725" target="_blank" onclick="window.open((window.pageViewer && pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf(\'?\')>=0 ? \'&amp;\' : \'?\') + \'url=\' + escape(document.location.href)), \'Chat1840823552749023967\', \'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480\');return false;" id="support">
+				<i class="fa fa-wechat"></i>&nbsp; Live Chat
+			</a>
+		</li>
+		<li class="top-menu-link">
+			<a href="http://myba.bacera.com.au" class="client-login">Login BCR</a>
+		</li>
+		<li class="top-menu-link">
+			<a href="http://myba.bacera.com.au"><i class="fa fa-money"></i>&nbsp; Fund Your Account</a>
+		</li>
+		<li class="top-menu-link dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-language"></i>&nbsp; Region Selected <i class="flag-icon flag-icon-au"></i> <span class="caret"></span></a>
+			<ul class="dropdown-menu">
+				<li><a href="javascript:void(0)"><i class="flag-icon flag-icon-au"></i> Australian</a></li>
+				<li><a href="https://bcrcorp.com.cn/education/market-analysis/sim"><i class="flag-icon flag-icon-cn"></i> 简体中文</a></li>
+				<li><a href="https://bcrcorp.com.cn/education/market-analysis/tra"><i class="flag-icon flag-icon-hk"></i> 繁體中文</a></li>
+			</ul>
+		</li>
+		<li class="top-menu-link"><a href="https://bcrcorp.com.cn/about-us/contact-us"><i class="fa fa-phone"></i>&nbsp; Contact Us</a></li>
+		<li class="top-menu-link currency-switch">
+			<input id="currency-switch" class="currency-toggle currency-toggle-yes-no" type="checkbox" checked>
+			<label for="currency-switch" data-on="USD" data-off="AUD"></label>
+		</li>
+	</ul>
+</div>
+
+<div class="wsmenucontainer clearfix">
+	<div class="overlapblackbg"></div>
+	<div class="wsmobileheader clearfix">
+		<a id="wsnavtoggle" class="animated-arrow"><span></span></a>
+		<a href="https://bcrcorp.com.cn" class="smallogo">
+			<img alt="Brand" src="/images/logo-small.png">
+		</a>
+	</div>
+	<div class="header">
+		<div class="wrapper clearfix bigmegamenu">
+			<div class="logo clearfix">
+				<a href="https://bcrcorp.com.cn">
+					<img alt="Brand" src="/images/logo.png" class="hidden-sm hidden-xs">
+				</a>
+			</div>
+			<nav class="wsmenu clearfix">
+				<ul class="mobile-sub wsmenu-list">
+					<li><a href="https://bcrcorp.com.cn/cfd-trading" class="brackets">CFD Trading</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">Trade CFDs</h3>
+								<p class="megamenu-intro-body">CFD trading allows our clients to trade on the rising or falling prices of fast-moving global financial instruments and markets such as forex, precious metals, commodities, indices, and shares.</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/standard-account" class="btn btn-primary">Real Account</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/demo-account" class="btn btn-primary-outline">Demo Account</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">Instruments</li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-basics"><i class="fa fa-angle-right"></i>CFD Basics</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-forex"><i class="fa fa-angle-right"></i>Forex</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-precious-metals"><i class="fa fa-angle-right"></i>Precious Metals</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-commodities"><i class="fa fa-angle-right"></i>Commodities</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-indices"><i class="fa fa-angle-right"></i>Indices</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-shares"><i class="fa fa-angle-right"></i>Stocks</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">Trading Accounts</li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/account-overview"><i class="fa fa-angle-right"></i>Account Overview</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/standard-account"><i class="fa fa-angle-right"></i>Standard Account</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/pro-account"><i class="fa fa-angle-right"></i>Pro Account</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/demo-account"><i class="fa fa-angle-right"></i>Demo Account</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">Trading Conditions</li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/contract-specifications"><i class="fa fa-angle-right"></i>Contract Specifications</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/swap-information"><i class="fa fa-angle-right"></i>Swap Information</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/trading-examples"><i class="fa fa-angle-right"></i>Trading Examples</a></li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="https://bcrcorp.com.cn/trading-platform" class="brackets">Trading Platform</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">Trading Platform</h3>
+								<p class="megamenu-intro-body">BCR’s BCR Trader platform is based on the MetaTrader4 trading software, the most popular trading platform in the CFD industry. BCR Trader is used for trading CFDs, analyzing financial markets and using Expert Advisors.</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-windows" class="btn btn-primary">Desktop</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-ios" class="btn btn-primary-outline">Mobile</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">Desktop</li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-windows"><i class="fa fa-angle-right"></i>Windows <i class="fa fa-windows"></i></a></li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mac"><i class="fa fa-angle-right"></i>Mac <i class="fa fa-apple"></i></a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">Mobile</li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-android"><i class="fa fa-angle-right"></i>Android <i class="fa fa-android"></i></a></li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-ios"><i class="fa fa-angle-right"></i>iPhone <i class="fa fa-apple"></i></a></li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-tablet"><i class="fa fa-angle-right"></i>iPad / Tablets</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">User Guide</li>
+								<!--
+								<li><a href="https://bcrcorp.com.cn/trading-platform/beginner-guide"><i class="fa fa-angle-right"></i>Beginner Guide</a></li>
+								-->
+								<li class="coming-soon"><i class="fa fa-angle-right"></i>Beginner Guide</li>
+								<li>
+									<a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-guide">
+										<i class="fa fa-angle-right"></i>BCR Trader Desktop
+									</a>
+								</li>
+								<li>
+									<a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mobile-guide">
+										<i class="fa fa-angle-right"></i>BCR Trader Mobile
+									</a>
+								</li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="https://bcrcorp.com.cn/client-resources" class="brackets">Client Resources</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">Client Resources</h3>
+								<p class="megamenu-intro-body">Whether it’s logging into MyBCR to track all of your BCR accounts in one secure place, or reviewing important legal documentation or financial market data, you can get the information you need when you need it, from virtually anywhere.</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/client-resources/funding-information" class="btn btn-primary">Funding</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/client-resources/legal-documents" class="btn btn-primary-outline">Forms</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">Managing Account</li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/funding-information"><i class="fa fa-angle-right"></i>Funding Information</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/withdrawal-instructions"><i class="fa fa-angle-right"></i>Withdrawal</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/legal-documents"><i class="fa fa-angle-right"></i>Legal Documents</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">Knowledge</li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/trading-rules"><i class="fa fa-angle-right"></i>Trading Rules</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/glossary"><i class="fa fa-angle-right"></i>Trading Glossary</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/faqs"><i class="fa fa-angle-right"></i>FAQs</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">Trading Essentials</li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/event-notices"><i class="fa fa-angle-right"></i>Event Notices</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/market-news"><i class="fa fa-angle-right"></i>Market News</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/economic-calendar"><i class="fa fa-angle-right"></i>Economic Calendar</a></li>
+								<li class="hidden-md-down"><a href="https://bcrcorp.com.cn/client-resources/position-indicator"><i class="fa fa-angle-right"></i>Position Indicator</a></li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="https://bcrcorp.com.cn/education" class="brackets" >Education</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">Education</h3>
+								<p class="megamenu-intro-body">Based on our extensive experience in the CFD industry, the BCR team have developed a training suite that helps investors find their feet in the high risk, high reward world of CFD trading. Check this section regularly for new updates.</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/education/trading-video" class="btn btn-primary" style="pointer-events: none;">Trading Videos</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/education/market-analysis" class="btn btn-primary-outline">Market Analysis</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">Forex Trading</li>
+								<li><a href="https://bcrcorp.com.cn/education/forex-introduction"><i class="fa fa-angle-right"></i>Forex Introduction</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/forex-trading-basics"><i class="fa fa-angle-right"></i>Forex Trading Basics</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">Analysis</li>
+								<li><a href="https://bcrcorp.com.cn/education/fundamental-analysis"><i class="fa fa-angle-right"></i>Fundamental Analysis</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/technical-analysis"><i class="fa fa-angle-right"></i>Technical Analysis</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/market-analysis"><i class="fa fa-angle-right"></i>Market Analysis</a></li>
+								<!-- Market Analysis
+								index page > market-analysis.php
+								Sort by:
+									> market-analysis/{author}/{post-title}
+									> market-analysis/{product}/{post-title}
+								-->
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">Courses</li>
+								<li class="coming-soon"><i class="fa fa-angle-right"></i>Trading eBook</li>
+								<li class="coming-soon"><i class="fa fa-angle-right"></i>Trading Video</a></li>
+								<li class="coming-soon"><i class="fa fa-angle-right"></i>Workshop</a></li>
+								<!-- Trading Courses
+								index page > trading-ebook.php
+								index page > trading-video.php
+								index page > webinars.php
+
+								Trading eBook:
+									> education/course/trading-ebook/trading-ebook > List of available books
+
+								Trading Video: (No Filter option)
+									> education/course/trading-video/{post-title}
+
+								Webinars: (No Filter option)
+									> education/course/webinars/webinars
+
+								* Webinar index page show a list of incoming webinars, and a video player as the main panel for the current webinar.
+								-->
+							</ul>
+						</div>
+					</li>
+					<li><a href="https://bcrcorp.com.cn/about-us" class="brackets" s>About Us</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">About Us</h3>
+								<p class="megamenu-intro-body">Where CFD trading is done, BCR strives to be second to none in the CFD industry, with competitive spreads and a transparent trading environment.</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/standard-account" class="btn btn-primary">Real Account</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/demo-account" class="btn btn-primary-outline">Demo Account</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">Get to know us</li>
+								<li><a href="https://bcrcorp.com.cn/about-us/company-profile"><i class="fa fa-angle-right"></i>Company Profile</a></li>
+								<li><a href="https://bcrcorp.com.cn/about-us/why-choose-us"><i class="fa fa-angle-right"></i>Why Choose Us?</a></li>
+								<li><a href="https://bcrcorp.com.cn/about-us/contact-us"><i class="fa fa-angle-right"></i>Contact Us</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">Regulation</li>
+								<li><a href="https://bcrcorp.com.cn/about-us/risk-disclosure"><i class="fa fa-angle-right"></i>Risk Disclosure</a></li>
+								<li><a href="https://bcrcorp.com.cn/about-us/privacy-policy"><i class="fa fa-angle-right"></i>Privacy Policy</a></li>
+								<li><a href="https://bcrcorp.com.cn/about-us/rg227"><i class="fa fa-angle-right"></i>RG 227</a></li>
+							</ul>
+						</div>
+					</li>
+
+					<li><a href="https://bcrcorp.com.cn/affiliates" class="brackets" >Affiliates</a></li>
+					<li><a href="#" class="brackets">Promotions</a>
+						<div class="megamenu clearfix ">
+							<div class="col-xl-4 col-lg-12">
+								<h3 class="title">Bonus Promotion</h3>
+								<div class="fluid-width-video-wrapper">
+									<a href="https://bcrcorp.com.cn/promotions/bonus"><img src="/images/bonus-promo-banner-eng.jpg" class="img-fluid" alt=""/></a>
+									<br />
+									<p>Receive up to 15% bonus credit.</p>
+								</div>
+							</div>
+							<div class="col-xl-4 col-lg-12">
+								<h3 class="title">iPhone Promotion</h3>
+								<div class="fluid-width-video-wrapper">
+									<a href="https://bcrcorp.com.cn/promotions/iphone"><img src="/images/iphone7_hero.jpg" class="img-fluid" alt=""/></a>
+									<br />
+									<p>Fund Your Trading Account Today and Earn an iPhone 8 / iPhone 8 Plus or iPhone X!!</p>
+								</div>
+							</div>
+							<div class="col-xl-4 col-lg-12">
+								<h3 class="title">Reward Points</h3>
+								<div class="fluid-width-video-wrapper">
+									<a href="https://bcrcorp.com.cn/promotions/reward-points">
+										<img src="/images/reward_point_banner.jpg" class="img-fluid" alt=""/>
+									</a>
+									<br />
+									<p>Earn reward points through deposits and trades!</p>
+								</div>
+							</div>
+						</div>
+					</li>
+
+					<li class="top-menu-link"><a href="#" class="brackets">Client Login</a></li>
+					<li class="top-menu-link"><a href="#" class="brackets">Select Region</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list">
+								<li><a href="https://bcrcorp.com.cn/education/market-analysis/eng/ac17bf6ebe5b84dda2bf40495632b4ac674d5f61"><i class="flag-icon flag-icon-au ml-10"></i> Australian</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/market-analysis/eng/ac17bf6ebe5b84dda2bf40495632b4ac674d5f61sim"><i class="flag-icon flag-icon-cn ml-10"></i> Simplified</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/market-analysis/eng/ac17bf6ebe5b84dda2bf40495632b4ac674d5f61tra"><i class="flag-icon flag-icon-cn ml-10"></i> Traditional</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="top-menu-link"><a href="#" class="brackets">Select Currency</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list">
+								<li><a href="https://bcrcorp.com.cn/currency/aud"><i class="flag-icon flag-icon-au ml-10"></i> AUD</a></li>
+								<li><a href="https://bcrcorp.com.cn/currency/usd"><i class="flag-icon flag-icon-us ml-10"></i> USD</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="top-menu-link"><a href="#" class="brackets" style="background-color: #6f9334;">Open Real Account</a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+</div>
+
+</header>										<section class="contentWrapper">
+			<section class="single-post-layout">
+	<div class="container-fluid">
+		<article class="single-post">
+			<h1 class="post-title">BCR DAILY COMMENTARIES 2018.3.28</h1>
+			<hr class="short-divider">
+			<p class="post-time">Posted on: <span class="time">2018-03-28</span> (Day) By <span class="author">BCR Market Analysis</span></p>
+
+							<img src="/images/education/market_commentary_image_library/market_analysis_image2.jpg" />
+			
+			<br>
+			<p>EURUSD: Time Frame H4</p>
+
+<p><img alt="" src="http://img.bacera.com.au/commentary/9d071ebc46a00e7a123507f6863fea43.png" /></p>
+
+<p>Tenkan-Sen and Kijun-Sen:&nbsp;long</p>
+
+<p>Chikou Span:&nbsp;long</p>
+
+<p>Ichimoku Cloud:&nbsp;long</p>
+
+<p>&nbsp;</p>
+
+<p>Mid-term trend: long</p>
+
+<p>Short-term trend: long</p>
+
+<p>Support 1: 1.2203&nbsp;Support 2: 1.2152</p>
+
+<p>Resistance 1: 1.2556&nbsp;Resistance 2: 1.2746</p>
+
+<p>&nbsp;</p>
+
+<p>GBPUSD: Time Frame H4</p>
+
+<p><img alt="" src="http://img.bacera.com.au/commentary/5b0a82e1ffa1e13edb1cfba4186001a0.png" style="height:359px; width:800px" /></p>
+
+<p>Tenkan-Sen and Kijun-Sen: balance</p>
+
+<p>Chikou Span: weak long</p>
+
+<p>Ichimoku Cloud: long</p>
+
+<p>&nbsp;</p>
+
+<p>Mid-term trend: long</p>
+
+<p>Short-term trend: weak long</p>
+
+<p>Support 1: 1.3911&nbsp;Support 2: 1.3710</p>
+
+<p>Resistance 1: 1.4278&nbsp;Resistance 2: 1.4344</p>
+
+<p>&nbsp;</p>
+
+<p>AUDUSD: Time Frame H4</p>
+
+<p><img alt="" src="http://img.bacera.com.au/commentary/6f741eff6a4ea528a0db8bb830dd4aae.png" /></p>
+
+<p>Tenkan-Sen and Kijun-Sen: weak short</p>
+
+<p>Chikou Span: weak short</p>
+
+<p>Ichimoku Cloud: short</p>
+
+<p>&nbsp;</p>
+
+<p>Mid-term trend: short</p>
+
+<p>Short-term trend: short</p>
+
+<p>Support 1: 0.7636&nbsp;Support 2: 0.7502</p>
+
+<p>Resistance 1: 0.7915&nbsp;Resistance 2: 0.7986</p>
+
+<p>&nbsp;</p>
+
+<p>XAUUSD: Time Frame H4</p>
+
+<p><img alt="" src="http://img.bacera.com.au/commentary/5467700e67d09f0ca527097354986324.png" /></p>
+
+<p>Tenkan-Sen and Kijun-Sen: long</p>
+
+<p>Chikou Span: long</p>
+
+<p>Ichimoku Cloud: long</p>
+
+<p>&nbsp;</p>
+
+<p>Mid-term trend: long</p>
+
+<p>Short-term trend: weak long</p>
+
+<p>Support 1: 1340.3&nbsp;Support 2: 1324.7</p>
+
+<p>Resistance 1: 1361.5&nbsp;Rsistance 2: 1365.8</p>
+
+			
+		</article>
+
+		<aside class="other-posts">
+			<h3 class="divider-with-text text-center"><span>Other Articles</span></h3>
+							<a href="/education/market-analysis/eng/cb8fdd1f52ca0b673f8fa85bf4603e090d61b86a">
+					<div class="card card-default">
+						
+						<img class="img-fluid" src="/images/education/market_commentary_image_library/market_analysis_image3.jpg" />
+						<div class="card-block">
+							<h4 class="card-title">BCR DAILY COMMENTARIES 2018.4.6</h4>
+							<p class="post-time">Posted on: <span class="time">2018-03-28</span> (Day)</p>
+							<p class="card-text">
+								EURUSD: Time Frame H4Tenkan-Sen and Kijun-Sen:longChikou Span:longIchimoku Cloud:longMid-term trend: longShort-term trend: longSupport 1: 1.2203Support 2: 1.2152Resistance 1: 1.2556Resistance 2: 1.2746GBPUSD:...
+							</p>
+						</div>
+					</div>
+				</a>
+							<a href="/education/market-analysis/eng/e0af3ce5b68c1b50498a1d0c0892bcc85a06138f">
+					<div class="card card-default">
+						
+						<img class="img-fluid" src="/images/education/market_commentary_image_library/market_analysis_image8.jpg" />
+						<div class="card-block">
+							<h4 class="card-title">BCR DAILY COMMENTARIES 2018.4.5</h4>
+							<p class="post-time">Posted on: <span class="time">2018-03-28</span> (Day)</p>
+							<p class="card-text">
+								EURUSD: Time Frame H4Tenkan-Sen and Kijun-Sen:longChikou Span:longIchimoku Cloud:longMid-term trend: longShort-term trend: longSupport 1: 1.2203Support 2: 1.2152Resistance 1: 1.2556Resistance 2: 1.2746GBPUSD:...
+							</p>
+						</div>
+					</div>
+				</a>
+							<a href="/education/market-analysis/eng/1f311fd7791c3a00b5fb14343e03edeb89b78b56">
+					<div class="card card-default">
+						
+						<img class="img-fluid" src="/images/education/market_commentary_image_library/market_analysis_image8.jpg" />
+						<div class="card-block">
+							<h4 class="card-title">BCR DAILY COMMENTARIES 2018.4.3</h4>
+							<p class="post-time">Posted on: <span class="time">2018-03-28</span> (Day)</p>
+							<p class="card-text">
+								EURUSD: Time Frame H4Tenkan-Sen and Kijun-Sen:longChikou Span:longIchimoku Cloud:longMid-term trend: longShort-term trend: longSupport 1: 1.2203Support 2: 1.2152Resistance 1: 1.2556Resistance 2: 1.2746GBPUSD:...
+							</p>
+						</div>
+					</div>
+				</a>
+							<a href="/education/market-analysis/eng/107292f0cd12bd189d13ca609495aa890eb58ca0">
+					<div class="card card-default">
+						
+						<img class="img-fluid" src="/images/education/market_commentary_image_library/market_analysis_image5.jpg" />
+						<div class="card-block">
+							<h4 class="card-title">BCR DAILY COMMENTARIES 2018.3.29</h4>
+							<p class="post-time">Posted on: <span class="time">2018-03-28</span> (Day)</p>
+							<p class="card-text">
+								EURUSD: Time Frame H4Tenkan-Sen and Kijun-Sen:longChikou Span:longIchimoku Cloud:longMid-term trend: longShort-term trend: longSupport 1: 1.2203Support 2: 1.2152Resistance 1: 1.2556Resistance 2: 1.2746GBPUSD:...
+							</p>
+						</div>
+					</div>
+				</a>
+							<a href="/education/market-analysis/eng/ac17bf6ebe5b84dda2bf40495632b4ac674d5f61">
+					<div class="card card-default">
+						
+						<img class="img-fluid" src="/images/education/market_commentary_image_library/market_analysis_image2.jpg" />
+						<div class="card-block">
+							<h4 class="card-title">BCR DAILY COMMENTARIES 2018.3.28</h4>
+							<p class="post-time">Posted on: <span class="time">2018-03-28</span> (Day)</p>
+							<p class="card-text">
+								EURUSD: Time Frame H4Tenkan-Sen and Kijun-Sen:longChikou Span:longIchimoku Cloud:longMid-term trend: longShort-term trend: longSupport 1: 1.2203Support 2: 1.2152Resistance 1: 1.2556Resistance 2: 1.2746GBPUSD:...
+							</p>
+						</div>
+					</div>
+				</a>
+					</aside>
+
+	</div>
+</section>
+					</section>
+
+		<footer class="footer" style="margin-top: 30px">
+			<section class="container">
+	<div class="footer-logo">
+		<img src="/images/logo-white.png" class="img-fluid">
+	</div>
+	<div class="divider hidden-md-down"></div>
+	<div class="footer-nav hidden-md-down">
+		<div class="footer-nav-item">
+			<h6 class="category">CFD Trading</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-basics">CFD Basics</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-forex">Forex</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-precious-metals">Precious Metals</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-commodities">Commodities</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-indices">Indices</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-shares">Stocks</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/account-overview">Account Overview</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/standard-account">Standard Account</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/pro-account">Pro Account</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/demo-account">Demo Account</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/contract-specifications">Contract Specifications</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/swap-information">Swap Information</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/trading-examples">Trading Examples</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">Trading Platform</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-windows">Windows <i class="fa fa-windows"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mac">Mac <i class="fa fa-apple"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-android">Android <i class="fa fa-android"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-ios">iPhone <i class="fa fa-apple"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-tablet">iPad / Tablets</a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-guide">BCR Trader Desktop</a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mobile-guide">BCR Trader Mobile</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">Client Resources</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/client-resources/funding-information">Funding Information</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/withdrawal-instructions">Withdrawal</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/legal-documents">Legal Documents</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/trading-rules">Trading Rules</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/glossary">Trading Glossary</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/faqs">FAQs</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/event-notices">Event Notices</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/market-news">Market News</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/economic-calendar">Economic Calendar</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/position-indicator">Position Indicator</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">Education</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/education/forex-introduction">Forex Introduction</a></li>
+				<li><a href="https://bcrcorp.com.cn/education/forex-trading-basics">Forex Trading Basics</a></li>
+				<li><a href="https://bcrcorp.com.cn/education/fundamental-analysis">Fundamental Analysis</a></li>
+				<li><a href="https://bcrcorp.com.cn/education/technical-analysis">Technical Analysis</a></li>
+				<li><a href="https://bcrcorp.com.cn/education/market-analysis">Market Analysis</a></li>
+				
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">About Us</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/about-us/company-profile">Company Profile</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/why-choose-us">Why Choose Us?</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/contact-us">Contact Us</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/risk-disclosure">Risk Disclosure</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/privacy-policy">Privacy Policy</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/rg227">RG 227</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">Promotions</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/promotions/bonus">Bonus Promotion</a></li>
+				<li><a href="https://bcrcorp.com.cn/promotions/iphone">iPhone Promotion</a></li>
+				<li><a href="https://bcrcorp.com.cn/promotions/reward-points">Reward Points</a></li>
+				<li><a href="https://bcrcorp.com.cn/affiliates" >Affiliates</a></li>
+			</ul>
+		</div>
+		<hr>
+	</div>
+	<div class="divider"></div>
+
+	<div class="footer-contact">
+		<div class="item text-xs-center">
+			<p class="note">Suite 802, Level 8, 99 Mount Street<br>North Sydney, NSW 2060 Australia</p>
+		</div>
+		<div class="item">
+			<h4><i class="fa fa-phone-square"></i>&nbsp; +61 2 8282 5738</h4>
+		</div>
+		<div class="item">
+			<h4><i class="fa fa-fax"></i>&nbsp; +61 2 8088 7423</h4>
+		</div>
+	</div>
+	<div class="divider"></div>
+
+	<article class="footer-info">
+
+		<p class="note"><strong>Risk Warning:</strong> Trading Contracts for Difference on margin carries a high level of risk, and may not be suitable for all investors. The possibility exists that you may lose more than your investment. BCR makes no recommendations as to the merits of any financial product referred to in this website, emails, or related material(s). Information contained on this website does not take into consideration prospective client's trading objectives, financial situation, or investment needs. Before deciding to trade the Contracts for Difference offered by BCR, please ensure that you read our <a href="/pdf/en/BA_doc_3071.pdf" target="_blank" class="text-white">Product Disclosure Statement</a> and the <a href="/pdf/en/BA_doc_3081.pdf" target="_blank" class="text-white">Financial Services Guide</a>, as well as seek independent professional financial advice to ensure you fully understand the risk involved before trading. All information on this website is subject to change without notice.</p>
+
+		<p class="note"> BCR is a registered business name of Bacera Co Pty Ltd, Australian Company Number 130 877 137, Australian Financial Services Licence Number 328794.</p>
+
+		
+
+		<p class="note">Apple, the Apple logo, Mac, iPhone, iPad, iPod touch, are trademarks of Apple Inc, registered in the US and other countries. App Store is a service mark of Apple Inc.</p>
+
+		<p class="note">Android is a trademark of Google Inc.</p>
+
+		<p class="note">Windows is a registered trademark of Microsoft Corporation in the United States and other countries.</p>
+
+	</article>
+	<div class="divider"></div>
+	<div class="hidden-md-up">
+		<p><a href="https://bcrcorp.com.cn/client-resources/funding-information" class="btn btn-warning-outline btn-full text-warning"><span class="fa fa-credit-card"></span>&nbsp; Funding Infomation</a></p>
+		<p><a href="http://m.bacera.com.au?f=2" class="btn btn-secondary-outline btn-full"><span class="fa fa-mobile"></span>&nbsp; Mobile Version</a></p>
+	</div>
+	<div class="additional-links">
+		<ul class="">
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/terms-of-use/en">Terms of Use</a> /</li>
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/contact-us/en">Site Map</a> /</li>
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/privacy-policy/en">Privacy Policy</a> /</li>
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/risk-disclosure/en">Risk Disclosure</a> /</li>
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/client-resources/funding-information/en">Funding Information</a> /</li>
+			<li class="list-inline-item"><a href="http://m.bacera.com.au?f=2">Mobile Version</a></li>
+			<li class="list-inline-item">&copy; Bacera Co Pty Ltd. 2018</li>
+		</ul>
+	</div>
+</section>
+
+
+<script src="/js/webslidemenu.js"></script>
+<script src="/js/tooltip.js"></script>
+<!-- Touch Effect on the Image Caption Hover -->
+<script src="/js/modernizr.custom.js"></script>
+<script src="/js/toucheffects.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="/js/ie10-viewport-bug-workaround.js"></script>
+<!-- Collapse Js -->
+<script src="/js/collapse.js"></script>
+<script src="/js/index.js"></script>
+<!-- Country Select -->
+<script src="/js/countrySelect.js"></script>
+<!-- Bouncing Effect -->
+<script src="/js/effects/ba-throttle-debounce.js"></script>
+<!-- Sticky Table Header & Column -->
+<script src="/js/effects/sticky-table.js"></script>
+
+
+<script type="text/javascript">
+	jQuery("#country").countrySelect({
+		preferredCountries: ['au', 'cn', 'us']
+	});
+
+	// window.sr = ScrollReveal();
+	// sr.reveal('.footer-links li', {duration: 500}, 50);
+
+	// jQuery(".navbar-fixed-top").autoHidingNavbar();
+	// 
+jQuery(document).ready(function(e) {
+	
+	jQuery('input#currency-switch').on('change',function(){
+		if(jQuery(this).is(':checked'))
+		{
+			//alert(jQuery(this).val());
+			set_currency('usd');
+		}else
+		{
+			//alert(jQuery(this).val()+'kk');
+			set_currency('aud');
+		}
+	});
+});
+function set_currency(currency)
+{
+	// /currency
+	jQuery.get("/currency/"+currency, function() {
+		setTimeout(function(){ document.location.reload(true); }, 1000);		
+	});
+}
+</script>		</footer>	
+	</section>
+	
+	<div class="" style="position:fixed; z-index:2000;  right: 10px; bottom: 10px;  overflow: hidden; border: 0px; padding: 0px; background: transparent; cursor: pointer;">
+		<a  href="javascript:void(0);" onclick="window.open('http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzgwMDE4NjgwN180ODA2OThfODAwMTg2ODA3XzJf','pagename','resizable,height=520,width=740'); return false;" >
+						<img src="/images/qq_53.jpg" style="width:100px;"/>
+		</a>
+	</div>
+	
+	<script type="text/javascript" src="/js/libs.js"></script>
+		<script src="/js/owl.carousel.js"></script>
+<script src="/js/effects/magnify.js"></script>
+<script type="text/javascript">
+
+jQuery(document).ready(function(){
+	jQuery('.content-slider').owlCarousel({
+		baseClass: "cs-",
+		nav: true,
+		navText: ["<span class=\"fa fa-chevron-left\"></span>", "<span class=\"fa fa-chevron-right\"></span>"],
+		responsiveClass: true,
+		responsive:{
+			0:{
+				items:1,
+				nav:false
+			},
+			480:{
+				items:1,
+				nav:false
+			},
+			767:{
+				items:1,
+				nav:false
+			},
+			768:{
+				items:2,
+				nav:false
+			},
+			992:{
+				items:3,
+				nav:false
+			},
+			1024:{
+				items:3,
+				nav:false
+			},
+			1200:{
+				items:3,
+				nav:true,
+				loop:false
+			}
+		},
+	});
+});
+</script>
+	<script>
+	$(document).ready(function () {
+		//BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 800186807, selector: 'BizQQWPA'});
+	})
+	</script>
+</body>
+</html>
+
+

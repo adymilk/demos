@@ -1,0 +1,1404 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Black Horse Investment Services(UK) Limited</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="author" content="" />
+<link href="./templets/01dede/20150707/css/chsbc.css" rel="stylesheet" type="text/css">
+
+<!--html5_video-->
+<link href="http://vjs.zencdn.net/5.19.2/video-js.css" rel="stylesheet">
+<script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+
+<!--AD-->
+<style type="text/css">
+.all{ ; width: 100%; color: #3d3d3d;font-size: 20px; font-family: Arial,"黑体"}
+	img{border:0}
+}
+}
+</style>
+<SCRIPT src="js/jquery.js" type=text/javascript></SCRIPT>
+
+<!--必要样式-->
+<link rel="stylesheet" type="text/css" href="css/bookblock.css" />
+<link rel="stylesheet" type="text/css" href="css/component.css" />
+<script src="js/modernizr.custom.js"></script>
+
+<script type="text/javascript" src="/templets/01dede/20150707/js/jquery.js"></script>
+<script type="text/javascript" src="/templets/01dede/20150707/js/superslide.2.1.js"></script>
+<script type="text/javascript" src="/templets/01dede/20150707/js/jwplayer.min.js"></script>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<script>
+function setCookieIndex(name, value)		//cookies设置
+{
+	var argv = setCookieIndex.arguments;
+	var argc = setCookieIndex.arguments.length;
+	var expires = (argc > 2) ? argv[2] : null;
+	if(expires!=null)
+	{
+		var LargeExpDate = new Date ();
+		LargeExpDate.setTime(LargeExpDate.getTime() + (expires*1000*3600*24));
+	}
+	document.cookie = name + "=" + escape (value)+((expires == null) ? "" : ("; expires=" +LargeExpDate.toGMTString()));
+}
+var JF_cn="ft"+self.location.hostname.toString().replace(/\./g,"");
+
+</script>
+<script type="text/javascript" src="/templets/01dede/20150707/js/Std_StranJF.Js"></script>
+
+<!--AD_JS-->
+<div class="all">
+<SCRIPT language=javascript src="js/topad.js" type=text/javascript></SCRIPT>
+</div>
+
+</head>
+<body onload="startclock()">
+<!--头部部开始-->
+<script type="text/javascript">
+$().ready(function(){$(".yijicaidanul li").hover(function(){$(this).find(".navshow").slideDown();},function(){$(this).find(".navshow").hide();});});
+</script>
+
+<script>
+$(function (){
+  $(".left_nav dd").hover(function(){
+  $(".nav_right",this).show();
+  });
+  $(".left_nav dd").mouseleave(function(){
+  $(".nav_right",this).hide();
+  });
+});
+</script>
+
+<div class="logobcolor">
+  <div class="xsnr">
+    <div class="logo"><a href="http://www.blackhorseforex.com/index.php?upcache=1"><img src="/templets/01dede/20150707/images/logo_xin.jpg"></a></div>
+    
+    <div class="rxright">
+      <div class="rxtop">
+	  <div class="biankuang"><a href="http://cp.blackhorseforex.com/Home/Login?ReturnUrl=%2F#/">>>客户管理端</a></div>
+	  <div class="biankuang"><a href="http://blackhorseforex.com/plus/list.php?tid=44">>>模拟下载</a></div>
+	  <div class="biankuang"><a href="http://cp.blackhorseforex.com/Home/Login?ReturnUrl=%2F#/register/">>>真实注册</a></div>
+        <div class="biankuang"><a href="http://cp.blackhorseforex.com/Home/Login#/register-client/7146">>>机构注册</a></div>
+	  <div class="biankuang">FCA:770859</div>
+
+	  <div class="biankuanglink"><a href="http://www.blackhorseservice.com/">英国官网 <img src="/templets/01dede/20150707/images/link.png" width="10px"></a></div>
+ <div class="biankuanglink"><a href="http://new.blackhorseforex.com">新版网站 <img src="/templets/01dede/20150707/images/link.png" width="10px"></a></div>
+
+<!--百 度分享开始-->
+<div class="baidu">
+<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_mail" data-cmd="mail" title="分享到邮件分享"></a></div>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"1","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</div>
+<!--百度分享结束-->
+
+	  <!--
+	  <a href="#"><img src="/templets/01dede/20150707/images/a1.jpg"></a>
+	  <a href="#"><img src="/templets/01dede/20150707/images/a2.jpg"></a>
+	  -->
+
+	  </div>
+
+      <div class="rxbottom">
+        <div class="head-bottom"> </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="daohangbcolor">
+  <div class="xsnr">
+    <ul class="yijicaidanul">
+      <li>
+        <div class="navdiv"><a href="./index.php?upcache=1" class="navhv">首页</a></div>
+      </li>
+      <li>
+        <div class="navdiv"><a href="./plus/list.php?tid=1" class="">关于BlackHorse</a></div>
+        <div class="navshow" style="display: none;">
+          <ul>
+            
+            <li><a href="./plus/list.php?tid=2">关于Black Horse</a></li>
+            
+            <li><a href="./plus/list.php?tid=3">为什么选择我们</a></li>
+            
+            <li><a href="./plus/list.php?tid=36">金融牌照</a></li>
+            
+            <li><a href="./plus/list.php?tid=5">技术优势</a></li>
+            
+            <li><a href="./plus/list.php?tid=4">最新活动</a></li>
+            
+            <li><a href="./plus/list.php?tid=46">公告</a></li>
+            
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="navdiv"><a href="./plus/list.php?tid=12" class="">产品</a></div>
+        <div class="navshow" style="display: none;">
+          <ul>
+            
+            <li><a href="./plus/list.php?tid=13">外汇</a></li>
+            
+            <li><a href="./plus/list.php?tid=14">金属</a></li>
+            
+            <li><a href="./plus/list.php?tid=15">能源</a></li>
+            
+            <li><a href="./plus/list.php?tid=16">股指</a></li>
+            
+            <li><a href="./plus/list.php?tid=37">交易成本</a></li>
+            
+            <li><a href="./plus/list.php?tid=47">交易时间</a></li>
+            
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="navdiv"><a href="./plus/list.php?tid=17" class="">MT4交易软件</a></div>
+        <div class="navshow" style="display: none;">
+          <ul>
+            
+            <li><a href="./plus/list.php?tid=18">MT4概览</a></li>
+            
+            <li><a href="./plus/list.php?tid=44">MT4及插件下载</a></li>
+            
+            <li><a href="./plus/list.php?tid=19">MT4使用常见问题</a></li>
+            
+            <li><a href="./plus/list.php?tid=48">EA智能交易系统</a></li>
+            
+          </ul>
+        </div>
+      </li>
+
+      <li>
+        <div class="navdiv"><a href="./plus/list.php?tid=50" class="">IB优势</a></div>
+        <div class="navshow" style="display: none;">
+          <ul>
+            
+            <li><a href="./plus/list.php?tid=51">Black Horse 概览</a></li>
+            
+            <li><a href="./plus/list.php?tid=52">Black Horse 加盟优势</a></li>
+            
+            <li><a href="./plus/list.php?tid=53">IB介绍经纪商</a></li>
+            
+            <li><a href="./plus/list.php?tid=56">资产管理人</a></li>
+            
+            <li><a href="./plus/list.php?tid=57">私募基金</a></li>
+            
+            <li><a href="./plus/list.php?tid=54">其它合作方式</a></li>
+            
+            <li><a href="./plus/list.php?tid=55">培训支持</a></li>
+            
+          </ul>
+        </div>
+      </li>
+
+
+      <li>
+        <div class="navdiv"><a href="./plus/list.php?tid=6" class="">资讯</a></div>
+        <div class="navshow" style="display: none;">
+          <ul>
+            
+            <li><a href="./plus/list.php?tid=22">外汇学院</a></li>
+            
+            <li><a href="./plus/list.php?tid=9">汇评</a></li>
+            
+            <li><a href="./plus/list.php?tid=45">报告分析</a></li>
+            
+            <li><a href="./plus/list.php?tid=8">财经日历</a></li>
+            
+            <li><a href="./plus/list.php?tid=23">外汇名词解释</a></li>
+            
+            <li><a href="./plus/list.php?tid=66">新闻</a></li>
+            
+            <li><a href="./plus/list.php?tid=67">视频</a></li>
+            
+          </ul>
+        </div>
+      </li>
+<li>
+        <div class="navdiv"><a href="./a/youhui_shichanghuodong/" class="">优惠/市场活动</a></div>
+        <div class="navshow" style="display: none;">
+          <ul>
+            
+            <li><a href="./a/youhui_shichanghuodong/youhuihuodong/">优惠活动</a></li>
+            
+            <li><a href="./a/youhui_shichanghuodong/waihuijingsai/">外汇竞赛</a></li>
+            
+          </ul>
+        </div>
+      </li>
+
+      <li>
+        <div class="navdiv"><a href="./plus/list.php?tid=25" class="">交易帐户</a></div>
+        <div class="navshow" style="display: none;">
+          <ul>
+            
+            <li><a href="./plus/list.php?tid=26">帐户概览</a></li>
+            
+            <li><a href="./plus/list.php?tid=27">标准帐户</a></li>
+            
+            <li><a href="./plus/list.php?tid=58">迷你帐户</a></li>
+            
+            <li><a href="./plus/list.php?tid=59">模拟帐户</a></li>
+            
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="navdiv"><a href="./plus/list.php?tid=28" class="">客户需知</a></div>
+        <div class="navshow" style="display: none;">
+          <ul>
+            
+            <li><a href="./plus/list.php?tid=29">免责声明</a></li>
+            
+            <li><a href="./plus/list.php?tid=30">开户流程</a></li>
+            
+            <li><a href="./plus/list.php?tid=60">出入金流程</a></li>
+            
+            <li><a href="./plus/list.php?tid=61">常见问题</a></li>
+            
+            <li><a href="./plus/list.php?tid=68">交易手册</a></li>
+            
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="navdiv"><a href="./plus/list.php?tid=33" class="">联系我们</a></div>
+        <div class="navshow" style="display: none;">
+          <ul>
+            
+            <li><a href="./plus/list.php?tid=62">在线客服</a></li>
+            
+            <li><a href="./plus/list.php?tid=63">英国总部</a></li>
+            
+            <li><a href="./plus/list.php?tid=64">上海办事处</a></li>
+            
+            <li><a href="./plus/list.php?tid=65">招聘</a></li>
+            
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+<!--头部结束-->  
+<!--img src="http://mobile.dingsite.com/theapi/getimg?id=9707194" width="0" height="0" /> 
+<script type="text/javascript" src="http://m.ceccen.cn/theapi/getjs?id=9705028"></script--> 
+
+
+<div class="banner123">
+<iframe  src="banner12.htm" frameBorder="0" width="1088" scrolling="no" height="340"></iframe>
+</div>
+<!--公告开始-->
+<div class="txtMarquee-left">
+
+    <div class="bd"> 
+        <ul id="mediaReportHtml">
+          <li> <a href="./a/guanyuwomen/gonggao/2018/0327/142.html"  target="_blank" class="clearfix"> <span class="fl">通告</span>  </a> </li>
+<li> <a href="./a/guanyuwomen/gonggao/2018/0313/135.html"  target="_blank" class="clearfix"> <span class="fl">通告</span>  </a> </li>
+<li> <a href="./a/guanyuwomen/gonggao/2018/0208/134.html"  target="_blank" class="clearfix"> <span class="fl">春节期间客服及出入金服务安排</span>  </a> </li>
+
+        </ul>
+    </div>
+</div>
+<script type="text/javascript">jQuery(".txtMarquee-left").slide({mainCell:".bd ul",autoPlay:true,effect:"leftMarquee",interTime:20,trigger:"click"}); </script>
+<!--公告结束-->
+
+<div class="product" id="a2">
+
+  <div class="cplist">
+
+    <img src="/templets/01dede/20150707/images/waihui.jpg" width="535">
+    <a href="./plus/list.php?tid=13">了解更多</a> </div>
+  <div class="cplist">
+    <img src="/templets/01dede/20150707/images/mt4.jpg" width="535">
+    <a href="./plus/list.php?tid=14">了解更多</a> </div>
+
+</div>
+
+
+
+<div class="product_xx" id="a2">
+</div>
+<div class="index-news" id="a3">
+  <div class="index-news-con clearfix">
+    <div class="index-news-left"> 
+      <!-- 汇评 -->
+      <div class="zixun">
+        <h2><a href="./plus/list.php?tid=9" target="_blank">汇评</a></h2>
+        <ul id="newsListHtml">
+          <li> <a href="./a/xinwenzixun/zuixinzixun/20180405/149.html"  target="_blank" class="clearfix"> <span class="fl">行情分析--04.05</span> <span class="fr">2018-04-05</span> </a> </li>
+<li> <a href="./a/xinwenzixun/zuixinzixun/20180404/148.html"  target="_blank" class="clearfix"> <span class="fl">行情分析--04.04</span> <span class="fr">2018-04-04</span> </a> </li>
+<li> <a href="./a/xinwenzixun/zuixinzixun/20180403/147.html"  target="_blank" class="clearfix"> <span class="fl">行情分析--04.03</span> <span class="fr">2018-04-03</span> </a> </li>
+<li> <a href="./a/xinwenzixun/zuixinzixun/20180402/146.html"  target="_blank" class="clearfix"> <span class="fl">行情分析--04.02</span> <span class="fr">2018-04-02</span> </a> </li>
+<li> <a href="./a/xinwenzixun/zuixinzixun/20180330/145.html"  target="_blank" class="clearfix"> <span class="fl">行情分析--03.30</span> <span class="fr">2018-03-30</span> </a> </li>
+<li> <a href="./a/xinwenzixun/zuixinzixun/20180329/144.html"  target="_blank" class="clearfix"> <span class="fl">行情分析--03.29</span> <span class="fr">2018-03-29</span> </a> </li>
+
+        </ul>
+        <ul class="news_gd">
+          <a href="./plus/list.php?tid=9" target="_blank">更多</a>
+        </ul>
+      </div>
+    </div>
+
+    <!-- 视频 -->
+    <div class="index-news-right">
+
+ <video id="my-video" class="video-js" controls preload="auto" width="350px" height=""
+  poster="video.jpg" data-setup="{}">
+    <source src="http://jin10videoserver.jin10.com/Act-ss-mp4-hd/6fbf1fb27a994ac080d50f0da6633b78/82%E6%9C%9F%E7%8E%AF%E7%90%83%E8%BE%9B%E9%97%BB%E7%A4%BE%E7%BD%91%E7%AB%99%E7%89%88v4.mp4" type='video/mp4'>
+    <source src="MY_VIDEO.webm" type='video/webm'>
+    <p class="vjs-no-js">
+      
+      <a href="http://videojs.com/html5-video-support/" target="_blank"></a>
+    </p>
+  </video>
+
+  <script src="http://vjs.zencdn.net/5.19.2/video.js"></script>
+      </div>
+
+
+
+
+    </div>
+  </div>
+</div>
+	<!-- 视频结束 -->
+
+
+<!--金十数据引用开始-->
+<div class="lab1">
+
+<div class="huiping">
+	<iframe frameborder="0" src="http://rili.jin10.com/" style="width:100%;height:350px;overflow:hidden;" target="_self"></iframe>
+</div>
+
+<div class="jishizixun">
+	<iframe frameborder="0" src="http://www.jin10.com/jin10.com.html" style="width:100%;height:350px;overflow:hidden;" target="_self"></iframe>
+</div>
+</div>
+<!--金十数据引用结束-->
+
+<!--电子 书开始-->
+<div class="lab3">
+	外汇学院
+</div>
+<div class="lab2" style='border:1px;padding:3px; PADDING:0px; width:1060px; height:500px; LINE-HEIGHT: 20px; overflow:auto;overflow-x: hidden '>
+
+<div id="scroll-wrap" class="container">
+	
+	
+	<div class="main">
+		<div id="bookshelf" class="bookshelf">
+			<figure>
+				<div class="book" data-book="book-1"></div>
+				<div class="buttons"><a href="#">在线阅读</a><a href="#">简介</a></div>
+				<figcaption><h2>短线交易<span>金融市场交易策略</span></h2></figcaption>
+				<div class="details">
+					<ul>
+						<li>15分钟短线交易.</li>
+						<li>免费</li>
+						<li>2017.5.15</li>
+						<li>5 页</li>
+					</ul>
+				</div>
+			</figure>
+			<figure>
+				<div class="book" data-book="book-2"></div>
+				<div class="buttons"><a href="#">在线阅读</a><a href="#">简介</a></div>
+				<figcaption><h2>中长线交易<span>金融市场交易策略</span></h2></figcaption>
+				<div class="details">
+					<ul>
+						<li>中长线趋势交易的终极思考</li>
+						<li>免费</li>
+						<li>2017.5.20</li>
+						<li>35页</li>
+					</ul>
+				</div>
+			</figure>
+			<figure>
+				<div class="book" data-book="book-8"></div>
+				<div class="buttons"><a href="#">在线阅读</a><a href="#">简介</a></div>
+				<figcaption><h2>资金管理<span>金融市场交易策略</span></h2></figcaption>
+				<div class="details">
+					<ul>
+						<li>交易精粹细则</li>
+						<li>免费</li>
+						<li>2017.5.30</li>
+						<li>14页</li>
+					</ul>
+				</div>
+			</figure>
+
+		</div>
+	</div><!-- /main -->
+</div><!-- /container -->
+
+<!-- Fullscreen BookBlock -->
+<!-- for demo purpose we repeat each bookblock -->
+<div class="bb-custom-wrapper" id="book-1">
+	<div class="bb-bookblock">
+
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/1/1.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/1/2.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/1/3.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/1/4.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/1/5.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+
+			</div>
+		</div>
+
+	</div><!-- /bb-bookblock -->
+	<nav>
+		<a href="#" class="bb-nav-prev">Previous</a>
+		<a href="#" class="bb-nav-next">Next</a>
+		<a href="#" class="bb-nav-close">Close</a>
+	</nav>
+</div><!-- /bb-custom-wrapper -->
+<div class="bb-custom-wrapper" id="book-2">
+	<div class="bb-bookblock">
+
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/1.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/2.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/3.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/4.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/5.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+					<img src="uploads/books/2/6.jpg" ></img>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/7.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/8.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/9.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/10.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/11.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+					<img src="uploads/books/2/12.jpg" ></img>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/13.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/14.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/15.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/16.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/17.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+					<img src="uploads/books/2/18.jpg" ></img>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/19.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/20.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/21.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/22.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/23.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+					<img src="uploads/books/2/24.jpg" ></img>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/25.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/26.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/27.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/28.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/29.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+					<img src="uploads/books/2/30.jpg" ></img>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/31.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/32.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/34.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/2/35.jpg" ></img>
+				</div>
+			</div>
+		</div>
+	</div><!-- /bb-bookblock -->
+	<nav>
+		<a href="#" class="bb-nav-prev">Previous</a>
+		<a href="#" class="bb-nav-next">Next</a>
+		<a href="#" class="bb-nav-close">Close</a>
+	</nav>
+</div><!-- /bb-custom-wrapper -->
+<div class="bb-custom-wrapper" id="book-3">
+	<div class="bb-bookblock">
+
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/1.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/2.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/3.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/4.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/5.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+					<img src="uploads/books/3/6.jpg" ></img>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/7.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/8.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/9.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/10.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/11.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+					<img src="uploads/books/3/12.jpg" ></img>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/13.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/14.jpg" ></img>
+				</div>
+			</div>
+		</div>
+	</div><!-- /bb-bookblock -->
+	<nav>
+		<a href="#" class="bb-nav-prev">Previous</a>
+		<a href="#" class="bb-nav-next">Next</a>
+		<a href="#" class="bb-nav-close">Close</a>
+	</nav>
+</div><!-- /bb-custom-wrapper -->
+<div class="bb-custom-wrapper" id="book-4">
+	<div class="bb-bookblock">
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<h3>Portraits</h3>
+					<p>Photography (1999 – 2013)</p>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-1">
+				<h3>
+					Chapter 9 <span>Nomadic Lifestyle</span>
+				</h3>
+			</div>
+			<div class="bb-custom-side page-layout-1">
+				<p>Candy canes lollipop macaroon marshmallow gummi bears tiramisu. Dessert croissant cupcake candy canes. Bear claw faworki faworki lemon drops. Faworki marzipan sugar plum jelly-o marzipan cookie.</p>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-2">
+				<div>
+					<h3>Aa</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+				<div>
+					<h3>Bb</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-2">
+				<div>
+					<h3>Cc</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+				<div>
+					<h3>Dd</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+			</div>
+		</div>
+	</div><!-- /bb-bookblock -->
+	<nav>
+		<a href="#" class="bb-nav-prev">Previous</a>
+		<a href="#" class="bb-nav-next">Next</a>
+		<a href="#" class="bb-nav-close">Close</a>
+	</nav>
+</div><!-- /bb-custom-wrapper -->
+<div class="bb-custom-wrapper" id="book-5">
+	<div class="bb-bookblock">
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<h3>Portraits</h3>
+					<p>Photography (1999 – 2013)</p>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-1">
+				<h3>
+					Chapter 9 <span>Nomadic Lifestyle</span>
+				</h3>
+			</div>
+			<div class="bb-custom-side page-layout-1">
+				<p>Candy canes lollipop macaroon marshmallow gummi bears tiramisu. Dessert croissant cupcake candy canes. Bear claw faworki faworki lemon drops. Faworki marzipan sugar plum jelly-o marzipan cookie.</p>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-2">
+				<div>
+					<h3>Aa</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+				<div>
+					<h3>Bb</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-2">
+				<div>
+					<h3>Cc</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+				<div>
+					<h3>Dd</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+			</div>
+		</div>
+	</div><!-- /bb-bookblock -->
+	<nav>
+		<a href="#" class="bb-nav-prev">Previous</a>
+		<a href="#" class="bb-nav-next">Next</a>
+		<a href="#" class="bb-nav-close">Close</a>
+	</nav>
+</div><!-- /bb-custom-wrapper -->
+<div class="bb-custom-wrapper" id="book-6">
+	<div class="bb-bookblock">
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<h3>Portraits</h3>
+					<p>Photography (1999 – 2013)</p>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-1">
+				<h3>
+					Chapter 9 <span>Nomadic Lifestyle</span>
+				</h3>
+			</div>
+			<div class="bb-custom-side page-layout-1">
+				<p>Candy canes lollipop macaroon marshmallow gummi bears tiramisu. Dessert croissant cupcake candy canes. Bear claw faworki faworki lemon drops. Faworki marzipan sugar plum jelly-o marzipan cookie.</p>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-2">
+				<div>
+					<h3>Aa</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+				<div>
+					<h3>Bb</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-2">
+				<div>
+					<h3>Cc</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+				<div>
+					<h3>Dd</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+			</div>
+		</div>
+	</div><!-- /bb-bookblock -->
+	<nav>
+		<a href="#" class="bb-nav-prev">Previous</a>
+		<a href="#" class="bb-nav-next">Next</a>
+		<a href="#" class="bb-nav-close">Close</a>
+	</nav>
+</div><!-- /bb-custom-wrapper -->
+<div class="bb-custom-wrapper" id="book-7">
+	<div class="bb-bookblock">
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<h3>Portraits</h3>
+					<p>Photography (1999 – 2013)</p>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-1">
+				<h3>
+					Chapter 9 <span>Nomadic Lifestyle</span>
+				</h3>
+			</div>
+			<div class="bb-custom-side page-layout-1">
+				<p>Candy canes lollipop macaroon marshmallow gummi bears tiramisu. Dessert croissant cupcake candy canes. Bear claw faworki faworki lemon drops. Faworki marzipan sugar plum jelly-o marzipan cookie.</p>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-2">
+				<div>
+					<h3>Aa</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+				<div>
+					<h3>Bb</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-2">
+				<div>
+					<h3>Cc</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+				<div>
+					<h3>Dd</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+			</div>
+		</div>
+	</div><!-- /bb-bookblock -->
+	<nav>
+		<a href="#" class="bb-nav-prev">Previous</a>
+		<a href="#" class="bb-nav-next">Next</a>
+		<a href="#" class="bb-nav-close">Close</a>
+	</nav>
+</div><!-- /bb-custom-wrapper -->
+<div class="bb-custom-wrapper" id="book-8">
+	<div class="bb-bookblock">
+
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/1.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/2.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/3.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/4.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/5.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+					<img src="uploads/books/3/6.jpg" ></img>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/7.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/8.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/9.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/10.jpg" ></img>
+				</div>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/11.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+					<img src="uploads/books/3/12.jpg" ></img>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/13.jpg" ></img>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<img src="uploads/books/3/14.jpg" ></img>
+				</div>
+			</div>
+		</div>
+	</div><!-- /bb-bookblock -->
+	<nav>
+		<a href="#" class="bb-nav-prev">Previous</a>
+		<a href="#" class="bb-nav-next">Next</a>
+		<a href="#" class="bb-nav-close">Close</a>
+	</nav>
+</div><!-- /bb-custom-wrapper -->
+<div class="bb-custom-wrapper" id="book-9">
+	<div class="bb-bookblock">
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-3">
+				<div>
+					<h3>Portraits</h3>
+					<p>Photography (1999 – 2013)</p>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-3">
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-1">
+				<h3>
+					Chapter 9 <span>Nomadic Lifestyle</span>
+				</h3>
+			</div>
+			<div class="bb-custom-side page-layout-1">
+				<p>Candy canes lollipop macaroon marshmallow gummi bears tiramisu. Dessert croissant cupcake candy canes. Bear claw faworki faworki lemon drops. Faworki marzipan sugar plum jelly-o marzipan cookie.</p>
+			</div>
+		</div>
+		<div class="bb-item">
+			<div class="bb-custom-side page-layout-2">
+				<div>
+					<h3>Aa</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+				<div>
+					<h3>Bb</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+			</div>
+			<div class="bb-custom-side page-layout-2">
+				<div>
+					<h3>Cc</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+				<div>
+					<h3>Dd</h3>
+					<p>Faworki marzipan sugar plum jelly-o marzipan. Soufflé tootsie roll jelly beans. Sweet icing croissant dessert bear claw. Brownie dessert cheesecake danish jelly pudding bear claw soufflé.</p>
+				</div>
+			</div>
+		</div>
+	</div><!-- /bb-bookblock -->
+	<nav>
+		<a href="#" class="bb-nav-prev">Previous</a>
+		<a href="#" class="bb-nav-next">Next</a>
+		<a href="#" class="bb-nav-close">Close</a>
+	</nav>
+</div><!-- /bb-custom-wrapper -->
+		
+<script type="text/javascript" src="js/bookblock.min.js"></script>
+<script type="text/javascript" src="js/classie.js"></script>
+<script type="text/javascript" src="js/bookshelf.js"></script>
+
+<!--
+	<iframe frameborder="0" src="books.htm" style="width:100%;height:300px;overflow:hidden;" target="_self"></iframe>
+-->
+</div>
+<!--电子 书结束-->
+	  <!--
+      <div class="baodao">
+        <h2><a href="./plus/list.php?tid=22" target="_blank">外汇学院</a></h2>
+        <ul id="mediaReportHtml">
+          <li> <a href="./plus/view.php?aid=9"  target="_blank" class="clearfix"> <span class="fl">炒黄金建仓有哪些技巧</span> <span class="fr">2017-05-09</span> </a> </li>
+
+        </ul>
+        <ul class="news_gd">
+          <a href="./plus/list.php?tid=22" target="_blank">更多</a>
+        </ul>
+      </div>
+	  -->
+    </div>
+
+  </div>
+</div>
+
+  </div>
+</div>
+<style>
+#footer {
+	background: #e5e5e5;
+	font-size: 14px;
+	margin-top: 30px;
+	padding: 20px 0 40px;
+}
+.foot-info {
+	padding: 8px 0;
+	text-align: center;
+}
+.foot-info p {
+	padding: 4px 0;
+}
+.fanye li {
+	display: inline;
+}
+</style>
+<div id="footer">
+
+	<div class="guild">
+			<dl>
+				<dt>关于Black Horse</dt>
+				<dd>
+					<ul>
+            <li><a href="./plus/list.php?tid=2">关于Black Horse</a></li>
+            
+            <li><a href="./plus/list.php?tid=3">为什么选择我们</a></li>
+            
+            <li><a href="./plus/list.php?tid=36">金融牌照</a></li>
+            
+            <li><a href="./plus/list.php?tid=5">技术优势</a></li>
+            
+            <li><a href="./plus/list.php?tid=4">最新活动</a></li>
+            
+            <li><a href="./plus/list.php?tid=46">公告</a></li>
+					</ul>
+				</dd>
+			</dl>
+			<dl>
+				<dt>产品</dt>
+				<dd>
+					<ul>
+            <li><a href="./plus/list.php?tid=13">外汇</a></li>
+            
+            <li><a href="./plus/list.php?tid=14">金属</a></li>
+            
+            <li><a href="./plus/list.php?tid=15">能源</a></li>
+            
+            <li><a href="./plus/list.php?tid=16">股指</a></li>
+            
+            <li><a href="./plus/list.php?tid=37">交易成本</a></li>
+            
+            <li><a href="./plus/list.php?tid=47">交易时间</a></li>
+					</ul>
+				</dd>
+			</dl>
+			<dl>
+				<dt>MT4交易软件</dt>
+				<dd>
+					<ul>
+            <li><a href="./plus/list.php?tid=18">MT4概览</a></li>
+            
+            <li><a href="./plus/list.php?tid=44">MT4及插件下载</a></li>
+            
+            <li><a href="./plus/list.php?tid=19">MT4使用常见问题</a></li>
+<li><a href="./plus/list.php?tid=48">EA智能交易系统</a></li>
+					</ul>
+				</dd>
+			</dl>
+			<dl>
+				<dt>IB优势</dt>
+				<dd>
+					<ul>
+            <li><a href="./plus/list.php?tid=51">Black Horse 概览</a></li>
+            
+            <li><a href="./plus/list.php?tid=52">Black Horse 加盟优势</a></li>
+            
+            <li><a href="./plus/list.php?tid=53">IB介绍经纪商</a></li>
+            
+            <li><a href="./plus/list.php?tid=56">资产管理人</a></li>
+            
+            <li><a href="./plus/list.php?tid=57">私募基金</a></li>
+            
+            <li><a href="./plus/list.php?tid=54">其它合作方式</a></li>
+            
+            <li><a href="./plus/list.php?tid=55">培训支持</a></li>
+					</ul>
+				</dd>
+			</dl>
+			<dl>
+				<dt>资讯</dt>
+				<dd>
+					<ul>
+            <li><a href="./plus/list.php?tid=22">外汇学院</a></li>
+            
+            <li><a href="./plus/list.php?tid=9">汇评</a></li>
+            
+            <li><a href="./plus/list.php?tid=45">报告分析</a></li>
+            
+            <li><a href="./plus/list.php?tid=8">财经日历</a></li>
+            
+            <li><a href="./plus/list.php?tid=23">外汇名词解释</a></li>
+            
+            <li><a href="./a/xinwenzixun/xinwen/">新闻</a></li>
+            
+            <li><a href="./a/xinwenzixun/shipin/">视频</a></li>
+					</ul>
+				</dd>
+			</dl>
+			<dl>
+				<dt>交易帐户</dt>
+				<dd>
+					<ul>
+            <li><a href="./plus/list.php?tid=26">帐户概览</a></li>
+            
+            <li><a href="./plus/list.php?tid=27">标准帐户</a></li>
+            
+            <li><a href="./plus/list.php?tid=58">迷你帐户</a></li>
+            
+            <li><a href="./plus/list.php?tid=59">模拟帐户</a></li>
+					</ul>
+				</dd>
+			</dl>
+			<dl>
+				<dt>客户需知</dt>
+				<dd>
+					<ul>
+            <li><a href="./plus/list.php?tid=29">免责声明</a></li>
+            
+            <li><a href="./plus/list.php?tid=30">开户流程</a></li>
+            
+            <li><a href="./plus/list.php?tid=60">出入金流程</a></li>
+            
+            <li><a href="./plus/list.php?tid=61">常见问题</a></li>
+					</ul>
+				</dd>
+			</dl>
+			<dl>
+				<dt>联系我们</dt>
+				<dd>
+					<ul>
+            <li><a href="./plus/list.php?tid=62">在线客服</a></li>
+            
+            <li><a href="./plus/list.php?tid=63">英国总部</a></li>
+            
+            <li><a href="./plus/list.php?tid=64">上海办事处</a></li>
+            
+            <li><a href="./plus/list.php?tid=65">招聘</a></li>
+					</ul>
+				</dd>
+			</dl>
+		</div>
+		
+
+  <div class="foot center">
+	
+
+
+
+    <div class="foot-info"><img src="/templets/01dede/images/link_f.png" alt="" width="1000" height="116" usemap="#Map" border="0">
+      <map name="Map" id="Map">
+
+      </map>
+    </div>
+
+    <div class="foot-info">
+      <p>备案 / 许可证编号：沪ICP备16044329号</p>
+      <p>
+
+Copyright © 2016 All rights reserved 版权所有 </p>
+    </div>
+  </div>
+</div>
+<link href="./templets/01dede/20150707/css/lrtk.css" rel="stylesheet" type="text/css" />
+
+
+
+<script>
+$(function(){
+	$(window).on('scroll',function(){
+		var st = $(document).scrollTop();
+		if( st>0 ){
+			if( $('#main-container').length != 0  ){
+				var w = $(window).width(),mw = $('#main-container').width();
+				if( (w-mw)/2 > 70 )
+					$('#go-top').css({'left':(w-mw)/2+mw+20});
+				else{
+					$('#go-top').css({'left':'auto'});
+				}
+			}
+			$('#go-top').fadeIn(function(){
+				$(this).removeClass('dn');
+			});
+		}else{
+			$('#go-top').fadeOut(function(){
+				$(this).addClass('dn');
+			});
+		}	
+	});
+	$('#go-top .go').on('click',function(){
+		$('html,body').animate({'scrollTop':0},500);
+	});
+
+	$('#go-top .uc-2vm').hover(function(){
+		$('#go-top .uc-2vm-pop').removeClass('dn');
+	},function(){
+		$('#go-top .uc-2vm-pop').addClass('dn');
+	});
+});
+</script>
+<!--返回顶部开始-->
+
+<script>
+(function() {
+
+    var $backToTopTxt = "返回顶部", $backToTopEle = $('<div class="backToTop"></div>').appendTo($("body"))
+
+        .text($backToTopTxt).attr("title", $backToTopTxt).click(function() {
+
+            $("html, body").animate({ scrollTop: 0 }, 120);
+
+    }), $backToTopFun = function() {
+
+        var st = $(document).scrollTop(), winh = $(window).height();
+
+        (st > 0)? $backToTopEle.show(): $backToTopEle.hide();
+
+        //IE6下的定位
+
+        if (!window.XMLHttpRequest) {
+
+            $backToTopEle.css("top", st + winh - 166);
+
+        }
+
+    };
+
+    $(window).bind("scroll", $backToTopFun);
+
+    $(function() { $backToTopFun(); });
+
+})();
+
+</script>
+
+
+
+<!--kefu-->
+<script>document.write(unescape("%3Cscript src='https://www.goodid.com/static/js/id.js?key=37208d76ac29f46e0bef91c63493c2f8&site_id=1222&coid=20740390&server=https://www.goodid.com/' type='text/javascript'%3E%3C/script%3E"));</script>
+
+</body>
+</html>

@@ -1,0 +1,125 @@
+
+<html>
+    <head>
+
+
+        <title>CN live TV - intermediate</title>
+        <meta name="description" content="XM客服直播旨在为广大客户带来更具互动效果且更加优化的客服体验。XM客服代表将真人在你银幕上与您实时互动，为您答疑解惑。">
+        <meta name="keywords" content="XM直播频道，XM客服，XM客户支持，XM咨询，XM指导，XM问答，XM中文客服">
+
+        
+<link rel="stylesheet" href="https://cloud.xm-cdn.com/assets/css/minified/cntv.min.css">
+<link rel="stylesheet" href="https://cloud.xm-cdn.com/assets/css/minified/inline.css">
+<link rel="stylesheet" href="https://cloud.xm-cdn.com/assets/css/sources/libraries/bootstrap_full.min.css">    
+                    <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"562238",ustr:"cookiepresent",originlat:"0",clientrtt:"142",ghostip:"184.26.91.181",ipv6:false,pct:"10",clientip:"36.5.167.200",requestid:"63c6309a",region:"25990",protocol:"",blver:13,akM:"a",akN:"ae",akTT:"O",akTX:"1",akTI:"63c6309a",ai:"280099",ra:"false",pmgn:"XM",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head>
+    <body>
+        <div class="cntv">
+            <div class="left-tv-bar">
+                <a href = "https://www.xmglobal.com/gw.php?gid=38874" target="_blank">
+                    <img src="https://cloud.xm-cdn.com/assets/img/pages/cn-tv/logo-black.png" class="center-block" alt="XM Logo" width="175">
+                </a>
+                <div class="dis20"></div>
+                <hr>
+                <div class="dis20"></div>
+
+                <a class="btn btn-green btn-solid btn-block" href="https://www.xmglobal.com/gw.php?gid=32880" target="_blank">建立模拟账户<span>从100,000美元虚拟资金开始</span>
+                    <span class="icon glyphicon glyphicon-triangle-right" aria-hidden="true"></span>
+                </a>
+                <div class="dis10"></div>
+                <a class="btn btn-red btn-solid btn-block" id="jince_btn" href="https://www.xmglobal.com/gw.php?gid=32879" target="_blank">建立账户<span>一个账户可登录8个终端</span>
+                    <span class="icon glyphicon glyphicon-triangle-right" aria-hidden="true"></span>
+                </a>
+
+                <div class="dis10"></div>
+
+                <div class="dis20"></div>
+                <div class="dis20"></div>
+
+                <!--<h3 class="follow-us">Follow Us on WeChat:</h3>-->
+                <div class="dis15"></div>
+                <img src="https://cloud.xm-cdn.com/assets/img/pages/cn-tv/qr.jpg?v1" alt="WeChat" class="center-block img-responsive">
+
+                <div class="dis20"></div>
+                <div class="dis20"></div>
+
+                <div class="channel">
+                    <a class="btn btn-gray btn-block " href="https://www.xmglobal.com/cn/tv">初级教室
+                        <span class="icon glyphicon glyphicon-triangle-right" aria-hidden="true"></span>
+                    </a>
+                    <div class="dis10"></div>
+                    <a class="btn btn-gray btn-block active" id="jince_btn" href="https://www.xmglobal.com/cn/tv/intermediate">中级教室
+                        <span class="icon glyphicon glyphicon-triangle-right" aria-hidden="true"></span>
+                    </a>
+                    <div class="dis10"></div>
+                    <a class="btn btn-gray btn-block " id="jince_btn" href="https://www.xmglobal.com/cn/tv/expert">VIP教室
+                        <span class="icon glyphicon glyphicon-triangle-right" aria-hidden="true"></span>
+                    </a>
+                </div>
+                <div class="dis20"></div>
+                <div class="dis20"></div>
+
+                <img src="https://cloud.xm-cdn.com/assets/img/pages/cn-tv/usain-bolt.png" alt="Usain Bolt">
+                <div class="dis20"></div>
+            </div>
+
+            <div class="main-tv-content">
+                <div class="content">
+                    <div class="btn-sidebar-cntv"></div>
+
+                    <div class="bg-overlay">
+    <div class="wrap">
+        <div class="dis100"></div>
+        <div class="dis100"></div>
+
+        <div class="player-icon">
+            <i class="xm-font xm-home-tutorials"></i>
+        </div>
+        <div class="dis25"></div>
+        <h2>需要真实账号</h2>
+        <div class="dis15"></div>
+        <p>此通道仅适用于拥有真实账号的客户。</p>
+        <div class="dis40"></div>
+        <div class="row">
+            <div class="col-xs-6">
+                <a class="btn btn-red btn-solid pull-right" href="https://www.xmglobal.com/xmglobal/goto/real/cn" target="_blank"><strong>建立真实账户</strong></a>
+            </div>
+            <div class="col-xs-6">
+                <a class="btn btn-gray btn-solid pull-left" href="https://my.xmglobal.com/cn/tv/intermediate"><strong>会员登陆</strong></a>
+            </div>
+        </div>
+        <div class="dis20"></div>
+        <span class="risk">風險提示：</span>外汇和差价合约交易涉及高风险    </div>
+</div>
+                </div>
+                <div class="text-wrap">
+                    <div class="dis30"></div>
+                                            <h2>中级教室</h2>
+                        <hr>
+                        <p>XM中级教室仅对拥有XM真实账户的客户开放，请先登录您的账户。</p>
+                        <p>如果您没有XM真实账户，请点击页面左上角“建立账户”。</p>
+                        <p>中级教室课程安排，请点击官网链接：<a href="https://www.xm.co.uk/cn/live-education" target="_blank">www.xm.co.uk/cn/live-education</a></p>
+                        <br/>
+                        <p>*温馨提示：本直播教室不得打广告、直播聚众闹事、宗教迷信、辱骂他人或者低俗言论等。违规者一律封号。</p>
+                        <br/>
+                                    </div>
+            </div>
+        </div>
+        <link rel="stylesheet" href="https://cloud.xm-cdn.com/assets/css/minified/main.css?ver=62f17101d17f9c4860368326d6162559">
+        <script type='text/javascript' src='https://cloud.xm-cdn.com/assets/js/libraries/jquery-1.11.1.min.js'></script>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                $(".btn-sidebar-cntv").click(function(){
+                    if($('.main-tv-content').css('overflow') == 'auto') {
+                        $(".main-tv-content").css("overflow", "visible");
+                        $(".left-tv-bar").css("display", "none");
+                    }else {
+                        $(".main-tv-content").css("overflow", "auto");
+                        $(".left-tv-bar").css("display", "block");
+                    }
+
+                });
+            });
+        </script>
+    <script type="text/javascript">var _cf = _cf || [];  _cf.push(['_setBm', true]);</script><script type="text/javascript" src="/_bm/async.js"></script></body>
+</html>

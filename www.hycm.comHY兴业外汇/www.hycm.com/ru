@@ -1,0 +1,1012 @@
+
+<!DOCTYPE html>
+<html data-ng-app="myApp"  lang="ru" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="//rum.monitis.com/get/jsbenchmark.min.js?id=114087" type="text/javascript" async="async"></script><link rel="shortcut icon" href="https://www.hycm.com/sites/www.hycm.com/files/favicon.png" type="image/png" />
+<meta name="description" content="HYCM - международный брокер. Доступ к онлайн торговле на форекс, металлы, нефть, газ, индексы и акции с единого интегрированного счета. Узкие спреды. Лицензия FCA." />
+<meta name="keywords" content="HYCM, forex, форекс, форекс брокер, трейдинг, трейдер, счет форекс, анализ рынка форекс, CFD, фондовый рынок, биржевые индексы, форекс трейдинг, форекс онлайн, форекс доллар, FX, бонусы форекс, форекс валюта, новости форекс, MT4,нефть сегодня, золото цена" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.hycm.com/ru" />
+<link rel="shortlink" href="https://www.hycm.com/ru" />
+  <title>Рынок форекс. Forex Брокер HYCM. Доступ к международным биржам. Аналитика рынков, инвестиции.</title>
+  <link type="text/css" rel="stylesheet" href="https://www.hycm.com/sites/www.hycm.com/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/sites/www.hycm.com/files/css/css_O_Q5ykLYwl8HpopLIMSsSc67tPPSxngdbVOT5oMI9-s.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/sites/www.hycm.com/files/css/css_m7tU_j13A6bG0UiP5wqfwQfVu7qanBh2iaWv5s93t7g.css" media="all" />
+<style>#sliding-popup.sliding-popup-bottom{background:#f1f5f5;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#333 !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/sites/www.hycm.com/files/css/css_XQYEYDZJT0Q0bffNXff9zrdfwUue5kTaewSVgv7Xa1I.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400" media="all" />
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,300,700,900" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/sites/www.hycm.com/files/css/css_6KVS-HNTEoM6vdQ3oO7AHiU86xzx2DSVJCe43WQfMU0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.6/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/sites/www.hycm.com/files/css/css_5lnto-6Vrarezl5deKimBtMEL5-KtbwoXS9hi5NWv2s.css" media="all" />
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/www.hycm.com/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.hycm.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.hycm.com/misc/drupal.js?p6pmpr"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.6/js/bootstrap.js"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/modules/admin_menu/admin_devel/admin_devel.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/modules/google_cse/google_cse.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/themes/bootstrap/js/misc/_progress.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/files/languages/ru_nKJ7ycyTcGXsEa7VDZjy7ImIs5IbGMPPuvItypktLhE.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/modules/hycm_menu/js/main.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/modules/hycm_menu/js/jquery.menu-aim.js?p6pmpr"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.4.2/chosen.jquery.min.js"></script>
+<script src="https://adityasharat.github.io/angular-chosen/javascripts/angular-chosen.min.js"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/themes/hycm/js/common/jquery-ui.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/themes/hycm/js/common/resource.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/themes/hycm/js/common/angular-cookies.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/themes/hycm/js/common/angular-count-to.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/themes/hycm/js/common/angular-base64.js?p6pmpr"></script>
+<script src="//angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.11.0.js"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/themes/hycm/js/page/validation_form.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/themes/hycm/js/common/common.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/themes/hycm/js/services/userService.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/themes/hycm/js/page/home.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/modules/language_selector/js/modernizr.custom.79639.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/modules/language_selector/js/dropdown_init.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/modules/quicktabs/js/quicktabs.js?p6pmpr"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"ru\/","ajaxPageState":{"theme":"hycm","theme_token":"rJbG-APBpSfGpRDuuhzRwSx_Gw_nxJ0labbo3Wgwe54","js":{"0":1,"sites\/www.hycm.com\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/www.hycm.com\/modules\/hycm_menu\/js\/cbpHorizontalMenu.min.js":1,"1":1,"sites\/www.hycm.com\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"2":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/js\/bootstrap.js":1,"sites\/www.hycm.com\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/www.hycm.com\/modules\/google_cse\/google_cse.js":1,"sites\/www.hycm.com\/themes\/bootstrap\/js\/misc\/_progress.js":1,"public:\/\/languages\/ru_nKJ7ycyTcGXsEa7VDZjy7ImIs5IbGMPPuvItypktLhE.js":1,"sites\/www.hycm.com\/modules\/hycm_menu\/js\/main.js":1,"sites\/www.hycm.com\/modules\/hycm_menu\/js\/jquery.menu-aim.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/angularjs\/1.4.8\/angular.min.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/chosen\/1.4.2\/chosen.jquery.min.js":1,"https:\/\/adityasharat.github.io\/angular-chosen\/javascripts\/angular-chosen.min.js":1,"sites\/www.hycm.com\/themes\/hycm\/js\/common\/jquery-ui.js":1,"sites\/www.hycm.com\/themes\/hycm\/js\/common\/resource.js":1,"sites\/www.hycm.com\/themes\/hycm\/js\/common\/angular-cookies.js":1,"sites\/www.hycm.com\/themes\/hycm\/js\/common\/angular-count-to.js":1,"sites\/www.hycm.com\/themes\/hycm\/js\/common\/angular-base64.js":1,"\/\/angular-ui.github.io\/bootstrap\/ui-bootstrap-tpls-0.11.0.js":1,"sites\/www.hycm.com\/themes\/hycm\/js\/page\/validation_form.js":1,"sites\/www.hycm.com\/themes\/hycm\/js\/common\/common.js":1,"sites\/www.hycm.com\/themes\/hycm\/js\/services\/userService.js":1,"sites\/www.hycm.com\/themes\/hycm\/js\/page\/home.js":1,"sites\/www.hycm.com\/modules\/language_selector\/js\/modernizr.custom.79639.js":1,"sites\/www.hycm.com\/modules\/language_selector\/js\/dropdown_init.js":1,"sites\/www.hycm.com\/modules\/quicktabs\/js\/quicktabs.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/www.hycm.com\/modules\/footer_sitemap\/footer_sitemap.css":1,"sites\/www.hycm.com\/modules\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/www.hycm.com\/modules\/views\/css\/views.css":1,"sites\/www.hycm.com\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/www.hycm.com\/modules\/ctools\/css\/ctools.css":1,"sites\/www.hycm.com\/modules\/hycm_menu\/css\/reset.css":1,"sites\/www.hycm.com\/modules\/hycm_menu\/css\/style_drop.css":1,"0":1,"sites\/www.hycm.com\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"https:\/\/fonts.googleapis.com\/css?family=Open+Sans:400,700":1,"https:\/\/fonts.googleapis.com\/css?family=Ubuntu:300,400":1,"https:\/\/fonts.googleapis.com\/css?family=Lato:400,300,700,900":1,"sites\/www.hycm.com\/modules\/language_selector\/css\/style_dropdown.css":1,"sites\/www.hycm.com\/modules\/quicktabs\/css\/quicktabs.css":1,"sites\/www.hycm.com\/themes\/hycm\/css\/page\/node.css":1,"sites\/www.hycm.com\/themes\/hycm\/css\/page\/home.css":1,"sites\/www.hycm.com\/themes\/hycm\/css\/page\/node--1.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.6\/css\/bootstrap.min.css":1,"sites\/www.hycm.com\/themes\/bootstrap\/css\/3.3.6\/overrides.min.css":1,"sites\/www.hycm.com\/themes\/hycm\/css\/style.css":1}},"googleCSE":{"cx":"","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003E\u0414\u043b\u044f \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0441\u0430\u0439\u0442\u0430 \u043c\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c \u0444\u0430\u0439\u043b\u044b cookies.\u003C\/h2\u003E\u003Cp\u003E\u0420\u0430\u0431\u043e\u0442\u0430\u044f \u0441 \u043d\u0430\u0448\u0438\u043c \u0441\u0430\u0439\u0442\u043e\u043c \u0432\u044b \u0434\u0430\u0435\u0442\u0435 \u0441\u0432\u043e\u0435 \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u0435 \u043d\u0430 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u0444\u0430\u0439\u043b\u043e\u0432 cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons-div\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022btn red-whitebg-btn\u0022\u003E\u041e\u043a, \u044f \u0441\u043e\u0433\u043b\u0430\u0441\u0435\u043d \u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022btn red-btn\u0022\u003E\u041d\u0435\u0442, \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u044c\u0442\u0435 \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EThank you for accepting cookiesYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":59,"popup_width":"100%","popup_delay":1000,"popup_link":"\/ru\/google.com","popup_link_new_window":1,"popup_position":null,"popup_language":"ru","domain":""},"quicktabs":{"qt_mobile_tablet_desktop_tabs":{"name":"mobile_tablet_desktop_tabs","tabs":[{"bid":"block_delta_6","hide_title":1},{"bid":"block_delta_8","hide_title":1}],"googleCSE":{"cx":"","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true}}},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"click hover focus","delay":0,"container":"body"}}});</script>
+  <!-- /***************************************************************/ -->
+
+  
+  <!-- Page-hiding snippet (recommended)  -->
+  <style>.async-hide { opacity: 0 !important} </style>
+  <script>
+
+    var path = window.location.pathname;
+    var lang = window.location.pathname.replace(/^\/([^\/]*).*$/, '$1')   ;
+    path = path.replace('/'+lang+'/',''); 
+
+    if (path.indexOf("hylp") >= 0){
+
+      (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+        h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+        })(window,document.documentElement,'async-hide','dataLayer',4000,
+        {'GTM-KSPCSK9':true});
+    }
+  </script>
+  <!-- #2 GA code -->
+  <script>
+    if (path.indexOf("hylp") >= 0){
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-1229664-33', 'auto');
+        ga('require', 'GTM-KSPCSK9');
+    } 
+  </script>
+  <!-- #3 GTM code -->
+  <!-- Google Tag Manager -->
+  <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NWX7HK');
+
+  </script>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NWX7HK"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <!-- /***************************************************************/ -->
+
+
+    
+</head>
+<body class="navbar-is-fixed-top html front not-logged-in no-sidebars page-node page-node- page-node-1 node-type-home i18n-ru">
+
+        <header id="navbar" role="banner" class="navbar navbar-fixed-top navbar-default">
+	<div class="topheadernav">	
+	<div class="container-fluid">
+  		<div class="row">
+				            <div  class="container" >
+
+<div ng-controller="CommController" >
+  <div ng-switch="isAuth()">
+  
+      <div ng-switch-when="true" ng-cloak>
+  <div class="navactions pull-right">
+		<a class="latoR textR" href="#" ng-click="logout()"><i title="Logout" class="glyphicon glyphicon-log-out"></i></a>	
+	</div>
+<div class="navactions pull-right">
+		<a class="dropdown-toggle" data-toggle="dropdown" id="topnavbtn_references"><i class="glyphicon glyphicon-triangle-bottom"></i></a>
+		<ul class="dropdown-content dropdown-container dropdown-actions" id="actDropdown">
+			<div class="container">
+				<div class="dropdown langcontent col-md-3 col-md-offset-1">
+					<a class="latoR textR" title=""	href="">BALANCE</a>
+
+					<ul class="ul-no-pad list-inline pl-0 pt-10">
+						<li><p>Total Balance (EUR): &euro;							<span id="total_balanceEUR"></span></p>
+						</li>
+						<li><p>Total Balance (USD): &#36;							<span id="total_balanceUSD"></span></p>
+						</li>
+						<li><p>Total Balance (GBP): &#163;							<span id="total_balanceGBP"></span></p>
+						</li>
+						<li><p>Total Balance (RUB): &#8381;							<span id="total_balanceRUB"></span></p>
+						</li>
+						<li><p>Total Balance (AED): د.إ							<span id="total_balanceAED"></span></p>
+						</li>
+						
+						
+					</ul>
+				</div>
+				<div class="dropdown col-md-2">
+					<a class="latoR textR" href="/ru/support/faq">Часто задаваемы вопросы (FAQ)</a>
+				</div></div>
+		</ul>
+	</div>
+
+	<div class="navactions pull-right">
+		<a class="dropdown-toggle" data-toggle="dropdown" id="notificationsdropbtn"	><i class="glyphicon glyphicon-flag"></i><span ng-cloak id="flag_icon"  class="hidden badge badge-notify">1</span></a>
+
+		<ul class="dropdown-content dropdown-container dropdown-actions" id="notifDropdown"><div class="container">
+			<div class="dropdown col-md-4 col-md-offset-1">
+					
+<p class="latoR">Verify your phone to receive &#36;20 bonus</p>
+<a class="pt-10 latoR textR" href="/ru/sms-verification">Проверка  SMS </a>
+				</div></div>
+		</ul>
+	</div>
+
+</div>
+
+	<section id="block-language-selector-language-selector--2" class="block block-language-selector pull-right clearfix">
+
+      
+  <div data-toggle="dropdown" class="navactions selected-country"> <a id="dropbtn" class="com-sp flag-global"><span id="lang_span">RU</span></a></div><ul id="customDropdown" class="dropdown-content dropdown-container"><div class="container"><ul class="dropdown langcontent col-md-2 col-md-offset-1"><div class="latoR textR">Languages</div></ul><ul class="dropdown col-md-2"><li><a href="/ar"><h6 class="flag ar">العربية</h6></a></li><li><a href="/en"><h6 class="flag en">English</h6></a></li><li><a href="/es"><h6 class="flag es">Español</h6></a></li></ul><ul class="dropdown col-md-2"><li><a href="/it"><h6 class="flag it">Italiano</h6></a></li><li><a href="/ru"><h6 class="flag ru">Русский</h6></a></li><li><a href="http://www.hycm.com/cn"><h6 class="flag cn">中文</h6></a></li></ul></div></ul>
+</section>
+ <div ng-switch-when="false" ng-cloak>
+<section id="block-block-19--2" class="block block-block clearfix">
+
+      
+  <div class="license-no-header"><p>Номер Лицензии FCA : <span class="textR"><a class="textLink" href="https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfHH0AAN" target="_blank">186171</a><a></a></span></p></div>
+</section>
+</div>
+	<div ng-cloak ng-switch-when="true" class="pull-right"><p class="latoR">Welcome <a href="/ru/account/overview"><span id="username_top">{{email}}</span></a></p></div>
+</div>
+</div></div>
+		          	
+	</div>
+	</div></div>
+  <div class="container">
+    <div class="navbar-header">
+              <a class="logo navbar-btn pull-left" href="/ru" title="Home">
+          <img src="https://www.hycm.com/sites/www.hycm.com/themes/hycm/new-logo-HYCM.svg" alt="Home" />
+        </a>
+      
+      
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" >
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar top-bar"></span>
+          <span class="icon-bar middle-bar"></span>
+          <span class="icon-bar bottom-bar"></span>
+        </button>
+        <div class="reg_log_btn_tablet hidden-lg ">
+          <a class="btn green-btn hidden hidden-lg hidden-xs" href="/ru/account/overview" id="prof_btn_top">Мой профайл</a>
+          <a class="btn red-whitebg-btn  hidden-xs"  id="login_btn_top"  href="/ru/login">Войти</a>
+          <a class="btn red-btn" href="/ru/register">Открыть счет</a>
+          <p class="latoR text-center losses_text">Losses may exceed deposits</p>
+        </div>
+          </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                                            <div class="region region-navigation">
+    <section id="block-block-14" class="block block-block pull-right clearfix">
+
+      
+  <div class="pos-log">
+<a id="login_btn" href="/ru/login" class="btn red-whitebg-btn">Логин</a>
+<a id="prof_btn" href="/ru/account/overview" class="btn green-btn hidden">Мой профайл</a>
+<a id="register_btn" href="/ru/register" class="btn red-btn">Открыть счет </a>
+</div>
+</section>
+<section id="block-hycm-menu-hycm-menu" class="block block-hycm-menu pull-left clearfix">
+
+      
+  <div class="cd-dropdown-wrapper"><nav id="cbp-hrmenu" class="cbp-hrmenu">
+					<ul class="cd-dropdown-content"><li class="has-children"><a class="latoR" href="#"><h4 class="latoR">О нас</h4></a>
+							<div class="cbp-hrsub">
+								<div class="cbp-hrsub-inner"> 
+					<div class="text-desc hidden-sm hidden-xs">  <h4 class="latoR textR">О нас</h4>
+                    <p>Welcome to HYCM, an FCA & CySEC regulated market leader in Forex and CFD trading</p>
+                    <a class="grey-btn btn" href="/ru/about">Подробнее  </a>
+                  </div>
+<div><ul class="cd-secondary-dropdown is-hidden">
+                    		<li class="go-back visible-sm visible-xs"><a href="#">Back</a></li>
+<li><a href="/ru/about/advantages">Преимущества</a></li>
+<li><a href="/ru/about/getting-started">Начало работы</a></li>
+<li><a href="/ru/about/license-and-regulation">Регулирование</a></li>
+<li><a  href="/ru/about/group-history">История группы</a></li>
+<li><a href="/ru/about/international-offices">Международные офисы </a></li>
+<li><a  href="/ru/support/contact">Cвяжитесь с нами</a></li>
+</ul></div>
+</div>
+</div>
+</li>
+<li class="has-children"><a class="latoR" href="#"><h4 class="latoR">Обучение</h4></a>
+	<div class="cbp-hrsub">
+	<div class="cbp-hrsub-inner">
+	<div class="text-desc hidden-sm hidden-xs">   <h4 class="latoR textR">Обучение</h4>
+                    <p>Воспользуйтесь нашей всеобъемлющей образовательной программой, содержащей широкий спектр  видео и электронных книг</p>
+                    <a class="grey-btn btn" href="/ru/education">Подробнее   </a>	</div>
+<div><ul class="cd-sec-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">Back</a></li>
+                    <li><a class="latoR" href="/ru/education-ebooks">Электронные книги</a></li>
+					<li><a class="latoR" href="/ru/education">ОБУЧАЮЩИЕ ВИДЕО</a></li>
+								<li><a  href="/ru/education/mt4-videos">Видео уроки  МТ4</a></li>
+					</ul></div></div></div></li>
+<li class="has-children"><a class="latoR" href="#"><h4 class="latoR">Рынки</h4></a>
+<div class="cbp-hrsub">
+		<div class="cbp-hrsub-inner"> 
+				<div class="text-desc hidden-sm hidden-xs"> 
+					<h4 class="latoR textR">Рынки</h4>
+						<p>Our Markets section is the place to go for Information including News and Analysis </p>
+                    <a class="grey-btn btn" href="/ru/markets">Подробнее   </a>	</div>
+									<div>
+		<ul class="cd-thrd-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">Back</a></li><li><a  href="/ru/products">Информация о продукте</a></li>
+<li><a  href="/ru/markets/economic-calendar">Экономический календарь</a></li>
+		<li><a  href="/ru/markets/news">Новости</a></li>
+<li><a  href="/ru/markets/daily-commentary">Ежедневные Обзоры</a></li>
+<li><a  href="/ru/markets/weekly-report">Еженедельный Обзоры</a></li>
+	<li><a  href="/ru/markets/daily-outlook">ВИДЕО ОБЗОРЫ</a></li>
+	<li><a  href="/ru/markets/fx-calculators">FX Calculators</a></li>
+</ul>
+</div>
+</div></div></li>
+<li class="has-children"><a class="latoR" href="#"><h4 class="latoR">Платформы</h4></a>
+							<div class="cbp-hrsub">
+								<div class="cbp-hrsub-inner"> 
+									<div class="text-desc hidden-sm hidden-xs"> 
+										<h4 class="latoR textR">Платформы</h4>
+										 <p>Choose from our flagship platform, MetaTrader 4, and HYCM Mobile</p>
+										  <a class="grey-btn btn" href="/ru/platforms">Подробнее   </a>
+									</div>
+									<div>
+									<ul class="cd-5-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">Back</a></li>
+<li><a href="/ru/platforms/account-types">Типы счетов</a></li>
+<li><a  href="/ru/platforms/metatrader4">MetaTrader4</a></li>
+<li><a href="/ru/platforms/mobile-trading">HYCM Mobile</a></li>
+</ul>
+</div>
+</div></div></li>
+<li class="has-children"><a class="latoR" href="#"><h4 class="latoR">Партнерские программы</h4></a>
+							<div class="cbp-hrsub">
+								<div class="cbp-hrsub-inner"> 
+							<div class="text-desc hidden-sm hidden-xs"> 
+ <h4 class="latoR textR">Партнерские программы</h4>
+     <p>Воспользуйтесь всеми преимуществами работы с нами, которые дает IB-партнерство</p>
+    <a class="grey-btn btn" href="/ru/partnerships">Подробнее   </a>
+      </div>
+<div>
+<ul class="cd-5-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">Back</a></li>
+<li><a href="/ru/partnerships/refer-a-friend">Приведи друга</a></li>
+<li><a href="/ru/partnerships/media-affiliates">Медиа-партнерство</a></li>
+<li><a href="/ru/partnerships/introducing-brokers">Партнерская программа IB</a></li>
+<li><a href="/ru/partnerships/white-label-partners">Партнерство White Label </a></li>
+<!--<li><a  href="/ru/partnerships/institutional-solutions">Институциональные решения</a></li>-->
+</ul></div></div>
+	</div></li>
+<li class="has-children"><a class="latoR" href="#"><h4 class="latoR">Поддержка</h4></a>
+<div class="cbp-hrsub">
+	<div class="cbp-hrsub-inner"> 
+<div class="text-desc hidden-sm hidden-xs"> 
+ <h4 class="latoR textR">Поддержка</h4>
+     <p>Наша служба клиентской поддержки доступна в режиме 24/5</p>
+    <a class="grey-btn btn" href="/ru/support/contact">Подробнее   </a>
+      </div>
+<div>
+<ul class="cd-4-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">Back</a></li><li><a  href="/ru/support/contact">Cвяжитесь с нами</a></li>
+<li><a  href="/ru/support/forms-and-documents">Формы и Документы</a></li>
+<li><a  href="/ru/support/account-funding">Пополнение счета</a></li>
+<li><a href="/ru/support/faq">Часто задаваемы вопросы (FAQ)</a></li>
+<li><a  href="/ru/support/risk-warning">Предупреждение о рисках и Отказ от ответственности</a></li>
+</ul></div>
+</div></div>
+</li>
+<a class="hidden-lg log_top_menu hidden-md hidden-sm menu_log" href="/ru/login"><h4 class="latoR ">Войти</h4>
+</a>
+
+
+</ul>
+</nav></div>
+</section>
+  </div>
+                  </nav>
+      </div>
+      </div>
+</header>
+
+<div class="frontpage maincontainer">
+
+  <header role="banner" id="page-header">
+    
+      <div class="region region-header">
+    <section id="block-block-13" class="block block-block clearfix">
+
+      
+  <a class="btn live-chat-btn live_chat_pos" onclick="return SnapABug.startLink();" href="#">
+Чат
+</a>
+
+
+
+</section>
+  </div>
+  </header> <!-- /#page-header -->
+    <div class="Section-content-topbanner"> 
+	<div class="maincontent container">
+        <div class="region region-content-front-top">
+    <section id="block-block-18" class="block block-block clearfix">
+
+      
+  <div class="col-md-12  text-center ">
+  <h1 class="title_top_hm ">ТОРГОВЛЯ НА МЕЖДУНАРОДНЫХ БИРЖАХ  </h1>
+</div>
+
+<div class="all_links_hm col-md-12">
+  <div class="col-md-12">
+    <div class="col-lg-5 col-lg-offset-1 col-md-6 pr-0 "> <i class="glyphicon glyphicon-menu-right"></i><a href="/ru/platforms" class="links_hm latoR">Новая торговая платформа мульти-активов</a></div>
+    <div class="col-lg-5 col-md-6 pr-0"> <i class="glyphicon glyphicon-menu-right"></i><a href="/ru/products" class="links_hm latoR">Конкурентоспособные цены и спреды от 1.5 </a></div>
+    <div class="col-lg-1"></div>
+  </div>
+  <div class="col-md-12">
+    <div class="col-lg-5 col-lg-offset-1 col-md-6 pr-0 "> <i class="glyphicon glyphicon-menu-right"></i><a href="/ru/markets/trading-signals" class="links_hm latoR">Графики  и аналитические обзоры рынков </a></div>
+    <div class="col-lg-5 col-md-6 pr-0"> <i class="glyphicon glyphicon-menu-right"></i><a href="/ru/platforms/account-types" class="links_hm latoR">Простое  управление счетом </a></div>
+    <div class="col-lg-1"></div>
+  </div>
+</div>
+
+<img class="top_img_home img-responsive" src="/sites/www.hycm.com/themes/hycm/images/home/header_image.png" />
+</section>
+  </div>
+      
+</div>
+</div>
+      
+   <div class="Section-content1"> 
+	<div class="maincontent container">
+  	<div class="row">   
+        <div class="region region-content-front-1">
+    <section id="block-block-5" class="block block-block clearfix">
+
+      
+  <h6 class="home_losses text-center risk_hm">Торговля CFD несет в себе высокие риски. Торговля CFD несет в себе высокие риски потерь.</h6>
+
+<div class="col-md-5">
+<h2>Более 100 CFD и Форекс продуктов  онлайн </h2>
+<p>Наша ведущая торговая платформа, в дополнении к MetaTrader 4 и Моб. приложению дает вам доступ к международным рынкам.</p>
+<ul class="list-style latoR list-unstyled bullet"><li class="latoR">Спреды от  1.5 пипс </li>
+ <li class="latoR">Мин. депозит $100</li>
+ <li class="latoR">Регулируется FCA  </li>
+ <li class="latoR">Новые Обучающие Материалы </li> </ul><div class="products-buttons">
+<a class="btn grey-btn" href="/ru/products">ПРОДУКТЫ </a>
+<a class="btn red-btn" href="/ru/register">НАЧАТЬ СЕЙЧАС</a>
+</div>
+</div>
+
+
+<div ng-controller="PricingCtrl" class="col-md-7 prices">
+ <ul class="nav nav-tabs products"><li class="active col-md-4 latoH text-center"><a href="#taba" data-toggle="tab">САМЫЕ ПОПУЛЯРНЫЕ </a></li>
+    <li class="col-md-2 text-center"><a href="#tabb" data-toggle="tab">Форекс </a></li>
+    <li class="col-md-4 text-center"><a href="#tabc" data-toggle="tab">Сырьевые Товары </a></li>
+	<li class="col-md-2 text-center"><a href="#tabd" data-toggle="tab">Индексы </a></li>
+	<li class="col-md-3 hidden"><a href="#tabe" data-toggle="tab">Stocks</a></li>
+  </ul><div class="tab-content table-responsive">
+<div class="tab-pane active fade in" id="taba">
+  <table class="home_table table table-hover ng-cloak latoR" ng-repeat="popular in popular_last" ng-class="{'widget-red' : popular.variation &lt; 0, 'widget-green' : popular.variation &gt; 0}"><colgroup><col width="20%" /><col width="20%" /><col width="20%" /><col width="20%" /><col width="20%" /></colgroup><tr class="textW price_tr latoH" ng-if="$index==0"><th>Рынки </th>
+      <th>Bid </th> 
+      <th>Ask </th> 
+      <th>Обновлен</th>
+      <th>Изменение </th>
+    </tr><tr><td class="widget-black">{{popular.symbol}}</td>
+                <td>{{popular.bid}}</td>
+				<td>{{popular.offer}}</td>
+				<td class="widget-black">{{popular.updated.date}}</td>
+				<td>{{popular.variation}}%</td>
+            </tr></table></div>
+    <div class="tab-pane fade in" id="tabb">
+<table class="home_table table table-hover latoR" ng-repeat="forex in forexs_last" ng-class="{'widget-red' : forex.variation &lt; 0, 'widget-green' : forex.variation &gt; 0}"><colgroup><col width="20%" /><col width="20%" /><col width="20%" /><col width="20%" /><col width="20%" /></colgroup><tr class="textW price_tr latoH" ng-if="$index==0"><th>Рынки </th>
+      <th>Bid </th> 
+      <th>Ask </th> 
+      <th>Обновлен</th>
+      <th>Изменение </th>
+    </tr><tr><td class="widget-black">{{forex.symbol}}</td>
+                <td>{{forex.bid}}</td>
+				<td>{{forex.offer}}</td>
+				<td class="widget-black">{{forex.updated.date}}</td>
+				<td>{{forex.variation}}%</td>
+            </tr></table></div>
+	 <div class="tab-pane fade in" id="tabc">
+
+  <table class="home_table table table-hover latoR" ng-repeat="com in commodities_last" ng-class="{'widget-red' : com.variation &lt; 0, 'widget-green' : com.variation &gt; 0}"><colgroup><col width="20%" /><col width="20%" /><col width="20%" /><col width="20%" /><col width="20%" /></colgroup><tr class="textW price_tr latoH" ng-if="$index==0"><th>Рынки </th>
+      <th>Bid </th> 
+      <th>Ask </th> 
+      <th>Обновлен</th>
+      <th>Изменение </th>
+    </tr><tr><td class="widget-black">{{com.symbol}}</td>
+                <td>{{com.bid}}</td>
+				<td>{{com.offer}}</td>
+				<td class="widget-black">{{com.updated.date}}</td>
+				<td>{{com.variation}}%</td>
+            </tr></table></div>
+<div class="tab-pane fade in" id="tabd">
+ <table class="home_table table table-hover latoR" ng-repeat="indice in indices_last" ng-class="{'widget-red' : indice.variation &lt; 0, 'widget-green' : indice.variation &gt; 0}"><colgroup><col width="20%" /><col width="20%" /><col width="20%" /><col width="20%" /><col width="20%" /></colgroup><tr class="textW price_tr latoH" ng-if="$index==0"><th>Рынки </th>
+      <th>Bid </th> 
+      <th>Ask </th> 
+      <th>Обновлен</th>
+      <th>Изменение </th>
+    </tr><tr><td class="widget-black">{{indice.symbol}}</td>
+                <td>{{indice.bid}}</td>
+				<td>{{indice.offer}}</td>
+				<td class="widget-black">{{indice.updated.date}}</td>
+				<td>{{indice.variation}}%</td>
+            </tr></table></div>
+	<div class="tab-pane fade in" id="tabe">
+<table class="home_table table table-hover latoR" ng-repeat="stock in stocks_last" ng-class="{'widget-red' : stock.variation &lt; 0, 'widget-green' : stock.variation &gt; 0}"><colgroup><col width="20%" /><col width="20%" /><col width="20%" /><col width="20%" /><col width="20%" /></colgroup><tr class="textW price_tr latoH" ng-if="$index==0"><th>Рынки </th>
+      <th>Bid</th> 
+      <th>Ask</th> 
+      <th>Обновлен</th>
+      <th>Изменение </th>
+    </tr><tr><td class="widget-black">{{stock.symbol}}</td>
+                <td>{{stock.bid}}</td>
+				<td>{{stock.offer}}</td>
+				<td class="widget-black">{{stock.updated.date}}</td>
+				<td>{{stock.variation}}%</td>
+            </tr></table></div></div></div>
+
+<h6 class="latoR pull-right prices-col">Цены являются ориентировочными</h6>
+
+
+</section>
+  </div>
+ </div>
+</div>
+</div>
+        <div class="Section-content2"> 
+	<div class="maincontent container">
+  	<div class="row">
+  	<section class="col-sm-12">
+        <div class="region region-content-front-2">
+    <section id="block-quicktabs-mobile-tablet-desktop-tabs" class="block block-quicktabs tabs-inside clearfix">
+
+      
+  <div  id="quicktabs-mobile_tablet_desktop_tabs" class="quicktabs-wrapper quicktabs-style-nostyle"><ul class="quicktabs-tabs quicktabs-style-nostyle"><li class="active"><a href="/ru/node/1?qt-mobile_tablet_desktop_tabs=0#qt-mobile_tablet_desktop_tabs" id="quicktabs-tab-mobile_tablet_desktop_tabs-0" class="active">Mobile</a></li>
+<li><a href="/ru/node/1?qt-mobile_tablet_desktop_tabs=1#qt-mobile_tablet_desktop_tabs" id="quicktabs-tab-mobile_tablet_desktop_tabs-1" class="active">Desktop</a></li>
+</ul><div id="quicktabs-container-mobile_tablet_desktop_tabs" class="quicktabs_main quicktabs-style-nostyle"><div  id="quicktabs-tabpage-mobile_tablet_desktop_tabs-0" class="quicktabs-tabpage "><section id="block-block-6" class="block block-block tabs-inside clearfix">
+
+      
+    <div class="hidden-sm hidden-xs col-md-4 col-md-offset-2">
+     <img class="img-responsive mob_tab_hm  " src="/sites/www.hycm.com/themes/hycm/images/home/home_mobile_section.png" /></div>
+
+  <div class="col-md-6 padd-top80">
+     <div>
+       <h2>HYCM Mobile </h2>
+         <ul class="appslist list-style list-unstyled bullet"><li>Современная  мобильная  платформа</li>
+           <li>Управление мобильным счетом</li>
+           <li>Графики в режиме реального времени для всех продуктов </li>
+<li>Торговля в любое время, в любом месте</li>
+<li>Бесплатная платформа </li>
+         </ul><div class="bring-to-center store_btns">
+  <a class="btn_store and-store" target="_blank" href="https://play.google.com/store/apps/details?id=com.mobiletradingpartners.hycp&amp;hl=en"></a>
+  <a class="btn_store com-hycm-spr app-store" target="_blank" href="https://appsto.re/cy/n2GLdb.i "> </a>
+</div>
+
+     </div>
+  </div>
+
+</section>
+</div><div  id="quicktabs-tabpage-mobile_tablet_desktop_tabs-1" class="quicktabs-tabpage quicktabs-hide"><section id="block-block-8" class="block block-block clearfix">
+
+      
+   <div class=" hidden-sm hidden-xs col-md-4 col-md-offset-2">
+     <img class="img-responsive meta_tab_hm" src="sites/www.hycm.com/themes/hycm/images/home/home_mt4.png" /></div>
+
+  <div class="col-md-6 padd-top80">
+     <div>
+       <h2>MetaTrader4 </h2>
+      <ul class="appslist list-style list-unstyled bullet"><li>Ведущая в индустрии торговая платформа</li>
+           <li>Торговля на всех рынках с единого интегрированного счета </li>
+           <li>Диаграммы и графики</li>
+<li>Встроенный технический анализ</li>
+
+         </ul></div>
+  </div>
+</section>
+</div></div></div>
+</section>
+  </div>
+</section>
+ </div>
+</div>
+</div>
+        <div class="Section-content3"> 
+	<div class="maincontent container">
+  	<div class="row">
+        <div class="region region-content-front-3">
+    <section id="block-block-9" class="block block-block clearfix">
+
+      
+  <div class="padd-top">
+  <div class="col-md-6 col-sm-12  col-xs-12 right-border "> 
+    <div class="pull-left reg3_txt textW">
+                                  <p class="latoR textW">Обзор инструментов</p>
+                                 <p class="latoR textW">Оцените разнообразие торговых инструментов.</p>
+
+      </div>
+
+  <div class="col-md-3 col-sm-3 reg3_btn bottom-border">
+<div class="button-marg">
+       <a href="/ru/products" class="white-whitebg-btn btn ">Узнать больше</a>
+</div> 
+ </div>
+  </div>
+
+  <div class="col-md-6 col-sm-12 ">
+    <div class="pull-left reg3_txt textW">
+     <p class="latoR textW">Торговый Счет </p>
+   <p class="latoR textW">Начни торговать всего с $100
+</p> </div>
+    <div class="col-md-3 col-sm-3 reg3_btn  ">
+<div class="button-marg">
+      <a href="/ru/register" class="red-btn btn">Открытый счет</a>
+</div>
+    </div>
+
+  </div>
+</div>
+</section>
+  </div>
+ </div>
+</div>
+</div>
+         <div class="Section-content4"> 
+	<div class="maincontent container">
+  	<div class="row">
+        <div class="region region-content-front-4">
+    <section id="block-block-10" class="block block-block clearfix">
+
+      
+  <h2 class="text-center">Знания дают вам силу </h2>
+<p class="latoR text-center">Независимо от вашего уровня опыта, вы можете воспользоваться нашим всеобъемлющим Обучающим  и Информационным разделом.</p>
+
+<div class="padd-top">	
+				
+<div id="edu_ebooks" class="col-md-2 col-md-offset-1 col-sm-4 text-center mh-150">
+<a href="/ru/education" target="_blank">
+  <div class="com-hycm-spr knowledge">
+  </div>
+</a>
+
+<h3 class="ubuntuR textB">Электронная книга </h3>
+</div>
+
+<div class="col-md-2 col-sm-4 text-center mh-150">
+<a href="/ru/education" target="_blank">
+  <div class="com-hycm-spr knowledge courses">
+  </div>
+</a>
+<h3 class="ubuntuR textB">Учебники</h3>
+</div>
+
+<div class="col-md-2 col-sm-4 text-center mh-150">
+<a href="/ru/education" target="_blank">
+  <div class="com-hycm-spr knowledge tutorials">
+  </div>
+</a>
+<h3 class="ubuntuR textB">Видео</h3>
+</div>
+
+<div class="col-md-2 col-sm-4 text-center mh-150">
+<a href="/ru/markets/daily-outlook" target="_blank">
+  <div class="com-hycm-spr knowledge videos">
+  </div>
+</a>
+<h3 class="ubuntuR textB">Новости</h3>
+</div>
+
+<div class="col-md-2 col-sm-4 text-center mh-150">
+<a href="/ru/markets/economic-calendar" target="_blank">
+  <div class="com-hycm-spr knowledge webiners">
+  </div>
+</a>
+<h3 class="ubuntuR textB">Календарь</h3>
+</div>
+
+</div>
+</section>
+  </div>
+ </div>
+</div>
+</div>
+         <div class="Section-content5"> 
+	<div class="maincontent container">
+  	<div class="row">
+        <div class="region region-content-front-5">
+    <section id="block-block-11" class="block block-block clearfix">
+
+      
+  <div class="back-world">			
+<div class="col-md-4 col-sm-12 col-xs-12 text-center">
+  <div class="circle_cover">
+     <div class="com-hycm-spr circle1 regulation">
+    </div>
+  </div>
+
+
+<div class="bluebg-content">
+<h3 class="ubuntuR textW">Регулируется FCA </h3>
+<h6 class="col-md-8 col-md-offset-2 textW">HYCM зарегистрирована и регулируется FCA в Великобритании. Это позволяет нашим клиентам  торговать безопасно на своих сегрегированных счетах.</h6>
+</div></div>
+
+<div class="col-md-4 col-sm-12 col-xs-12 text-center">
+  <div class="circle_cover">
+  <div class="com-hycm-spr circle1 plus25">
+  </div></div>
+
+<div class="bluebg-content">
+<h3 class="ubuntuR textW">40+ лет опыта</h3>
+<h6 class="col-md-8 col-md-offset-2 textW">Подразделение Henyep Group, HYCM извлекает выгоду из опыта и ресурсов, приобретенных, благодаря 40 летнему опыту  работы на финансовых рынках.</h6>
+</div></div>
+
+<div class="col-md-4 col-sm-12 col-xs-12 text-center">
+ <div class="circle_cover">
+   <div class="com-hycm-spr circle1 multiple_awards">
+  </div></div>
+
+<div class="bluebg-content">
+<h3 class="ubuntuR textW">Удостоенный Множественными Наградами </h3>
+<h6 class="col-md-8 col-md-offset-2 textW">Обладатель многочисленных наград включающих  Лучшего брокера в нескольких регионах и Лучшей торговой платформой в нескольких финансовых изданий.</h6>
+</div></div>
+</div>
+</section>
+  </div>
+ </div>
+</div>
+</div>
+        <div class="Section-content"> 
+	<div class="maincontent container">
+  	<div class="row">
+        <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-1" class="node node-home clearfix" about="/ru/node/1" typeof="sioc:Item foaf:Document">
+    <header>
+            <span property="dc:title" content="HYCM" class="rdf-meta element-hidden"></span>      </header>
+        </article>
+
+</section>
+<section id="block-block-12" class="block block-block clearfix">
+
+      
+   <h2 class="text-center">Международные награды в сфере финансовых рынков</h2>
+
+<div class="padd-top">       
+     <div class="col-md-3 col-sm-6 col-xs-12 ">
+       <div class=" com-hycm-spr knowledge trophy display-table-cell"></div>
+        <div class="display-table-cell">
+          <h4 class="latoM textR">FXDailyInfo</h4>
+          <h4 class="latoL">Лучший Форекс Брокер<br />Европы 2017</h4>
+       </div>
+</div>
+
+     <div class="col-md-3 col-sm-6 col-xs-12 ">
+       <div class=" com-hycm-spr knowledge trophy display-table-cell"></div>
+        <div class="display-table-cell">
+          <h4 class="latoM textR">Global Brands Magazine</h4>
+          <h4 class="latoL">Лучший Форекс Брокер <br />Дубая 2017</h4>
+       </div>
+     </div>
+
+
+     <div class="col-md-3 col-sm-6 col-xs-12 ">
+       <div class=" com-hycm-spr knowledge trophy display-table-cell"></div>
+        <div class="display-table-cell">
+          <h4 class="latoM textR">World Finance</h4>
+          <h4 class="latoL">Лучшая Мобильная Торговая Платформа<br />2017</h4>
+        </div>
+     </div>
+
+
+     <div class="col-md-3 col-sm-6 col-xs-12 ">
+      <div class=" com-hycm-spr knowledge trophy display-table-cell"></div>
+        <div class="display-table-cell">
+          <h4 class="latoM textR">Global Banking and Finance Review awards</h4>
+          <h4 class="latoL">Лучший Форекс Брокер<br />UAE 2017</h4>
+        </div>
+     </div>
+
+</div>
+
+<div>
+
+     <div class="col-md-3 col-sm-6  col-xs-12">
+      <div class="com-hycm-spr knowledge trophy display-table-cell"></div>
+        <div class="display-table-cell">
+           <h4 class="latoM textR">World Finance</h4>
+           <h4 class="latoL">Лучший Форекс Брокер <br />Средней Азии 2017</h4>
+        </div>
+     </div>
+
+    <div class="col-md-3 col-sm-6 col-xs-12 ">
+       <div class=" com-hycm-spr knowledge trophy display-table-cell"></div>
+        <div class="display-table-cell">
+          <h4 class="latoM textR">FX Report</h4>
+          <h4 class="latoL">Лучшая Розничная Торговая Платформа <br />2015</h4>
+       </div>
+    </div>
+
+     <div class="col-md-3 col-sm-6 col-xs-12 ">
+       <div class=" com-hycm-spr knowledge trophy display-table-cell"></div>
+        <div class="display-table-cell">
+          <h4 class="latoM textR">FX Report</h4>
+          <h4 class="latoL">Лучший Брокер Южной <br />Европы 2015</h4>
+       </div>
+     </div>
+
+
+     <div class="col-md-3 col-sm-6 col-xs-12 ">
+       <div class=" com-hycm-spr knowledge trophy display-table-cell"></div>
+        <div class="display-table-cell">
+          <h4 class="latoM textR">Forex Awards</h4>
+          <h4 class="latoL">Лучший Форекс Брокер <br />Европы 2014</h4>
+        </div>
+     </div>
+ </div>
+</section>
+  </div>
+ </div>
+</div>
+</div>
+   
+</div>
+
+  <footer class="footer">
+    <div class="footer-top">
+    <div class="container">
+      <div class="region region-footer">
+    <section id="block-block-1" class="block block-block clearfix">
+
+      
+  <h6 class="latoR textW risk risk1"><b>High Risk Investment Warning:</b> Contracts for Difference (‘CFDs’) are complex financial products that are traded on margin. Trading CFDs carries a high degree of risk. It is possible to lose all your capital. These products may not be suitable for everyone and you should ensure that you understand the risks involved. Seek independent expert advice if necessary and speculate only with funds that you can afford to lose. Please think carefully whether such trading suits you, taking into consideration all the relevant circumstances as well as your personal resources. We do not recommend clients posting their entire account balance to meet margin requirements. Clients can minimise their level of exposure by requesting a change in leverage limit. For more information please refer to HYCM’s <a href="/en/support/risk-warning" target="_blank"><u>Risk Disclosure</u></a>.  Additionally, the content of this website is for information purposes only and it is not intended as a recommendation or advice. Any indication of past performance or simulated past performance included in advertisements published by HYCM is not a reliable indicator of future results. The customer carries the sole responsibility for all the businesses or investments that are carried out at HYCM. </h6>
+
+<h6 class="latoR textW  risk risk2"><b>Regional Restrictions:</b> Henyep Capital Markets (UK) Limited and HYCM (Europe) Limited do not offer Contracts for Difference to residents of certain jurisdictions such as Afghanistan, Belgium, Hong Kong, Japan, the United States of America and some other regions. For more information please refer to our <a href="https://help.hycm.com/hc/en-us/articles/115001326645-Can-I-apply-from-outside-the-UK" target="_blank"><u>Help Center</u></a>. </h6>
+</section>
+  </div>
+    </div></div>
+            <div class="footer-first">
+    <div class="container">
+      <div class="region region-footer-first">
+    <section id="block-footer-sitemap-footer-sitemap" class="block block-footer-sitemap textW clearfix">
+
+      
+  <div id="footer-sitemap" class="clearfix">
+  <div class="fs-block-content"><div class="main-menu"><ul class="footer_links_main-menu total-items-6 parent-items-0 single-items-0"><li class="menu-713 depth-1 total-children-6 parent-children-0 single-children-6  first"><a href="/ru/about" class="fs-root-link">О нас</a><ul class="footer_links_main-menu total-items-6 parent-items-0 single-items-0"><li class="menu-714 depth-1 fs-no-children  first"><a href="/ru/about/advantages">Преимущества</a></li>
+<li class="menu-715 depth-1 fs-no-children"><a href="/ru/about/getting-started">Начало работы</a></li>
+<li class="menu-716 depth-1 fs-no-children"><a href="/ru/about/license-and-regulation">Регламент</a></li>
+<li class="menu-717 depth-1 fs-no-children"><a href="/ru/about/group-history">История группы</a></li>
+<li class="menu-718 depth-1 fs-no-children"><a href="/ru/about/international-offices">Международные офисы</a></li>
+<li class="menu-720 depth-1 fs-no-children  last"><a href="/ru/support/contact">Контакты</a></li>
+</ul></li>
+<li class="menu-721 depth-1 total-children-3 parent-children-0 single-children-3"><a href="/ru/education" class="fs-root-link">Обучение</a><ul class="footer_links_main-menu total-items-3 parent-items-0 single-items-0"><li class="menu-723 depth-1 fs-no-children  first"><a href="/ru/education-ebooks" title="">Электронные книги</a></li>
+<li class="menu-722 depth-1 fs-no-children"><a href="/ru/education" title="">Видео</a></li>
+<li class="menu-1339 depth-1 fs-no-children  last"><a href="/ru/education/mt4-videos">Видео уроки МТ4</a></li>
+</ul></li>
+<li class="menu-724 depth-1 total-children-7 parent-children-0 single-children-7"><a href="/ru/markets" title="" class="fs-root-link">Рынки</a><ul class="footer_links_main-menu total-items-7 parent-items-0 single-items-0"><li class="menu-725 depth-1 fs-no-children  first"><a href="/ru/products">Информация о продукте</a></li>
+<li class="menu-726 depth-1 fs-no-children"><a href="/ru/markets/economic-calendar">Экономический календарь</a></li>
+<li class="menu-1111 depth-1 fs-no-children"><a href="/ru/markets/news">Новости</a></li>
+<li class="menu-1113 depth-1 fs-no-children"><a href="/ru/markets/daily-commentary" title="">Eжедневные Oбзоры</a></li>
+<li class="menu-1871 depth-1 fs-no-children"><a href="/ru/markets/weekly-report" title="">Eженедельный Oбзоры</a></li>
+<li class="menu-1859 depth-1 fs-no-children"><a href="/ru/markets/daily-outlook" title="">Видео обзоры</a></li>
+<li class="menu-2125 depth-1 fs-no-children  last"><a href="/ru/markets/fx-calculators" title="">FX Calculators</a></li>
+</ul></li>
+<li class="menu-728 depth-1 total-children-3 parent-children-0 single-children-3"><a href="/ru/platforms" class="fs-root-link">Платформы</a><ul class="footer_links_main-menu total-items-3 parent-items-0 single-items-0"><li class="menu-729 depth-1 fs-no-children  first"><a href="/ru/platforms/account-types">Типы счетов</a></li>
+<li class="menu-730 depth-1 fs-no-children"><a href="/ru/platforms/metatrader4">HYCM MT4</a></li>
+<li class="menu-732 depth-1 fs-no-children  last"><a href="/ru/platforms/mobile-trading">HYCM Mobile</a></li>
+</ul></li>
+<li class="menu-733 depth-1 total-children-4 parent-children-0 single-children-4"><a href="/ru/partnerships" class="fs-root-link">Партнерские программы</a><ul class="footer_links_main-menu total-items-4 parent-items-0 single-items-0"><li class="menu-734 depth-1 fs-no-children  first"><a href="/ru/partnerships/refer-a-friend">Приведи друга</a></li>
+<li class="menu-735 depth-1 fs-no-children"><a href="/ru/partnerships/media-affiliates">Медиа-партнерство</a></li>
+<li class="menu-736 depth-1 fs-no-children"><a href="/ru/partnerships/introducing-brokers">Представляющий брокер</a></li>
+<li class="menu-737 depth-1 fs-no-children  last"><a href="/ru/partnerships/white-label-partners">Партнерство White Label</a></li>
+</ul></li>
+<li class="menu-739 depth-1 total-children-5 parent-children-0 single-children-5  last"><a href="/ru/support/contact" title="" class="fs-root-link">Поддержка</a><ul class="footer_links_main-menu total-items-5 parent-items-0 single-items-0"><li class="menu-740 depth-1 fs-no-children  first"><a href="/ru/support/contact" title="">Cвяжитесь с нами</a></li>
+<li class="menu-741 depth-1 fs-no-children"><a href="/ru/support/forms-and-documents">Формы и Документы</a></li>
+<li class="menu-744 depth-1 fs-no-children"><a href="/ru/support/account-funding">Пополнение счета</a></li>
+<li class="menu-743 depth-1 fs-no-children"><a href="/ru/support/faq">Часто задаваемы вопросы (FAQ)</a></li>
+<li class="menu-742 depth-1 fs-no-children  last"><a href="/ru/support/risk-warning">Предупреждение о рисках и Отказ от ответственности</a></li>
+</ul></li>
+</ul></div>
+</div>
+</div>
+
+</section>
+  </div>
+    </div></div>
+             <div class="footer-second">
+    <div class="container">
+      <div class="region region-footer-second">
+    <section id="block-block-2" class="block block-block clearfix">
+
+      
+  <div class="row">
+<div class="col-md-8 col-sm-12">
+<ul class="list-inline footer-contact-links"><li class="col-sm-4 col-xs-12 footer-icons-xs"> <a href="/ru/support/contact"><i class="com-sp contact-links pull-left contact col-xs-offset-4 col-xs-1 col-md-offset-0  col-sm-offset-0"></i> <h5 class="textW col-xs-4 col-md-7 col-sm-7 text-left">Контакты</h5></a></li>
+<li class="col-sm-4 col-xs-12 footer-icons-xs"><a href="#" onclick="return SnapABug.startLink();"><i class="com-sp contact-links pull-left livechat col-xs-offset-4 col-xs-1 col-md-offset-0  col-sm-offset-0"></i><h5 class="textW col-xs-4 col-md-7 col-sm-7 text-left">Он-лайн чат</h5></a></li>
+<li class="col-sm-4 col-xs-12 call-xs footer-icons-xs"><a href="" data-toggle="modal" data-target="#CallBackModal"><i class="com-sp contact-links pull-left call col-xs-offset-4 col-xs-1 col-md-offset-0  col-sm-offset-0"></i><h5 class="textW col-xs-4 col-md-7 col-sm-7 text-left">Запрос на звонок </h5></a></li></ul></div>
+<div class="col-md-4 col-sm-12">
+<ul class="list-inline social-media-links tb-xs "><li class="col-sm-2 col-sm-offset-1 col-xs-2 col-xs-offset-1 col-md-offset-2"> <a target="_blank" href="https://www.twitter.com/HYCMRussia">
+            <i class="com-sp social-media twitter"></i></a></li>    
+           <li class="col-sm-2 col-xs-2"> <a target="_blank" href="https://goo.gl/LhA5HO">
+            <i class="com-sp social-media facebook"></i></a></li>        
+    <li class="col-sm-2 col-xs-2"><a target="_blank" href="">
+            <i class="com-sp social-media tumblr"></i></a></li>
+           <li class="col-sm-2 col-xs-2"> <a target="_blank" href="https://goo.gl/oW68jW">
+            <i class="com-sp social-media instagram"></i></a></li>
+            <li class="col-sm-2 col-xs-2"><a target="_blank" href="https://goo.gl/mfY8gc">
+            <i class="com-sp social-media gplus"></i></a></li>
+ </ul></div></div>
+
+  <div class="modal fade call-back-top " id="CallBackModal" role="dialog">
+    <div class="modal-dialog call-back">
+    
+      <!-- Modal content-->
+      <div class="modal-content call-back-bg">
+    <button type="button" class="glyphicon glyphicon-remove callb pull-right" data-dismiss="modal" aria-hidden="true"></button>
+        <div class="modal-header">
+          <i class="com-sp contact-links pull-left call call-phone"></i>
+          <h2 class="textW modal-title">Запрос на звонок </h2>
+        </div>
+
+        <div class="fix-model" ng-controller="HomeController">
+
+          <form name="userFormCB" novalidate="" ng-submit="userFormCB.$valid &amp;&amp; SendData()" id="userFormCB">
+            <div class="fix-table">
+
+			<div id="succ1CB" class="alert alert-success alert-dismissable hidden">
+				<button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+				Request successfully made. Will call you as soon as possible
+			</div>
+
+			<div id="err1CB" class="alert alert-danger alert-dismissable hidden">
+				<button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+				Request Failed, Please try again
+			</div>
+
+              <div id="name_divCB" class="form-group callB pt-30" ng-class="{'has-error': (submitted2CB &amp;&amp; userFormCB.firstNameCB.$invalid)}" show-errors="">
+		<label class="latoR control-label">Имя: </label>
+		<input ng-pattern="/^[A-Za-z]+$/" id="name_inpCB" onblur="click_remove_error(this)" ng-click="submitted2CB=false; clicked2CB=true;" type="text" class="form-control" name="firstNameCB" ng-model="firstNameCB" required="" /><span ng-cloak="" ng-if="(clicked2CB &amp;&amp; userFormCB.firstNameCB.$invalid) || (submitted2CB &amp;&amp; userFormCB.firstNameCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+		<span class="alert-box latoM">Please use Latin characters only(a-Z). </span></span> 
+	     </div>
+
+           <div id="email_divCB" ng-class="{'has-error': (submittedCB &amp;&amp; userFormCB.emailCB.$invalid)}" class="form-group callB" show-errors="">
+             <label class="latoR control-label">Эл. адрес: </label>
+             <input ng-class="{'ng-valid': (userFormCB.emailCB.$valid)}" id="email_inpCB" type="email" onblur="click_remove_error(this)" ng-click="submittedCB=false; clickedCB=true;" validate-email="" class="form-control" name="emailCB" ng-model="emailCB" required="" /><span ng-cloak="" ng-if="(clickedCB &amp;&amp; userFormCB.emailCB.$invalid)  || (submittedCB &amp;&amp; userFormCB.emailCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+             <span class="alert-box latoM">Please enter a valid email. </span></span> 
+           </div>
+
+          <div class="form-group callB" ng-class="{'has-error': (submitted7CB &amp;&amp; userFormCB.areaListCB.$invalid)}">
+		<label class="latoR">Страна: </label>
+		<select class="change select-inp form-control" ng-model="areaListCB" name="areaListCB" ng-options="areaCB as areaCB.label for areaCB in areasCB" required=""><option value="" disabled="disabled" selected="selected">-Выбрать-</option></select><span ng-cloak="" ng-if="(submitted7CB &amp;&amp; userFormCB.areaListCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+		<span class="alert-box latoM">Please choose a country </span></span>
+	</div>
+
+
+        <div id="phone_divCB" class="form-group callB" ng-class="{'has-error': (submitted4CB &amp;&amp; userFormCB.phoneCB.$invalid)}" show-errors="">
+          <label class="latoR">Телефон:</label>
+          <input type="text" disabled="disabled" ng-model="areaListCB.value" class="phone-prefix form-control" /><input id="phone_inpCB" onblur="click_remove_error(this)" ng-click="submitted4CB=false; clicked4CB=true;" class="phone-input form-control" name="phoneCB" type="text" ng-model="phoneCB" required="required" numbers-only="numbers-only" /><span ng-cloak="" ng-if="(clicked4CB &amp;&amp; userFormCB.phoneCB.$invalid) || (submitted4CB &amp;&amp; userFormCB.phoneCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+            <span class="alert-box latoM">Please enter a valid number. </span></span> 
+        </div>
+            
+            <div id="question_divCB" class="form-group callB" ng-class="{'has-error': (submitted3CB &amp;&amp; userFormCB.questionCB.$invalid)}" show-errors="">
+              <label class="latoR">Bопрос: </label>
+              <input id="question_inpCB" type="text" onblur="click_remove_error(this)" ng-click="submitted3CB=false; clicked3CB=true;" class="form-control call-back-question" name="questionCB" ng-model="questionCB" required="" /><span ng-cloak="" ng-if="(clicked3CB &amp;&amp; userFormCB.questionCB.$invalid) || (submitted3CB &amp;&amp; userFormCB.questionCB.$invalid)" class="glyphicon glyphicon-play"> 
+                <span class="alert-box latoM">Required</span></span> 
+             
+            </div>
+
+</div>
+
+          <div id="div_btn_CB" class="xs-center mt-10">          
+          <button id="btn_addCB" class="btn green-btn mt-30" type="submit" ng-click="submittedCB=true;submitted2CB=true;submitted3CB=true;submitted4CB=true;submitted7CB=true;">
+            <span id="load_anim" class="hidden"></span><span id="load_msg" class="hidden">ЗАГРУЗКА...</span><span id="text_btn">Подтвердить</span>
+          </button>
+        </div>
+
+           </form>
+
+         </div>
+
+      </div>
+     </div>
+      
+    </div>
+</section>
+  </div>
+    </div></div>
+             <div class="footer-third">
+    <div class="container">
+      <div class="region region-footer-third">
+    <section id="block-block-3" class="block block-block clearfix">
+
+      
+  <div class="text-center footer-meta">
+<img alt="Home" src="/sites/www.hycm.com/themes/hycm/logo.png" width="130" height="46" /><ul class="latoM terms-links list-inline"><li><a href="/ru/support/forms-and-documents">Правила и Условия</a></li>
+                <li><a href="/ru/about/license-and-regulation">Безопасность фондов</a></li>
+                <li><a href="/ru/support/forms-and-documents">Организационно-правовые формы и документы</a></li>
+                <li><a href="/sites/www.hycm.com/files/HYCM_Cookie_Policy.pdf">Политика Cookies</a></li>
+                <li><a href="/sites/www.hycm.com/files/HYCM_Privacy_Policy.pdf">Политика конфиденциальности</a></li>
+              </ul></div>
+
+<a class="btn live-chat-btn live_chat_pos_mob visible-xs" onclick="return SnapABug.startLink();" href="#">
+ Чат 
+</a>
+
+
+
+
+</section>
+  </div>
+    </div></div>
+             <div class="footer-last">
+    <div class="container">
+      <div class="region region-footer-fourth">
+    <section id="block-block-4" class="block block-block clearfix">
+
+      
+  <!--
+<p class="licen latoM text-center">
+<span class="copyri bold"> COPYRIGHT&copy;  
+2018- HYCM, торговая марка Henyep Capital Markets (UK) Limited. ВСЕ ПРАВА ЗАЩИЩЕНЫ</span><br>
+HYCM (UK)  Великобритания, Лондон EC2N 2AN, ул. Трогмортон 28, 3-й этаж </p>
+-->
+
+<p class="licen latoM text-center">
+<span class="copyri bold"> Legal Information: This website is operated by HYCM. HYCM is the trading name of Henyep Capital Markets (UK) Limited and HYCM (Europe) Ltd. Henyep Capital Markets (UK) Limited is authorized and regulated under the Financial Conduct Authority with reference number 186171. HYCM (Europe) Ltd is authorized and regulated under the Cyprus Securities and Exchange Commission under license number 259/14. The Henyep Capital Markets Group is holding company and its assets are a controlling equity interest in its subsidiaries, HYCM Europe Ltd and Henyep Capital Markets (UK) Limited. All references on this website to “HYCM” refer to all subsidiaries of the Henyep Capital Markets Group. &copy; 1977 - 2018 HYCM.</p>
+</section>
+  </div>
+    </div></div>
+              <div class="footer-fixed">
+      <div class="region region-footer-fixed-bottom">
+    <section id="block-block-37" class="block block-block clearfix">
+
+      
+  <h6 class="latoR text-center risk">Предупреждение о рисках : Forex и CFD являются продуктами с заемными средствами, несущими высокую степень рисков. Возможна потеря всего вашего капитала.</h6>
+</section>
+  </div>
+    </div>
+      </footer>
+
+    <script>  (function() {
+    var se = document.createElement('script'); se.type = 'text/javascript'; se.async = true;
+    se.src = '//storage.googleapis.com/code.snapengage.com/js/4c40e58e-cf40-4231-a7b3-44e1fd6882f1.js';
+    var done = false;
+    se.onload = se.onreadystatechange = function() {
+      if (!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')) {
+        done = true;
+        SnapEngage.setLocale("en");
+      }
+    };
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(se, s);
+  })();</script>
+<script src="https://www.hycm.com/sites/www.hycm.com/modules/eu_cookie_compliance/js/eu_cookie_compliance.js?p6pmpr"></script>
+<script src="https://www.hycm.com/sites/www.hycm.com/modules/hycm_menu/js/cbpHorizontalMenu.min.js?p6pmpr"></script>
+<script>(function($){
+				cbpHorizontalMenu.init();
+			})(jQuery);</script>
+<script src="https://www.hycm.com/sites/www.hycm.com/themes/bootstrap/js/bootstrap.js?p6pmpr"></script>
+
+</body>
+</html>
+

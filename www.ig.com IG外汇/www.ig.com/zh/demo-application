@@ -1,0 +1,499 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 10]><html class="ie10 nojs" lang="zh-CN" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 10]><!--><html class="gtie10 nojs" lang="zh-CN" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+        
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1; requiresActiveX=true">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+
+
+    <meta class="swiftype" name="page-type" data-type="enum" content="default">
+
+
+
+
+
+
+
+
+
+<title>免费申请模拟账户进行模拟交易 | IG官网</title><meta name="keywords" content="" />
+<meta class="swiftype" name="description" content="在IG集团官网申请模拟账户，得到$20,000免费金额进行模拟交易。平台涵盖全球多种金融产品交易，立即申请账号，享受平台提供的专业分析工具和操作高便捷性！
+
+
+" />
+<meta name="locale" id="locale" content="zh_CN" />
+<meta name="softid" id="softid" content="igcom" />
+<meta http-equiv="content-language" content="zh-cn"/>
+        <meta name="applicable-device" content="pc,mobile"/>
+        <link rel="canonical" href="https://www.ig.com/zh/demo-application"/>
+<meta property="og:site_name" content="IG" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/og_image.jpg" />
+<meta property="og:title" content="Application Form Demo" />
+<meta property="og:url" content="https://www.ig.com/zh/demo-application" />
+<meta property="og:description" content="在IG集团官网申请模拟账户，得到$20,000免费金额进行模拟交易。平台涵盖全球多种金融产品交易，立即申请账号，享受平台提供的专业分析工具和操作高便捷性！
+
+
+"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">CQURLInfo={"requestPath":"/content/igcom/zh_CN/forms/demo-application","extension":"html","selectors":[],"systemId":"c8e9067a-79aa-4945-9014-bf0391a036c7","runModes":"prod,crx3,nosamplecontent,uk,publish,publish-prod,crx3tar"};</script>
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_shell.min.js"></script>
+
+
+<script>
+
+    PS.util.jspVars.set('loggedin.bannerText')(['您已经登入CFD账户。', '登出']);
+    PS.util.jspVars.set('loggedin.popupText')('You have <br/> the dealing platform open in another tab');
+    //URL for user details:
+    PS.util.jspVars.set('loggedin.authURL')('/validate/api/session/client-id');
+    PS.util.jspVars.set('loggedin.authTimeOut')(3000);
+    PS.util.jspVars.set('loggedin.myIgHomepage')('/myig/goto/homepage');
+    //URL for remote logoff:
+    PS.util.jspVars.set('loggedin.outURL')('https://deal.ig.com/dealing/pd/websiteLogout.htm');
+    
+
+    
+    PS.util.jspVars.set('websiteCountry')("zh");
+    PS.util.jspVars.set('homepageLink')("/content/igcom/zh_CN.html");
+    PS.util.jspVars.set('shareWithIgmarkets')();
+    PS.util.jspVars.set('user.redirects')([]);
+    PS.util.jspVars.set('deprecatedBrowsers')({"msie":"7"});
+    PS.util.jspVars.set('deprecatedBrowsersPopup')({});
+    PS.util.jspVars.set('permanent_sticky')();
+    PS.util.jspVars.set('google.analytics.tracking.id')("UA-53269626-24");
+    PS.util.jspVars.set('analytics.s_account')("adviggroupzhlive,adviggrouprollup");
+    PS.util.jspVars.set('analytics.page_title')("Application Form Demo");
+    PS.util.jspVars.set('analytics.cq_page_name')("demo-application");
+    PS.util.jspVars.set('analytics.path')("/content/igcom/zh_CN/forms/demo-application");
+    PS.util.jspVars.set('analytics.trackingTagDelay')("0");
+    PS.util.jspVars.set('siteID')("aum");
+    PS.util.jspVars.set('loggedin.myigbutton')(['My IG']);
+    PS.util.jspVars.set('loggedin.loginLinkMyIGTextReplacement')(
+        ['打开My IG']);
+    
+    
+    PS.util.jspVars.set('createAccountTest')({
+        "urlA": "/zh/application-form-new",
+        "mobileurlA": "/register#/page/1/country/CN/locale/zh_CN/platform/mobileweb",
+        "urlB": "/zh/application-form-new",
+        "mobileurlB": "/register#/page/1/country/CN/locale/zh_CN/platform/mobileweb",
+        "urlC": "",
+        "mobileurlC": "",
+        "excludeMobile": false,
+        "accountUrl": "/zh/create-account"
+    });
+    
+    
+    
+    //T&T Config
+    PS.util.jspVars.set('tandt.linkReplacements')([]);
+    PS.util.jspVars.set('tandt.customID')('igComAUCN');
+    PS.util.jspVars.set('tandt.timeout')(700);
+
+    //Sets the JSON for the hero panel
+    PS.util.jspVars.set('heroPanelSegmentSettings')('{}');
+
+    //Live chat
+    PS.util.jspVars.set('livechat.currentPageLiveChatDisable')(false);
+    PS.util.jspVars.set('livechat.activateLiveChat')("false");
+    PS.util.jspVars.set('livechat.popupPageUri')("");
+    PS.util.jspVars.set('livechat.apiUri')("");
+    PS.util.jspVars.set('livechat.initialisationUri')("");
+    PS.util.jspVars.set('livechat.deploymentID')("");
+    PS.util.jspVars.set('livechat.organisationID')("");
+    PS.util.jspVars.set('livechat.buttonID')("");
+    PS.util.jspVars.set('livechat.promptTimeDelay')("");
+
+    //EngHouse livechat
+    PS.util.jspVars.set('enghouselivechat.activateLiveChat')("true");
+    PS.util.jspVars.set('enghouselivechat.popupPageUri')("/zh/enghouse-chat");
+    PS.util.jspVars.set('enghouselivechat.currentPageLiveChatDisable')(false);
+    PS.util.jspVars.set('enghouselivechat.currentPageLiveChatPromptStyle')("grey");
+    PS.util.jspVars.set('enghouselivechat.disabledInTree')(false);
+    PS.util.jspVars.set('enghouselivechat.ignoreTreeDisable')(false);
+    PS.util.jspVars.set('enghouselivechat.forceCalendar')(true);
+
+    PS.util.jspVars.set('login.ajax')(true);
+
+    PS.util.jspVars.set('skypeLinksEnable')(false);
+    PS.util.jspVars.set('appsflyer.linkreplace')("true");
+
+    //Social Login
+    PS.util.jspVars.set('login.facebook')({
+        "fbLoginWithAccount": "false",
+        "fbLoginSocialAccountApiURL": "",
+        "fbLoginSocialSessionApiURL": "",
+        "fbLoginClientSecuritySessionApiURL": "",
+        "fbLoginDealerURL": "",
+        "fbLoginAppID": "",
+        "fbLoginCountry": "",
+        "fbLoginLanguage": "",
+        "fbLoginTimeout": "3000"
+    });
+
+    // Apple app injected banner
+    PS.util.jspVars.set('applebanner.disable')(false);
+    PS.util.jspVars.set('applebanner.ipad')("1336992208");
+    PS.util.jspVars.set('applebanner.iphone')("1336991855");
+
+    PS.util.Initialize.init();
+
+    // Add custom class If IE10 browser
+    var ua = navigator.userAgent.toLowerCase();
+    var rootHtml = document.getElementsByTagName('html')[0];
+    var match = /(edge)[ \/]([\w.]+)/.exec(ua) ||
+        /(vivaldi)[ \/]([\w.]+)/.exec(ua) ||
+        /(chrome)[ \/]([\w.]+)/.exec(ua) ||
+        /version(?=.*?(safari))[\/]([\w.]+)/.exec(ua) ||
+        /(webkit)[ \/]([\w.]+)/.exec(ua) ||
+        /(opera)(?:.*version|)[ \/]([\w.]+)/.exec(ua) ||
+        /(msie) ([\w.]+)/.exec(ua) ||
+        /(firefox)[ \/]([\w.]+)/.exec(ua) ||
+        ua.indexOf("compatible") < 0 && /(mozilla)(?:.*? rv:([\w.]+)|)/.exec(ua) ||
+        [];
+
+    if (match[1] === 'msie' && match[2] === '10.0') {
+        rootHtml.className += ' ie10';
+    }
+
+    if (PS.util.isAndroidStockBrowser(ua)) {
+        rootHtml.className += ' androidStockBrowser';
+    }
+
+</script>
+
+
+
+<script>
+    //Page Content Meta tags
+    PS.util.jspVars.set('contentMetatags')("");
+</script>
+
+<script>
+    
+    
+
+
+
+
+
+
+    var i18n= i18n || {};
+i18n['clientlibs.dates.january']='January';i18n['clientlibs.yes_no_cr']='\u662F\uFF08\u6CA1\u6709\u4FDD\u8BC1\u6B62\u635F\uFF09';i18n['clientlibs.dates.february']='February';i18n['clientlibs.more.button']='\u66F4\u591A';i18n['clientlibs.liveprices.bid']='Bid';i18n['clientlibs.livechat.prompt']='\u5728\u7EBF\u54A8\u8BE2';i18n['clientlibs.table.filter']='GB';i18n['clientlibs.browsers.deprecated.name.safari']='version of Safari';i18n['clientlibs.browsers.deprecated.default.browser']='';i18n['clientlibs.dates.october']='October';i18n['clientlibs.dates.thursday']='Thursday';i18n['clientlibs.no']='\u5426';i18n['clientlibs.liveprices.swapLong']='Offer Swap Point';i18n['clientlibs.dates.september']='September';i18n['clientlibs.dates.friday']='Friday';i18n['clientlibs.browsers.deprecated.name.chrome']='version of Chrome';i18n['clientlibs.dates.december']='December';i18n['clientlibs.dates.april']='April';i18n['clientlibs.dates.june']='June';i18n['clientlibs.dates.july']='July';i18n['clientlibs.dates.wednesday']='Wednesday';i18n['clientlibs.twitter.reply']='';i18n['clientlibs.liveprices.updated']='Updated';i18n['clientlibs.dates.august']='August';i18n['clientlibs.dates.format']='{2} {3} {1} {0} {4}:{5}';i18n['clientlibs.dates.may']='May';i18n['clientlibs.lightbox.close']='';i18n['clientlibs.dates.monday']='Monday';i18n['clientlibs.dates.tuesday']='Tuesday';i18n['clientlibs.dates.sunday']='Sunday';i18n['clientlibs.browsers.deprecated.upgradelink.mozilla']='http:\/\/www.mozilla.org\/en-GB\/firefox\/update\/';i18n['clientlibs.browsers.deprecated.upgradelink.msie']='';i18n['clientlibs.yes']='\u662F';i18n['clientlibs.mcarousel.next']='';i18n['clientlibs.browsers.deprecated.default.upgradelink']='';i18n['clientlibs.dates.november']='November';i18n['clientlibs.browsers.deprecated.name.msie']='';i18n['clientlibs.dates.saturday']='Saturday';i18n['clientlibs.browsers.deprecated.name.mozilla']='version of Firefox';i18n['clientlibs.dates.march']='March';i18n['clientlibs.secondaryNav.more']='\u66F4\u591A';i18n['clientlibs.liveprices.swapShort']='Bid Swap Point';
+    
+
+
+
+
+
+
+    var i18n= i18n || {};
+i18n['forms.mrs']='\u592A\u592A';i18n['forms.validalpha']='\u4EC5\u53EF\u586B\u5199\u5B57\u6BCD';i18n['forms.state']='\u5DDE\/\u7701';i18n['forms.validmax']='\u5DF2\u8D85\u8FC7\u6700\u5927\u5B57\u7B26\u9650\u5236\u3002';i18n['forms.noscript']='\u5FC5\u987B\u5141\u8BB8 JavaScript \u624D\u80FD\u4F7F\u7528\u8868\u683C';i18n['forms.phone']='\u7535\u8BDD\u53F7\u7801';i18n['forms.validconfirmation']='\u5B57\u6BB5\u4E0D\u5339\u914D';i18n['forms.dr']='\u533B\u751F\/\u535A\u58EB';i18n['forms.ms']='\u5973\u58EB';i18n['forms.mr']='\u5148\u751F';i18n['forms.no']='\u5426';i18n['forms.validphonenumber']='\u8BF7\u586B\u5199\u6709\u6548\u7684\u7535\u8BDD\u53F7\u7801';i18n['forms.city']='\u57CE\u5E02';i18n['forms.duplicate.failure']='The email is already used';i18n['forms.address']='\u5730\u5740';i18n['forms.account']='\u8D26\u6237\u53F7\u7801';i18n['forms.firstname']='\u540D';i18n['forms.validmin']='\u5F88\u62B1\u6B49\uFF0C\u4E0D\u6EE1\u8DB3\u6700\u5C11\u5B57\u7B26\u6570\u8981\u6C42\u3002';i18n['forms.email']='\u7535\u90AE';i18n['forms.miss']='\u5C0F\u59D0';i18n['forms.lastname']='\u59D3';i18n['forms.prof']='\u6559\u6388';i18n['forms.terms']='\u6211\u5DF2\u7ECF\u9605\u8BFB\u5E76\u660E\u767D\u6240\u6709\u6761\u6B3E';i18n['forms.sendinfo']='\u6211\u4E0D\u5E0C\u671B\u6536\u5230\u6709\u5173 IG \u4EA7\u54C1\u548C\u670D\u52A1\u4FE1\u606F\u7684\u7535\u90AE\u3002';i18n['forms.validnumeric']='\u4EC5\u53EF\u586B\u5199\u6570\u5B57';i18n['forms.name']='\u59D3\u540D';i18n['forms.pleasecomplete']='\u8BF7\u586B\u5199\u8868\u683C\u4E2D\u7684\u6240\u6709\u9879\u76EE';i18n['forms.required']='\u5FC5\u987B\u586B\u5199\u6B64\u9879';i18n['forms.preferredname']='';i18n['forms.duplicate.username']='The username is already used';i18n['forms.validUsername']='This username is unavailable. Please choose another.';i18n['forms.addressLine1']='\u5730\u5740';i18n['forms.validalphanum']='\u4EC5\u53EF\u586B\u5199\u5B57\u6BCD\u6216\u6570\u5B57';i18n['forms.title']='\u79F0\u8C13';i18n['forms.validemail']='\u8BF7\u586B\u5199\u6709\u6548\u7684\u7535\u90AE';i18n['forms.postcode']='\u90AE\u7F16';i18n['forms.validdate']='\u65E5\u671F\u683C\u5F0F\u65E0\u6548(\u4E24\u4F4D\u65E5\u671F-\u4E24\u4F4D\u6708\u5206-\u56DB\u4F4D\u5E74\u4EFD,\u4E24\u4F4D\u65E5\u671F\/\u4E24\u4F4D\u6708\u5206\/\u56DB\u4F4D\u5E74\u4EFD,\u4E24\u4F4D\u6708\u5206-\u4E24\u4F4D\u65E5\u671F-\u56DB\u4F4D\u5E74\u4EFD, \u4E24\u4F4D\u6708\u5206\/\u4E24\u4F4D\u65E5\u671F\/\u56DB\u4F4D\u5E74\u4EFD)';i18n['forms.countrycode']='\u8BF7\u586B\u5199\u56FD\u5BB6\u4EE3\u7801 \uFF08\u82F1\u56FD\u9664\u5916\uFF09';i18n['forms.validpassword']='Your password should contain one upper case letter, one lower case letter and one number.';i18n['forms.town']='\u57CE\u5E02';i18n['forms.yes']='\u662F';i18n['forms.country']='\u56FD\u5BB6';i18n['forms.existing']='\u60A8\u662F\u73B0\u6709\u5BA2\u6237\u5417\uFF1F';i18n['forms.submiterror']='Form has failed to submit. Please contact IG directly.';
+
+    
+var tagData = [[{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"A=1","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","Pm0JCJuNtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CU","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","mkbUCIOQtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=IN","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label",""],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google every page tag","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1025540600"],["google_conversion_color",""],["google_conversion_label","UesbCPCCkQIQ-IOC6QM"],["google_custom_params","obj-window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=SH","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","lUjrCPuQtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (DEMO)","cookie_name":"ID","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"ig_all","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","rNL0CKOMtQMQhY7w3gM"],["google_custom_params","window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"CS=1","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","VhK2CIuPtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CO","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","CwJ9COuStQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"PTI=OP","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"site","segment":"","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["google_conversion_id","1004275461"],["google_conversion_color",""],["google_conversion_label","36ACCNuUtQMQhY7w3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]}],[{"vendor":"Baidu","description":"Baidu Search Indexation","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"ig_all","type":"script","src":"http://push.zhanzhang.baidu.com/push.js","secureSrc":"https://zz.bdstatic.com/linksubmit/push.js","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[]},{"vendor":"Baidu","description":"Chinese site tracking","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"","scope":"everypage","segment":"ig_all","type":"script","src":"//hm.baidu.com/hm.js?1d5a73574a7cb3236cc5ecc94df7cfa1","secureSrc":"","forceCachedScript":true,"delay":"","channel":"","post_vars":[],"pre_vars":[["_hmt","obj-_hmt || []"]],"src_vars":[]}],[{"vendor":"Cedexis","description":"Cedexis analysis of network management","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"js","func":"","scope":"everypage","segment":"ig_all","type":"script","src":"//radar.cedexis.com/1/12265/radar.js","secureSrc":"//radar.cedexis.com/1/12265/radar.js","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[]}],[{"vendor":"Drawbridge","description":"Drawbridge cookie mapping","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//p.adsymptotic.com/d/px/?_pid=13724&_psign=ae9ce5b020d32e3e92e1e6af5fc5312e&_puuid=#$$s_vi$$#","secureSrc":"//p.adsymptotic.com/d/px/?_pid=13724&_psign=ae9ce5b020d32e3e92e1e6af5fc5312e&_puuid=#$$s_vi$$#","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[]}],[{"vendor":"DoubleClick","description":"Doubleclick Floodlight (PUBLIC PAGE)","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"page","segment":"ig_all","type":"element","src":"//__SRC__.fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=random","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","appli0"],["CAT","applidzh"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=IN","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien582"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=OP","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien551"]]},{"vendor":"DoubleClick","description":"Doubleclick Floodlight (PUBLIC EVERYPAGE)","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//__SRC__.fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=random","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","dr001"],["CAT","auzhd0"],["ID",""]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CO","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien622"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=RA","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien241"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=BI","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien620"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"A=1","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien602"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"CS=1","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien824"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (DEMO)","cookie_name":"ID","cookie_value":"demo-account","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"ig_all","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien668"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=SH","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien735"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CU","qs_name":"","qs_value":"","element":"iframe","func":"","scope":"site","segment":"","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108214"],["TYPE","clien478"],["CAT","clien950"]]}],[{"vendor":"XMO","description":"China's DSP Tags","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"complicatedJs","func":"opxLoad(opxPostLoadUrl,opxParams)","scope":"everypage","segment":"ig_all","type":"script","src":"//j03.optimix.asia/events/opxLoader.js","secureSrc":"//j03.optimix.asia/events/opxLoader.js","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[["opxPostLoadUrl","//e03.optimix.asia"],["opxUid","0"],["opxcounter","1"],[" opxClientID","1574"],["opxParams","opxvrsn=ut;opxUid=0;opxClientID=1574;opxcounter=1;"]],"src_vars":[]}]];
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">CQURLInfo={"requestPath":"/content/igcom/zh_CN/forms/demo-application","extension":"html","selectors":[],"systemId":"c8e9067a-79aa-4945-9014-bf0391a036c7","runModes":"prod,crx3,nosamplecontent,uk,publish,publish-prod,crx3tar"};</script>
+<link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_common.min.css" type="text/css">
+
+
+
+<script type="text/javascript">
+    PS.util.jspVars.set('qpidMapping')('');
+    PS.util.jspVars.set('defaultQpidWeighting')(1);
+    PS.util.jspVars.set('qpidMappingTimeout')(1500);
+</script>
+
+
+
+
+
+
+
+
+<!-- taken from https://mathiasbynens.be/notes/touch-icons -->
+
+<!-- For iPhone 6 Plus with @3Ã display: -->
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-180x180-precomposed.png">
+<!-- For iPad with @2Ã display running iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-152x152-precomposed.png">
+<!-- For iPad with @2Ã display running iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-144x144-precomposed.png">
+<!-- For iPhone with @2Ã display running iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-120x120-precomposed.png">
+<!-- For iPhone with @2Ã display running iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-114x114-precomposed.png">
+<!-- For the iPad mini and the first- and second-generation iPad (@1Ã display) on iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-76x76-precomposed.png">
+<!-- For the iPad mini and the first- and second-generation iPad (@1Ã display) on iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-72x72-precomposed.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-precomposed.png"><!-- 57Ã57px -->
+
+<meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@IGcom">
+<meta name="twitter:creator" content="@IGcom">
+<meta name="twitter:domain" content="www.IG.com">
+
+<meta name="twitter:app:name:iphone" content="">
+<meta name="twitter:app:id:iphone" content="">
+<meta name="twitter:app:url:iphone" content="">
+
+<meta name="twitter:app:name:ipad" content="">
+<meta name="twitter:app:url:ipad" content="">
+<meta name="twitter:app:id:ipad" content="">
+
+<meta name="twitter:app:name:googleplay" content="">
+<meta name="twitter:app:url:googleplay" content="">
+<meta name="twitter:app:id:googleplay" content="">
+
+
+
+
+                    <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"37379",ustr:"",originlat:"0",clientrtt:"103",ghostip:"117.104.139.140",ipv6:false,pct:"10",clientip:"36.5.167.200",requestid:"44d1e97c",region:"15295",protocol:"",blver:13,akM:"x",akN:"ae",akTT:"O",akTX:"1",akTI:"44d1e97c",ai:"168174",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head>
+
+    
+
+
+
+
+
+
+
+<body class="igcom responsive demo-application iframe-page ">
+
+
+
+
+
+
+<div class="wrapper iframe">
+
+    <div class="bg-content-container " style="
+    
+    
+    ">
+        
+
+
+
+
+
+
+
+<div class="wrapper-header" data-swiftype-index="false">
+    <div class="main-head">
+        <div class="fluid-width inner">
+
+            <div class="header__top">
+                <div class="logo__container">
+                    
+                        
+                            <a class="logo-link" href="https://www.ig.com/zh">
+                                <span class="screenreader">IG</span>
+                            </a>
+                        
+                        
+                    
+                </div>
+                <div class="header-additional">
+                    <div class="iframe-questions iframepage-questions parbase">
+
+
+
+
+
+<h2>开户问题？</h2>
+
+    
+    
+        <p>请致电400 120 9228</p>
+    
+
+
+
+</div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+        
+
+
+
+
+
+<div class="content-parsys parsys">
+</div>
+
+
+        
+
+        <div class="content-container">
+            
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+<iframe style="height:1620px" class="fluid-width " frameborder="0" src="https://www.ig.com/prospects4/controller?action=display_demo&processId=democlient2&webSiteId=cnm&locale=zh_CN&theme=ig" id="appForm"></iframe>
+            
+
+
+
+
+
+
+
+    
+    
+        <div class="sticky-footer" id="sticky-footer" data-swiftype-index="false">
+            <div class="fluid-width">
+                <p class="disclaimer-text">
+                    您访问的是海外地区网站。差价合约为杠杆性金融产品。差价合约交易未必适合每位人士，并有可能招致超出您的初始保证金的损失，敬请交易前完全了解所涉及的风险。
+                </p>
+                
+                    <div class="close-icon" id="sticky-footer-close-icon"></div>
+                
+            </div>
+        </div>
+    
+
+
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+    
+
+    
+        
+        <script type="text/javascript" src="https://a.c-dn.net/b/21o5MV/ig-fe-login-min.js"></script>
+        <script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_ps.min.js"></script>
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        
+            <script src="https://cdn.optimizely.com/js/5595260258.js"></script>
+        
+    
+
+</body>
+
+</html>

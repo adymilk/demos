@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="icon" href="/images/favicon.ico">
+	<title> BCR</title>
+	<link rel="stylesheet" type="text/css" href="/css/libs.css">
+	<meta name="baidu-site-verification" content="k5h0uYCb8q" />
+	<!-- BA Custom CSS | Combine with Bootstrap Core CSS | Custom CSS | Language CSS -->
+<link href="/css/main.css" rel="stylesheet">
+
+<script src="/js/jquery-2.2.3.min.js"></script>
+<script src="/js/jquery-ui.js"></script>
+<!-- Bootstrap Tooltip requirement -->
+<script src="/js/tether.min.js"></script>
+<!-- Bootstrap Core JS -->
+<script src="/js/bootstrap.js"></script>
+<!-- Select2 -->
+<script src="/js/select2.min.js"></script>
+<!-- For Retina Display | This Javascript will look for alternative image file name ends with @2x  -->
+<script src="/js/effects/retina.js"></script>
+<!-- Parallax Background Image -->
+<script src="/js/effects/parallax.js"></script>
+<!-- Automatically Hide Navbar -->
+<script src="/js/effects/autohidingnavbar.js"></script>
+<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+<!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
+<script src="/js/ie-emulation-modes-warning.js"></script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+
+
+
+		<script charset="UTF-8" src="https://wpa.b.qq.com/cgi/wpa.php"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110479038-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-110479038-1');
+	</script>
+	
+	<!--Start of Zendesk Chat Script-->
+    
+	</script>
+	<!--End of Zendesk Chat Script-->
+</head>
+<body>
+
+	<section class="outterContainer">
+		<header class="navbar-fixed-top navbar-full clearfix">
+<div class="top-menu">
+	<ul class="top-menu-list">
+		<li class="top-menu-link">
+			<a href="https://webapp.bcrcorp.com.au/getting_started/sim?l=cn&cur=usd" class="client-login">开户注册</a>
+		</li>
+		<li class="top-menu-link">
+			<a href="http://client-portal.bcrcorp.com.au/lang/chi" class="client-login">登入MyBCR</a>
+		</li>
+
+			<li class="top-menu-link">
+			<a  href="javascript:void(0);" onclick="window.open('http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzgwMDE4NjgwN180ODA2OThfODAwMTg2ODA3XzJf','pagename','resizable,height=520,width=740'); return false;" >
+				<i class="fa fa-wechat"></i>&nbsp; 在线客服
+			</a>
+		</li>
+
+		<li class="top-menu-link">
+			<a href="http://client-portal.bcrcorp.com.au/lang/chi"><i class="fa fa-money"></i>&nbsp; 账户入金</a>
+		</li>
+		<li class="top-menu-link dropdown">
+			<a href="javascript:void(0)" ><i class="fa fa-language"></i>&nbsp; 简体中文 <i class="flag-icon flag-icon-cn"></i> </a>
+			
+		</li>
+		<li class="top-menu-link"><a href="https://bcrcorp.com.cn/about-us/contact-us/sim"><i class="fa fa-phone"></i>&nbsp; 联系我们</a></li>
+		<li class="top-menu-link currency-switch">
+			<input id="currency-switch" class="currency-toggle currency-toggle-yes-no" type="checkbox" 1>
+			<label for=""  data-off="USD"></label>
+		</li>
+	</ul>
+</div>
+
+<div class="wsmenucontainer clearfix">
+	<div class="overlapblackbg"></div>
+	<div class="wsmobileheader clearfix">
+		<a id="wsnavtoggle" class="animated-arrow"><span></span></a>
+		<a href="https://bcrcorp.com.cn/sim" class="smallogo"><img alt="Brand" src="/images/logo-small.png"></a>
+	</div>
+	<div class="header">
+		<div class="wrapper clearfix bigmegamenu">
+			<div class="logo clearfix">
+				<a href="https://bcrcorp.com.cn/sim">
+					<img alt="Brand" src="/images/logo.png" class="hidden-sm hidden-xs">
+				</a>
+			</div>
+			<nav class="wsmenu clearfix">
+				<ul class="mobile-sub wsmenu-list">
+					<li><a href="https://bcrcorp.com.cn/cfd-trading/sim" class="brackets">差价合约交易</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">交易差价合约</h3>
+								<p class="megamenu-intro-body">CFD（差价合约）交易允许客户利用快速变化的全球金融工具，以及外汇，贵金属，商品，指数和股票等市场价格的上涨或下跌进行交易。</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/sim" class="btn btn-primary">真实账户</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/demo-account/sim" class="btn btn-primary-outline">模拟账户</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">工具</li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-basics/sim"><i class="fa fa-angle-right"></i>差价合约介绍</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-trading-details/sim"><i class="fa fa-angle-right"></i>差价合约产品</a></li>
+								
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">交易账户</li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/account-overview/sim"><i class="fa fa-angle-right"></i>账户类型</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/sim"><i class="fa fa-angle-right"></i>标准账户</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/pro-account/sim"><i class="fa fa-angle-right"></i>白金账户</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/alpha-account/sim"><i class="fa fa-angle-right"></i>阿尔法账户</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/demo-account/sim"><i class="fa fa-angle-right"></i>模拟账户</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">交易细则</li>
+								
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/swap-information/sim"><i class="fa fa-angle-right"></i>利息图表</a></li>
+								<li><a href="https://bcrcorp.com.cn/cfd-trading/trading-examples/sim"><i class="fa fa-angle-right"></i>交易实例</a></li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="https://bcrcorp.com.cn/trading-platform/sim" class="brackets">交易平台</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">交易平台</h3>
+								<p class="megamenu-intro-body">BCR的BCR Trader平台基于MetaTrader4交易软件— CFD差价合约市场上最受欢迎的交易平台。 BCR Trader用于交易差价合约，分析金融市场和使用交易程序。</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-windows/sim" class="btn btn-primary">PC端/MAC</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-ios/sim" class="btn btn-primary-outline">移动端</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">桌上型电脑</li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-windows/sim"><i class="fa fa-angle-right"></i>BCR Trader Windows <i class="fa fa-windows"></i></a></li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mac/sim"><i class="fa fa-angle-right"></i>BCR Trader苹果 <i class="fa fa-apple"></i></a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">手机</li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-android/sim"><i class="fa fa-angle-right"></i>BCR Trader安卓 <i class="fa fa-android"></i></a></li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-ios/sim"><i class="fa fa-angle-right"></i>BCR Trader苹果手机 <i class="fa fa-apple"></i></a></li>
+								<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-tablet/sim"><i class="fa fa-angle-right"></i>BCR Trader平板</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">使用者指南</li>
+								<!--
+								<li><a href="https://bcrcorp.com.cn/trading-platform/beginner-guide/sim"><i class="fa fa-angle-right"></i>Beginner Guide</a></li>
+								-->
+								<li class="coming-soon"><i class="fa fa-angle-right"></i>初学者指南</li>
+								<li>
+									<a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-guide/sim">
+										<i class="fa fa-angle-right"></i>BCR Trader指南
+									</a>
+								</li>
+								<li>
+									<a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mobile-guide/sim">
+										<i class="fa fa-angle-right"></i>手机版BCR Trader指南
+									</a>
+								</li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="https://bcrcorp.com.cn/client-resources/sim" class="brackets">客户资源</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">客户资源</h3>
+								<p class="megamenu-intro-body">无论是登录MyBCR查看您的账户，阅读任何重要文件，还是查看任何金融数据，您都可以随时随地获取您所需要的信息。</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/client-resources/funding-information/sim" class="btn btn-primary">入金</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/client-resources/legal-documents/sim" class="btn btn-primary-outline">表格</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">账户管理</li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/funding-information/sim"><i class="fa fa-angle-right"></i>入金指导</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/withdrawal-instructions/sim"><i class="fa fa-angle-right"></i>出金指导</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/legal-documents/sim"><i class="fa fa-angle-right"></i>客户表格</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">交易知识</li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/trading-rules/sim"><i class="fa fa-angle-right"></i>交易规则</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/glossary/sim"><i class="fa fa-angle-right"></i>交易术语</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/faqs/sim"><i class="fa fa-angle-right"></i>常见问题解答</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">交易要点</li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/event-notices/sim"><i class="fa fa-angle-right"></i>活动和公告</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/market-news/sim"><i class="fa fa-angle-right"></i>市场新闻</a></li>
+								<li><a href="https://bcrcorp.com.cn/client-resources/economic-calendar/sim"><i class="fa fa-angle-right"></i>财经日历</a></li>
+								<li class="hidden-md-down"><a href="https://bcrcorp.com.cn/client-resources/position-indicator/sim"><i class="fa fa-angle-right"></i>交易情绪指数</a></li>
+							</ul>
+						</div>
+					</li>
+					<li><a href="https://bcrcorp.com.cn/education/sim" class="brackets">教育资源</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">教育资源</h3>
+								<p class="megamenu-intro-body">基于我们在差价合约行业多年的经验，BCR团队开发了培训系列，帮助投资者在高风险，高回报的CFD交易环境中找到自己的定位。 定期查看此部分以获取最新的教育资源。</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/education/trading-video/sim" class="btn btn-primary" style="pointer-events: none;">交易视频</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/education/market-analysis/sim" class="btn btn-primary-outline">市场分析</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">外汇交易</li>
+								<li><a href="https://bcrcorp.com.cn/education/forex-introduction/sim"><i class="fa fa-angle-right"></i>外汇概述</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/forex-trading-basics/sim"><i class="fa fa-angle-right"></i>外汇交易基础</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">分析</li>
+								<li><a href="https://bcrcorp.com.cn/education/fundamental-analysis/sim"><i class="fa fa-angle-right"></i>基础分析</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/technical-analysis/sim"><i class="fa fa-angle-right"></i>技术分析</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/market-analysis/sim"><i class="fa fa-angle-right"></i>市场分析</a></li>
+								<!-- Market Analysis
+								index page > market-analysis.php
+								Sort by:
+									> market-analysis/{author}/{post-title}
+									> market-analysis/{product}/{post-title}
+								-->
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">课程</li>
+								<li class="coming-soon"><i class="fa fa-angle-right"></i>交易电子书</li>
+								<li class="coming-soon"><i class="fa fa-angle-right"></i>交易视频</a></li>
+								<li class="coming-soon"><i class="fa fa-angle-right"></i>交易在线讲座</a></li>
+								<!-- Trading Courses
+								index page > trading-ebook.php
+								index page > trading-video.php
+								index page > webinars.php
+
+								Trading eBook:
+									> education/course/trading-ebook/trading-ebook > List of available books
+
+								Trading Video: (No Filter option)
+									> education/course/trading-video/{post-title}
+
+								Webinars: (No Filter option)
+									> education/course/webinars/webinars
+
+								* Webinar index page show a list of incoming webinars, and a video player as the main panel for the current webinar.
+								-->
+							</ul>
+						</div>
+					</li>
+					<li><a href="https://bcrcorp.com.cn/about-us/sim" class="brackets">关于我们</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list megamenu-intro">
+								<h3 class="megamenu-intro-title">关于我们</h3>
+								<p class="megamenu-intro-body">BCR在差价合约行业中提供极具竞争力的点差和最理想的交易环境。投资CFD差价合约，BCR将会是您的首选。</p>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/sim" class="btn btn-primary">真实账户</a></p>
+								</div>
+								<div class="megamenu-intro-button">
+									<p><a href="https://bcrcorp.com.cn/cfd-trading/demo-account/sim" class="btn btn-primary-outline">模拟账户</a></p>
+								</div>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">认识我们</li>
+								<li><a href="https://bcrcorp.com.cn/about-us/company-profile/sim"><i class="fa fa-angle-right"></i>公司介绍</a></li>
+								<li><a href="https://bcrcorp.com.cn/about-us/why-choose-us/sim"><i class="fa fa-angle-right"></i>为何选择BCR</a></li>
+								<li><a href="https://bcrcorp.com.cn/about-us/contact-us/sim"><i class="fa fa-angle-right"></i>联系我们</a></li>
+							</ul>
+							<ul class="megamenu-list link-list">
+								<li class="title">规则</li>
+								<li><a href="https://bcrcorp.com.cn/about-us/risk-disclosure/sim"><i class="fa fa-angle-right"></i>风险披露</a></li>
+								<li><a href="https://bcrcorp.com.cn/about-us/privacy-policy/sim"><i class="fa fa-angle-right"></i>保密政策</a></li>
+								<li><a href="https://bcrcorp.com.cn/about-us/rg227/sim"><i class="fa fa-angle-right"></i>RG 227</a></li>
+							</ul>
+						</div>
+					</li>
+
+					<li><a href="https://bcrcorp.com.cn/affiliates/sim" class="brackets">合作伙伴</a></li>
+					<li><a href="#" class="brackets">最新回馈</a>
+						<div class="megamenu clearfix ">
+							<div class="col-xl-6 col-lg-12">
+								<h3 class="title">赠金活动</h3>
+								<div class="fluid-width-video-wrapper">
+									<a href="https://bcrcorp.com.cn/promotions/bonus/sim"><img src="/images/bonus-promo-banner-sim.jpg" width=454px class="img-fluid" alt=""/></a>
+									<br />
+									<p>最高可获赠15%的奖励资金。</p>
+								</div>
+							</div>
+
+							<div class="col-xl-6 col-lg-12">
+								<h3 class="title">奖品回馈</h3>
+								<div class="fluid-width-video-wrapper">
+									<a href="https://bcrcorp.com.cn/promotions/iphone/sim"><img src="/images/iphone7_hero.jpg" class="img-fluid" alt=""/></a>
+									<br />
+									<p>今日入金领取iPhone 8 / iPhone 8 Plus 或 iPhone X活动!</p>
+								</div>
+							</div>
+
+							
+						</div>
+					</li>
+
+					<li class="top-menu-link"><a href="http://client-portal.bcrcorp.com.au/lang/chi" class="brackets">客户登陆</a></li>
+					<li class="top-menu-link"><a href="#" class="brackets">选择语言</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list">
+								<li><a href="https://bcrcorp.com.cn/education/fundamental-analysis/tra/../"><i class="flag-icon flag-icon-au ml-10"></i> Australian</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/fundamental-analysis/tra"><i class="flag-icon flag-icon-cn ml-10"></i> 简体</a></li>
+								<li><a href="https://bcrcorp.com.cn/education/fundamental-analysis/tra/../tra"><i class="flag-icon flag-icon-cn ml-10"></i> 繁體</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="top-menu-link"><a href="#" class="brackets">选择货币</a>
+						<div class="megamenu clearfix">
+							<ul class="megamenu-list link-list">
+								<li><a href="https://bcrcorp.com.cn/currency/aud?lang=sim"><i class="flag-icon flag-icon-au ml-10"></i> 澳元</a></li>
+								<li><a href="https://bcrcorp.com.cn/currency/usd?lang=sim"><i class="flag-icon flag-icon-us ml-10"></i> 美元</a></li>
+							</ul>
+						</div>
+					</li>
+					<li class="top-menu-link"><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/sim" class="brackets" style="background-color: #6f9334;">开立真实账户</a></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+</div>
+
+</header>				<div class="parallax" data-parallax="scroll" data-image-src="/images/banners/default_banner_3.jpg">
+	<div class="page-title">
+		<div class="page-title-inner">
+			<h1 class="heading">基础分析</h1>
+			<p class="desc">基于整体经济和产业条件</p>
+		</div>
+	</div>
+</div>
+			<!-- Breadcrumb -->
+<div class="breadcrumb-trail">
+	<div class="container">
+		<ol class="breadcrumb">
+			<li><a href="https://bcrcorp.com.cn/sim">首页</a></li>
+			<li><a href="https://bcrcorp.com.cn/education/sim">教育资源</a></li>
+			<li class="active">基础分析</li>
+		</ol>
+	</div>
+</div>				<section class="contentWrapper">
+			<section class="default-layout page-spacing-margin">
+	<div class="container">
+		<aside class="side-menu">
+			<ul class="list-group">
+				<li class="list-group-item"><a href="#交易流向及资金流向" class="active">交易流向及资金流向</a></li>
+				<li class="list-group-item"><a href="#利率">利率</a></li>
+				<li class="list-group-item"><a href="#通胀及消费物价指数">通胀及消费物价指数</a></li>
+				<li class="list-group-item"><a href="#地缘政治事件">地缘政治事件</a></li>
+				<li class="list-group-item"><a href="#非农就业数据">非农就业数据</a></li>
+			</ul>
+		</aside>
+		<article>
+			<div class="form-group hidden-lg-up">
+				<label for="chooseCategory">选择类别</label>
+				<select class="form-control" id="chooseCategory">
+					<option value="交易流向及资金流向">交易流向及资金流向</option>
+					<option value="利率">利率</option>
+					<option value="通胀及消费物价指数">通胀及消费物价指数</option>
+					<option value="地缘政治事件">地缘政治事件</option>
+					<option value="非农就业数据">非农就业数据</option>
+				</select>
+			</div>
+			<section id="交易流向及资金流向" class="category-content" style="display: block;">
+				<h5 class="category-title">交易流向及资金流向</h5>
+				<div class="category-body">
+					<strong>贸易平衡</strong>
+					<p>贸易平衡数字是净出口减去净入口所得出的数字。美国近年来的贸易平衡数字都倾向为负数，因为美国一直以来主要都是"消费"国。贸易平衡趋向不平衡，可以显示出不少有关往来账户的讯息，以及美国有否"过度消费"海外货品及服务。交易者可以从贸易平衡数字下降得知美元走强，而趋于不平衡则一般会导致美元走低。</p>
+
+					<p>贸易平衡是一个最常令人误解美国经济的指标。例如，不少人都认为贸易赤字是一件坏事。然而，贸易赤字的好坏与否，是相对于商业周期及经济而言。经济衰退时，国家倾向增加出口，以制造就业及需求。在经济大幅膨胀时，国家倾向增加入口，促成价格竞争，这限制了通胀，及在不导致价格上升的情况下，提供超过经济体本土所需的货品。因此，于衰退时，贸易赤字并非一件好事，但它却可能会在经济膨胀时提供帮助。</p>
+
+					<p>美国贸易平衡指美国出口的货品及服务与美国入口的货品及服务两者之差。贸易平衡是美国收支差额中其中一个最大的组成部份，能够提供宝贵的启示，及会对美元价值构成莫大压力。</p>
+
+					<p>贸易平衡对外汇交易者甚为重要，原因是出口需求与外汇需求息息相关。海外人士必需购入国内货币以支付一个国家的出口。因此，某一个月份的出口越多，该国货币的需求便会越大。出口需求亦会影响国内制造商的生产及价格，因为他们必需致力提高生产以应付上升的需求。</p>
+
+					<p>此外，另一个影响收支差额的因素是财政部国际资本流动(TIC)数据所反映的投资，这项数据是由财政部每月制定的。</p>
+
+					<p>TIC数据显示报告期内美国公民所购买的海外长期证券金额与海外人士所购买的美国长期证券金额两者之间的价值差异。结果将显示国内及海外投资的平衡。例如，若海外人士购入600亿美元的美元股票及债券，而美国购入300亿美元的海外股票及债券，则得出的数字(读数)将会是300亿美元。</p>
+
+					<p>此数据的重要性对交易者来说可以媲美贸易平衡：当海外人士购买国内证券时，他们必需以国内货币支付，因此较大的海外需求导致国内货币升值。</p>
+
+					<p>与上述两者相关的是贸易流向及资金流向的概念。</p>
+
+					<strong>资金流向</strong>
+					<p>资金流向代表由海外调动过来的资金，以投资于海外市场。</p>
+
+					<p>资金流向量度用以购买或出售资本投资的净货币金额。资金流向背后的关键概念是平衡。例如，一个国家可以产生正或负资金流向。正资金流向平衡意味着由海外流入一个国家的投资超过自该国家流出至海外的投资。负资金流向表示由一个国家流出至海外的投资超过由海外流入该国家的投资。产生负资金流向时，该国家货币的需求就会减少，以致货币贬值。这是因为投资者必需出售其本地货币，以买入他将即存入的国内货币。</p>
+
+					<p>凭借高息率、经济增长及国内金融市场增长而提供最高投资回报的国家倾向吸引最多的海外资金。这些国家维持正资金流向。若一个国家的股票市场造好，而且提供高息率，海外来源很可能会将资金汇至该国家。这将会令到此货币的需求增加，以致其升值。现在就以英国蓬勃的经济及美国疲弱的经济为例。在英国，股票市场造好，而在美国则缺乏投资机会。在这个情景下：</p>
+
+					<p>美国居民将会出售其美元及买入英镑，以利用勃蓬的英国经济。资金自美国流向英国。英镑的需求增加，而美元的需求则下跌。美元价值相对于英镑的价值下跌。</p>
+
+				</div>
+  			</section>
+  			<section id="利率" class="category-content">
+				<h5 class="category-title">利率</h5>
+				<div class="category-body">
+					<strong>基本分析</strong>
+					<p>除技术分析之外，基本分析是大部份交易者进行交易分析时会留意的分析。</p>
+
+					<strong>利率</strong>
+					<p>要数外汇市场其中一个首要影响因素，则非利率莫属。某一国家的中央银行或经济组织将会设定其货币的利率。它们调整利率，借以鼓励贸易及维持对通胀的控制。低利率鼓励经济膨胀，因为贷款变得更为便宜。高利率阻碍经济膨胀，因为"资金成本"变得更加高昂。利率有所转变，亦会大大影响货币价值，我们将会在稍后详细讨论这个主题。</p>
+
+					<p>买卖美元时，最为重要的是留意联储局公开市场委员会(FOMC)的利率决定，联储局公开市场委员会负责厘定过夜联邦基金利率。当联储局加息时，以美元计值的资产所提供的收益率将会较高。这一般会吸引更多交易者及投资者。若调低利率，这意味着以美元计值的资产所提供的收益率将会降低，令投资者投资于美元的意欲降低。不过，重要的并不单止是息率本身。联储局公开市场委员会决定另外一项举足轻重的，是随联储局公开市场委员会决定而发表的声明的语言。事实上，许多时候在公布决定之际，市场早已消化该项消息；若消息一如所料，市场只会出现较微的波幅。另一方面，该项伴随发出的声明将会被逐字分析，以找出联储局在下一次会议时将采取什么行动的蛛丝马迹。记住，利率决议本身的重要性趋向比对将来利率的预期较低。</p>
+
+					<p class="text-red">以下表格是主要货币的利率， 并不是实时的利率。</p>
+
+					<table class="table table-custom table-hover">
+						<thead>
+							<tr>
+								<th>纽元</th>
+								<th>英镑</th>
+								<th>加元</th>
+								<th>澳元</th>
+								<th>美元</th>
+								<th>欧元</th>
+								<th>日元</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td scope="row"><i class="flag-icon flag-icon-nz"></i></td>
+								<td scope="row"><i class="flag-icon flag-icon-gb"></i></td>
+								<td scope="row"><i class="flag-icon flag-icon-ca"></i></td>
+								<td scope="row"><i class="flag-icon flag-icon-au"></i></td>
+								<td scope="row"><i class="flag-icon flag-icon-us"></i></td>
+								<td scope="row"><i class="flag-icon flag-icon-eu"></i></td>
+								<td scope="row"><i class="flag-icon flag-icon-jp"></i></td>
+							</tr>
+							<tr>
+								<td><strong>2.25%</strong></td>
+								<td><strong>0.50%</strong></td>
+								<td><strong>0.50%</strong></td>
+								<td><strong>2.00%</strong></td>
+								<td><strong>0.50%</strong></td>
+								<td><strong>0.00%</strong></td>
+								<td><strong>-0.1%</strong></td>
+							</tr>
+						</tbody>
+					</table>
+
+					<p>每只货币都附有利率。这几乎是该个经济体系强弱的气压计。在一个国家的经济体系随时间而走强时，价格将倾向上升，因为消费者有能力拨出更多收入消费。我们的收入越多，假期所享受到的便会变得更为优质，而且能够消耗更大量的货品及服务。换句话说，将会有更多资金竞相追逐同一件货品，而这将会导致有关货品的价格提高。价格上升称为通胀，而这将会受到中央银行密切注视。若任由通胀飙升，我们的金钱便会大大丧失其购买力，而一般货品的价格，例如一条面包，有可能会在一日之内飙升至令人难以置信的水平，例如一百美元一条。这看似是一个遥不可及的情景，但这正是通胀率极高的国家所出现的情况，例如津巴布韦。为了在这项危机发生前阻止其发生，中央银行将会介入及调高利率，从而在通胀失控前遏止通胀压力。一旦通胀开始产生，便难以阻止，因此联储局经常打击通胀，而且有点近乎偏执地提防通胀。高利率令借入资金变得更为高昂，因而令消费者不欲买入新房子、使用信用卡及承担任何额外债项。资金变得更加高昂亦导致企业不欲扩展，因为许多业务都是以信贷形式进行，因而经常会被收取利息。最终，高利率随之而来的代价将会是经济放缓，直至中央银行再次开始调低利率为止，而这一次是旨在鼓励经济增长及扩张 – 而这种循环将会持续下去。尝试在加强增长的同时维持低通胀，是联储局每次召开联储局公开市场委员会会议时必需仔细平衡的事项。其他中央银行亦会在定期会议内商议同样的事项。</p>
+
+					<p>透过提高利率，一个国家亦可以增加海外投资者投资于该国的意欲。这方面的逻辑跟任何投资背后的逻辑一样：投资者将尽量寻求最高的回报可能。藉调高利率，投资于该国的人士的回报将会提高。最终，该货币的需求将会增加，因为投资者将会投资在利率较高的地方。藉着高利率、经济增长及国内金融市场增长而提供最高投资回报的国家倾向吸引最多的海外资金。若一个国家的股票市场造好，提供高利率，海外投资者很可能会将资金汇至该国家。这将会令到此货币的需求增加，以致其升值。</p>
+
+					<p>资金经常跟随收益率。若一个国家调高其利率，国际对该货币的整体兴趣将会增加。最近，澳大利亚储备银行(RBA)将澳元的利率调高25个基点至3.25%。澳元兑其他货币已经走强，此举将会令它进一步走强。因此，澳元/美元、澳元/日元、英镑/澳元等货币对已反映出此强势情况。相反，倘若一个国家的中央银行调低利率，资金便会自该特定货币流出。</p>
+
+					<p>中央银行的部份特征是：</p>
+					<ul class="bullet">
+						<li>它们可以运用庞大的资本储备。</li>
+						<li>它们有特定的经济目标。</li>
+						<li>它们监管资金供应及利率。</li>
+						<li>它们设定隔夜借贷利率，以更改支付予本土货币的利率。</li>
+						<li>它们买卖政府证券以增加或减少货币供应。</li>
+						<li>它们有时候会在公开市场买卖本土货币，以影响汇率。</li>
+					</ul>
+
+					<p>显而易见，利率及利率转变能够对一个国家所体现的资金流向构成强大影响。现在就让我扼要说明资金流向的概念，及正和负资金流向之间的一些差异。</p>
+
+					<p>正如上一节所讨论，资金流向代表由海外调动的资金以投资于一个国家的市场。它们可以大幅影响一个国家货币的价格，因为正资金流向显示投资于该国货币的需求，而负资金流向则显示货币需求较供应为弱。根据这个题目的重要性，您可以察觉到单单是中央银行可能更改利率的讨论，都会受到密切注视，而该等讨论本身亦会影响相关货币对的走势。明显地，实际利率转变的公布将会在国际经济舞台上备受注视，及有可能成为改变货币走势的事件。涉及此过程的主要中央银行包括加拿大银行、英伦银行、日本中央银行、欧洲中央银行、联储局(美国)、瑞士中央银行、澳大利亚储备银行及新西兰储备银行。个别银行定期举行会议，周期一般为4至6个星期，视乎有关银行而定。</p>
+				</div>
+  			</section>
+  			<section id="通胀及消费物价指数" class="category-content">
+				<h5 class="category-title">通胀及消费物价指数</h5>
+				<div class="category-body">
+					<p>消费物价指数是最广为使用的通胀量度工具，有时候会被视为政府经济政策成效的指标。这提供了国家经济的价格改变对政府、商业、劳工及私人公民所造成的影响。他们会运用它来作为作出经济决定的指南。此外，总统、国会及联储局以消费物价指数的趋势来协助制定财政及货币政策。</p>
+
+					<p>消费物价指数指城市消费者就"市场一篮子"消费者货品及服务所支付的价格于一段时间的平均变动。一篮子消费物价指数是家庭和个别人士实际购买什么货品的详细开支资料。美国大部份特定消费物价指数都以1982-84作为参考基础。劳工统计局(BLS)将涵盖1982、1983及1984的一段36个月期间定为平均指数水平(代表平均价格水平) – 相等于100。其后，劳工统计局将会量度该数字的转变。例如，指数为110，表示自参考期开始价格上升了10%；同样地，指数为90表示价格下跌了10%。就目前的消费物价指数而言，此资料是收集自2005年及2006年消费者开支调查。这并不是个别家庭的实际开支纪录，但却可以让人了解到价格上升如何影响一般家庭的开支，及因为通胀而导致一美元的"购买力"所出现的转变。</p>
+
+					<p>消费物价指数是由参考人口购买以作消耗的所有货品及服务所组成。主要组别及各个类别的例子如下：</p>
+
+					<ul class="bullet">
+						<li>食物及饮品(谷物早餐、牛奶、咖啡、鸡、酒、全套服务的用餐、零食)</li>
+						<li>房屋(主要居住地租金、拥有人的等值租金、燃油、睡房家私)</li>
+						<li>衣饰(男装恤衫、衬衫、女装裙子、珠宝)</li>
+						<li>交通(新车、机票费用、气油、汽车保险)</li>
+						<li>医疗(署方药物及医疗物品、医生诊疗服务、眼镜及眼睛护理、住院服务)</li>
+						<li>娱乐(电视、玩具、宠物及宠物产品、运动设备、入场费)</li>
+						<li>教育及通讯(大学学费、邮政费用、电话服务、电脑软件及配件)</li>
+						<li>其他货品及服务(烟草及烟草产品、理发及其他个人服务、殡仪开支)</li>
+					</ul>
+
+					<p>藉比较指数数字而显示的每月或每年转变通常会以百分比表达 – 例如，"消费价格自上月起上升了0.3%"。此百分比转变往往称为通胀率 – 例如"过去12个月的通胀率是2.5%"。</p>
+
+					<p>不少投资者及联储局都会经常监察此数字，以了解未来的利率。利率举足轻重，原因是它除了对一个国家的资金流入金额有直接影响外，亦能够解释以美元计值的套息交易的情况。若通胀数字高过预期，交易者将会把它诠释为短期内很可能会加息，及因此买入货币，而当该数字较预期为低时，则可能会导致交易者持观望态度，直至中央银行实际作出决定为止。基本上，在消费物价指数出现负转变时进行交易，较在消费物价指数出现正转变时进行交易困难，因为这个情况下会有不同诠释的缘故。消费物价指数大幅上升将会导致市场更为畅旺，但消费物价指数下跌却未必会导致市场变得淡静。消费物价指数量度零售层面的胀通(消费者)，而生产商物价指数则量度批发层面的通胀(生产商)。</p>
+
+					<p>于美国，消费物价数字每季公布一次。数字公布时(约于每个月的月中)，它们反映出上月的数据。欧洲、英国、加拿大及日本每个月亦会公布消费物价指数。不少其他国家只会每季公布此数据。</p>
+
+					<p>当您继续学习基本分析时，各个范畴之间的相互关系便变得越加明显。当您研习其他课堂时请紧记这一点，那样您将会有一个完整的概念。</p>
+				</div>
+			</section>
+			<section id="地缘政治事件" class="category-content">
+				<h5 class="category-title">地缘政治事件</h5>
+				<div class="category-body">
+					<p>地缘政治事件对外汇市场有显著影响。</p>
+
+					<p>我们之前所讨论过的其他基本面公布，全都可以归纳在"预计进行事件"此一题目之下。它们在日历上有各自的公布日期，令交易者更易于跟从这些事件及计划交易。然而，在此类别下，"并非预计进行及意料之外的事件"也是常见的。政治性质事件，例如战争、地方冲突、选举或恐怖主义活动 – 以及天气相关灾难如龙卷风、海啸等，能大幅地影响货币对的买卖。</p>
+
+					<p>于美国举行总统大选时，若显示出政党有可能改变，大选期间市场可能会较为"呆滞"，因为交易者不希望将交易侧重于任何一个方向或进行较长期的交易。若新党执政，在头几个月，直至新总统公布其对金融市场所持的态度前，市场将会是一个考验重重的时期。在投资者及交易者对较长期的经济情况有所掌握之前，市场都不会发生重大转变。</p>
+
+					<p>就天气相关事件而言，其中一个例子是龙卷风吹袭墨西哥湾，令数个钻油台受损。这显然减少了原油供应，而由于加元与油价息息相关，加元可能会出现一些波动。</p>
+
+					<p>交易者从中可以汲取的重点之一是必须经常就所有交易设置保护性止损。由于世界大事难以预测，而且相对于其他基本面事件来说完全没有"时间表"可言，交易者不会相当安全。现在您应该对地缘政治事件对外汇市场的影响有多一点的认识。</p>
+				</div>
+			</section>
+			<section id="非农就业数据" class="category-content">
+				<h5 class="category-title">非农就业数据</h5>
+				<div class="category-body">
+					<p>每个交易者都知道(或应该知道)经济数字对市场的影响。经济学家收集及向传媒公布其对数字的预测。若预测与实际数字一致，市场对此数字称为"符合预期(Pricein)"，当官方作出公布时，通常都不会作出太大反应。</p>
+
+					<p>然而，若预测与实际数字并不吻合，当市场试图就基本上被错误定价而相应调高时，将可能会产生极端市场波动。倘市场重设以达致与实际数字趋于一致时，往往就会造成极端的波动。没有任何经济数字会较美国非农就业数据对上述情景构成更大的影响。首先，就让我们识别数字实际上代表什么。</p>
+
+					<p>非农就业数据指美国劳工统计部在每个月第一个星期五美东时间上午8:30公布的每月调查数据。报告预测美国支薪工人的总数，不包括在以下行业的人士：</p>
+
+					<ul class="bullet">
+						<li>政府</li>
+						<li>私人家居雇员</li>
+						<li>非牟利组织</li>
+						<li>农民</li>
+					</ul>
+
+					<p>一并计算，"非农"雇员制造美国约80%的GDP(国内生产总值)。为取得上述统计数字，美国劳工统计局对约160,000家商业及政府机构进行调查(相当于约400,000个个别工作场所)，以提供有关就业、工作时间、就业人数中的工人收入等详细行业数据。</p>
+
+					<p>非农就业数据已证实为美国近代史上其中一项最重大的基本面指标。作为一个有关每月在农业以外制造的新工数目报告，正数或负数非农就业数据均会令交易者迅速采取行动。若数字较预期为好，往往会令美元走强，若数字差强人意，交易者一般会参考另一个在同日公布的就业组成部份：失业率。</p>
+
+					<p>失业率量度失业但正积极寻找工作的人数，这倾向是一个在政治上较为重要的数字。若数字较小，表示正在寻找工作的人士能够找到工作，很可能表示商业正蓬勃发展及经济正在扩张。非农就业数据一般是一个5或6个位的数字，而失业率则是一个百分比。若非农就业数据较预期为好，交易者将会倾向买入美元。然而，若数字较预期为差，交易者便会参考失业率，以检查失业率的转变是正面、负面，还是不变。若失业率上升，便可确定美元走弱。若失业率下降，买入美元的情况往往便会随之发生。若失业率维持不变，美元便会因为看淡者坚持看法而稍为走弱。单单就非农就业数据及失业率而进行交易较为困难，因为许多时候交易者都没有留意最重要的组成部份是什么，反而集中在加强它们偏差的因素之上。公布一般会导致市场出现大幅波动。此外，上一个月的数字往往会同时出现调整，及可能会有较大的差异。</p>
+
+					<p>您可以从上文加以诠释，就这个数字进行交易可能会较为挑战重重。虽然部份交易者会对每个月的第一个星期五引颈以待，但其他交易者却会在公布前于星期四晚某些时间将交易平台关掉，希望与波幅划清界线。</p>
+					
+					<p>非农就业数据是一个重要经济数字，因此，在一众其他经济公布当中，具有最大的潜力令市场变动。不少交易者可以因为跟随此公布而在短时间内创下或突破当月的交易。非农就业数据分为两部份。首先，就业数字是其中一种评估市场增长，及更为重要的是未来增长潜力的最佳方式。联储局将此数字视为主要经济指标而密切注视。其次，不少交易者都会等到非农就业数据公布之后(不论数字是什么)才建立交易，以确保其持仓不会受到预料之外的影响。</p>
+					
+					<p>值得注意的是，于非农就业数据公布期间的流通量一般较少，这是由于在该时间内市场上几乎没有任何大型银行提供流通量所致。于公布期间，流通量就好像一个大海突然缩小至游泳池般的大小。不久之后，流通量一般会恢复正常。不少其他主要新闻事件都会产生类似的反应，但只有少数才会像非农就业数据那样产生重大波幅。</p>
+					
+				</div>
+			</section>
+		</article>
+	</div>
+</section>
+					</section>
+
+		<footer class="footer" style="margin-top: 30px">
+			<section class="container">
+	<div class="footer-logo">
+		<img src="/images/logo-white.png" class="img-fluid">
+	</div>
+	<div class="divider hidden-md-down"></div>
+	<div class="footer-nav hidden-md-down">
+		<div class="footer-nav-item">
+			<h6 class="category">差价合约交易</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-basics/sim">差价合约介绍</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/cfd-trading-details/sim">差价合约产品</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/account-overview/sim">账户类型</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/standard-account/sim">标准账户</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/pro-account/sim">白金账户</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/alpha-account/sim">阿尔法账户</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/demo-account/sim">模拟账户</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/swap-information/sim">利息图表</a></li>
+				<li><a href="https://bcrcorp.com.cn/cfd-trading/trading-examples/sim">交易实例</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">交易平台</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-windows/sim">Windows <i class="fa fa-windows"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mac/sim">苹果<i class="fa fa-apple"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-android/sim">安卓 <i class="fa fa-android"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-ios/sim">苹果手机 <i class="fa fa-apple"></i></a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-tablet/sim">平板</a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-guide/sim">BCR Trader指南</a></li>
+				<li><a href="https://bcrcorp.com.cn/trading-platform/bcr-trader-mobile-guide/sim">手机版BCR Trader指南</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">客户资源</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/client-resources/funding-information/sim">入金指导 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/withdrawal-instructions/sim">出金指导</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/legal-documents/sim">客户表格 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/trading-rules/sim">交易规则 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/glossary/sim">交易术语 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/faqs/sim">常见问题解答</a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/event-notices/sim">活动和公告 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/market-news/sim">市场新闻 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/economic-calendar/sim">财经日历 </a></li>
+				<li><a href="https://bcrcorp.com.cn/client-resources/position-indicator/sim">交易情绪指数</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">教育资源</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/education/forex-introduction/sim">外汇概述 </a></li>
+				<li><a href="https://bcrcorp.com.cn/education/forex-trading-basics/sim">外汇交易基础 </a></li>
+				<li><a href="https://bcrcorp.com.cn/education/fundamental-analysis/sim">基础分析 </a></li>
+				<li><a href="https://bcrcorp.com.cn/education/technical-analysis/sim">技术分析 </a></li>
+				<li><a href="https://bcrcorp.com.cn/education/market-analysis/sim">市场分析 </a></li>
+				
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">关于我们</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/about-us/company-profile/sim">公司介绍</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/why-choose-us/sim">为何选择BCR</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/contact-us/sim">联系我们</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/risk-disclosure/sim">风险披露</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/privacy-policy/sim">保密政策</a></li>
+				<li><a href="https://bcrcorp.com.cn/about-us/rg227/sim">RG 227</a></li>
+			</ul>
+		</div>
+		<div class="footer-nav-item">
+			<h6 class="category">最新回馈</h6>
+			<br>
+			<ul class="footer-links">
+				<li><a href="https://bcrcorp.com.cn/promotions/bonus/sim">赠金活动</a></li>
+				<li><a href="https://bcrcorp.com.cn/promotions/iphone/sim">奖品回馈</a></li>
+				
+				<li><a href="https://bcrcorp.com.cn/affiliates/sim">合作伙伴</a></li>
+			</ul>
+		</div>
+		<hr>
+	</div>
+	<div class="divider"></div>
+
+	<div class="footer-contact">
+		<div class="item text-xs-center">
+			<p class="note">Suite 802, Level 8, 99 Mount Street<br>North Sydney, NSW 2060 Australia</p>
+		</div>
+		<div class="item">
+			<h4><i class="fa fa-phone-square"></i>&nbsp; +61 2 8459 8050</h4>
+		</div>
+		<div class="item">
+			<h4><i class="fa fa-fax"></i>&nbsp; +61 2 8088 7423</h4>
+		</div>
+	</div>
+	<div class="divider"></div>
+
+	<article class="footer-info">
+		<p class="note">
+			<strong>风险披露:</strong> 保证金差价合约交易涉及高风险，未必适合所有投资者。投资者可能会在交易时遇到损失超过入金金额的情况。本网站、电邮或其相关网站中任何金融产品的讯息BCR不作出任何推荐，所包含的讯息也没有以投资者个人的目标、财务状况和需要为依据。在决定与BCR进行保证金差价合约交易前，请投资者仔细阅读我们的<a href="/pdf/sim/BA_doc_3073_USD.pdf" target="_blank" class="text-white">产品披露声明（Product Disclosure Statement）</a>和<a href="/pdf/sim/BA_doc_3083.pdf" target="_blank" class="text-white">金融服务指南（Financial Services Guide）</a>，如有需要在您交易之前请寻求独立专家的建议确保您完全理解其中所涉及的风险。 	
+		</p>
+		<p class="note">BCR是Bacera Co Pty Ltd的商标。 Bacera Co Pty Ltd，澳大利亚公司注册号码:ACN 130 877 137。澳大利亚金融执照(AFSL):执照编号328794。</p>
+
+		<p class="note">Apple, iPad, 和 iPhone 是苹果公司(Apple Inc.)在美国和其他国家的注册商标。App Store是苹果公司(Apple Inc)的服务商标. Android是谷歌公司(Google Inc.)的注册商标。</p>
+
+	</article>
+	<div class="divider"></div>
+	<div class="hidden-md-up">
+		<p><a href="https://bcrcorp.com.cn/client-resources/funding-information/sim" class="btn btn-warning-outline btn-full text-warning"><span class="fa fa-credit-card"></span>&nbsp; 资助信息</a></p>
+		<p><a href="http://m.bacera.com.au?f=2" class="btn btn-secondary-outline btn-full"><span class="fa fa-mobile"></span>&nbsp; 手机版</a></p>
+	</div>
+	<div class="additional-links">
+		<ul class="">
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/terms-of-use/sim">使用条款</a> /</li>
+			
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/privacy-policy/sim">保密政策</a> /</li>
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/about-us/risk-disclosure/sim">风险披露</a> /</li>
+			<li class="list-inline-item"><a href="https://bcrcorp.com.cn/client-resources/funding-information/sim">入金指导</a></li>
+			
+			<li class="list-inline-item">&copy; Bacera Co Pty Ltd. 2018</li>
+		</ul>
+	</div>
+</section>
+
+
+<script src="/js/webslidemenu.js"></script>
+<script src="/js/tooltip.js"></script>
+<!-- Touch Effect on the Image Caption Hover -->
+<script src="/js/modernizr.custom.js"></script>
+<script src="/js/toucheffects.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="/js/ie10-viewport-bug-workaround.js"></script>
+<!-- Collapse Js -->
+<script src="/js/collapse.js"></script>
+<script src="/js/index.js"></script>
+<!-- Country Select -->
+<script src="/js/countrySelect.js"></script>
+<!-- Bouncing Effect -->
+<script src="/js/effects/ba-throttle-debounce.js"></script>
+<!-- Sticky Table Header & Column -->
+<script src="/js/effects/sticky-table.js"></script>
+
+
+<script type="text/javascript">
+	jQuery("#country").countrySelect({
+		preferredCountries: ['au', 'cn', 'us']
+	});
+
+	// window.sr = ScrollReveal();
+	// sr.reveal('.footer-links li', {duration: 500}, 50);
+
+	// jQuery(".navbar-fixed-top").autoHidingNavbar();
+	// 
+jQuery(document).ready(function(e) {
+	
+	jQuery('input#currency-switch').on('change',function(){
+		if(jQuery(this).is(':checked'))
+		{
+			//alert(jQuery(this).val());
+			set_currency('usd');
+		}else
+		{
+			//alert(jQuery(this).val()+'kk');
+			set_currency('aud');
+		}
+	});
+});
+function set_currency(currency)
+{
+	// /currency
+	jQuery.get("/currency/"+currency, function() {
+		setTimeout(function(){ document.location.reload(true); }, 1000);		
+	});
+}
+</script>		</footer>	
+	</section>
+	
+	<div class="" style="position:fixed; z-index:2000;  right: 10px; bottom: 10px;  overflow: hidden; border: 0px; padding: 0px; background: transparent; cursor: pointer;">
+		<a  href="javascript:void(0);" onclick="window.open('http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzgwMDE4NjgwN180ODA2OThfODAwMTg2ODA3XzJf','pagename','resizable,height=520,width=740'); return false;" >
+						<img src="/images/qq_53.jpg" style="width:100px;"/>
+		</a>
+	</div>
+	
+	<script type="text/javascript" src="/js/libs.js"></script>
+		<style type="text/css">
+	.text-red{
+		color: #d33939 !important;
+	}
+
+	ul li{
+		color:#505050;
+	}
+
+	strong{
+		color:#505050;
+	}
+</style>
+<script type="text/javascript">
+	$(function() {
+
+		var category = $('.list-group-item a');
+
+		category.on('click', function(e) {
+			e.preventDefault();
+			category.removeClass('active');
+			$(this).addClass('active');
+
+			$('section.category-content').hide();
+			var targetId = $(this).attr('href');
+			$('section' + targetId).show();
+		});
+
+		$('select#chooseCategory').on('change',function(){
+			$('.list-group-item a[href="#' + $(this).val() + '"]').click();
+		});
+	});
+</script>
+	<script>
+	$(document).ready(function () {
+		//BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 800186807, selector: 'BizQQWPA'});
+	})
+	</script>
+</body>
+</html>
+
+

@@ -1,0 +1,4526 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 10]><html class="ie10 nojs" lang="fr" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 10]><!--><html class="gtie10 nojs" lang="fr" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+        
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1; requiresActiveX=true">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+
+
+    <meta class="swiftype" name="page-type" data-type="enum" content="bcf">
+
+
+
+
+
+
+
+
+
+<title>IG | CFD Trading et Forex </title><meta name="keywords" content="" />
+<meta class="swiftype" name="description" content="IG propose un service de CFD, Forex et une plateforme performante à une clientèle grandissante. Autorisée et régulée par la Financial Conduct Authority (UK)." />
+<meta name="locale" id="locale" content="fr" />
+<meta name="softid" id="softid" content="bcf" />
+<meta name="google-site-verification" content="NP6_JVVKAfnsuc3j536nyvXWorGgCoETGtb3S9YeZto"/>
+            <link rel="canonical" href="https://www.ig.com/fra"/>
+<meta property="og:site_name" content="IG" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/og_image.jpg" />
+<meta property="og:title" content="BCF (France)" />
+<meta property="og:url" content="https://www.ig.com/fra" />
+<meta property="og:description" content="IG propose un service de CFD, Forex et une plateforme performante à une clientèle grandissante. Autorisée et régulée par la Financial Conduct Authority (UK)."/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">CQURLInfo={"requestPath":"/content/bcf/fra","extension":"html","selectors":[],"systemId":"c8e9067a-79aa-4945-9014-bf0391a036c7","runModes":"prod,crx3,nosamplecontent,uk,publish,publish-prod,crx3tar"};</script>
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_shell.min.js"></script>
+
+
+<script>
+
+    PS.util.jspVars.set('loggedin.bannerText')(['Vous êtes actuellement connecté à votre compte TYPE NAME', 'Déconnexion']);
+    PS.util.jspVars.set('loggedin.popupText')('La plateforme est déjà ouverte dans un autre onglet');
+    //URL for user details:
+    PS.util.jspVars.set('loggedin.authURL')('/validate/api/session/client-id');
+    PS.util.jspVars.set('loggedin.authTimeOut')(3000);
+    PS.util.jspVars.set('loggedin.myIgHomepage')('/myig/goto/homepage');
+    //URL for remote logoff:
+    PS.util.jspVars.set('loggedin.outURL')('https://deal.ig.com/dealing/pd/websiteLogout.htm');
+    
+    PS.util.jspVars.set(
+        'localiseAppForm')({
+        "desktop": true,
+        "mobile": true,
+        "mobileUrl": "/register#/page/1/country/FR/locale/fr_FR/platform/mobileweb/igCompany/igintlfr?type=small"
+    });
+    
+
+    
+        //this enables authentication for this template but not for the iframe or login template
+        PS.util.jspVars.set('loggedin.authThisTemplate')(true);
+    
+    PS.util.jspVars.set('websiteCountry')("fra");
+    PS.util.jspVars.set('homepageLink')("/content/bcf/fra.html");
+    PS.util.jspVars.set('shareWithIgmarkets')();
+    PS.util.jspVars.set('user.redirects')([]);
+    PS.util.jspVars.set('deprecatedBrowsers')({});
+    PS.util.jspVars.set('deprecatedBrowsersPopup')({});
+    PS.util.jspVars.set('permanent_sticky')();
+    PS.util.jspVars.set('google.analytics.tracking.id')("");
+    PS.util.jspVars.set('analytics.s_account')("adviggroupfrenchlive,adviggrouprollup");
+    PS.util.jspVars.set('analytics.page_title')("Le trading en ligne avec IG, N°1 mondial des CFD<font size=&quot;6&quot;><sup>1</sup></font>");
+    PS.util.jspVars.set('analytics.cq_page_name')("fra");
+    PS.util.jspVars.set('analytics.path')("/content/bcf/fra");
+    PS.util.jspVars.set('analytics.trackingTagDelay')("0");
+    PS.util.jspVars.set('siteID')("fra");
+    PS.util.jspVars.set('loggedin.myigbutton')(['My IG']);
+    PS.util.jspVars.set('loggedin.loginLinkMyIGTextReplacement')(
+        ['Accéder à MyIG']);
+    
+    
+    
+    PS.util.jspVars.set('softredirect')({
+        "title": 'Bienvenue chez IG',
+        "text": 'Nous avons peut-être un site plus adapté à votre position géographique. Êtes-vous résident de COUNTRY ?',
+        "countries": "",
+        "no": 'Non',
+        "yes": 'Oui',
+        "altText": 'softredirect.alttext, ',
+        "exceptions": {}
+    });
+    
+    
+    //T&T Config
+    PS.util.jspVars.set('tandt.linkReplacements')([]);
+    PS.util.jspVars.set('tandt.customID')('');
+    PS.util.jspVars.set('tandt.timeout')(100);
+
+    //Sets the JSON for the hero panel
+    PS.util.jspVars.set('heroPanelSegmentSettings')('{"hpDefault":{"colorScheme":"black","additionalColorScheme":"light","imagePath":"//a.c-dn.net/c/content/dam/publicsites/1443527198929/igcom/uk/images/heropanel/IGM_BCF_Homepage_Hero.jpg"}}');
+
+    //Live chat
+    PS.util.jspVars.set('livechat.currentPageLiveChatDisable')(false);
+    PS.util.jspVars.set('livechat.activateLiveChat')("false");
+    PS.util.jspVars.set('livechat.popupPageUri')("");
+    PS.util.jspVars.set('livechat.apiUri')("");
+    PS.util.jspVars.set('livechat.initialisationUri')("");
+    PS.util.jspVars.set('livechat.deploymentID')("");
+    PS.util.jspVars.set('livechat.organisationID')("");
+    PS.util.jspVars.set('livechat.buttonID')("");
+    PS.util.jspVars.set('livechat.promptTimeDelay')("");
+
+    //EngHouse livechat
+    PS.util.jspVars.set('enghouselivechat.activateLiveChat')("false");
+    PS.util.jspVars.set('enghouselivechat.popupPageUri')("");
+    PS.util.jspVars.set('enghouselivechat.currentPageLiveChatDisable')(false);
+    PS.util.jspVars.set('enghouselivechat.currentPageLiveChatPromptStyle')("grey");
+    PS.util.jspVars.set('enghouselivechat.disabledInTree')(false);
+    PS.util.jspVars.set('enghouselivechat.ignoreTreeDisable')(false);
+    PS.util.jspVars.set('enghouselivechat.forceCalendar')(false);
+
+    PS.util.jspVars.set('login.ajax')(true);
+
+    PS.util.jspVars.set('skypeLinksEnable')(false);
+    PS.util.jspVars.set('appsflyer.linkreplace')("true");
+
+    //Social Login
+    PS.util.jspVars.set('login.facebook')({
+        "fbLoginWithAccount": "false",
+        "fbLoginSocialAccountApiURL": "",
+        "fbLoginSocialSessionApiURL": "",
+        "fbLoginClientSecuritySessionApiURL": "",
+        "fbLoginDealerURL": "",
+        "fbLoginAppID": "",
+        "fbLoginCountry": "",
+        "fbLoginLanguage": "",
+        "fbLoginTimeout": "3000"
+    });
+
+    // Apple app injected banner
+    PS.util.jspVars.set('applebanner.disable')(false);
+    PS.util.jspVars.set('applebanner.ipad')("1336992208");
+    PS.util.jspVars.set('applebanner.iphone')("1336991855");
+
+    PS.util.Initialize.init();
+
+    // Add custom class If IE10 browser
+    var ua = navigator.userAgent.toLowerCase();
+    var rootHtml = document.getElementsByTagName('html')[0];
+    var match = /(edge)[ \/]([\w.]+)/.exec(ua) ||
+        /(vivaldi)[ \/]([\w.]+)/.exec(ua) ||
+        /(chrome)[ \/]([\w.]+)/.exec(ua) ||
+        /version(?=.*?(safari))[\/]([\w.]+)/.exec(ua) ||
+        /(webkit)[ \/]([\w.]+)/.exec(ua) ||
+        /(opera)(?:.*version|)[ \/]([\w.]+)/.exec(ua) ||
+        /(msie) ([\w.]+)/.exec(ua) ||
+        /(firefox)[ \/]([\w.]+)/.exec(ua) ||
+        ua.indexOf("compatible") < 0 && /(mozilla)(?:.*? rv:([\w.]+)|)/.exec(ua) ||
+        [];
+
+    if (match[1] === 'msie' && match[2] === '10.0') {
+        rootHtml.className += ' ie10';
+    }
+
+    if (PS.util.isAndroidStockBrowser(ua)) {
+        rootHtml.className += ' androidStockBrowser';
+    }
+
+</script>
+
+
+
+<script>
+    //Page Content Meta tags
+    PS.util.jspVars.set('contentMetatags')("");
+</script>
+
+<script>
+    
+    
+
+
+
+
+
+
+    var i18n= i18n || {};
+i18n['clientlibs.dates.january']='Janvier';i18n['clientlibs.yes_no_cr']='Oui (sans stop garanti)';i18n['clientlibs.prettydate.day']='Il y a 1 jour';i18n['clientlibs.dates.february']='F\u00E9vrier';i18n['clientlibs.more.button']='Autre';i18n['clientlibs.liveprices.bid']='Bid';i18n['clientlibs.livechat.prompt']='Live Chat';i18n['clientlibs.browsers.deprecated.name.firefox']='';i18n['clientlibs.prettydate.days']='Il y a {0} jours';i18n['clientlibs.table.filter']='GB';i18n['clientlibs.browsers.deprecated.name.safari']='version of Safari';i18n['clientlibs.browsers.deprecated.default.browser']='';i18n['clientlibs.dates.october']='Octobre';i18n['clientlibs.dates.thursday']='Jeudi';i18n['clientlibs.prettydate.seconds']='Il y a {0} secondes';i18n['clientlibs.no']='Non';i18n['clientlibs.liveprices.swapLong']='Offer Swap Point';i18n['clientlibs.dates.september']='Septembre';i18n['clientlibs.dates.friday']='Vendredi';i18n['clientlibs.browsers.deprecated.name.chrome']='version of Chrome';i18n['clientlibs.dates.december']='D\u00E9cembre';i18n['clientlibs.dates.april']='Avril';i18n['clientlibs.dates.june']='Juin';i18n['clientlibs.dates.july']='Juillet';i18n['clientlibs.dates.wednesday']='Mercredi';i18n['clientlibs.twitter.reply']='r\u00E9pondre';i18n['clientlibs.prettydate.minute']='Il y a environ 1 minute';i18n['clientlibs.liveprices.updated']='Updated';i18n['clientlibs.dates.august']='Ao\u00FBt';i18n['clientlibs.dates.format']='{2} {3} {1} {0} {4}:{5}';i18n['clientlibs.prettydate.months']='Il y a plus d\u20191 mois';i18n['clientlibs.dates.may']='Mai';i18n['clientlibs.lightbox.close']='Fermer';i18n['clientlibs.dates.monday']='Lundi';i18n['clientlibs.dates.tuesday']='Mardi';i18n['clientlibs.prettydate.minutes']='Il y a {0} minutes';i18n['clientlibs.dates.sunday']='Dimanche';i18n['clientlibs.browsers.deprecated.upgradelink.mozilla']='http:\/\/www.mozilla.org\/en-GB\/firefox\/update\/';i18n['clientlibs.browsers.deprecated.upgradelink.msie']='http:\/\/windows.microsoft.com\/fr-fr\/internet-explorer\/download-ie';i18n['clientlibs.yes']='Oui';i18n['clientlibs.mcarousel.next']='';i18n['clientlibs.browsers.deprecated.default.upgradelink']='';i18n['clientlibs.dates.november']='Novembre';i18n['clientlibs.browsers.deprecated.name.msie']='version d\u2019Internet Explorer';i18n['clientlibs.prettydate.hour']='Il y a environ 1 heure';i18n['clientlibs.dates.saturday']='Samedi';i18n['clientlibs.browsers.deprecated.name.mozilla']='version of Firefox';i18n['clientlibs.prettydate.hours']='Il y a {0} heures';i18n['clientlibs.browsers.deprecated.name.mozilla']='';i18n['clientlibs.dates.march']='Mars';i18n['clientlibs.secondaryNav.more']='Autre';i18n['clientlibs.liveprices.swapShort']='Bid Swap Point';
+    
+
+
+
+
+
+
+    var i18n= i18n || {};
+i18n['forms.mrs']='Mme.';i18n['forms.validalpha']='Seules les lettres sont autoris\u00E9es';i18n['forms.state']='Etat\/R\u00E9gion';i18n['forms.validmax']='Vous avez atteint le nombre de caract\u00E8res maximum.';i18n['forms.noscript']='Les formulaires n\u00E9cessitent l\'activation de JavaScript';i18n['forms.phone']='T\u00E9l\u00E9phone';i18n['forms.validconfirmation']='Les champs ne correspondent pas';i18n['forms.dr']='Dr.';i18n['forms.ms']='Mlle.';i18n['forms.mr']='M.';i18n['forms.no']='Non';i18n['forms.validphonenumber']='Veuillez renseigner un num\u00E9ro de t\u00E9l\u00E9phone valide';i18n['forms.city']='Ville';i18n['forms.duplicate.failure']='The email is already used';i18n['forms.address']='Adresse';i18n['forms.account']='Num\u00E9ro de compte';i18n['forms.firstname']='Pr\u00E9nom';i18n['forms.validmin']='D\u00E9sol\u00E9, ce champ ne contient pas le nombre de caract\u00E8res minimum.';i18n['forms.email']='Adresse email';i18n['forms.miss']='Mlle';i18n['forms.lastname']='Nom';i18n['forms.prof']='Prof.';i18n['forms.terms']='J\'ai bien lu et compris les termes et conditions.';i18n['forms.sendinfo']='Merci de ne pas utiliser cette adresse email pour m\u2019envoyer des informations sur les produits et services d\u2019IG.';i18n['forms.validnumeric']='Seuls les nombres sont autoris\u00E9s';i18n['forms.name']='Nom';i18n['forms.pleasecomplete']='Veuillez remplir tous les champs';i18n['forms.required']='Ce champ est obligatoire';i18n['forms.preferredname']='Preferred name';i18n['forms.duplicate.username']='The username is already used';i18n['forms.validUsername']='This username is unavailable. Please choose another.';i18n['forms.addressLine1']='Adresse';i18n['forms.validalphanum']='Seuls les nombres et les lettres sont autoris\u00E9s';i18n['forms.title']='Titre';i18n['forms.validemail']='Veuillez renseigner une adresse email valide';i18n['forms.postcode']='Code postal';i18n['forms.validdate']='Format de date invalide (jj-mm-aaaa, jj\/mm\/aaaa, mm-jj-aaaa, mm\/jj\/aaaa)';i18n['forms.countrycode']='Si vous ne r\u00E9sidez pas en France, veuillez renseigner l\'indicatif correspondant';i18n['forms.validpassword']='Your password should contain one upper case letter, one lower case letter and one number.';i18n['forms.town']='Ville';i18n['forms.yes']='Oui';i18n['forms.country']='Pays';i18n['forms.existing']='Vous \u00EAtes d\u00E9j\u00E0 client ?';i18n['forms.submiterror']='Form has failed to submit. Please contact IG directly.';
+
+    
+var tagData = [[{"vendor":"Drawbridge","description":"Drawbridge cookie mapping","cookie_name":"","cookie_value":"","qs_name":"","qs_value":"","element":"img","func":"","scope":"everypage","segment":"ig_all","type":"element","src":"//p.adsymptotic.com/d/px/?_pid=13724&_psign=ae9ce5b020d32e3e92e1e6af5fc5312e&_puuid=#$$s_vi$$#","secureSrc":"//p.adsymptotic.com/d/px/?_pid=13724&_psign=ae9ce5b020d32e3e92e1e6af5fc5312e&_puuid=#$$s_vi$$#","forceCachedScript":false,"delay":"","channel":"","post_vars":[],"pre_vars":[],"src_vars":[]}]];
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">CQURLInfo={"requestPath":"/content/bcf/fra","extension":"html","selectors":[],"systemId":"c8e9067a-79aa-4945-9014-bf0391a036c7","runModes":"prod,crx3,nosamplecontent,uk,publish,publish-prod,crx3tar"};</script>
+<link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_shell.min.css" type="text/css">
+
+
+
+
+    <link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_common.min.css" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+<!-- taken from https://mathiasbynens.be/notes/touch-icons -->
+
+<!-- For iPhone 6 Plus with @3Ã display: -->
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-180x180-precomposed.png">
+<!-- For iPad with @2Ã display running iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-152x152-precomposed.png">
+<!-- For iPad with @2Ã display running iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-144x144-precomposed.png">
+<!-- For iPhone with @2Ã display running iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-120x120-precomposed.png">
+<!-- For iPhone with @2Ã display running iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-114x114-precomposed.png">
+<!-- For the iPad mini and the first- and second-generation iPad (@1Ã display) on iOS >= 7: -->
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-76x76-precomposed.png">
+<!-- For the iPad mini and the first- and second-generation iPad (@1Ã display) on iOS <= 6: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-72x72-precomposed.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/icons/apple-touch-icon-precomposed.png"><!-- 57Ã57px -->
+
+<meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@IGcom">
+<meta name="twitter:creator" content="@IGcom">
+<meta name="twitter:domain" content="www.IG.com">
+
+<meta name="twitter:app:name:iphone" content="">
+<meta name="twitter:app:id:iphone" content="">
+<meta name="twitter:app:url:iphone" content="">
+
+<meta name="twitter:app:name:ipad" content="">
+<meta name="twitter:app:url:ipad" content="">
+<meta name="twitter:app:id:ipad" content="">
+
+<meta name="twitter:app:name:googleplay" content="">
+<meta name="twitter:app:url:googleplay" content="">
+<meta name="twitter:app:id:googleplay" content="">
+
+
+
+</head>
+
+    
+
+
+
+
+
+<body class="responsive-page fra responsive-homepage">
+
+
+
+
+
+
+
+
+
+
+<div class="wrapper">
+    
+
+
+
+<div class="wrapper-header" data-swiftype-index="false">
+
+    
+
+
+
+
+
+
+    <div class="header clearfix">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="nt-strip" data-swiftype-index="false">
+    <div class="nt-strip__inner  ">
+        
+        <div class="nt-strip__content-right nt-strip__dropdown-container">
+            <div class="nt-strip__secondary-navigation ">
+                <ul class="first-level">
+                    <li class="nt-strip__account-inbox">
+                        <a href="#">
+                            <i class="icon icon--inbox"></i>
+                            <span>Boite de réception</span>
+                        </a>
+                    </li>
+                    
+
+
+
+
+
+
+
+                </ul>
+            </div>
+            <div id="account-controls" class="nt-strip__account-controls">
+                <div class="nt-strip__prospect">
+                    <ul>
+                        
+                            <li class="logged-out-cta">
+                                <a class="nt-strip__login-cta" href="/fra/login">
+                                    Connexion
+                                </a>
+                            </li>
+                        
+                        
+                            <li class="logged-out-cta">
+                                <a class="nt-strip__signup-cta" href="/fra/application-form">
+                                    Ouvrir un compte
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </div>
+                <div class="nt-strip__account-dropdown nt-strip__dropdown-container"
+                     data-translation-isa-accounts="ISA accounts"
+                     data-translation-sipp-accounts="SIPP accounts"
+                     data-translation-leveraged-accounts="Compte"
+                     data-translation-sharedealing-accounts="Compte titres"
+                     data-translation-smart-portfolio-accounts="Smart Portfolio"
+                     data-translation-funds="Solde "
+                     data-translation-value="Valeur totale"
+                     data-translation-profit="Gains/Pertes">
+
+                    
+
+                    <input type="checkbox" id="nt-strip__account-dropdown-toggle" class="nt-strip__dropdown-toggle" autocomplete="off">
+                    <label for="nt-strip__account-dropdown-toggle">
+                        <i class="icon icon--account"></i>
+                        <span>
+	                        <span class="nt-strip__account-name"></span>
+	                        <span>Mon compte</span>
+                        </span>
+                        <i class="icon icon--dropdown-chevron"></i>
+                    </label>
+                    <ul class="first-level">
+                        <li class="nt-strip__account-information"></li>
+                        <li class="myig_c myig" id="myig-link-main">
+                            <a class="account-myig" href="#">
+                                My IG
+                            </a>
+                        </li>
+                        
+                        
+                        <li>
+                            <a class="nt-strip__account-logout account-logout" id="account-logout" href="https://deal.ig.com/dealing/pd/websiteLogout.htm">
+                                Déconnexion
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+    <div class="main-head">
+        
+
+
+
+
+
+
+
+
+
+
+<div class="fluid-width inner">
+    <div class="header__top">
+        <div class="logo__container">
+            <a class="logo-link" href="/fra">
+                <span class="screenreader">IG</span>
+            </a>
+        </div>
+        
+            <div class="header__navigation">
+                
+                    
+                        <div class="menu-mobile jsMenuMobile" id="menu-mobile">
+                            <span id="hamburger-icon" class="hamburger-icon"></span>
+                            <span class="screenreader">Menu</span>
+                        </div>
+                    
+                
+
+                
+
+
+
+
+
+
+<div class="main-menu-container jsMainMenu">
+    
+
+        <ul class="menu first-level-menu" data-localepath="fr">
+
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/fra/cfd">
+                        Trading sur CFD
+                        
+                    </a>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/fra/marches/indices">
+                        Indices
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/fra/marches/indices" data-mainlink="Présentation">
+                                    Indices
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/marches/indices/tarification">
+                                        Conditions de trading sur indices
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/marches/indices/conditions-indices-mt4">
+                                        Conditions Indices sur MT4
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/fra/marches/actions">
+                        Actions
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/fra/marches/actions" data-mainlink="Présentation">
+                                    Actions
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/marches/actions/tarification">
+                                        Conditions de trading sur actions
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/fra/marches/forex">
+                        Forex
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/fra/marches/forex" data-mainlink="Présentation">
+                                    Forex
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/marches/forex/tarification">
+                                        Conditions de trading sur Forex
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/marches/forex/conditions-forex-mt4">
+                                        Conditions Forex sur MT4
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/fra/autres-marches">
+                        Autres marchés
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/fra/autres-marches" data-mainlink="Présentation">
+                                    Autres marchés
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/marches/matieres-premieres">
+                                        Matières premières
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/marches/options-digitales">
+                                        Options digitales
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/marches/options">
+                                        Options
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/marches/taux-d-interets">
+                                        Taux d'intérêt
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/marches/obligations">
+                                        Obligations
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/marches/secteurs">
+                                        Indices sectoriels
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/marches/etp">
+                                        ETP
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/marches/crypto-monnaie">
+                                        Le trading sur crypto-monnaie
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/fra/commissions-cfd">
+                        Tarification
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/fra/commissions-cfd" data-mainlink="Présentation">
+                                    Tarification
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/commissions-cfd/marges">
+                                        Couvertures
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/fra/plateforme-trading">
+                        Plateformes & apps
+                        <span class="has-sec-level-menu"></span>
+                    </a>
+                    
+                        <span class="menu-arrow"></span>
+                        <ul class="menu sec-level-menu">
+                            <li class="menu-item item-sec item-sec-overview">
+                                <a class="menu-link menu-link-overview" href="/fra/plateforme-trading" data-mainlink="Présentation">
+                                    Plateformes & apps
+                                </a>
+                            </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/plateforme-trading/plateforme-en-ligne">
+                                        Plateforme en ligne
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/plateforme-trading/plateforme-trading-metatrader">
+                                        MetaTrader 4
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/plateforme-trading/iphone">
+                                        iPhone
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/plateforme-trading/ipad">
+                                        iPad
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/plateforme-trading/android">
+                                        Android
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/plateforme-trading/tablette-android">
+                                        Tablette Android
+                                    </a>
+                                </li>
+                            
+                                <li class="menu-item item-sec">
+                                    <a class="menu-link" href="/fra/plateforme-trading/fonctionnalites">
+                                        Fonctionnalités de la plateforme
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="menu-item item-main ">
+                    <a class="menu-link" href="/fra/a-propos-d-ig">
+                        À propos d'IG
+                        
+                    </a>
+                    
+                </li>
+            
+        </ul>
+    
+</div>
+
+            </div>
+        
+        <div class="header__right">
+            <div class="header__international header__international--is-bcf">
+                
+                    <div class="flag-container">
+                        <a class="flag flag-fra" href="https://www.ig.com/?rc=true"></a>
+                    </div>
+                
+                <div class="language-switcher parbase">
+
+
+
+
+
+
+
+    
+    
+        <select class="selectbox language-switcher" x-cq-linkchecker="skip">
+            
+                <option value="/fra" data-open="_self"
+                        selected>
+                        Français
+                </option>
+            
+                <option value="/en" data-open="_self"
+                        >
+                        English
+                </option>
+            
+                <option value="/esp" data-open="_self"
+                        >
+                        Español
+                </option>
+            
+                <option value="/deu" data-open="_self"
+                        >
+                        Deutsch
+                </option>
+            
+                <option value="/por" data-open="_self"
+                        >
+                        Português
+                </option>
+            
+        </select>
+    
+</div>
+
+            </div>
+            <div class="search__container">
+            
+                
+                    
+
+
+
+
+
+
+
+
+    
+        
+            <div class="st-search__tooltip-icon"></div>
+        
+        <div class="st-search st-search--tooltip" data-install.key="" data-website.country.title="" data-engine.key="a-do5CzbQw7scoorwesN" data-page.types.to.search="all" data-no.background="false" data-hide.images.and.url="false">
+            <div class="st-search__wrapper">
+            
+            <form class="st-search__searchbox">
+                <input type="text" class="st-search__searchbox-input" autocomplete="off">
+                <input class="st-search__searchbox-submit" type="submit" value=" ">
+            </form>
+                <div class="st-search__results-wrapper">
+                    
+                    <div class="st-search__results"></div>
+                    <div class="st-search__no-results">Aucun résultat trouvé</div>
+                    
+                        <div class="st-search__redirect">
+                            <p class="cta">
+                                <a class="normal" data-base.url="/fra/search" href="">Afficher plus de résultats</a>
+                            </p>
+                        </div>
+                    
+                        <div class="st-search__pagination">
+                            <a>1</a>
+                            <a>2</a>
+                            <a>3</a>
+                            <a>4</a>
+                            <a>5</a>
+                            <a>6</a>
+                            <a>7</a>
+                            <a>8</a>
+                            <a>9</a>
+                            <a>10</a>
+                        </div>
+                </div>
+            </div>
+            <div class="market-search" data-locale="fr" data-defaultNumMarketResults="5">
+                <div class="market-search__wrapper">
+                    <div class="market-search__title">
+                        Related search:
+                        <span class="link-related-search" class="enhanced">
+                            <a href="#">Market Data</a>
+                        </span>
+                    </div>
+                    <div class="market-search__results">
+                        <table class="market-search__table">
+                            <thead>
+                            <tr>
+                                <th class="market-name">
+                                    <span>
+                                        Market Data
+                                    </span>
+                                </th>
+                                <th class="market-type">
+                                    <span>
+                                        Type of market
+                                    </span>
+                                </th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="link-market-search-block">
+                        <div class="link-market-search"><a href="#">See all Market data search results &gt;</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    
+
+
+
+
+
+                
+                
+            
+            </div>
+        </div>
+    </div>
+    
+        
+
+
+
+
+
+
+
+    <div class="main-home-line"></div>
+
+
+
+    
+</div>
+    </div>
+</div>
+
+    
+
+
+
+
+    
+
+
+    <div class="content-wrapper">
+
+        
+            <div class="top-inline-disclaimer" data-swiftype-index="false">
+                Le trading avec effet de levier amplifie les gains et pertes. Selon le type de compte utilisé, le risque de perte en capital peut être supérieur au montant investi.
+            </div>
+        
+
+        
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="value-proposition-component value-proposition-banner parbase">
+
+
+
+
+
+
+
+
+    <div class="valuePropositionBanner">
+        
+            <div>
+                <span class="white-icon heritage"></span>
+                
+                    <a href="/fra/a-propos-d-ig">
+                
+                Depuis 10 ans en France
+                
+                    </a>
+                
+            </div>
+        
+            <div>
+                <span class="white-icon markets"></span>
+                
+                    <a href="/fra/a-propos-d-ig">
+                
+                Établi en 1974
+                
+                    </a>
+                
+            </div>
+        
+            <div>
+                <span class="white-icon clients"></span>
+                
+                    <a href="/fra/a-propos-d-ig">
+                
+                Plus de 185 000 clients dans le monde
+                
+                    </a>
+                
+            </div>
+        
+    </div>
+</div>
+
+
+<div class="igColumns section">
+    <div class="cols col-124 ">
+        
+            <div class="col col-secondary">
+                <div class="col-secondary-fixed-content">
+                    
+                        <div class="global-contact-us-cs country-specific">
+
+
+
+
+
+
+<div class="swapping-specific-content locale"
+     >
+    
+    <div class="swapping-loader"></div>
+    <div class="swapping-content swapping-default">
+        
+        <div class="locale-parsys-default parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            contact-us contact-us-wrapper
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             Nous contacter
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <div class="contacts-container"><p class="large-label">Info :&nbsp;<a class="telephone" href="tel:+33 1 70 98 17 97">+33 1 70 98 17 97</a><br>
+Clients : <a class="telephone" href="tel:+33 1 70 98 17 96">+33 1 70 98 17 96</a><br>
+Email : <a href="mailto:info.fra@ig.com">info.fra@ig.com</a></p>
+</div>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+    </div>
+    
+</div></div>
+
+                    
+                    <div class="promo-content ">
+                        
+                            <div class="first-component  global-rhn-promo">
+                                <div class="promo-component">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content promo">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-left
+            full-width
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             Investir avec IG
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p>L'ouverture de compte est gratuite et notre plateforme est accessible sans téléchargement.</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class="button  button-green js_target" href="/fra/application-form" target="_self">
+                Ouvrir un compte
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+                            </div>
+                        
+                        
+                            <div class="second-component global-rhn-promo">
+                                <div class="promo-component">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content promo">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-left
+            full-width
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             Compte démo gratuit
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p>Entrainez-vous au trading sur CFD avec 10 000$ de fonds virtuels.</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class="button  button-blue js_target" href="/fra/compte-demo" target="_self">
+                Compte démo
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+            <div class="cta bottom cta-sec">
+                
+                    <a class=" button button-blue js_target" href="/fra/download-app" target="_self">
+                            Obtenir l'app
+                    </a>
+                
+            </div>
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+                            </div>
+                        
+                    </div>
+                </div>
+                <div class="col-secondary-additional-content">
+                    
+                        <div class="sidebar-parsys parsys">
+</div>
+
+                    
+                    <div class="promo-component">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content promo">
+    <div
+    
+            
+            
+            class="theme
+            
+            bg-none 
+            text-top
+            full-width
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             Technologie de trading personnalisable
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p>Découvrez notre plateforme en ligne&nbsp;plusieurs fois récompensée et nos apps mobiles optimisées pour chaque support.</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class=" normal js_target" href="/fra/plateforme-trading" target="_self">
+                Plateformes de trading
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="image text-image">
+                
+
+
+
+
+
+
+
+
+
+    
+    <span data-link="" data-classnames="" data-alt="Plateforme de trading IG" class="lazyload adaptive-image">
+        
+        
+            <span data-src="//a.c-dn.net/c/content/bcf/fra/_jcr_content/global_promo-extra.adaptive.320.medium.jpg/1448536501232.jpg"  data-width="300" data-height="205" data-media="(min-width: 1px)"></span>
+            <span data-src="//a.c-dn.net/c/content/bcf/fra/_jcr_content/global_promo-extra.adaptive.320.high.jpg/1448536501232.jpg"    data-width="300" data-height="205" data-media="(min-width: 320px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/bcf/fra/_jcr_content/global_promo-extra.adaptive.480.high.jpg/1448536501232.jpg"    data-width="300" data-height="205" data-media="(min-width: 321px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/bcf/fra/_jcr_content/global_promo-extra.adaptive.476.high.jpg/1448536501232.jpg"    data-width="300" data-height="205" data-media="(min-width: 481px)"></span>   
+            <span data-src="//a.c-dn.net/c/content/bcf/fra/_jcr_content/global_promo-extra.adaptive.620.high.jpg/1448536501232.jpg"    data-width="300" data-height="205" data-media="(min-width: 769px)"></span>  
+            <span data-src="//a.c-dn.net/c/content/bcf/fra/_jcr_content/global_promo-extra.adaptive.full.high.jpg/1448536501232.jpg"   data-width="300" data-height="205" data-media="(min-width: 1025px)"></span> 
+        
+            
+           <noscript>
+               
+               <a href="/fra/plateforme-trading" title="" target="_self">
+                   
+                   <img src="//a.c-dn.net/c/content/bcf/fra/_jcr_content/global_promo-extra.adaptive.320.low.jpg/1448536501232.jpg" alt="Plateforme de trading IG">
+                   
+               </a>
+               
+           </noscript>
+    </span>
+
+            </div>
+        <div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+                </div>
+            </div>
+        
+        <div class="col col-primary">
+            
+                
+                    <div class="hero-panel black light-text-theme" style="background-image: url('//a.c-dn.net/c/content/dam/publicsites/1443527198929/igcom/uk/images/heropanel/IGM_BCF_Homepage_Hero.jpg');">
+                        <div class="fluid-width light">
+                            <h1 class="heading">Le trading en ligne avec IG, N°1 mondial des CFD<font size=&quot;6&quot;><sup>1</sup></font></h1>
+                            <div class="hero-parsys parsys"><div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    
+                    col-margin-bot
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-12">
+
+        <div class="col col1 parsys">
+</div>
+
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    white
+                    dark-text-theme
+                    
+                    col-no-margin
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-66">
+
+        <div class="col col1 parsys"><div class="list parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="list-wrapper js_list clearfix style-key-benefits white dark-text-theme">
+    
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             Accès à plus de 15 000 valeurs financières
+
+        </h2>
+    
+    
+
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+
+        
+        
+
+            
+                
+                    <ul class='list-container clearfix list-horizontal cols-1' data-cols='1'>
+                
+                    <li value="1">
+                        <div class="inner">
+
+    
+
+    
+
+    
+        <div class="desc"><p>Outils de trading avancés, technologie multi-plateforme</p>
+</div>
+    
+
+</div>
+                    </li>
+                
+                    </ul>
+                
+            
+                
+                    <ul class='list-container clearfix list-horizontal cols-1' data-cols='1'>
+                
+                    <li value="2">
+                        <div class="inner">
+
+    
+
+    
+
+    
+        <div class="desc"><p>Outils de trading et technologie plusieurs fois récompensés</p>
+</div>
+    
+
+</div>
+                    </li>
+                
+                    </ul>
+                
+            
+                
+                    <ul class='list-container clearfix list-horizontal cols-1' data-cols='1'>
+                
+                    <li value="3">
+                        <div class="inner">
+
+    
+
+    
+
+    
+        <div class="desc"><p>Tarifs compétitifs et faibles &nbsp;taux de couverture</p>
+</div>
+    
+
+</div>
+                    </li>
+                
+                    </ul>
+                
+            
+                
+                    <ul class='list-container clearfix list-horizontal cols-1' data-cols='1'>
+                
+                    <li value="4">
+                        <div class="inner">
+
+    
+
+    
+
+    
+        <div class="desc"><p>Nombreux outils de gestion du risque et&nbsp;formations gratuites</p>
+</div>
+    
+
+</div>
+                    </li>
+                
+                    </ul>
+                
+            
+                
+                    <ul class='list-container clearfix list-horizontal cols-1' data-cols='1'>
+                
+                    <li value="5">
+                        <div class="inner">
+
+    
+
+    
+
+    
+        <div class="desc"><p>Négociation 24h/24 et&nbsp;produits d'investissement innovants</p>
+</div>
+    
+
+</div>
+                    </li>
+                
+                    </ul>
+                
+            
+                
+                    <ul class='list-container clearfix list-horizontal cols-1' data-cols='1'>
+                
+                    <li value="6">
+                        <div class="inner">
+
+    
+
+    
+
+    
+        <div class="desc"><p>Une société régulée faisant partie du&nbsp;FTSE&nbsp;250</p>
+</div>
+    
+
+</div>
+                    </li>
+                
+                    </ul>
+                
+            
+
+        
+    
+
+    
+
+</div>
+</div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             Pourquoi investir sur les CFD avec IG ?
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="bc-player section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <div class="brightcove-wrapper videojs-wrapper bc-full " itemprop="video" itemscope itemtype="http://schema.org/VideoObject" >
+            
+                
+                
+                    <meta itemprop="name" content="Pourquoi investir sur les CFD avec IG ?" />
+                    <meta itemprop="description" content="D&eacute;couvrez comment investir avec les CFD. Les contrats pour la diff&eacute;rence sont une alternative au courtage traditionnel: large &eacute;ventail de march&eacute;s, technologie puissante et 40 ans d'exp&eacute;rience." />
+                    
+                    
+                
+            
+
+            
+
+            <div class="brightcove-player brightcove-single-video videojs-player"  data-eventid="4720687373001" data-refid="" data-playerid="2834081556001" data-width="480" data-height="270" data-align="bc-full" data-live="false"  data-autostart="false" data-title="false" data-date="false" data-shdes="false" data-cuepoint="false" data-error="false" data-liveplaylist-id="3608029932001" data-replace="false" data-cues="false">
+
+                
+
+                <div style="display:none;"></div>
+
+                
+
+            </div>
+
+            
+
+            
+
+
+            
+
+            
+
+            
+
+        </div>
+    
+
+</div>
+
+</div>
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    white
+                    dark-text-theme
+                    
+                    col-margin-bot
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-444">
+
+        <div class="col col1 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+            <div class="col col3 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+
+</div>
+
+                        </div>
+                        
+                            <div class="loader"></div>
+                        
+                    </div>
+                
+                
+            
+            <div class="content-parsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             Investissez sur plus de 15 000 valeurs
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="list parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="list-wrapper js_list clearfix style-general-list none-bg dark-text-theme">
+    
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+
+        
+        
+
+            
+                
+                    <ul class='list-container clearfix list-horizontal cols-3' data-cols='3'>
+                
+                    <li value="1">
+                        <div class="inner">
+
+    
+        <h3>
+            <a href="/fra/marches/indices">Indices</a>
+        </h3>
+    
+
+    
+
+    
+        <div class="desc"><h3 class="heading" style="color: rgb(51, 51, 51); font-weight: normal; font-size: 20px; line-height: 24px; letter-spacing: -0.3px;"><span style="font-size: 15px; line-height: 20px;">Principaux indices du monde, du CAC 40 au NIKKEI 225</span></h3>
+</div>
+    
+
+</div>
+                    </li>
+                
+            
+                
+                    <li value="2">
+                        <div class="inner">
+
+    
+        <h3>
+            <a href="/fra/marches/actions">Actions</a>
+        </h3>
+    
+
+    
+
+    
+        <div class="desc"><h3 style="color: rgb(16, 132, 189); font-weight: normal; margin-bottom: 0px; font-size: 20px; line-height: 24px; letter-spacing: -0.3px;"><span style="font-size: 15px; line-height: 20px; color: rgb(51, 51, 51); letter-spacing: -0.3px;">Plus de&nbsp;7&nbsp;500 sociétés issues de&nbsp;34 places boursières</span></h3>
+</div>
+    
+
+</div>
+                    </li>
+                
+            
+                
+                    <li value="3">
+                        <div class="inner">
+
+    
+        <h3>
+            <a href="/fra/marches/options-digitales">Forex</a>
+        </h3>
+    
+
+    
+
+    
+        <div class="desc"><p><span style="color: rgb(51, 51, 51); font-size: 15px; line-height: 20px;">Paires de devises majeures, exotiques&nbsp;et&nbsp;émergentes</span></p>
+</div>
+    
+
+</div>
+                    </li>
+                
+                    </ul>
+                
+            
+                
+                    <ul class='list-container clearfix list-horizontal cols-3' data-cols='3'>
+                
+                    <li value="4">
+                        <div class="inner">
+
+    
+        <h3>
+            <a href="/fra/marches/matieres-premieres">Matières premières</a>
+        </h3>
+    
+
+    
+
+    
+        <div class="desc"><p>Or, pétrole,&nbsp;matières premières agricoles...</p>
+</div>
+    
+
+</div>
+                    </li>
+                
+            
+                
+                    <li value="5">
+                        <div class="inner">
+
+    
+        <h3>
+            <a href="/fra/autres-marches">... et plus encore</a>
+        </h3>
+    
+
+    
+
+    
+        <div class="desc"><p><span style="color: rgb(51, 51, 51); font-size: 15px; line-height: 20px;">Introductions en bourse et obligations</span></p>
+</div>
+    
+
+</div>
+                    </li>
+                
+                    </ul>
+                
+            
+
+        
+    
+
+    
+
+</div>
+</div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    col-padding
+                    
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-66">
+
+        <div class="col col1 parsys"><div class="live-prices section">
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    PS.util.jspVars.set("isManualSiteIdOverrideEnabled")("false");
+</script>
+<div class="livePricesWrapper top50">
+    
+        
+        
+            
+                <h2 class="heading"><span class="large-label">Cours en temps réel</span></h2>
+            
+            <table cellpadding="0" cellspacing="0" class="livePriceTable withMessage"
+                   data-mobileLinks="false"
+                   data-epics="{IX.D.CAC.IDF.IP=, IX.D.DAX.IDF.IP=, IX.D.STXE.IFD.IP=, IX.D.DOW.IDF.IP=, IX.D.SPTRD.IFD.IP=, CS.D.EURUSD.CFD.IP=SCALED, CS.D.GBPUSD.CFD.IP=SCALED, CS.D.USDJPY.CFD.IP=SCALED, CS.D.CFDGOLD.CFDGC.IP=, CS.D.CFDSILVER.CFDSI.IP=}"
+                   data-columns="V2-F-BID,OFR,CPT"
+                   data-lscore="https://a.c-dn.net/b/0wNpa0.js#lightstreamer.6.1.4.min.js"
+                   data-time ="false"
+                   data-streaming="//a.c-dn.net/c/etc/designs/onedomain/clientlibs_ps_part/js/libs/wt-fe-clientstreaming-streaming-with-dependencies.min.js"
+                   data-siteid="fra"
+                   data-sitecode="fra"
+                   data-siteoverrideid=""
+                   data-siteoverridecountry="fr" >
+            <thead>
+            <tr>
+                <th class="first">Markets</th>
+                
+                    <th>Vente</th>
+                
+                    <th>Achat</th>
+                
+                    <th class="lastLpColumn">Variation</th>
+                
+            </tr>
+            </thead>
+            <tbody>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                    France 40
+                                
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                    <td class="message" colspan="3" rowspan="10">
+                                        <div source="lightstreamer" table="list" data-item="0" data-field="V2-F-BID">
+                                            liveprices.javascriptrequired
+                                        </div>
+                                    </td>
+                                
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="0" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="0" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                    Allemagne 30
+                                
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="1" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="1" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="1" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                    EU Stocks 50
+                                
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="2" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="2" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="2" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                    Wall Street
+                                
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="3" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="3" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="3" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                    US 500
+                                
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="4" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="4" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="4" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                    EUR/USD
+                                
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="5" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="5" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="5" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                    GBP/USD
+                                
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="6" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="6" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="6" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                    USD/JPY
+                                
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="7" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="7" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="7" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                    Or au comptant
+                                
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="8" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="8" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="8" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+                    <tr>
+                        <td class="first">
+                            
+                                
+                                    Argent au comptant (5 000oz)
+                                
+                                
+                            
+                        </td>
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="9" data-field="V2-F-BID">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="">
+                                        <div source="lightstreamer" table="list" data-item="9" data-field="OFR">-</div>
+                                    </td>
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <td class="lastLpColumn">
+                                        <div source="lightstreamer" table="list" data-item="9" data-field="CPT">-</div>
+                                    </td>
+                                
+                            
+                        
+                    </tr>
+                
+            </tbody>
+            </table>
+            
+                <div class="disclaimer" data-swiftype-index="false">
+                        <p>Les cours ci-dessus sont soumis aux <a href="/fra/termes-et-conditions-du-site">mentions légales du site</a>.&nbsp;Les cours sont donnés à titre indicatif.</p>
+
+                </div>
+            
+        
+    
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             À propos des comptes IG
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p class="no-bottom-margin">Ouvrir un compte IG est gratuit, sans engagement et ne nécessite aucun téléchargement. Nous proposons deux types de compte :</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="promo-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading"><strong>Compte réel</strong></h3>
+
+<p class="ticked"><span>Plus de 15 000 valeurs disponibles</span></p>
+
+<p class="ticked"><span>Alimentation du compte par virement ou carte bancaire</span></p>
+
+<p class="ticked"><span>Accès à un programme de formation</span></p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class="button  button-green js_target" href="/fra/application-form" target="_self">
+                Ouvrir un compte
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="promo-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content promo">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-left
+            full-width
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h3 class="heading" style="letter-spacing: normal;"><strong>Compte de démonstration</strong></h3>
+
+<p class="ticked"><span style="color: rgb(51, 51, 51); font-size: 15px; line-height: 20px;">Entraînez-vous au trading&nbsp;avec 10 000$ de fonds virtuels</span></p>
+
+<p class="ticked"><span style="color: rgb(51, 51, 51); font-size: 15px; line-height: 20px;">Apprenez à passer des ordres sans aucun risque&nbsp;</span></p>
+
+<p class="ticked"><span style="color: rgb(51, 51, 51); font-size: 15px; line-height: 20px;">Accès instantané&nbsp;</span></p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class="button  button-blue js_target" href="/fra/compte-demo" target="_self">
+                Compte démo
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <h2 class="heading">IG, une présence mondiale</h2>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="igColumns section">
+
+
+
+
+
+
+
+
+<div class="cols-bg 
+                    
+                    bg-default
+                    
+                    
+                    col-no-margin
+                    
+                    
+                    "
+                    
+                    >
+
+        <div class="cols col-444">
+
+        <div class="col col1 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+                
+                    data-background-desktop="//a.c-dn.net/c/content/bcf/fra/_jcr_content/content-parsys/columns_0/col%20col1/rich_content.adaptive.full.high.jpg/1500562895957.jpg"
+                    data-background-tablet="//a.c-dn.net/c/content/bcf/fra/_jcr_content/content-parsys/columns_0/col%20col1/rich_content.adaptive.full.high.jpg/1500562895957.jpg"
+                    data-background-mobile="//a.c-dn.net/c/content/bcf/fra/_jcr_content/content-parsys/columns_0/col%20col1/rich_content.adaptive.full.medium.jpg/1500562895957.jpg"
+                
+                data-background-img-width="260"
+                data-background-img-height="147"
+                data-background-img-resize="false"
+                style="
+                    
+                    
+                "
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-top
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                    
+                        style="
+                        
+                            padding-top:167px;
+                        
+                        
+                    "
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p style="text-align: center;"><strong>15 BUREAUX</strong><br>
+À travers le monde, répartis sur 5 continents</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+
+        
+            <div class="col col2 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+                
+                    data-background-desktop="//a.c-dn.net/c/content/bcf/fra/_jcr_content/content-parsys/columns_0/col%20col2/rich_content.adaptive.full.high.jpg/1447670513100.jpg"
+                    data-background-tablet="//a.c-dn.net/c/content/bcf/fra/_jcr_content/content-parsys/columns_0/col%20col2/rich_content.adaptive.full.high.jpg/1447670513100.jpg"
+                    data-background-mobile="//a.c-dn.net/c/content/bcf/fra/_jcr_content/content-parsys/columns_0/col%20col2/rich_content.adaptive.full.medium.jpg/1447670513100.jpg"
+                
+                data-background-img-width="260"
+                data-background-img-height="147"
+                data-background-img-resize="false"
+                style="
+                    
+                    
+                "
+            
+            class="theme
+            
+             
+            text-layout-full-top
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                    
+                        style="
+                        
+                            padding-top:167px;
+                        
+                        
+                    "
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p style="text-align: center;"><strong>SERVICE CLIENTS 24H/24</strong><br>
+Pour les clients IG, par téléphone ou email</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+            <div class="col col3 parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+                
+                    data-background-desktop="//a.c-dn.net/c/content/bcf/fra/_jcr_content/content-parsys/columns_0/col%20col3/rich_content.adaptive.full.high.jpg/1500562920656.jpg"
+                    data-background-tablet="//a.c-dn.net/c/content/bcf/fra/_jcr_content/content-parsys/columns_0/col%20col3/rich_content.adaptive.full.high.jpg/1500562920656.jpg"
+                    data-background-mobile="//a.c-dn.net/c/content/bcf/fra/_jcr_content/content-parsys/columns_0/col%20col3/rich_content.adaptive.full.medium.jpg/1500562920656.jpg"
+                
+                data-background-img-width="260"
+                data-background-img-height="147"
+                data-background-img-resize="false"
+                style="
+                    
+                    
+                "
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-top
+            
+            
+            
+            text-position-top
+            
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                    
+                        style="
+                        
+                            padding-top:167px;
+                        
+                        
+                    "
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p style="text-align: center;"><strong>185 800 CLIENTS</strong><br>
+<span>À travers le monde ont ouvert un compte IG</span><sup>2</sup>&nbsp;&nbsp;</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        
+
+        
+    </div>
+</div>
+
+</div>
+<div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p><u><a href="/fra/a-propos-d-ig">En savoir plus sur IG</a></u></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            bg-none 
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p><sup>1&nbsp;</sup>N°1 sur le courtage en ligne des CFD dans le monde en termes de revenus, hors Forex (Source : états financiers publiés en février 2018)</p>
+
+<p><sup>2&nbsp;</sup>Nombre de clients,&nbsp;Mai 2017</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+        </div>
+    </div>
+</div>
+    </div>
+
+    
+        
+            
+
+
+
+
+
+
+
+
+
+
+<div class="footer-wrapper clearfix" data-swiftype-index="false">
+
+    <div class="footer">
+        
+            <div class="col-footer-fixed">
+                <div class="promo-content ">
+                    
+                        <div class="first-component global-footer-promo">
+                            <div class="promo-component">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content promo">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-left
+            full-width
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             Investir avec IG
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p>L'ouverture de compte est gratuite et notre plateforme est accessible sans téléchargement.</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class="button  button-green js_target" href="/fra/application-form" target="_self">
+                Ouvrir un compte
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+                        </div>
+                    
+                    
+                        <div class="second-component global-footer-promo">
+                            <div class="promo-component">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content promo">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-left
+            full-width
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             Compte démo gratuit
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <p>Entrainez-vous au trading sur CFD avec 10 000$ de fonds virtuels.</p>
+
+
+                
+                    <div class="content-cta-wrapper">
+                        
+
+
+
+
+
+
+
+    <p class="cta float-left">
+        <a class="button  button-blue js_target" href="/fra/compte-demo" target="_self">
+                Compte démo
+        </a>
+    </p>
+
+
+                        
+
+
+
+
+
+
+
+    
+    
+        
+            <div class="cta bottom cta-sec">
+                
+                    <a class=" button button-blue js_target" href="/fra/download-app" target="_self">
+                            Obtenir l'app
+                    </a>
+                
+            </div>
+        
+    
+
+
+
+
+
+
+                    </div>
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+                        </div>
+                    
+                </div>
+                <div class="footer-contact-us-sec">
+
+                    
+                        <div class="global-contact-us-cs country-specific">
+
+
+
+
+
+
+<div class="swapping-specific-content locale"
+     >
+    
+    <div class="swapping-loader"></div>
+    <div class="swapping-content swapping-default">
+        
+        <div class="locale-parsys-default parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            contact-us contact-us-wrapper
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+        <h2
+            class="heading h2"
+            
+        >
+             Nous contacter
+
+        </h2>
+    
+    
+
+
+
+                
+
+
+
+
+
+        <div class="contacts-container"><p class="large-label">Info :&nbsp;<a class="telephone" href="tel:+33 1 70 98 17 97">+33 1 70 98 17 97</a><br>
+Clients : <a class="telephone" href="tel:+33 1 70 98 17 96">+33 1 70 98 17 96</a><br>
+Email : <a href="mailto:info.fra@ig.com">info.fra@ig.com</a></p>
+</div>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+    </div>
+    
+</div></div>
+
+                    
+
+                   </div>
+            </div>
+        
+        
+            <div class="footer-main">
+                <div class="footer-bottom">
+                    <div class="footer-links">
+                        <div>
+                            <a class="footer-international flag flag-fra" href="https://www.ig.com/?rc=true">FRA
+                            </a>
+                        </div>
+                        <div class="footer-menu">
+                            <div class="footer-menu-parsys iparsys parsys"><div class="iparys_inherited"><div class="footer-menu-parsys iparsys parsys"></div>
+</div><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p><a class="normal" href="/fra/a-propos-d-ig">À propos d'IG</a> | <a class="normal" href="/fra/mentions-legales">Conditions</a>&nbsp;| <a href="/fra/confidentialite">Confidentialité </a>| <a class="normal" href="http://portal.ig.com/support/Help?MenuItem=Help&amp;webSiteId=fra&amp;webSiteLocale=fr_FR" target="_blank">Portail d'aide</a>&nbsp;| <a href="/fra/cookies">Cookies</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+
+</div>
+
+                        </div>
+                    </div>
+                    <div class="footer-social">
+                        <ul>
+                            
+                                <li class="social-icon facebook"><a href="https://www.facebook.com/IGFrance">Facebook</a></li>
+                            
+                            
+                                <li class="social-icon twitter"><a href="https://twitter.com/IGFrance">Twitter</a></li>
+                            
+                            
+                                <li class="social-icon linkedin"><a href="https://www.linkedin.com/company/ig-france">LinkedIn</a></li>
+                            
+                            
+                                <li class="social-icon googleplus"><a href="https://plus.google.com/+IGFrance/about">Google Plus</a></li>
+                            
+                            
+                            
+                                <li class="social-icon youtube"><a href="http://www.youtube.com/IGMarketsFR">YouTube</a></li>
+                            
+                                
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        
+
+        <div class="footer-disclaimer">
+            <div class="footer-disclaimer-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p><strong>La négociation sur CFD ne convient pas à tout type d'investisseur. Le trading avec effet de levier amplifie toujours les gains et les pertes. Le service d'exécution d'ordres sur CFD au travers d’un compte risque limité présente un risque de perte du capital investi. Un compte expert présente un risque élevé et peut aboutir à des pertes excédant votre capital investi. Veuillez vous assurer que vous avez pris pleinement conscience des risques inhérents à ce type d'opérations.</strong></p>
+
+<p>CFD, comptes proposés par IG Markets Ltd. IG est une marque commerciale d’IG Markets Limited (UK company n° 04008957 ; siège social Cannon Bridge House, 25 Dowgate Hill, London, EC4R 2YA ; autorisée et régulée par la Financial Conduct Authority).</p>
+
+<p>Les informations figurant sur ce site ne s'adressent pas aux résidents des États-Unis et de la Belgique et ne sont pas destinées à être diffusées ni à être utilisées par des personnes se trouvant dans un pays ou une juridiction où une telle distribution et utilisation seraient contraires à la loi ou à la règlementation locale.</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-disclaimer-parsys iparsys parsys"></div>
+</div>
+</div>
+
+        </div>
+
+        <div class="footer-colophon">
+            <div class="footer-year">
+                <div class="footer-logo">
+                    <a href="/fra">
+                        <img src="https://a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/schema_image.jpg" width="20"/>
+                    </a>
+                </div>
+                <div class="footer-year-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content content-component">
+    <div
+    
+            
+            
+            class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p>2003 - 2018</p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-year-parsys iparsys parsys"></div>
+</div>
+</div>
+
+            </div>
+            <div class="footer-external-links">
+                <div class="footer-external-links-parsys iparsys parsys"><div class="rich-component section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content rich-content">
+    <div
+    
+            
+            
+            class="theme
+            
+             
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            ">
+
+        <div class="text text-content"
+                     >
+                
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+                
+
+
+
+
+
+        <p class="size-16"><a class="normal" href="http://www.iggroup.com">IG Group</a> | <a href="/fra/compte-institutionnel">Institutions</a> | <a class="normal" href="http://www.iggroup.com/corporate/careers.html">Carrières</a></p>
+
+
+                
+            </div><div class="clearfix"></div>
+
+        
+        
+    </div>
+</div></div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-external-links-parsys iparsys parsys"></div>
+</div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+        
+        
+    
+
+    
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://a.c-dn.net/b/21o5MV/ig-fe-login-min.js"></script>
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_ps.min.js"></script>
+
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1522254565000/clientlibs_responsive.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <script type="application/ld+json">
+            [{"@context":"http://schema.org","@type":"WebSite","name":"IG","alternateName":"IG","url":"https://www.ig.com/fra","potentialAction":{"@type":"SearchAction","target":"https://www.ig.com/fra/search?q={search_term}","query-input":"required name=search_term"}},{"@context":"http://schema.org","@type":"Organization","name":"IG","url":"https://www.ig.com/fra","logo":"https://a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/schema_image.jpg"}]
+
+        </script>
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>

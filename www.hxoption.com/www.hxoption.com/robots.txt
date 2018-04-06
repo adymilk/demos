@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admini/
+Disallow: /config.php
+Disallow: /*/?s=*

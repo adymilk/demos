@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html data-ng-app="myApp"  lang="zh-hans" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/favicon.png" type="image/png" />
+<script src="//rum.monitis.com/get/jsbenchmark.min.js?id=114087" type="text/javascript" async="async"></script><meta name="description" content="兴业投资（英国） — 全球首屈一指的交易平台        作为全球规模最大以及经营历史最悠久的一家电子交易外汇经纪商，兴业投资（英国）拥有强大的品牌以及覆盖全球市场、独一无二的产品类型。     高端、权威的媒体奖项认证，让兴业投资（英国）成为外汇行业投资者的首选合作对象，现业务已遍及全球20多个国家和地区，公司不仅取得了令人瞩目的成绩，而且拥有了一大批忠实的客户。兴业投资（英国）在努力创新、成功开拓国际市场的同时也保持着行业领导者的地位。今后，公司仍将始终按照市场准则以及国际公认的商业行为行事，一如既往秉承对投资者负责的态度，积极地为外汇投资者提供最优质的服务。 相信我们会做得更好！" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.hycm.com/cn/about/awards" />
+<link rel="shortlink" href="https://www.hycm.com/cn/node/21" />
+  <title>兴业奖项 | HYCM兴业投资</title>
+  <link type="text/css" rel="stylesheet" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/css/css_IdCCTN0DGoQg4jymu0qIG7wWAp43zmaXOnVjd5ZgVbA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/css/css_cMo1o7yTlBd0bTTpK2op0hH-CFXxoQeAgPfgCTTPaxM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/css/css_bY8nDFdaIKwteyqmfBwNmB2MNGm2o84wkZNEBOIUNDM.css" media="all" />
+<style>.md-layer-1-0-0{z-index:2 !important;}.md-layer-1-0-1{z-index:2!important;}.md-layer-1-1-0{z-index:999 !important;color:#ffffff !important;}.md-layer-1-1-1{z-index:1000!important;}.md-layer-1-1-2{z-index:998 !important;}.md-layer-1-2-0{z-index:999 !important;}.md-layer-1-2-1{z-index:1000!important;}.md-layer-1-3-0{z-index:999 !important;}.md-layer-1-3-1{z-index:1000!important;}.md-layer-1-4-0{z-index:999 !important;}.md-layer-1-4-1{z-index:1000!important;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/css/css_bXD_KwDY4Uxf2ADDnUfO7XE540GTrR5Wdcv4k3-RX2A.css" media="all" />
+<style>@media (max-width:460px){.hideonmobile{display:none !important;}}
+#sliding-popup.sliding-popup-bottom{background:#f1f5f5;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#333 !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/css/css_SaF03WYxgjL3b93C4YBLDn2bxYxTQKixOR4PE62Fn5Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/css/css_e6xNt9Eme9yGikxuCjorsbfeYR3oah84e_cSmbJkL2Q.css" media="all" />
+  <script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="https://www.hycm.com/cn/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.hycm.com/cn/misc/drupal.js?p6lqna"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.5/js/bootstrap.js"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/admin_menu/admin_devel/admin_devel.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/languages/zh-hans_7nILwr8RGxNSQTLNaEIoaAznztix6739g39kptF2ORU.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/hycm_menu/js/main.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/hycm_menu/js/jquery.menu-aim.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/md_slider/js/jquery.touchwipe.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/md_slider/js/modernizr.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/md_slider/js/jquery-migrate-1.2.1.min.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/md_slider/js/jquery.easing.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/md_slider/js/md-slider.js?p6lqna"></script>
+<script>(function($) {
+      $(document).ready(function() {
+          effectsIn = Drupal.settings.inEffects;
+          effectsOut = Drupal.settings.outEffects;
+          var options_1 = Drupal.settings.md_slider_options_1;$('#md-slider-1-block').mdSlider(options_1);
+      });
+    })(jQuery);</script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/angular.min.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/angular-route.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/jquery-ui.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/resource.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/angular-messages.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/angular-count-to.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/ui-bootstrap-tpls-0.11.0.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/chosen.jquery.min.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/angular-cookies.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/js.cookie.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/track_campaign_id.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/page/validation_form.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/common.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/services/userService.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/lib/core-js/shim.min.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/lib/vue/vue.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/js/common/component/alert.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/language_selector/js/modernizr.custom.79639.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/language_selector/js/dropdown_init.js?p6lqna"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/cn\/","pathPrefix":"","ajaxPageState":{"theme":"hycmcn","theme_token":"KgQcsbpxY1d6L4i36fcyYC1qPkIKsSxhkpQajCcvWGI","js":{"sites\/www.hycm.com.cn\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/js\/cbpHorizontalMenu.min.js":1,"0":1,"sites\/www.hycm.com.cn\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/www.hycm.com.cn\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/js\/bootstrap.js":1,"sites\/www.hycm.com.cn\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/zh-hans_7nILwr8RGxNSQTLNaEIoaAznztix6739g39kptF2ORU.js":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/js\/main.js":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/js\/jquery.menu-aim.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/jquery.touchwipe.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/modernizr.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/jquery-migrate-1.2.1.min.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/jquery.easing.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/md-slider.js":1,"1":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular.min.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular-route.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/jquery-ui.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/resource.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular-messages.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular-count-to.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/ui-bootstrap-tpls-0.11.0.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/chosen.jquery.min.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular-cookies.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/js.cookie.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/track_campaign_id.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/page\/validation_form.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/common.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/services\/userService.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/lib\/core-js\/shim.min.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/lib\/vue\/vue.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/component\/alert.js":1,"sites\/www.hycm.com.cn\/modules\/language_selector\/js\/modernizr.custom.79639.js":1,"sites\/www.hycm.com.cn\/modules\/language_selector\/js\/dropdown_init.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/www.hycm.com.cn\/modules\/footer_sitemap\/footer_sitemap.css":1,"modules\/node\/node.css":1,"sites\/www.hycm.com.cn\/modules\/views\/css\/views.css":1,"sites\/www.hycm.com.cn\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/www.hycm.com.cn\/modules\/ctools\/css\/ctools.css":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/css\/reset.css":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/css\/style_drop.css":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/css\/animate.css":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/css\/md-slider.css":1,"0":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/css\/md-slider-style.css":1,"1":1,"2":1,"sites\/www.hycm.com.cn\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/www.hycm.com.cn\/modules\/language_selector\/css\/style_dropdown.css":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/css\/page\/about.css":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/css\/page\/page.css":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/css\/page\/about--awards.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/css\/bootstrap.min.css":1,"sites\/www.hycm.com.cn\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/css\/style.css":1}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"md_slider_options_1":{"fullwidth":false,"transitionsSpeed":800,"width":"","height":"","enableDrag":false,"responsive":true,"pauseOnHover":true,"loop":true,"showLoading":false,"loadingPosition":"bottom","showArrow":true,"showBullet":true,"posBullet":"2","showThumb":false,"posThumb":"1","slideShowDelay":"9000","slideShow":true,"styleBorder":"0","styleShadow":"0","videoBox":false},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003E\u672c\u7f51\u7ad9\u6211\u4eec\u4f7f\u7528\u4e86cookies\u4ee5\u589e\u5f3a\u60a8\u7684\u7528\u6237\u4f53\u9a8c\u3002\u003C\/h2\u003E\u003Cp\u003E\u70b9\u51fb\u6b64\u9875\u9762\u4e0a\u7684\u4efb\u4f55\u94fe\u63a5\u610f\u5473\u7740\u60a8\u540c\u610f\u6211\u4eec\u8bbe\u7f6ecookies\u3002\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons-div\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022btn red-whitebg-btn\u0022\u003E\u662f\u7684\uff0c\u6211\u540c\u610f\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022btn red-btn\u0022\u003E\u4e0d\uff0c\u6211\u60f3\u4e86\u89e3\u66f4\u591a\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003E\u591a\u8c22\u60a8\u540c\u610f\u6211\u4eec\u8bbe\u7f6ecookies\u3002\u003C\/h2\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003E\u9690\u85cf\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003E\u4e86\u89e3\u66f4\u591a\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":59,"popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.hycm.com\/cn\/sites\/www.hycm.com.cn\/files\/HYCM_CN_Cookies_Policy.pdf","popup_link_new_window":1,"popup_position":null,"popup_language":"zh-hans","domain":""},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+  
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TTMH9LL');</script>
+<!-- End Google Tag Manager -->
+  
+</head>
+<body class="navbar-is-fixed-top html not-front not-logged-in no-sidebars page-node page-node- page-node-21 node-type-page i18n-zh-hans">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1229664-35', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+        <header id="navbar" role="banner" class="navbar navbar-fixed-top navbar-default">
+	<div class="topheadernav">
+		
+				            <div  class="container">
+	<div ng-controller="CommController">
+
+
+		<div ng-if="demoAuth">
+
+			<div class="navactions pull-right">
+				<a class="dropdown-toggle" data-toggle="dropdown" id="topnavbtn_references"><i class="glyphicon glyphicon-triangle-bottom"></i></a>
+				<ul class="dropdown-content dropdown-container dropdown-actions" id="actDropdown">
+					<div class="container">
+						<div class="dropdown langcontent col-md-3 col-md-offset-1">
+							<a class="latoR textR" title=""	href="">余额</a>
+
+							<ul class="ul-no-pad list-inline pl-0">					
+								<li>账户余额 (USD): &#36;									<span id="total_balanceUSD"></span>
+								</li>
+
+							</ul>
+						</div>
+						<div class="dropdown col-md-2">
+							<a class="textR" ng-click="logout()"/>登出</a>
+						</div>
+						<div class="dropdown col-md-2">
+							<a class="textR" href="/cn/support/faq">常见问答</a>
+						</div>
+					</div>
+				</ul>
+			</div>
+
+		</div>
+
+  		<div ng-cloak ng-switch="isAuthIN()">
+  
+     		<div ng-switch-when="truein" ng-if="step_url && !demoAuth">
+
+				<div class="navactions pull-right">
+					<a class="dropdown-toggle" data-toggle="dropdown" id="topnavbtn_references"><i class="glyphicon glyphicon-triangle-bottom"></i></a>
+					<ul class="dropdown-content dropdown-container dropdown-actions" id="actDropdown">
+						<div class="container">
+							<div class="dropdown langcontent col-md-3 col-md-offset-1">
+								<a class="latoR textR" title=""	href="">余额</a>
+
+								<ul class="ul-no-pad list-inline pl-0">					
+									<li>账户余额 (USD): &#36;										<span id="total_balanceUSD"></span>
+									</li>
+			<!-- 						<li>账户余额 (CNY): &#165; 										<span id="total_balanceCNY"></span>
+									</li> -->
+
+								</ul>
+							</div>
+							<div class="dropdown col-md-2">
+								<a class="textR" ng-click="logout()"/>登出</a>
+							</div>
+							<div class="dropdown col-md-2">
+								<a class="textR" href="/cn/support/faq">常见问答</a>
+							</div>
+						</div>
+					</ul>
+				</div>
+
+			</div>
+
+			<section id="block-language-selector-language-selector--2" class="block block-language-selector pull-right clearfix">
+
+      
+  <div data-toggle="dropdown" class="navactions selected-country"> <a id="dropbtn" class="com-sp flag-global"><span>CN</span></a></div><ul id="customDropdown" class="dropdown-content dropdown-container"><div class="container"><ul class="dropdown langcontent col-md-2 col-md-offset-1"><div class=" textR">语言</div></ul><ul class="dropdown col-md-2"><li><a href="/ar"><h6 class="flag ar">العربية</h6></a></li><li><a href="/en"><h6 class="flag en">English</h6></a></li><li><a href="/es"><h6 class="flag es">Español</h6></a></li></ul><ul class="dropdown col-md-2"><li><a href="/it"><h6 class="flag it">Italiano</h6></a></li><li><a href="/ru"><h6 class="flag ru">Русский</h6></a></li><li><a href="/cn"><h6 class="flag cn">中文</h6></a></li></ul></div></ul>
+</section>
+			<div ng-switch-when="out" ng-if="!demoAuth" >
+			<section id="block-block-7--2" class="block block-block clearfix">
+
+      
+  <div class="license-no-header"><p>FCA许可证号: <span class="textR"><a class="textLink" href="https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfHH0AAN" target="_blank">186171</a><a></a></span></p></div>
+</section>
+	
+			</div>
+			<div ng-cloak ng-switch-when="truein" ng-if="step_url && !demoAuth" class="pull-right" ><p class="latoR">欢迎您<a href="/cn/account/overview"> 
+				<span id="username_top">{{email}}</span></a></p>
+			</div>
+		</div>
+
+		<div ng-cloak ng-if="demoAuth"  class="pull-right"><p class="latoR">欢迎您<a href="/cn/demo/account/overview"> <span id="username_top">{{email}}</span></a></p></div>
+	</div>
+
+</div>
+		          		
+	</div>
+   <div class="container">
+    <div class="navbar-header">
+              <a class="logo navbar-btn pull-left" href="/cn/" title="Home">
+          <img src="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/logo_hycm_cn.svg" alt="兴业投资外汇平台" />
+        </a>
+      
+      
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar top-bar"></span>
+  <span class="icon-bar middle-bar"></span>
+  <span class="icon-bar bottom-bar"></span>
+        </button>
+               <div class="reg_log_btn_tablet hidden-lg ">
+          <a class="btn green-btn hidden hidden-lg " href="/cn/account/overview" id="prof_btn_top">账户概况</a>
+          <a class="btn red-whitebg-btn "  id="login_btn_top"  href="/cn/login">登录</a>
+
+        </div>
+    </div>
+  
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                                            <div class="region region-navigation">
+    <section id="block-block-15" class="block block-block pull-right clearfix">
+
+      
+  <div class="pos-log">
+<a id="login_btn" href="/cn/login" class="btn red-whitebg-btn hidden-xs hidden-sm hidden-md">登录</a>
+<a id="prof_btn" href="/cn/account/overview" class="btn green-btn hidden hidden-xs hidden-sm hidden-md">账户概况</a>
+<a href="/cn/register" class="btn red-btn chating hidden-xs hidden-sm hidden-md">开立账户</a>
+<a id="login_btn" href="https://ib.hycm.com/login.hyml?lang=zh_CN" target="_blank" class="btn red-whitebg-btn hidden-xs hidden-sm hidden-md">IB管理后台</a>
+</div>
+</section>
+<section id="block-hycm-menu-hycm-menu" class="block block-hycm-menu pull-left clearfix">
+
+      
+  <div class="cd-dropdown-wrapper"><nav id="cbp-hrmenu" class="cbp-hrmenu">
+					<ul class="cd-dropdown-content"><li class="has-children"><a class="" href="#"><h4 class="">关于我们</h4></a>
+							<div class="cbp-hrsub">
+								<div class="cbp-hrsub-inner"> 
+					<div class="text-desc hidden-sm hidden-xs">  <h4 class=" textR">关于我们</h4>
+                    <p>欢迎来到兴业投资（英国）！兴业投资（英国）受FCA监管，是外汇和CFD交易的市场领导者</p>
+                    <a class="grey-btn btn textW" href="/cn/about">了解更多</a>
+                  </div>
+<div><ul class="cd-secondary-dropdown is-hidden">
+                    		<li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+<li><a href="/cn/about/advantages">公司优势</a></li>
+<li><a href="/cn/about/license-and-regulation">监管与资金安全</a></li>
+<li><a  href="/cn/about/group-history">集团历史</a></li>
+<li><a href="/cn/about/international-offices">国际办事处</a></li>
+<li><a href="/cn/about/awards">兴业奖项</a></li>
+<li><a  href="/cn/support/contact">联系我们</a></li>
+</ul></div>
+</div>
+</div>
+</li>
+<li class="has-children"><a class="" href="#"><h4 class="">交易产品</h4></a>
+	<div class="cbp-hrsub">
+	<div class="cbp-hrsub-inner">
+	<div class="text-desc hidden-sm hidden-xs">   <h4 class="textR">交易产品</h4>
+                    <p>在这里，您可以全面了解到兴业投资（英国）所有的产品信息以及点差/保证金</p>
+                    <a class="grey-btn btn textW" href="/cn/products">了解更多 </a>	</div>
+<div><ul class="cd-sec-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+                    <li><a class="" href="/cn/products?product=0">外汇</a></li>
+			<li><a class="" href="/cn/products?product=1">贵金属</a></li>
+			<!-- <li><a class="" href="/cn/products?product=2">能源</a></li>
+			<li><a class="" href="/cn/products?product=3">软性商品</a></li> -->
+			<li><a class="" href="/cn/products?product=2">股票和指数</a></li>		
+			<!-- <li><a class="" href="/cn/products?product=2">指数</a></li>	-->
+			<li><a class="" href="/cn/products?product=3">点差和保证金</a></li>					
+					</ul></div></div></div></li>
+					<li class="has-children"><a class="" href="#"><h4 class="">外汇平台</h4></a>
+							<div class="cbp-hrsub">
+								<div class="cbp-hrsub-inner"> 
+									<div class="text-desc hidden-sm hidden-xs"> 
+										<h4 class="textR">外汇平台</h4>
+										 <p>多种外汇交易平台任您选择，电脑版、手机版和网页版一应俱全</p>
+										  <a class="grey-btn btn textW" href="/cn/platforms">了解更多 </a>
+									</div>
+									<div>
+									<ul class="cd-5-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+<li><a href="/cn/platforms/account-types">账户类型</a></li>
+<li><a href="/cn/platforms/trader">电脑版 HY Trader</a></li>
+<li><a  href="/cn/platforms/mobile-trading">手机版 移动端交易</a></li>
+<li><a href="/cn/platforms/webTrader">网页版 HY WebTrader</a></li>
+</ul>
+</div>
+</div></div></li>
+<li class="has-children"><a class="" href="#"><h4 class="">教育与工具</h4></a>
+<div class="cbp-hrsub">
+		<div class="cbp-hrsub-inner"> 
+				<div class="text-desc hidden-sm hidden-xs"> 
+					<h4 class=" textR">教育与工具</h4>
+						<p>知识是开启财富的钥匙！兴业投资（英国）为您提供全面及详实的学习视频，以及外汇平台交易所需的工具和即时资讯</p>
+                    <a class="grey-btn btn textW" href="/cn/education-and-markets">了解更多 </a>	</div>
+									<div>
+		<ul class="cd-thrd-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+		<li><a  href="/cn/education-and-markets/videos">视频教程</a></li>
+		<li><a  href="/cn/sites/www.hycm.com.cn/themes/hycmcn/platforms/ebook.pdf" target="_blank">电子教程</a></li>
+	 <li><a href="/cn/education-and-markets/trading-signals">交易信号</a></li>
+		<li><a href="/cn/education-and-markets/economic-calendar">财经日历</a></li>
+		<li><a href="/cn/education-and-markets/news">即时新闻</a></li>
+		<li><a href="/cn/education-and-markets/daily-commentary">每日评论</a></li>
+		<li><a href="/cn/education-and-markets/daily-outlook">今日播报</a></li>
+	<!-- <li><a href="/cn/education-and-markets/webinars">在线讲座</a></li> -->
+	     <li><a href="http://edu.pro-daily.com"  target="_blank">在线讲座</a></li>
+		<li><a href="/cn/education-and-markets/forex-getting-started">外汇入门</a></li>
+		<li><a href="/cn/hylp/2017finance-talk" target="_blank">年度专题</a></li>
+		
+</ul>
+</div>
+</div></div></li>
+
+<li class="has-children"><a class="" href="#"><h4 class="">合作伙伴</h4></a>
+							<div class="cbp-hrsub">
+								<div class="cbp-hrsub-inner"> 
+							<div class="text-desc hidden-sm hidden-xs"> 
+ <h4 class=" textR">合作伙伴</h4>
+     <p>成为兴业投资（英国）的盟友和介绍经纪人（IBs)，享有全面的技术和业务支援服务</p>
+    <a class="grey-btn btn textW" href="/cn/partnerships">了解更多 </a>
+      </div>
+<div>
+<ul class="cd-5-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+
+<li><a href="/cn/partnerships/media-affiliates">媒体盟友</a></li>
+<li><a href="/cn/partnerships/introducing-brokers">介绍经纪人</a></li>
+<li><a href="/cn/partnerships/white-label-partners">白标伙伴</a></li>
+
+</ul></div></div>
+	</div></li>
+<li class="has-children"><a class="" href="#"><h4 class="">客户支持</h4></a>
+<div class="cbp-hrsub">
+	<div class="cbp-hrsub-inner"> 
+<div class="text-desc hidden-sm hidden-xs"> 
+ <h4 class=" textR">客户支持</h4>
+     <p>我们的客户服务5天24小时为您提供帮助</p>
+    <a class="grey-btn btn textW" href="/cn/support/contact">了解更多 </a>
+      </div>
+<div>
+<ul class="cd-4-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li><li><a  href="/cn/support/contact">联系我们</a></li>
+<li><a href="/cn/support/getting-started">开户流程</a></li>
+<li><a href="/cn/hylp/activity-review">线上活动</a></li>
+<li><a href="/cn/support/event" target="_blank">线下活动</a></li>
+<li><a  href="/cn/support/account-funding">支付方式</a></li>
+<li><a  href="/cn/support/forms-and-documents">常用表单</a></li>
+<li><a href="/cn/support/holiday-notice">假期通知</a></li>
+<li><a href="/cn/support/contract-expiry-notice">期货到期通知</a></li>
+<li><a href="/cn/support/faq">常见问答</a></li>
+<li><a  href="/cn/support/risk-warning">风险警告及披露</a></li>
+</ul></div>
+</div></div>
+</li>
+</ul>
+</nav></div>
+</section>
+  </div>
+                  </nav>
+      </div>
+      </div>
+</header>
+
+
+    <div class="innerbanner topbanner-about-awards"> <div class="container">
+  <h1 class="banner-title">兴业奖项</h1></div>
+    </div>
+       
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+      <div class="Section-quotes"> 
+	<div class="maincontent container">
+  	<div class="row">   
+        <div class="region region-content-quotes">
+    <section id="block-block-13" class="block block-block clearfix">
+
+      
+  <div class="hidden-xs hidden-sm ">
+<ul id="side-bar" class="side-pannel side-bar"><li>
+  <a href="#" class="text qq" onclick="live800Click()"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>客服</a></li>
+ <li> <a href="/cn/banking" class="text deposit"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>入金</a></li>
+ <li> <a href="/cn/register" target="_blank" class="text reg"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>开户</a></li>
+ <li> <a href="/cn/demo" target="_blank" class="text demo"><i class="comm-small-icons2 side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i></a></li>
+ <li> <a href="/cn/platforms/trader" target="_blank" class="text down"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>下载</a></li>
+ <li> <a href="" class="text qrcode"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>微信 <img class="qrshow" src="/sites/www.hycm.com.cn/themes/hycmcn/images/common/QR-HYCM-CN.jpg" /></a></li>
+
+</ul></div>
+</section>
+  </div>
+ </div>
+</div>
+</div>
+       <section class="col-sm-12">
+                  <a id="main-content"></a>
+    
+                                        <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-21" class="node node-page clearfix" about="/cn/about/awards" typeof="foaf:Document">
+    <header>
+            <span property="dc:title" content="兴业奖项" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">                 	<h4 class="textB latoH">兴业投资（英国） — 全球首屈一指的交易平台</h4>
+             
+                <p>作为全球规模最大以及经营历史最悠久的一家电子交易外汇经纪商，兴业投资（英国）拥有强大的品牌以及覆盖全球市场、独一无二的产品类型。</p>
+                <p>高端、权威的媒体奖项认证，让兴业投资（英国）成为外汇行业投资者的首选合作对象，现业务已遍及全球20多个国家和地区，公司不仅取得了令人瞩目的成绩，而且拥有了一大批忠实的客户。兴业投资（英国）在努力创新、成功开拓国际市场的同时也保持着行业领导者的地位。</p><p>今后，公司仍将始终按照市场准则以及国际公认的商业行为行事，一如既往秉承对投资者负责的态度，积极地为外汇投资者提供最优质的服务。 相信我们会做得更好！</p>
+<br /><br /><h4 class="textB latoH">兴业投资（英国）历年获奖展示</h4>
+        <div class="row">
+                 <div id="awds">
+                <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw18-a"></div>
+                <h4 class="latoH textB">2017中国金融行业发展年终汇报论坛<br />最受客户信任经纪商</h4><p class="latoR">2017中国金融行业发展年终汇报论坛于12月29日在深圳成功落幕，兴业投资（英国）凭借强大品牌影响力和数十年信誉积累，赢得广大客户的信任及认可，荣获“2017年度最受客户信任经纪商”奖。</p></div>
+
+              <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw18-b"></div>
+                  <h4 class="latoH textB">2017环球外汇风云榜评选<br />年度最佳投教培训机构</h4><p class="latoR">2017年12月29日，由环球外汇网举办的“环球外汇风云榜评选”在上海顺利举办，兴业投资（英国）因在投资者教育领域的不断投入和卓越贡献，一举斩获“年度最佳投教培训机构”大奖。</p></div>
+
+                 <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw18-c"></div>
+                  <h4 class="latoH textB">2017 FX168第六届年度峰会<br />FX168优质合作伙伴</h4><p class="latoR">2017年11日30日，由FX168财经集团举办的“新秩序.新生态”第六届年度峰会圆满落幕，HYCM兴业投资（英国）在“经纪商风云榜”评选中荣获“FX168优质合作伙伴奖”。这是FX168对兴业投资（英国）长期与其保持优质合作关系的最佳肯定。</p></div>
+
+              <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw17-e"></div>
+                  <h4 class="latoH textB">2017第三届中国外汇经纪人年会<br />最佳外汇交易平台</h4><p class="latoR">2017年11月24日，在上海由汇通财经举办的第三届中国外汇经纪人年会上，兴业投资（英国）力压群雄，靠实力摘得“最佳外汇交易平台”大奖，彰显了其在金融投资行业的领先地位和强大的品牌力量。</p></div>
+
+                 <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw17-f"></div>
+                  <h4 class="latoH textB">2017国际财经高峰论坛<br />最佳外汇服务商</h4><p class="latoR">2017年11月，在台北举行的2017国际财经高峰论坛的颁奖典礼上，兴业投资（英国）荣获“最佳外汇服务商”这一明星称号，是台湾媒体和用户对兴业投资（英国）专业性的极大认可。</p></div>
+
+ <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw17-a"></div>
+                  <h4 class="latoH textB">2017年英国全球品牌杂志评选<br />迪拜最佳外汇经纪商</h4><p class="latoR">HYCM在国际业务的经营成果再次获得国际级的肯定，被英国全球品牌杂志评选为2017年迪拜最佳外汇经纪商。</p></div>
+
+               <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw17-d"></div>
+                  <h4 class="latoH textB">2017方舟财经年度评选<br />最具实力外汇经纪商</h4><p class="latoR">2017年6月18日，在苏州外汇行业科技博览会由外汇圈俱乐部和方舟财经主办的2017外汇年度评选颁奖仪式中，HYCM兴业投资（英国）荣获2017“最具实力外汇经纪商”大奖，这是媒体及投资者对兴业投资（英国）专注于客户服务和品牌建设的高度认可。</p></div>
+
+                 <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150 emp"><div class="pull-left mh-150 awards aw17-c"></div>
+                  <h4 class="latoH textB">2017年全球银行与金融评论<br />阿联酋最佳外汇经纪商</h4><p class="latoR">HYCM荣获全球知名金融门户网站“全球银行与金融评论”颁发的“2017年度阿联酋最佳外汇经纪商”。该奖项在金融行业的地位类似于福布斯排行榜在商界的权威，HYCM此次上榜，彰显了其在全球金融行业的领先地位和国际声誉。</p></div>
+				   
+                    <div class="col-md-5 col-sm-6  mh-150"><div class="pull-left mh-150 awards aw17-b"></div>
+                  <h4 class="latoH textB">2017年FXDailyInfo<br />欧洲最佳外汇经纪商</h4><p class="latoR">HYCM荣获FxDailyInfo颁发的“2017年欧洲最佳外汇经纪商”。此次获奖不仅确定了公司在金融服务领域上的领导能力，而且也再次奠定了其在国际市场的领先地位。</p> </div>
+
+      <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"></div>
+ 
+<p class="dotted"></p>
+                 <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw16-e"></div>
+                  <h4 class="latoH textB">2016年度金融衍生品行业<br />最佳媒体推荐经纪商</h4><p class="latoR">金融衍生品行业年度盛典暨金荣奖颁奖典礼于2017年1月在上海盛大开幕，兴业投资凭借2016年优异的客户服务，受到广大财经媒体集团的认可，荣获 "最佳媒体推荐经纪商"。</p></div>
+				   
+                    <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw16-f"></div>
+                  <h4 class="latoH textB">2016年度中金在线财经排行榜<br />优秀外汇投资者教育平台</h4><p class="latoR">2016年度中金在线财经排行榜评选于2017年3月在福建福州隆重举办，HYCM兴业投资(英国)历来注重投资者教育，努力践行线上、线下投资教学同步发展，本次大会一举荣获“优秀外汇投资者教育平台”，是对公司倾力投资者教育的最佳肯定。</p> </div>
+               
+                 <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw16-c"></div>
+                  <h4 class="latoH textB">2016第三届环球外汇风云榜<br />最具潜力黄金商</h4><p class="latoR">2016年12月，由环球外汇网于上海举办的第三届环球外汇风云榜盛典上，兴业投资大受投资者追捧的黄金交易为其夺得“最具潜力黄金商”大奖。 </p> </div>
+				  
+                    <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw16-d"></div>
+                  <h4 class="latoH textB">2016年FX168经纪商风云榜<br />最佳IB扶持计划经纪商</h4><p class="latoR">2016年第五届FX168年度峰会于12月1日在上海成功举办，兴业投资凭借最完备的IB扶持计划及其互惠双赢的IB扶持模式荣获年度“最佳IB扶持经纪商”。</p></div>
+  
+                 <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw16-a"></div>
+                  <h4 class="latoH textB">2016年中金网财经风云榜<br />年度最具品牌价值奖</h4>
+<p class="latoR">由中金网举办的2016年度财经风云榜于12月24日在上海隆重召开。兴业投资历史悠久，专注投资，备受业界专家青睐，一举荣获榜上最富竞争力的"年度最具品牌价值奖"。</p></div>
+		   
+                    <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw16-b"></div>
+                  <h4 class="latoH textB">2016金融界领航中国年度评选<br />优秀交易平台</h4>
+<p class="latoR">2016领航中国年度评选是由金融界举办的年度金融盛典，兴业投资力压同行，一举拿下“优秀交易平台”重磅大奖，兴业投资将始终以最值得信赖的终旨为投资者服务。</p>  </div>
+<p class="dotted"></p>
+                 <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw15-a"></div>
+                  <h4 class="latoH textB">2015中金在线年度财经排行榜<br />极具影响力外汇服务商</h4>
+<p class="latoR">在2016年3月举办的"中金在线年度财经排行榜"颁奖盛典上，兴业投资（英国）凭借2015年突出表现，拿下"极具影响力外汇服务商"重磅大奖。</p>
+				   </div>
+                    <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw15-b"></div>
+                  <h4 class="latoH textB">2015年和讯第13届中国财经风云榜<br />最佳外汇交易平台</h4><p class="latoR">2015年1月和讯第十三届中国财经风云榜，兴业投资（英国）继"最佳服务奖"，  "最佳投资者教育奖"之后，强势问鼎年度"最佳外汇交易平台"大奖。 </p>
+				   </div>
+
+                 <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw15-c"></div>
+                  <h4 class="latoH textB">2015年新浪商品货币高峰论坛<br />外汇综合实力奖</h4><p class="latoR">2015新浪商品货币投资高峰论坛及最佳评选颁奖典礼于2016年01月16日在京召开， 兴业投资（英国）一举夺魁，荣膺“外汇类综合实力奖”。</p>
+				   </div>
+                    <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw15-d"></div>
+                  <h4 class="latoH textB">2015年金融界领航中国金融创新发展高峰论坛杰出服务奖</h4><p class="latoR">2015年12月23日，在金融界第四届领航中国金融行业创新发展高峰论坛上，兴业投资（英国）力压全场，成为本届唯一荣获"杰出服务奖"的外汇服务商。</p>
+				   </div>
+                  
+                 <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw15-e"></div>
+                 <h4 class="latoH textB">2015年中金网第二届财经风云榜<br />最佳品牌服务外汇经纪商 </h4><p class="latoR">在2015年12 月举办的第二届中金网财经风云榜峰会上，兴业投资（英国）一举拿下“最佳品牌服务外汇经纪商”这一重量级奖项，再一次成为业内瞩目的焦点。</p>
+				   </div>
+                    <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw15-f"></div>
+                 <h4 class="latoH textB">2015年第四届FX168年度峰会<br />年度创新经纪商奖 </h4><p class="latoR">FX168财经集团2015年11月6日举办了第四届FX168年度峰会，兴业投资（英国）在经纪商风云榜中获得2015"年度创新经纪商奖"，历史悠久的兴业投资（英国）始终拼搏进取，创意、创新不断。</p>
+				   </div>
+
+                 <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw15-g"></div>
+                  <h4 class="latoH textB">2015年FX Report Awards<br />最佳零售交易平台<br />和南、北欧最佳经纪商 </h4><p class="latoR">兴业资本市场同时荣获2015年FX Report Awards颁发的〝最佳零售交易平台〞、〝南欧最佳经纪商〞和〝北欧最佳经纪商〞三大奖项。</p>
+				   </div>
+                    <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150 emp">
+                    
+				   </div>
+    <p class="dotted"></p>               
+                  <div class="col-md-5 col-sm-6 mh-150 pt-30"><div class="pull-left mh-150 awards aw14-a"></div>
+                 <h4 class="latoH textB">2014年中金在线年度财经排行榜<br />最佳外汇服务商</h4><p class="latoR">兴业投资（英国）在2015年中金在线主办的海峡金融高峰论坛暨2014年财经排行榜中，荣膺〝最佳外汇服务商〞奖。此次获奖，是兴业投资连续第四届上榜。</p>
+				   </div>
+                   <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150 pt-30"><div class="pull-left mh-150 awards aw14-b"></div>
+                 <h4 class="latoH textB">2014年第三届领航中国金融行业创新发展高峰论坛<br />最佳品牌 
+</h4><p class="latoR">2014年12月24日，兴业投资（英国）在北京举办的金融界第三届领航中国高峰论坛上再次摘得〝最佳品牌〞奖。</p>	
+				   </div>
+                   
+                    <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw14-c"></div>
+                  <h4 class="latoH textB">2014年中金在线年度财经排行榜<br />最具创新性贵金属公司</h4><p class="latoR">2015年3月28日，兴业投资（英国）在中金在线2014年度财经排行榜上,被评选为〝最具创新性贵金属公司〞。殊荣倍至，这是对兴业投资（英国）综合实力的最佳肯定。</p>
+				   </div>
+                    <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw14-d"></div>
+                    <h4 class="latoH textB">2014年第三届FX168年度峰会<br />最佳综合性金融机构</h4><p class="latoR">FX168财经集团在2014年10月31日举办了第三届FX168年度峰会。兴业投资（英国）脱颖而出，斩获FX168特别推荐奖－〝最佳综合性金融机构〞，这是对兴业投资（英国）一直是业内备受推崇和值得信赖的外汇交易商的肯定。</p>
+				   </div>
+            
+                 <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw14-e"></div>
+  <h4 class="latoH textB">2014年最佳商品货币评选颁奖典礼暨2015年投资论坛<br />最佳外汇交易服务</h4><p class="latoR">兴业投资（英国）在新浪财经主办的首届最佳商品货币评选颁奖典礼上荣获〝最佳外汇交易服务〞。</p>	
+				   </div>
+                    <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw14-f"></div>
+                  <h4 class="latoH textB">2014年FX Report Awards<br />最佳零售交易平台和东亚最佳经纪商 </h4><p class="latoR">兴业投资（英国）同时荣获2014年FX Report Awards颁发的〝最佳零售交易平台〞和〝东亚最佳经纪商〞两大奖项。</p>	
+					</div>        
+                      
+                    <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw14-g"></div>
+                  <h4 class="latoH textB">2014年第十二届财经风云榜<br />最佳投资者教育 </h4><p class="latoR">兴业投资（英国）在和讯主办的第十二届财经风云榜暨2014外汇高端论坛上荣获〝最佳投资者教育〞奖。</p>
+				   </div>
+                    <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw14-h"></div>
+  <h4 class="latoH textB">2014年第一届环球外汇风云榜<br />最佳外汇服务商</h4><p class="latoR">兴业投资（英国）在2014年12月15日至2015年1月5日期间举办的第一届环球外汇行业甄选活动中获得〝最佳外汇服务商〞奖。</p>	
+				   </div>
+ <p class="dotted"></p>
+                        <div class="col-md-5 col-sm-6 mh-150 pt-30"><div class="pull-left mh-150 awards aw13-a"></div>
+                    <h4 class="latoH textB">2013年和讯第十一届中国财经风云榜<br />最佳外汇服务商</h4><p class="latoR">兴业投资（英国）在2013年和讯主办的第十一届中国财经风云榜中，摘得〝最佳外汇服务商〞大奖，兴业投资高标准的业内服务水平，得到广泛且一致的认可。</p>	
+				   </div>
+                    <div class="col-md-5  col-sm-6 col-md-offset-1 mh-150 pt-30"><div class="pull-left mh-150 awards aw13-b"></div>
+                 <h4 class="latoH textB">2013年世界金融奖<br />中东最佳经纪商</h4><p class="latoR">兴业投资（英国）在2013年世界金融奖中荣获〝中东最佳经纪商〞。</p>	
+					</div>
+                    <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw13-c"></div>
+                  <h4 class="latoH textB">2013年世界金融奖<br />最佳移动交易平台</h4><p class="latoR">兴业投资（英国）在2013年世界金融奖中荣获〝最佳移动交易平台〞。</p>
+				   </div>
+                      <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw13-d"></div>
+                   <h4 class="latoH textB">2013年领航中国金融行业年度评选<br />最佳品牌</h4><p class="latoR">金融界在2013年领航中国金融业年度评选颁奖盛典授予兴业投资（英国）〝最佳品牌〞，以表示高度的肯定与支持。</p>
+				   </div>
+                        
+					<div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw13-e"></div>
+  <h4 class="latoH textB">2013年中金在线年度财经排行榜<br />最佳外汇经纪商</h4><p class="latoR">兴业投资（英国）在2014年中金在线主办的海峡金融高峰论坛暨2013年财经排行榜上，获得〝最佳外汇经纪商〞荣誉奖项。这充分体现了兴业投资这一高端平台，广受大众投资者与权威媒体一致肯定和推崇。</p>
+				   </div>
+                     <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150 emp">
+                     
+					</div>
+    <p class="dotted"></p> 
+                    <div class="col-md-5 col-sm-6 mh-150 pt-30"><div class="pull-left mh-150 awards aw12-a"></div>
+                  <h4 class="latoH textB">2012年中金在线年度财经排行榜<br />最具实力外汇交易平台</h4><p class="latoR">兴业投资（英国）在2012年中金在线主办的海峡金融高峰论坛暨2012年财经排行榜中，揽获〝最具实力外汇交易平台〞。兴业投资超一流的外汇投资与交易平台，实至名归。</p>		 
+				   </div>
+                    <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150 pt-30"><div class="pull-left mh-150 awards aw12-b"></div>
+                <h4 class="latoH textB">2012年世界金融奖<br />北欧最佳外汇经纪商以及最佳外汇迷你账户提供商 </h4><p class="latoR">兴业投资（英国）在2012年世界金融奖中荣获〝北欧最佳外汇经纪商〞以及〝最佳外汇迷你账户提供商〞两大奖项，不仅确定了其在外汇市场上的主导角色，而且是对公司技术专业和服务一流的肯定。</p>
+		</div>
+                  <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw12-c"></div>
+                    <h4 class="latoH textB">2012年第二届沙特金融博览会<br />最佳客户服务提供商 </h4><p class="latoR">在2012年5月2日举办的第二届沙特金融博览会上，兴业投资（英国）一举夺得〝最佳客户服务提供商〞荣誉称号。</p>
+                   </div>
+                    <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw12-d"></div>
+  <h4 class="latoH textB">2012金融行业创新发展论坛<br />外汇行业最佳交易平台</h4><p class="latoR">在金融界主办的〝变革与创新金融行业创新发展高峰论坛〞，一直享有良好声誉的兴业投资（英国）一举赢得〝外汇行业最佳交易平台〞。这是对于兴业投资（英国）多年来致力于促进金融行业发展，打造业内最佳技术平台，提供最优投资者服务的肯定。</p>	
+					</div>
+         
+                    <div class="col-md-5 col-sm-6 mh-150"> <div class="pull-left mh-150 awards aw12-e"></div>
+                  <h4 class="latoH textB">2012金融行业创新发展论坛<br />全球最佳经纪商</h4><p class="latoR">2012年11月15日,在阿联酋迪拜朱美拉海滩酒店举行的2012年中东及北美地区外汇颁奖仪式上，兴业投资（英国）获得〝全球最佳经纪商〞，再次奠定了公司在中东地区的领导地位。</p>
+				   </div>
+                      <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150 emp">
+				   </div>
+ <p class="dotted"></p>
+                    <div class="col-md-5 col-sm-6 mh-150 pt-30"> <div class="pull-left mh-150 awards aw11-a"></div>
+                 <h4 class="latoH textB">2011年金融界年度网络评选<br />最佳黄金研究机构</h4><p class="latoR">兴业投资（英国）在金融界举办的2011年年度金融行业网络颁奖评选排行榜中，一举评选为〝最佳黄金研究机构〞。24小时不间断的网络交易平台，提供最佳的投资服务体验。</p>	
+				   </div>
+                      <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150 pt-30"><div class="pull-left mh-150 awards aw11-b"></div>
+                   <h4 class="latoH textB">2011年度第九届中国财经风云榜<br />最具成长性外汇公司</h4><p class="latoR">和讯举办的第九届中国财经风云榜，兴业投资被评选为〝最具成长性外汇公司〞。</p>
+				   </div>
+                        
+                     <div class="col-md-5 col-sm-6 mh-150"><div class="pull-left mh-150 awards aw11-c"></div>
+   <h4 class="latoH textB">2011年度财经排行榜<br />最佳外汇交易平台</h4><p class="latoR">兴业投资（英国）在中金在线举办的2011年年度财经排行榜上，被评选为〝最佳外汇交易平台〞。</p>	
+				   </div>
+                     <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150"><div class="pull-left mh-150 awards aw11-d"></div>
+                 <h4 class="latoH textB">2011年国际财经时报交易商评选<br />中东最佳外汇经纪商</h4><p class="latoR">兴业投资（英国）2011年初，被国际财经时报评为〝中东最佳外汇经纪商〞。</p>	
+					</div>
+
+                    <div class="col-md-5 col-sm-6 mh-150"> <div class="pull-left mh-150 awards aw11-e"></div>
+                   <h4 class="latoH textB">2011年第九届中东外汇投资博览会<br />全球最佳经纪商 </h4><p class="latoR">2011年11月15日，在阿联酋首都阿布扎比希尔顿酒店举行的颁奖仪式上，兴业资本市场被宣布并授予该荣誉称号。</p>
+				   </div>
+                    <div class="col-md-5 col-sm-6 col-md-offset-1 mh-150 emp">
+                    
+   </div>
+  </div>
+</div></div></div></div>    </article>
+
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+
+
+  <footer class="footer">
+    <div class="footer-top">
+    <div class="container">
+      <div class="region region-footer">
+    <section id="block-block-6" class="block block-block clearfix">
+
+      
+  <p class="textW risk"><b>高风险投资提示：</b>差价合约（CFD）是一种使用保证金交易的复杂的金融产品。交易差价合约（CFD）具有高风险。您有可能亏损掉所有资金。这些产品可能不适合所有人。您应当确保您已理解其中所涉及的风险。若有需要，请咨询个别专家建议，且在您能够承担的亏损范围内投资。请综合所有相关情况以及您的个人资源，仔细考虑这些交易是否适合您。我们不建议客户用所有账户余额来满足保证金要求。客户可以通过要求改变杠杆限制将风险敞口水平降到最低。更多详情，请参阅兴业投资（英国）<a class="textR" href="https://www.hycm.com/cn/support/risk-warning">风险警告及披露</a>。另外，网站内容仅供参考，并不作为推荐或建议。兴业投资（英国）发布的宣传中包含的任何过去表现的参考或模拟不能作为未来结果的可靠指标。客户对其在兴业投资（英国）的所有业务或投资单独负责。</p>
+</section>
+  </div>
+    </div></div>
+            <div class="footer-first">
+    <div class="container">
+      <div class="region region-footer-first">
+    <section id="block-footer-sitemap-footer-sitemap" class="block block-footer-sitemap textW clearfix">
+
+      
+  <div id="footer-sitemap" class="clearfix">
+  <div class="fs-block-content"><div class="main-menu"><ul class="footer_links_main-menu total-items-6 parent-items-0 single-items-0"><li class="menu-443 depth-1 total-children-6 parent-children-0 single-children-6  first"><a href="/cn/about" class="fs-root-link">关于我们</a><ul class="footer_links_main-menu total-items-6 parent-items-0 single-items-0"><li class="menu-444 depth-1 fs-no-children  first"><a href="/cn/about/advantages">公司优势</a></li>
+<li class="menu-445 depth-1 fs-no-children"><a href="/cn/about/license-and-regulation">监管与资金安全</a></li>
+<li class="menu-446 depth-1 fs-no-children"><a href="/cn/about/group-history">集团历史</a></li>
+<li class="menu-447 depth-1 fs-no-children"><a href="/cn/about/international-offices">国际办事处</a></li>
+<li class="menu-448 depth-1 fs-no-children  active"><a href="/cn/about/awards" class="active">兴业奖项</a></li>
+<li class="menu-449 depth-1 fs-no-children  last"><a href="/cn/support/contact">联系我们</a></li>
+</ul></li>
+<li class="menu-450 depth-1 total-children-4 parent-children-0 single-children-4"><a href="/cn/products" class="fs-root-link">交易产品</a><ul class="footer_links_main-menu total-items-4 parent-items-0 single-items-0"><li class="menu-461 depth-1 fs-no-children  first"><a href="https://www.hycm.com/cn/products?product=0" title="">外汇</a></li>
+<li class="menu-463 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/products?product=1" title="">贵金属</a></li>
+<li class="menu-1169 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/products?product=2">股票和指数</a></li>
+<li class="menu-466 depth-1 fs-no-children  last"><a href="https://www.hycm.com/cn/products?product=3">点差和保证金</a></li>
+</ul></li>
+<li class="menu-467 depth-1 total-children-4 parent-children-0 single-children-4"><a href="/cn/platforms" class="fs-root-link">外汇平台</a><ul class="footer_links_main-menu total-items-4 parent-items-0 single-items-0"><li class="menu-468 depth-1 fs-no-children  first"><a href="/cn/platforms/account-types">账户类型</a></li>
+<li class="menu-469 depth-1 fs-no-children"><a href="/cn/platforms/trader">电脑版 HY Trader</a></li>
+<li class="menu-470 depth-1 fs-no-children"><a href="/cn/platforms/mobile-trading">手机版 移动端交易</a></li>
+<li class="menu-471 depth-1 fs-no-children  last"><a href="/cn/platforms/webTrader">网页版 HY WebTrader</a></li>
+</ul></li>
+<li class="menu-472 depth-1 total-children-10 parent-children-0 single-children-10"><a href="/cn/education-and-markets" class="fs-root-link">教育与工具</a><ul class="footer_links_main-menu total-items-10 parent-items-0 single-items-0"><li class="menu-473 depth-1 fs-no-children  first"><a href="/cn/education-and-markets">视频教程</a></li>
+<li class="menu-1195 depth-1 fs-no-children"><a href="/cn/www.hycm.com.cn/themes/hycmcn/platforms/ebook.pdf" target="_blank">电子教程</a></li>
+<li class="menu-474 depth-1 fs-no-children"><a href="/cn/education-and-markets/trading-signals">交易信号</a></li>
+<li class="menu-475 depth-1 fs-no-children"><a href="/cn/education-and-markets/economic-calendar">财经日历</a></li>
+<li class="menu-567 depth-1 fs-no-children"><a href="/cn/education-and-markets/news">即时新闻</a></li>
+<li class="menu-1180 depth-1 fs-no-children"><a href="/cn/education-and-markets/daily-commentary">每日评论</a></li>
+<li class="menu-566 depth-1 fs-no-children"><a href="/cn/education-and-markets/daily-outlook">今日播报</a></li>
+<li class="menu-739 depth-1 fs-no-children"><a href="/cn/education-and-markets/webinars" target="_blank">在线讲座</a></li>
+<li class="menu-1181 depth-1 fs-no-children"><a href="/cn/education-and-markets/forex-getting-started">外汇入门</a></li>
+<li class="menu-1198 depth-1 fs-no-children  last"><a href="/cn/hylp/2017finance-talk" target="_blank">年度专题</a></li>
+</ul></li>
+<li class="menu-476 depth-1 total-children-3 parent-children-0 single-children-3"><a href="/cn/partnerships" class="fs-root-link">合作伙伴</a><ul class="footer_links_main-menu total-items-3 parent-items-0 single-items-0"><li class="menu-477 depth-1 fs-no-children  first"><a href="/cn/partnerships/media-affiliates">媒体盟友</a></li>
+<li class="menu-478 depth-1 fs-no-children"><a href="/cn/partnerships/introducing-brokers">介绍经纪人</a></li>
+<li class="menu-479 depth-1 fs-no-children  last"><a href="/cn/partnerships/white-label-partners">白标伙伴</a></li>
+</ul></li>
+<li class="menu-481 depth-1 total-children-10 parent-children-0 single-children-10  last"><a href="/cn/support/contact" title="" class="fs-root-link">客户支持</a><ul class="footer_links_main-menu total-items-10 parent-items-0 single-items-0"><li class="menu-482 depth-1 fs-no-children  first"><a href="/cn/support/contact" title="">联系我们</a></li>
+<li class="menu-483 depth-1 fs-no-children"><a href="/cn/support/getting-started">开户流程</a></li>
+<li class="menu-1188 depth-1 fs-no-children"><a href="/cn/hylp/activity-review" target="_blank">线上活动</a></li>
+<li class="menu-985 depth-1 fs-no-children"><a href="/cn/support/event" target="_blank">线下活动</a></li>
+<li class="menu-484 depth-1 fs-no-children"><a href="/cn/support/account-funding">支付方式</a></li>
+<li class="menu-485 depth-1 fs-no-children"><a href="/cn/support/forms-and-documents">常用表单</a></li>
+<li class="menu-775 depth-1 fs-no-children"><a href="/cn/support/holiday-notice">假期通知</a></li>
+<li class="menu-781 depth-1 fs-no-children"><a href="/cn/support/contract-expiry-notice">期货到期通知</a></li>
+<li class="menu-487 depth-1 fs-no-children"><a href="/cn/support/faq">常见问答</a></li>
+<li class="menu-568 depth-1 fs-no-children  last"><a href="/cn/support/risk-warning">风险警告及披露</a></li>
+</ul></li>
+</ul></div>
+</div>
+</div>
+
+</section>
+  </div>
+    </div></div>
+             <div class="footer-second">
+    <div class="container">
+     
+      <div class="region region-footer-second">
+    <section id="block-block-9" class="block block-block clearfix">
+
+      
+  <div class="row">
+<div class="col-md-8 col-sm-12">
+<ul class="list-inline footer-contact-links"><li class="col-sm-4 col-xs-12 footer-icons-xs"> <a href="/cn/support/contact"><i class="com-sp contact-links pull-left contact col-xs-offset-4 col-xs-1 col-md-offset-0  col-sm-offset-0"></i> <h5 class="textW col-xs-4 col-md-7 col-sm-7 text-left">联系我们</h5></a></li>
+<li class="col-sm-4 col-xs-12 footer-icons-xs"><a onclick="live800Click();" href="#"><i class="com-sp contact-links pull-left livechat col-xs-offset-4 col-xs-1 col-md-offset-0  col-sm-offset-0"></i><h5 class="textW col-xs-4 col-md-7 col-sm-7 text-left">在线客服</h5></a></li>
+<li class="col-sm-4 col-xs-12 call-xs footer-icons-xs"><a href="" data-toggle="modal" data-target="#CallBackModal"><i class="com-sp contact-links pull-left call col-xs-offset-4 col-xs-1 col-md-offset-0  col-sm-offset-0"></i><h5 class="textW col-xs-4 col-md-7 col-sm-7 text-left">来电回访</h5></a></li></ul></div>
+<!--<div class="col-md-4 col-sm-12">
+<ul class="list-inline social-media-links tb-xs lp">
+<li class="col-sm-2 col-sm-offset-1 col-xs-2 col-xs-offset-1 col-md-offset-2"> <a target="_blank" href="https://twitter.com/HYCM">
+            <i class="com-sp social-media lp twitter"></i></a></li>    
+           <li class="col-sm-2 col-xs-2"> <a target="_blank" href="https://www.facebook.com/hycm">
+            <i class="com-sp social-media  facebook"></i></a></li>        
+    <li class="col-sm-2 col-xs-2"><a target="_blank" href="">
+            <i class="com-sp social-media  tumblr"></i></a></li>
+           <li class="col-sm-2 col-xs-2"> <a  target="_blank" href="https://www.linkedin.com/company/hycm">
+            <i class="com-sp social-media  instagram"></i></a></li>
+            <li class="col-sm-2 col-xs-2"><a  target="_blank" href="https://plus.google.com/106861226736161719453/about">
+            <i class="com-sp social-media gplus"></i></a></li>
+ </ul></div>--></div>
+
+  <div class="modal fade call-back-top " id="CallBackModal" role="dialog">
+    <div class="modal-dialog call-back">
+    
+      <!-- Modal content-->
+      <div class="modal-content call-back-bg">
+       <button class="glyphicon glyphicon-remove callb pull-right" aria-hidden="true" data-dismiss="modal" type="button"></button>
+        <div class="modal-header">
+          <i class="com-sp contact-links pull-left call call-phone"></i>
+          <h2 class="textW modal-title">来电回访</h2>
+        </div>
+
+        <div class="fix-model" ng-controller="HomeController">
+
+          <form name="userFormCB" novalidate="" ng-submit="userFormCB.$valid &amp;&amp; SendData()" id="userFormCB">
+            <div class="fix-table">
+
+			<div id="succ1CB" class="alert alert-success alert-dismissable hidden">
+				<button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+				已成功提交请求。我们将尽快电话您。
+			</div>
+
+			<div id="err1CB" class="alert alert-danger alert-dismissable hidden">
+				<button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+				系统出错。 请稍后再试。
+			</div>
+
+              <div id="name_divCB" class="form-group callB pt-30" ng-class="{'has-error': (submitted2CB &amp;&amp; userFormCB.firstNameCB.$invalid)}" show-errors="">
+		<div class="col-sm-12-CB"><label class="latoR control-label">名: </label>
+		<input ng-pattern="/^[A-Za-z\-\s\'\_\u0391-\uFFE5]+$/" id="name_inpCB" onblur="click_remove_error(this)" ng-click="submitted2CB=false; clicked2CB=true;" type="text" class="form-control" name="firstNameCB" ng-model="firstNameCB" required="" maxlength="35" /></div>
+		<div class="col-sm-12-CB"><span ng-cloak="" ng-if="(clicked2CB &amp;&amp; userFormCB.firstNameCB.$invalid) || (submitted2CB &amp;&amp; userFormCB.firstNameCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+		<span class="alert-box latoM">请输入名</span></span> 
+	     </div></div>
+<div id="surname_divCB" class="form-group callB" ng-class="{'has-error': (submitted02CB &amp;&amp; userFormCB.surnameCB.$invalid)}" show-errors="">
+		<div class="col-sm-12-CB"><label class="latoR control-label">姓: </label>
+		  <input ng-pattern="/^[A-Za-z]+$/" id="surname_inpCB" onblur="click_remove_error(this)" ng-click="submitted02CB=false; clicked02CB=true;" type="text" class="form-control" name="surnameCB" ng-model="surnameCB" required="" maxlength="40" /></div>
+		<div class="col-sm-12-CB"><span ng-cloak="" ng-if="(clicked02CB &amp;&amp; userFormCB.surnameCB.$invalid) || (submitted02CB &amp;&amp; userFormCB.surnameCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+		  <span class="alert-box latoM">请输入姓 </span></span>
+                </div>
+	     </div>
+           <div id="email_divCB" ng-class="{'has-error': (submittedCB &amp;&amp; userFormCB.emailCB.$invalid)}" class="form-group callB" show-errors="">
+             <div class="col-sm-12-CB"><label class="latoR control-label">电子邮箱: </label>
+             <input ng-class="{'ng-valid': (userFormCB.emailCB.$valid)}" id="email_inpCB" type="email" onblur="click_remove_error(this)" ng-click="submittedCB=false; clickedCB=true;" validate-email="" class="form-control" name="emailCB" ng-model="emailCB" required="" /></div>
+             <div class="col-sm-12-CB"><span ng-cloak="" ng-if="(clickedCB &amp;&amp; userFormCB.emailCB.$invalid)  || (submittedCB &amp;&amp; userFormCB.emailCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+             <span class="alert-box latoM">请输入电子邮箱, 例如 <a href="mailto:example@gmail.com">example@gmail.com</a></span></span> 
+           </div></div>
+
+          <div class="form-group callB" ng-class="{'has-error': (submitted7CB &amp;&amp; userFormCB.areaListCB.$invalid)}">
+		<div class="col-sm-12-CB"><label class="latoR">国家: </label>
+		<select class="change select-inp form-control" ng-model="areaListCB" name="areaListCB" ng-options="areaCB as areaCB.ch_name for areaCB in areasCB" required=""><option value="" disabled="disabled" selected="selected">- 选择 -</option></select></div>
+		<div class="col-sm-12-CB"><span ng-cloak="" ng-if="(submitted7CB &amp;&amp; userFormCB.areaListCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+		<span class="alert-box latoM">请选择国家</span></span></div>
+	</div>
+
+
+        <div id="phone_divCB" class="form-group callB" ng-class="{'has-error': (submitted4CB &amp;&amp; userFormCB.phoneCB.$invalid)}" show-errors="">
+         <div class="col-sm-12-CB"> <label class="latoR">联络电话:</label>
+         <input type="text" disabled="disabled" ng-model="areaListCB.value" class="phone-prefix form-control" /><input ng-minlength="8" maxlength="20" id="phone_inpCB" onblur="click_remove_error(this)" ng-click="submitted4CB=false; clicked4CB=true;" class="phone-input form-control" name="phoneCB" type="text" ng-model="phoneCB" required="required" numbers-only="numbers-only" /></div>
+          <div class="col-sm-12-CB"><span ng-cloak="" ng-if="(clicked4CB &amp;&amp; userFormCB.phoneCB.$invalid) || (submitted4CB &amp;&amp; userFormCB.phoneCB.$invalid)" class="glyphicon glyphicon-play reg-span"> 
+            <span class="alert-box latoM">请输入联络电话</span></span> </div>
+        </div>
+            
+            <div id="question_divCB" class="form-group callB" ng-class="{'has-error': (submitted3CB &amp;&amp; userFormCB.questionCB.$invalid)}" show-errors="">
+              <div class="col-sm-12-CB"><label class="latoR">问题: </label>
+              <textarea id="question_inpCB" type="text" onblur="click_remove_error(this)" ng-click="submitted3CB=false; clicked3CB=true;" class="form-control call-back-question pull-left" name="questionCB" ng-model="questionCB" required=""></textarea></div><div class="col-sm-12-CB"><span ng-cloak="" ng-if="(clicked3CB &amp;&amp; userFormCB.questionCB.$invalid) || (submitted3CB &amp;&amp; userFormCB.questionCB.$invalid)" class="glyphicon glyphicon-play"> 
+                <span class="alert-box latoM">请输入问题</span></span> </div>
+             
+            </div>
+
+</div>
+
+          <div id="div_btn_CB" class="xs-center mt-10">          
+          <button id="btn_addCB" class="btn green-btn mt-30" type="submit" ng-click="submittedCB=true;submitted2CB=true;submitted02CB=true;submitted3CB=true;submitted4CB=true;submitted7CB=true;">
+            <span id="load_anim" class="hidden"></span><span id="load_msg" class="hidden">LOADING...</span><span id="text_btn">提交</span>
+          </button>
+        </div>
+
+           </form>
+
+         </div>
+
+      </div>
+     </div>
+      
+    </div>
+</section>
+  </div>
+   </div></div>
+             <div class="footer-third">
+    <div class="container">
+      <div class="row">
+      <div class="region region-footer-third">
+    <section id="block-block-14" class="block block-block clearfix">
+
+      
+  <div class="text-center footer-meta">
+<img alt="Home" style="width=130px;" src="/cn/sites/www.hycm.com.cn/files/logo_hycm_cn.svg" /><ul class="latoM terms-links list-inline normal-terms"><li><a href="/cn/support/forms-and-documents">条款和细则</a></li>
+                <li><a href="/cn/about/license-and-regulation">客户资金保护</a></li>
+                <li><a href="/cn/support/forms-and-documents">常用表单</a></li>
+                <li><a href="/cn/support/forms-and-documents">Cookies政策</a></li>
+                <li><a href="/cn/support/forms-and-documents">个人隐私条款</a></li>
+              </ul><ul class="latoM terms-links list-inline hidden yahui-terms"><li><a href="/cn/sites/www.hycm.com.cn/files/HYCM_CN_Customer_Agreement1.pdf">用户协议</a></li>
+                <li><a href="/cn/sites/www.hycm.com.cn/files/HYCM%20Terms%20of%20Business_CN.pdf">商业条款</a></li>
+              </ul></div>
+
+
+
+
+
+
+</section>
+  </div>
+    </div></div></div>
+              <div class="footer-last">
+    <div class="container">
+      <div class="region region-footer-fourth">
+    <section id="block-block-1" class="block block-block clearfix">
+
+      
+  <p class="licen latoM text-center">
+<span class="copyri bold"> COPYRIGHT&copy; 
+2018- 兴业投资（英国）是兴业资本市场（英国）有限公司的交易名称。版权所有</span><br>
+英国伦敦EC2N 2AN，思罗克英顿大街28号3楼 <br>
+兴业投资（英国）由英国金融市场行为管理局（FCA）授权并监管，许可证号：<a class="textLink" href="https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfHH0AAN" target="_blank">186171</a>
+</p>
+</section>
+  </div>
+    </div></div>
+             <div class="footer-fixed">
+      <div class="region region-footer-fixed-bottom">
+    <section id="block-block-21" class="block block-block clearfix">
+
+      
+  <h6 class="latoR text-center risk">风险提示：所有外汇及差价合约交易都会对您的资本带来高风险。您有可能亏损掉所有资金。因此，这些产品可能不适合所有人。您应当确保您已理解其中所涉及的风险，若有需要，请咨询个别专家建议。</h6>
+</section>
+  </div>
+    </div>
+      </footer>
+
+    <script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/eu_cookie_compliance/js/eu_cookie_compliance.js?p6lqna"></script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/modules/hycm_menu/js/cbpHorizontalMenu.min.js?p6lqna"></script>
+<script>(function($){
+				cbpHorizontalMenu.init();
+			})(jQuery);</script>
+<script src="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/bootstrap/js/bootstrap.js?p6lqna"></script>
+    
+<script>
+function live800Click(){
+document.getElementById('live800iconlink').click();
+}
+</script>
+
+
+<div style='display:none;'><a href='http://www.live800.com'>ΤΪΟίΏΝ·ώ</a></div><script language="javascript" src="https://chat8.live800.com/live800/chatClient/textButton.js?jid=1221985430&companyID=299276&configID=149790&codeType=custom&ss=1"></script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTMH9LL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+</body>
+
+
+</html>

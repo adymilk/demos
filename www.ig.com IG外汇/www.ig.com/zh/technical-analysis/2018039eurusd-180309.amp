@@ -1,0 +1,669 @@
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html amp lang="zh">
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.ampproject.org/v0.js" async></script>
+    <script custom-element="amp-image-lightbox" src="https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js" async></script>
+    <script custom-element="amp-brightcove" src="https://cdn.ampproject.org/v0/amp-brightcove-0.1.js" async></script>
+    <script custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" async></script>
+    <title>经历“杀手”德拉吉后，欧元今夜还将面临非农考验 | IG ZH</title>
+    
+        <link rel="canonical" href="https://www.ig.com/zh/technical-analysis/2018039eurusd-180309"/>
+    
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    
+    
+
+
+
+
+
+<script type="application/ld+json">
+    {"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.ig.com/zh/technical-analysis/2018039eurusd-180309","headline":"经历“杀手”德拉吉后，欧元今夜还将面临非农考验","image":{"@type":"ImageObject","url":"https://a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/highlights/2018/03/09/2018039eurusd/jcr:content/textimage/image.adaptive.full.png/1520579995954.png","height":336,"width":600},"publisher":{"@type":"Organization","name":"IG","logo":{"@type":"ImageObject","url":"https://a.c-dn.net/c/etc/designs/onedomain/images/IG-60x60.png","height":60,"width":60}},"datePublished":"2018-03-09T07:20:57+0000","dateModified":"2018-03-09T07:20:57+0000","author":{"@type":"Person","name":"IG集团"},"description":"欧央行政策声明和德拉吉讲话“南辕北辙”，欧元冲高回落前景堪忧；美国2月非农强势来袭，欧元恐面临更多下跌压力。"}
+</script>
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <style amp-custom>
+        @font-face {
+            font-family: 'Avenir Next OT';
+            font-weight: 300; /* Avenir Next OT Light */
+            src: url('https://a.c-dn.net/b/2woH6V/d7595278-c472-486c-a142-86cb160a1226.eot?#iefix');
+            src: url('https://a.c-dn.net/b/2woH6V/d7595278-c472-486c-a142-86cb160a1226.eot?#iefix') format('eot'),
+            url('https://a.c-dn.net/b/2Rhpod/5934eb8d-da89-4362-81fa-111b5b9f8c6c.woff2') format('woff2'),
+            url('https://a.c-dn.net/b/0sxecP/f6d0771b-5a61-449b-87e8-b3175abfc271.woff') format('woff'),
+            url('https://a.c-dn.net/b/0qq8D0/e4bf5c77-59b9-49bf-8497-2f26b4101c11.ttf') format('truetype'),
+            url('https://a.c-dn.net/b/1Nt88a/58a5128d-b1b6-4b3f-bbe8-0631899fbd18.svg#58a5128d-b1b6-4b3f-bbe8-0631899fbd18') format('svg');
+        }
+
+        @font-face {
+            font-family: 'Avenir Next OT';
+            font-weight: 400; /* Avenir Next OT Regular */
+            src: url('https://a.c-dn.net/b/4nSMV9/483d8937-5e17-4378-9c51-aa91a3d9e1eb.eot?#iefix');
+            src: url('https://a.c-dn.net/b/4nSMV9/483d8937-5e17-4378-9c51-aa91a3d9e1eb.eot?#iefix') format('eot'),
+            url('https://a.c-dn.net/b/2yDt8n/ed4b9060-b5ab-4379-8840-0b50a15258b7.woff2') format('woff2'),
+            url('https://a.c-dn.net/b/4tjEks/9b47db0b-77fb-4bb0-b5c2-3c131a36fc4d.woff') format('woff'),
+            url('https://a.c-dn.net/b/2xiLpl/9c8b7e5f-b3ca-435d-a197-b3dfeae277a1.ttf') format('truetype'),
+            url('https://a.c-dn.net/b/23LgVC/0f72ee75-31c8-42ba-b262-3e13b83a8fdf.svg#0f72ee75-31c8-42ba-b262-3e13b83a8fdf') format('svg');
+        }
+
+        @font-face {
+            font-family: 'Avenir Next OT';
+            font-weight: 500; /* Avenir Next OT Medium */
+            src: url('https://a.c-dn.net/b/0zip2Z/930383e5-36a7-4f9b-ba93-91da56426238.eot?#iefix');
+            src: url('https://a.c-dn.net/b/0zip2Z/930383e5-36a7-4f9b-ba93-91da56426238.eot?#iefix') format('eot'),
+            url('https://a.c-dn.net/b/4eMYym/91e99835-1d11-4c71-af9b-aed2a94329e7.woff2') format('woff2'),
+            url('https://a.c-dn.net/b/2naIwB/4952d2e1-e0c0-46ca-b32e-c24a5882c471.woff') format('woff'),
+            url('https://a.c-dn.net/b/0cyBwr/55e40b4b-6742-4cea-b87c-382b0c65d12d.ttf') format('truetype'),
+            url('https://a.c-dn.net/b/1JRcnN/6b307c95-616f-4c40-a4f9-ec7f15fe23c1.svg#6b307c95-616f-4c40-a4f9-ec7f15fe23c1') format('svg');
+        }
+
+        @font-face {
+            font-family: 'Avenir Next OT';
+            font-weight: 600; /* Avenir Next OT Demi */
+            src: url('https://a.c-dn.net/b/0jpRgq/47d79f32-82c5-4a74-9646-5150297aabc1.eot?#iefix');
+            src: url('https://a.c-dn.net/b/0jpRgq/47d79f32-82c5-4a74-9646-5150297aabc1.eot?#iefix') format('eot'),
+            url('https://a.c-dn.net/b/2OsZ9R/249228f0-61ac-40cc-a5a5-5609c9816e3f.woff2') format('woff2'),
+            url('https://a.c-dn.net/b/48Tz31/efba18ed-80cc-49c4-997a-fbb140739d19.woff') format('woff'),
+            url('https://a.c-dn.net/b/25etwI/750a20ec-9242-42a8-b3bd-c4dcec552196.ttf') format('truetype'),
+            url('https://a.c-dn.net/b/4aZymX/9505c912-495c-462c-899a-e61574ee9559.svg#9505c912-495c-462c-899a-e61574ee9559') format('svg');
+        }
+
+        @font-face {
+            font-family: 'Avenir Next OT';
+            font-weight: 700; /* Avenir Next OT Bold */
+            src: url('https://a.c-dn.net/b/0yXIbG/6ff8ab07-ccb4-4a91-8f0f-2bd4367902e8.eot?#iefix');
+            src: url('https://a.c-dn.net/b/0yXIbG/6ff8ab07-ccb4-4a91-8f0f-2bd4367902e8.eot?#iefix') format('eot'),
+            url('https://a.c-dn.net/b/400bVx/91799b0e-0ef8-446e-b274-5509412e1242.woff2') format('woff2'),
+            url('https://a.c-dn.net/b/3Gei2v/97fb5311-bdbd-46bc-bf69-3bcf8c744cda.woff') format('woff'),
+            url('https://a.c-dn.net/b/0M3KUW/88093bd3-b377-4278-8abe-8460dd24d0e8.ttf') format('truetype'),
+            url('https://a.c-dn.net/b/1kqdM7/0fde1539-69df-4e3d-83ef-ae23d10dd2a5.svg#0fde1539-69df-4e3d-83ef-ae23d10dd2a5') format('svg');
+        }
+
+        @font-face {
+            font-family: 'Avenir Next OT';
+            font-weight: 800; /* Avenir Next OT Heavy */
+            src: url('https://a.c-dn.net/b/1nV4lW/aa8f537e-7081-4c0e-9236-0f9fcfac4541.eot?#iefix');
+            src: url('https://a.c-dn.net/b/1nV4lW/aa8f537e-7081-4c0e-9236-0f9fcfac4541.eot?#iefix') format('eot'),
+            url('https://a.c-dn.net/b/0xZCJw/89f00a92-1c94-43f4-9b5d-a9a7d3573805.woff2') format('woff2'),
+            url('https://a.c-dn.net/b/09qnvN/97f8a201-6c8c-4ab9-9427-7dac9cb31534.woff') format('woff'),
+            url('https://a.c-dn.net/b/26DIJ2/7e15ebeb-7336-4881-b9fd-14d423ae42d3.ttf') format('truetype'),
+            url('https://a.c-dn.net/b/2UA2YL/c6b37b82-8e27-4e65-8eed-967a20776a36.svg#c6b37b82-8e27-4e65-8eed-967a20776a36') format('svg');
+        }
+
+        body {
+            font-family: 'Avenir Next OT', Arial, sans-serif;
+            font-weight: 400;
+            color: #555;
+            font-size:14px;
+            line-height: 20px;
+            margin-bottom: 14px;
+            background-color: #F5F6F7;
+        }
+        .ig-main-header {
+            padding: 5px 10px;
+            position: relative;
+        }
+        .wrapper-header {
+            background-color: #FFF;
+        }
+        .ig-header-text {
+            display: inline-block;
+            vertical-align: top;
+            top: 3px;
+            position: relative;
+            right: 55px;
+        }
+        .nt-strip {
+            background-color: #262629;
+            height: 32px;
+            width: 100%;
+            -webkit-font-smoothing: antialiased;
+        }
+        .nt-strip__content-left {
+            float: left;
+            padding: 0 12px;
+            position: relative;
+            bottom: 10px;
+        }
+        .nt-strip__content-left p {
+            color: #FFF;
+        }
+        .nt-strip__content-right {
+            float: right;
+            padding: 0 2px;
+        }
+        a.nt-strip__login-cta {
+            background: linear-gradient(#46474F, #37373F);
+            border-color: #37373F;
+            padding: 2px 13px;
+            border-radius: 2px;
+            border-width: 1px;
+            border-style: solid;
+            color: #FFF;
+            position: relative;
+            top: 4px;
+            font-weight: 600;
+            font-size: 13px;
+        }
+        a.nt-strip__signup-cta {
+            background: linear-gradient(#3BA43B, #338F33);
+            border-color: #338F33;
+            padding: 2px 13px;
+            border-radius: 2px;
+            border-width: 1px;
+            border-style: solid;
+            color: #FFF;
+            position: relative;
+            top: 4px;
+            font-weight: 600;
+            font-size: 13px;
+            margin-right: 2px;
+        }
+        .logged-out-cta {
+            display: inline-block;
+        }
+        .ig-logo {
+            background: url(//a.c-dn.net/c/etc/designs/onedomain/1522254565000/images/logos/IG_LOGO.svg) no-repeat;
+            width: 100px;
+            height: 44px;
+            display: inline-block;
+            top: 4px;
+            position: relative;
+            right: 59px;
+        }
+        .top-inline-disclaimer {
+            color: #000;
+            padding: 10px 0;
+            text-align: center;
+            font-size: 14px;
+            font-weight: 700;
+            top: 10px;
+            position: relative;
+            background-color: white;
+        }
+        .marketName {
+            line-height: 35px;
+            color: #46484F;
+        }
+        h1 {
+            font-size: 18px;
+        }
+        .publication-date {
+            margin-bottom:15px;
+            color: #6C6C7A;
+            font-size: 13px;
+        }
+        .content-wrapper {
+            margin: 10px 0;
+            padding: 0 10px;
+            background-color: white;
+            top: 10px;
+            position: relative;
+        }
+        .image-description {
+            display: block;
+            font-size: 13px;
+            line-height: 15px;
+            color: #bbb;
+            margin-top: 5px;
+            margin-bottom: 20px;
+            text-align: right;
+        }
+        table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100%;
+            border: 1px solid #cacaca;
+            margin-bottom: 10px;
+        }
+        td,th {
+            border-left: 1px solid #cacaca;
+            border-top: 1px solid #cacaca;
+            border-right: 0;
+            border-bottom: 0;
+            font-size: 15px;
+            line-height: 17px;
+            text-align: center;
+            color: #333;
+            min-width: 150px;
+            padding: 0 10px;
+        }
+        .table-wrapper {
+            overflow-x: auto;
+        }
+        h2 {
+            margin-top: 0;
+            color: #46484F;
+            font-size: 18px;
+        }
+        h3 {
+            line-height: 26px;
+            color: #46484F;
+        }
+        a {
+            color: #1A1A1E;
+            outline: 0;
+            text-decoration: none;
+            border-bottom: 1px dotted #000;
+            font-weight: 700;
+        }
+        p {
+            color: #46484F;
+            font-size: 14px;
+            line-height: 22px;
+        }
+        .intro {
+            color: #46484F;
+            font-size: 18px;
+        }
+        .news-article-author-name {
+            font-size: 14px;
+            line-height: 22px;
+        }
+        .sharebanner ul {
+            list-style-type: none;
+            overflow: hidden;
+            padding: 3px 0 0 0;
+            margin: 0;
+        }
+        .social-sharing {
+            margin-bottom: 30px;
+        }
+        .sharebanner ul li {
+            height: 30px;
+            width: 30px;
+            padding-right: 5px;
+            float: left;
+        }
+        .share-link {
+            display: block;
+            width:30px;
+            height:30px
+        }
+        .twitter-small-alt, .brightcove-share a, .share-plusone, .share-link {
+            background-image: url(https://a.c-dn.net/c/etc/designs/onedomain/1484759778000/images/sprites/social.png);
+            background-repeat: no-repeat;
+            background-attachment: scroll;
+        }
+        .fb-share,.share-fb{background-position:-31px -174px;}
+        .fb-share:hover,.share-fb:hover{background-position:0 -174px;}
+        .twitter-share,.share-tweet{background-position:-93px -174px;}
+        .twitter-share:hover,.share-tweet:hover{background-position:-62px -174px;}
+        .linkedin-share,.share-linkedin{background-position:-124px -174px;}
+        .linkedin-share:hover,.share-linkedin:hover{background-position:-155px -174px;}
+        .share-plusone{background-position:-220px -62px;}
+        .share-plusone:hover{background-position:-220px -155px;}
+        .share-youtube{background-position:-183px -142px;}
+        .share-youtube:hover{background-position:-111px -63px;}
+        .share-pinterest{background-position:-148px -137px;}
+        .share-pinterest:hover{background-position:-111px -100px;}
+        .share-mail{background-position:-183px -111px;}
+        .share-mail:hover{background-position:-220px 0;}
+        .share-wechat{background-position:-220px -124px;}
+        .share-wechat:hover{background-position:-220px -93px;}
+        .share-weibu{background-position:-186px -174px;}
+        .share-weibu:hover{background-position:-220px -31px;}
+        .twitter-small-alt {
+            background-position: -220px -186px;
+            width: 20px;
+            height: 18px;
+            text-indent: 20px;
+            display: inline-block;
+            margin-left: 5px;
+        }
+        .relatedArticles {
+            font-weight: 700;
+            border-top: 1px solid #cacaca;
+            padding-top: 30px;
+        }
+
+        .relatedArticles ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .relatedArticles ul li {
+            margin-bottom: 15px;
+        }
+        .downloadApp {
+            padding: 15px 10px;
+            background-color: #777;
+            color: #fff;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .downloadApp span {
+            padding: 0 35px;
+            display: block;
+        }
+        .downloadApp a {
+            background-color: #55aad3;
+            color: #fff;
+            width: 100%;
+            display: block;
+            padding: 10px 0;
+            margin-top: 10px;
+        }
+        .footer-disclaimer {
+            padding: 10px 0 6px;
+        }
+        .footer-logo {
+            display: block;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 20px;
+        }
+        .footer-colophon {
+            border-top: 1px solid #666;
+            border-bottom: 3px solid #666;
+            color: #333;
+        }
+        .footer {
+            line-height: 22px;
+        }
+        .cq-text-placeholder-ipe {
+            display: none;
+        }
+        .fixed-container {
+            position: relative;
+            width: 200px;
+            height: 48px;
+        }
+        amp-img.contain img {
+            object-fit: contain;
+        }
+        .linkList-wrapper.inline {
+            display: inline-block;
+        }
+        .linkList-items {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .linkList-items li {
+            float: left;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body class="zh_CN">
+<div class="wrapper-header" data-swiftype-index="false">
+    <div class="nt-strip">
+        <div class="nt-strip__content-left">
+            <p>IG.com</p>
+        </div>
+        <div class="nt-strip__content-right">
+
+            <div class="nt-strip__prospect">
+                <li class="logged-out-cta">
+                    <a class="nt-strip__login-cta" href="/zh/login">登录</a>
+                </li>
+                <li class="logged-out-cta">
+                    <a class="nt-strip__signup-cta" href="/zh/create-account">申请账户</a>
+                </li>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="ig-main-header">
+        <div class="ig-logo"></div>
+        
+    </div>
+</div>
+
+<div class="top-inline-disclaimer" data-swiftype-index="false">
+  差价合约为杠杆性金融产品。差价合约交易未必适合每位人士，并有可能招致超出您的初始保证金的损失，敬请交易前完全了解所涉及的风险。 
+</div> 
+<div class="content-wrapper"> 
+ <div class="marketName"> 
+  <div class="marketNamePadding"> 
+   <div class="marketNameContainer"> 
+    <div class="marketNameWrapper"> 
+     <h1>经历“杀手”德拉吉后，欧元今夜还将面临非农考验</h1> 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+ <div class="intro text_ig parbase"> 
+  <p>欧央行政策声明和德拉吉讲话“南辕北辙”，欧元冲高回落前景堪忧；美国2月非农强势来袭，欧元恐面临更多下跌压力。</p> 
+ </div> 
+ <div class="publication-date">
+  Friday 09 March 2018
+ </div> 
+ <div class="article_intro"> 
+  <div class="newspar2 parsys"> 
+  </div> 
+  <div class="textimage parbase"> 
+   <div class="left_image image"> 
+    <div class="image_border"> 
+     <amp-img on="tap:lightboxb3db2717-b7a5-47b5-93db-ef9d97692da9" role="button" tabindex="0" src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/highlights/2018/03/09/2018039eurusd/jcr:content/textimage/image.webimg.png/1520579995954.png" width="300" height="200" title="image" alt="image" layout="responsive"></amp-img> 
+     <amp-image-lightbox id="lightboxb3db2717-b7a5-47b5-93db-ef9d97692da9" layout="nodisplay"></amp-image-lightbox> 
+    </div> 
+    <small class="image-description"></small> 
+   </div> 
+   <div class="text">
+    <p>隔夜备受瞩目的欧央行利率决议已然落下帷幕，欧元/美元走势坐上过山车刺激万分。欧央行政策声明中去除了“必要时扩大债券购买规模”的言论，令欧元多头一度嗅到加速结束宽松的味道。欧元/美元短线上冲最高升至1.2450一线，但没想到随后等来的是素有“欧元杀手”之称的欧央行行长，“超级马里奥”德拉吉。虽然欧央行政策声明措辞的改变是既成事实，但德拉吉的新闻发布会却再次展现鸽派风采。</p> 
+    <p>德拉吉强调，欧央行的关键利率将维持在当前负利率水平相当长一段时间，通胀目标仍远未实现。加上当前贸易保护主义抬头以及较高的欧元汇率都成了欧洲经济发展面临的新问题，所以保持政策宽松是必要的。同时德拉吉还下调了2019年通胀预期，并强调必要情况下可以延长购债（并非扩大）。明显鸽派的言论打压欧元/美元自高位快速回落，最终大幅收跌至1.23关口附近。</p> 
+    <p>然而欧元的噩梦也许并未就此结束，今晚美国2月非农数据可能再度给予欧元致命一击。此前公布的2月“小非农”ADP就业人数大幅增加23.5万人，远超预期的19.5万，同时1月数据也得以上修，暗示美国劳动力市场如火如荼。这可能给今晚非农提供良好的预期，目前市场预计2月非农就业人口增加20万人。薪资水平可能仍是市场关注的焦点，同时失业率也值得关注。</p> 
+    <p>1月平均每小时工资年率意外升至2.9%，创出近十年来最大增幅，一度令市场惊喜。若2月数据表现能够维持此种强劲状态，那么美联储可能加快升息步伐。不过也有分析指出1月份薪资的爆发式增长是季节性因素，2月相关影响则会消退。失业率方面可能降至4%，这要好于前值4.1%的水平，或达到2000年以来的最低水平，这无疑将提振美元走势。</p> 
+   </div> 
+   <div class="clear"></div>
+  </div> 
+ </div> 
+ <div class="newspar3 parsys">
+  <div class="textimage parbase section"> 
+   <div class="left_image image"> 
+    <div class="image_border"> 
+     <amp-img on="tap:lightbox348ffebf-8154-471b-bec3-7467bc84af20" role="button" tabindex="0" src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/highlights/2018/03/09/2018039eurusd/jcr:content/newspar3/textimage/image.webimg.jpg/1520579928757.jpg" width="1132" height="783" title="image" alt="image" layout="responsive"></amp-img> 
+     <amp-image-lightbox id="lightbox348ffebf-8154-471b-bec3-7467bc84af20" layout="nodisplay"></amp-image-lightbox> 
+    </div> 
+    <small class="image-description"></small> 
+   </div> 
+   <div class="clear"></div>
+  </div> 
+  <div class="text_ig parbase section"> 
+   <p>技术面来看欧元/美元，小时图上隔夜无法进一步上测1.25关口上方阻力便大幅回落，而且再度失守关键的1.2350支撑，令后市走势大概率陷入继续回撤的境地。随后汇价或将沿1.2550高点衍生的干草叉通道内部运行，进一步回落以测试颈线（红色）1.2250附近支撑。上方阻力暂时看向1.2350，此为前期重要的阻力突破点。</p> 
+  </div> 
+  <div class="textimage parbase section"> 
+   <div class="left_image image"> 
+    <div class="image_border"> 
+     <amp-img on="tap:lightbox1fe79ee7-7487-43d9-9848-2265380179b7" role="button" tabindex="0" src="//a.c-dn.net/c/content/igcom/zh_CN/ig-financial-markets/market-news-and-analysis/highlights/2018/03/09/2018039eurusd/jcr:content/newspar3/textimage_129360001/image.webimg.jpg/1520579948218.jpg" width="1060" height="783" title="image" alt="image" layout="responsive"></amp-img> 
+     <amp-image-lightbox id="lightbox1fe79ee7-7487-43d9-9848-2265380179b7" layout="nodisplay"></amp-image-lightbox> 
+    </div> 
+    <small class="image-description"></small> 
+   </div> 
+   <div class="clear"></div>
+  </div> 
+  <div class="text_ig parbase section"> 
+   <p>更长远来看，欧元/美元日线图可能正在构筑头肩顶形态的右肩部分，后市进一步回落空间较大。去年11月低点以来的上行趋势线料继续提供支撑，1.2170一线的斐波那契38.2%回撤位同样扮演重要的支持作用。RSI指标目前构筑较为明显的下行趋势，日内有跌破50水平位并进一步走弱的风险。若日内收盘下破23.6%回撤位1.2320一线，则后市继续看跌，目标指向1.2170，更远目标则看向50%回撤位1.2050附近。</p> 
+  </div> 
+ </div> 
+ <div class="author news-article-author parbase">
+  <div class="news-article-author-details"> 
+   <p class="news-article-author-name"> <a href="/zh/profile/ig-simplified">IG集团</a> <br> Market Analyst</p> 
+  </div> 
+ </div> 
+ <div class="share-top social-sharing parbase"> 
+  <div class="sharebanner  "> 
+   <ul> 
+    <li><a id="share-weibu" class="group openPopup share-link share-link-old share-weibu" href="http://service.weibo.com/share/share.php?url=https://www.ig.com/zh/technical-analysis/2018039eurusd-180309&amp;appkey=&amp;title=%E7%BB%8F%E5%8E%86%E2%80%9C%E6%9D%80%E6%89%8B%E2%80%9D%E5%BE%B7%E6%8B%89%E5%90%89%E5%90%8E%EF%BC%8C%E6%AC%A7%E5%85%83%E4%BB%8A%E5%A4%9C%E8%BF%98%E5%B0%86%E9%9D%A2%E4%B8%B4%E9%9D%9E%E5%86%9C%E8%80%83%E9%AA%8C&amp;pic=&amp;ralateUid=&amp;language=zh_cn" target="_blank" title="Weibo"> </a></li> 
+   </ul> 
+  </div> 
+ </div> 
+ <div class="news-and-analysis-permanent-disclaimer" data-swiftype-index="false"> 
+  <div class="newsipar3 iparsys parsys">
+   <div class="section">
+    <div class="new"></div> 
+   </div>
+   <div class="iparys_inherited">
+    <div class="newsipar3 iparsys parsys">
+     <div class="rich-component section"> 
+      <div class="content content-component"> 
+       <div class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            crop-left
+            js_clickable 
+            
+            
+            
+            "> 
+        <div class="text text-content"> 
+         <p>本信息由IG提供，IG为IG Markets Limited的商业名称。除网站下方的声明外，本网页所含信息不包含IG（下称：我公司）成交价格记录，或我公司对任何金融产品的交易要约或询价。依据本网页所发布的信息以及所表达的意见行事所造成的一切后果，我公司不予承担任何责任。我公司对所发布信息的准确性及完整性不作任何明确或隐含的保证。任何人依赖本网页的任何信息、观点以及数据行事须自行承担全部风险。本网页相关研究报告中所含信息没有考虑到特定投资目的、财政状况或任何阅读人士的特殊需求。本网页信息的发布没有严格遵守与促进投资研究报告独立性相关的法律法规要求，因此应仅被视为市场营销交流行为。尽管我公司自身交易不会因提供投资意见而受到明确限制，但我公司无意利用相关信息较客户的时间优先性而寻求利益。点击此链接<a href="/zh/non-independent-research-disclaimer">《非独立研究报告免责声明》</a>，阅读全文。</p> 
+        </div>
+        <div class="clearfix"></div> 
+       </div> 
+      </div>
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+ <div class="relatedArticles"> 
+  <p>阅读更多此类文章</p> 
+  <ul> 
+   <li><a href="/zh/technical-analysis/fx-weekly-technical-180402" title="五大货币一周技术分析：英镑/美元持稳1.40本周前景将偏向看涨">五大货币一周技术分析：英镑/美元持稳1.40本周前景将偏向看涨</a></li> 
+   <li><a href="/zh/technical-analysis/iggroup-q3-financial-report-180327" title="IG集团公布Q3营收逾1.529亿英镑，英国总部业绩强劲，持续领跑！">IG集团公布Q3营收逾1.529亿英镑，英国总部业绩强劲，持续领跑！</a></li> 
+  </ul> 
+  <div class="downloadApp"> 
+   <span>前往IG交易APP，交易新闻事件</span> 
+   <a href="https://ig.onelink.me/3862067683?pid=IGWebSite&amp;c=AMP-content">立即下载</a> 
+  </div> 
+ </div> 
+ <div class="footer"> 
+  <div class="footer-promos"> 
+   <div class="footer-promos-parsys iparsys parsys">
+    <div class="section">
+     <div class="new"></div> 
+    </div>
+    <div class="iparys_inherited">
+     <div class="footer-promos-parsys iparsys parsys"></div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="footer-disclaimer"> 
+   <div class="footer-disclaimer-parsys iparsys parsys">
+    <div class="section">
+     <div class="new"></div> 
+    </div>
+    <div class="iparys_inherited">
+     <div class="footer-disclaimer-parsys iparsys parsys">
+      <div class="rich-component section"> 
+       <div class="content content-component"> 
+        <div class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            "> 
+         <div class="text text-content"> 
+          <p>&nbsp;</p> 
+          <p>&nbsp;</p> 
+          <p><strong>您访问的是海外地区网站。差价合约为杠杆性金融产品，有可能招致超出您的存款的损失。您并非实际拥有或持有任何相关基础资产。请在交易前仔细阅读我们的<a href="/zh/customer-agreement">产品披露声明</a>。<br> 敬请在交易前完全了解所涉及的风险，并谨慎管理风险敞口。</strong></p> 
+          <p>注：股票交易目前仅在英文网站提供。<br> IG 不提供任何关于购买、持有或出售差价合约的建议、推荐或意见。 IG 并非财务顾问，提供的所有服务仅基于执行交易指令。<br> <br> 敬请注意中文语言服务并不保证在任何时候均能提供。英语是我们服务所使用的主要语言，亦是我们所有合同文件中具有法律效力的语言。<br> 您在必须对账户采取行动时有可能无法联络我们中文服务工作人员。<br> <br> IG Markets成立于英国，注册号 4008957，英国金融行为监管局颁发牌照号195355。依据澳大利亚公司法（2001年），IG在澳大利亚注册为外资企业，注册号 84 099 019 851。<br> <br> IG Markets Limited 拥有本网站的所有权及使用权。ABN 84 099 019 851，澳洲金融服务执照号：220440。新西兰金融衍生品发行商执照，金融服务商（FSP）号码18923。<br> <br> 本网站所包含之所有信息均不构成对IG Group或其附属公司的任何金融产品的直接投资邀请或建议。网站内容仅供参考。网站访问者不应依赖本网站信息并将其视为作为或不作为之依据。对于任何个人依据本网站或网站的信息采取的作为或不作为所导致的结果，我们将毋须承担任何责任。</p> 
+          <p><em>本网站信息不针对美国、比利时或澳大利亚及新西兰以外的任何国家的居民，不向身处与发布或使用该信息有违当地法律法规的国家或管辖地之人发送或供其使用。</em><br> &nbsp;</p> 
+         </div>
+         <div class="clearfix"></div> 
+        </div> 
+       </div>
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="footer-colophon"> 
+   <div class="footer-year"> 
+    <div class="footer-year-parsys iparsys parsys">
+     <div class="section">
+      <div class="new"></div> 
+     </div>
+     <div class="iparys_inherited">
+      <div class="footer-year-parsys iparsys parsys">
+       <div class="rich-component section"> 
+        <div class="content content-component"> 
+         <div class="theme
+            
+            none-bg dark-text-theme
+            text-layout-full-left
+            
+            
+            
+            text-position-top
+            text-no-image
+            imagesize50
+            
+            
+            js_clickable 
+            
+            
+            
+            "> 
+          <div class="text text-content"> 
+           <p>©2003-2018</p> 
+          </div>
+          <div class="clearfix"></div> 
+         </div> 
+        </div>
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+ <div class="newspar4 parsys"> 
+ </div> 
+</div>
+<amp-analytics>
+    <script type="application/json">
+        {
+            "requests": {
+                "pageView": "https://sig.ig.com/b/ss/adviggroupzhlive,adviggrouprollup/1/H.27/s78923052599766?AQB=1&ndh=1&t=09%2F03%2F2018%2007%3A20%3A57%205%20Z&ns=iggroup&cdp=2&pageName=ig%20financial%20markets%3Amarket%20news%20and%20analysis%3Ahighlights%3A2018%3A03%3A09%3A2018039eurusd&g=${ampdocUrl}&r=${documentReferrer}&cc=GBP&ch=ig%20financial%20markets%3Amarket%20news%20and%20analysis%3Ahighlights%3A2018%3A03%3A09&server=${ampdocHost}&events=event1%2Cevent11%2Cevent77%2Cevent78%2Cevent79&products=%3B%3B%3B%3Bevent77%3D1532%7Cevent78%3D1526%7Cevent79%3D73&c1=sc%3A140314%7Cl%3A140306%7Ccta%3A140219&v1=D%3DpageName&c2=D%3Dc3&v2=D%3Dc3&v3=D%3Dc3&c3=igcom&c4=zh_CN&v4=D%3Dc4&c5=${ampdocUrl}&c6=D%3Dv6&v6=Friday%209%3A52AM&c7=%E7%BB%8F%E5%8E%86%E2%80%9C%E6%9D%80%E6%89%8B%E2%80%9D%E5%BE%B7%E6%8B%89%E5%90%89%E5%90%8E%EF%BC%8C%E6%AC%A7%E5%85%83%E4%BB%8A%E5%A4%9C%E8%BF%98%E5%B0%86%E9%9D%A2%E4%B8%B4%E9%9D%9E%E5%86%9C%E8%80%83%E9%AA%8C&c9=D%3DpageName&c13=D%3Dv31&c18=OTHREF&c20=ig_prospect&v20=prospect&c22=D%3Dv22&v22=adviggroupzhlive&c25=D%3Ds_vi&v25=D%3Ds_vi&c30=D%3DpageName&c34=ig%20financial%20markets%3Amarket%20news%20and%20analysis%3Ahighlights%3A2018%3A03%3A09%3A2018039eurusd&v34=D%3Dc34&v41=${contentLoadTime}&v42=${domInteractiveTime}&v43=${pageLoadTime}&v47=${firstSeenTime}&c47=${userAgent}&v49=&c75=&h1=D%3DpageName&s=${screenWidth}x${screenHeight}&c=${screenColorDepth}&bw=${availableScreenWidth}&bh=${availableScreenHeight}&v=Y&k=Y&AQE=1",
+                "pageClick": "https://sig.ig.com/b/ss/adviggroupzhlive,adviggrouprollup/1/H.27/s78923052599766?AQB=1&ndh=1&t=09%2F03%2F2018%2007%3A20%3A57%205%20Z&ns=iggroup&cdp=2&pageName=ig%20financial%20markets%3Amarket%20news%20and%20analysis%3Ahighlights%3A2018%3A03%3A09%3A2018039eurusd&g=${ampdocUrl}&r=${documentReferrer}&cc=GBP&c1=sc%3A140314%7Cl%3A140306%7Ccta%3A140219&c9=D%3DpageName&c33=D%3Dv33&v33=button%3A立即下载&pe=lnk_o&pev2=CTA%3Abutton%3A立即下载&s=${screenWidth}x${screenHeight}&c=${screenColorDepth}&bw=${availableScreenWidth}&bh=${availableScreenHeight}&v=Y&k=Y&AQE=1"
+            },
+            "triggers": {
+                "pageLoad": {
+                    "on": "visible",
+                    "request": "pageView"
+                },
+                "trackAnchorClicks": {
+                    "on": "click",
+                    "selector": ".downloadApp a",
+                    "request": "pageClick"
+                }
+            }
+        }
+    </script>
+</amp-analytics>
+</body>
+</html>

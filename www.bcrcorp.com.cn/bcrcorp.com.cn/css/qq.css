@@ -1,0 +1,22 @@
+/*榛樿钃濊壊*/
+.SonlineBox{
+}
+.SonlineBox{ width:162px; font-size:12px;overflow:hidden; z-index:9999;}
+.SonlineBox .openTrigger{ width:30px; height:110px; position:absolute; top:0px; z-index:1; border-radius:5px 0 0 5px; cursor:pointer; background:#0176ba url(../img/openTrigger.jpg) no-repeat;}
+.SonlineBox .titleBox{ width:158px; height:35px; line-height:35px; background:#038bdc url(../img/SonlineTitleBg.gif) repeat-x; border-bottom:2px solid #0176ba;}
+.SonlineBox .titleBox span{ margin-left:10px; color:#fff; font-size:14px; font-family:'寰蒋闆呴粦','榛戜綋';}
+.SonlineBox .contentBox{ width:158px; height:auto; border:1px solid #0176ba; border-radius:5px 0 0 5px; background:#fff; position:absolute; z-index:2;}
+.SonlineBox .contentBox .closeTrigger{ width:25px; height:25px; display:block; cursor:pointer;  position:absolute; top:5px;right:5px;-webkit-transition:all 0.8s ease-out;}
+.SonlineBox .contentBox .closeTrigger:hover{-webkit-transform:scale(1) rotate(360deg);}
+.SonlineBox .contentBox .listBox{overflow:hidden; margin-bottom:10px;}
+.SonlineBox .contentBox .listBox .QQList{ display:block; width:86%; height:33px; margin:10px auto 0px auto;}
+.SonlineBox .contentBox .listBox .QQList span{float:left; line-height:22px;}
+.SonlineBox .contentBox .listBox .QQList a{float:left;}
+.SonlineBox .contentBox .listBox .bottom{
+	height: 120px;
+}
+
+
+
+
+
