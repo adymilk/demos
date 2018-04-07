@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">外币红包意外走红背后隐患有哪些</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2018/02/23 15:05:06</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p><strong><span style="font-size: 14px;">“外币红包”走红却真假难辨</span></strong></p><p><br/></p><p><span style="font-size: 14px;">“过年包200元红包拿不出手，怎样有面子又好看？只要180元，52张外币带回家！ ”近日，这种“外币红包”出现在各地市民的朋友圈里。春节期间，不少市民为走亲访友送红包而发愁，而“外币红包”包含近30个国家和地区的52张外币，看上去既独特又“高大上”。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">“外币红包”受到追捧</span></strong></p><p><br/></p><p><span style="font-size: 14px;">近日，记者联系到从事导游工作的微商代购杨美丽。</span></p><p><br/></p><p><span style="font-size: 14px;">她告诉记者：“身边很多朋友都在卖‘外币红包’，因为销量不错，所以我也加入了。自己的主职是导游，朋友圈卖‘外币红包’，只是顺便挣外快而已。”因为是导游的身份，可以经常往来国外，因而增加了“外币红包”的可信度。</span></p><p><br/></p><p><span style="font-size: 14px;">据了解，“外币红包”根据不同的包装和组合，售价为108～288元不等，其中有美元、韩元、越南盾、柬埔寨瑞尔等数十个国家和地区的货币。每一张货币都是崭新的，并且用塑料纸包装，还贴上相应国家的国旗和简介。</span></p><p><br/></p><p><span style="font-size: 14px;">“送孩子可以满足他们的好奇心，送老人可以给他们收藏，因为创意独特所以很受欢迎。 ”杨美丽介绍说，她最近每天都能卖出十几套，最高峰一天卖出过30多套。对于外币的真伪和价值，杨美丽表示钞票保真、假一赔十，虽然实际价值并不高，但很多人图的是个新鲜。</span></p><p><br/></p><p><span style="font-size: 14px;">记者在淘宝网上输入“外币压岁包”等关键词查询发现，销量最高的店家已成功交易1万多笔，其中有的月销售量高达700多笔。通过网络销售的“外币红包”，无论价格、种类还是数量，都和朋友圈中所售的出入不大。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">价值不高，真假难辨</span></strong></p><p><br/></p><p><span style="font-size: 14px;">记者联系到家住青岛市即墨区同样从事微商工作的刘向前，从他的微信朋友圈得知，他出售的“外币红包”是52张、165元，顺丰包邮全国。</span></p><p><br/></p><p><span style="font-size: 14px;">当记者询问外币来源和外币真伪时，刘向前说：“我都是从淘宝进货，然后进行分装，至于这些外币的真伪，我分辨不出，但淘宝客服说是绝对的真钞。反正，我自己觉得这些外币要么就是从国外带回来的，要么就是淘宝店家从银行兑换的吧。”看样子卖家只是看到商机进行买卖，至于货币的真伪，自己也无判断能力。</span></p><p><br/></p><p><span style="font-size: 14px;">“外币红包”面额看上去大，但实际的价值并不高。通过币种汇率查询，蒙古国的200图格里克折合人民币才约1元，而1元人民币更是可以兑换3300多越南盾。青岛工商银行李沧二支行营业部理财经理于经理说：“单从兑换外币的方式来看，目前只有一个正规的途径，那就是到银行网点去兑换。除了银行常见的外币外，这个‘外币红包’中包含多种罕见小众货币，有的我们根本就没见过，而且也接触不到。所以很难确定其真伪，来源也值得怀疑，更没办法确定其价值。”而有关专家则表示，网络上和朋友圈中所售“外币红包”中大部分外币收藏价值不大，尤其是单张并且汇率低的外币，升值空间也比较小。</span></p><p><br/></p><p><span style="font-size: 14px;">同时，记者了解到，通过其他渠道私自兑换的外币，普通市民很难辨别其真伪。</span></p><p><br/></p><p><span style="font-size: 14px;">私自买卖外币可能违法</span></p><p><br/></p><p><span style="font-size: 14px;">那么，有关商家和微商出售“外币红包”，是否违法呢？</span></p><p><br/></p><p><span style="font-size: 14px;">对此，山东民桥律师事务所韩律师对记者说：“兑换外币应该根据外汇管理法和央行的相关规定到指定地点进行兑换，私自进行买卖很容易触犯法律。《外汇管理条例》第二十九条和三十条分别规定：外汇市场交易应当遵循公开、公平、公正和诚实守信的原则；外汇市场交易的币种和形式由国务院外汇管理部门规定。这种‘外币红包’的盛行容易扰乱外汇交易市场。”</span></p><p><br/></p><p><span style="font-size: 14px;">韩律师同时表示，对非法经营外汇，构成犯罪的，依照《刑法》的相关规定，情节严重的，处5年以下有期徒刑或者拘役，并处或者单处违法所得1倍以上5倍以下罚金；情节特别严重的，处5年以上有期徒刑，并处违法所得1倍以上5倍以下罚金或者没收财产。单位犯罪的，依照刑法第231条规定，对单位判处罚金，并对其直接负责的主管人员和其他直接责任人员，依照上述规定追究刑事责任。</span></p><p><br/></p><p><span style="font-size: 14px;">针对“外币红包”盛行的情况，韩律师建议市民应通过正规渠道兑换、使用外币，避免发生换取价值不对等的外币、废币、假币等情形，维护正常的社会秩序。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=2A1E8D01F9A049F1AA7AFF88212F788D" class="previous_news" title="四大理由告诉你硬脱欧或对英镑有利">上一篇：四大理由告诉你硬脱欧或对英镑有利</a>
+                            <a href="?id=1942C74D2C734339803861B95118D23D" class="next_news" title="人民币汇率突然“变脸”创两年多最大单日跌幅">下一篇：人民币汇率突然“变脸”创两年多最大单日跌幅</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

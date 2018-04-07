@@ -1,0 +1,175 @@
+/* 悟空源码（5kym.com）做最好的织梦整站模板下载网站 */
+@charset "utf-8";
+/* CSS Document */
+.index_title {
+	text-align: center;
+	padding: 40px 0;
+}
+.index_title a {
+	display: block;
+	width: 60px;
+	height: 3px;
+	background: #ff7964;
+	margin: 18px auto;
+}
+.index_title span {
+	display: block;
+	font-family: arial;
+	font-size: 18px;
+	color: #ff7964;
+	font-weight: bold;
+}
+.index_title p {
+	color: #333333;
+}
+.index_bro {
+	border-bottom: 1px solid #ededed;
+	padding-bottom: 40px;
+}
+.index_ul {
+	overflow: hidden;
+}
+.index_ul ul {
+	width: 110%;
+}
+.index_ul li {
+	width: 200px;
+	float: left;
+	margin-right: 50px;
+}
+.union_top {
+	display: block;
+	color: #272727;
+	text-align: center;
+	padding: 30px 0;
+}
+.union_top span {
+	width: 50px;
+	height: 50px;
+	margin: 0 auto;
+	display: block;
+	margin-bottom: 15px;
+}
+.union_top em {
+	display: block;
+	font-family: arial;
+	font-size: 14px;
+	line-height: 25px;
+}
+.union_bottom {
+	width: 200px;
+	height: 8px;
+	background: url(../images/17.png) no-repeat;
+	margin-top: 12px;
+	opacity: 0;
+}
+.t1 {
+	background: url(../images/9.png) no-repeat center center;
+}
+.t2 {
+	background: url(../images/10.png) no-repeat center center;
+}
+.t3 {
+	background: url(../images/12.png) no-repeat center center;
+}
+.t4 {
+	background: url(../images/14.png) no-repeat center center;
+}
+.index_ul li:hover .union_top {
+	background: #ff7964;
+	color: #FFFFFF;
+	transition-duration: 0.8s;
+}
+.index_ul li:hover .t1 {
+	background: url(../images/8.png) no-repeat center center;
+	transition-duration: 0.8s;
+}
+.index_ul li:hover .union_bottom {
+	opacity: 1;
+	transition-duration: 0.8s;
+}
+.index_ul li:hover .t2 {
+	background: url(../images/11.png) no-repeat center center;
+	transition-duration: 0.8s;
+}
+.index_ul li:hover .t3 {
+	background: url(../images/13.png) no-repeat center center;
+	transition-duration: 0.8s;
+}
+.index_ul li:hover .t4 {
+	background: url(../images/15.png) no-repeat center center;
+	transition-duration: 0.8s;
+}
+.index2 {
+	padding: 50px 0;
+}
+.index2_ul {
+	position: relative;
+}
+.index_pos {
+	width: 795px;
+	height: 108px;
+	position: relative;
+}
+.index2_ul li {
+	width: 795px;
+	height: 108px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.iq_title {
+	color: #272727;
+	display: block;
+	padding-bottom: 20px;
+}
+.iq_p {
+	color: #707070;
+	line-height: 24px;
+}
+.iq_more {
+	color: #ff7964;
+	display: inline-block;
+	background: url(../images/18.png) no-repeat right center;
+	padding-right: 20px;
+}
+.qh_num {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.qh_num p {
+	font-family: Tahoma;
+}
+.iq_span {
+	display: block;
+	font-size: 60px;
+	color: #333333;
+}
+.qh_num em {
+	font-size: 24px;
+	color: #d1d1d1;
+}
+.iq_add {
+	font-size: 30px;
+	color: #333333;
+}
+.index2_ul .btn {
+	margin-top: 10px;
+}
+.index2_ul .btn span {
+	display: inline-block;
+	width: 6px;
+	height: 6px;
+	background: #333333;
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	margin-right: 10px;
+	cursor: pointer;
+}
+.index2_ul .btn span.on {
+	width: 6px;
+	height: 6px;
+	background: none;
+	border: 1px solid #a7a7a7;
+}

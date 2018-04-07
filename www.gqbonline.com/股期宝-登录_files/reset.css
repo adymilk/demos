@@ -1,0 +1,121 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2016-01-13 11:42:58
+ * @version $Id$
+ */
+a,address,b,big,blockquote,body,center,cite,code,dd,del,div,dl,dt,em,fieldset,font,form,h1,h2,h3,h4,h5,h6,html,i,iframe,img,ins,label,legend,li,ol,p,pre,small,span,strong,u,ul,var{margin:0;padding:0; box-sizing: border-box; -webkit-box-sizing: border-box;}
+article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block;-moz-box-sizing:border-box;box-sizing:border-box;}
+hr{-moz-box-sizing:border-box;box-sizing:border-box;height:0}
+button,html input[type=button],input[type=submit]{-webkit-apperance:button;cursor:pointer;font-family: "Microsoft YaHei",YaHei,Arial,Helvetica,sans-serif;}
+button[disabled],html input[disabled]{cursor:default}
+ol,ul{list-style:none}img{border:0;vertical-align:middle}
+em,i,u{font-style:normal}.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}.clearfix{*zoom:1}
+body,h1,h2,h3,h4,h5,h6{font-family:'Microsoft YaHei',YaHei,Arial,Helvetica,sans-serif;letter-spacing:1px;}
+input{color:#333;font-size:18px;/*cursor: pointer;*/}
+input-placeholder{font-size:18px;font-family: "Microsoft YaHei",YaHei,Arial,Helvetica,sans-serif;}
+input::-ms-input-placeholder{font-size:14px;font-family: "Microsoft YaHei",YaHei,Arial,Helvetica,sans-serif;}
+input::-webkit-input-placeholder{font-size:16px;color:#b3b3b3;letter-spacing:2px;font-family: "Microsoft YaHei",YaHei,Arial,Helvetica,sans-serif;}
+
+a{text-decoration:none;color:#999;cursor: pointer;}
+a:hover, a:active, a:link{text-decoration:none;}
+.fl{float:left;}
+.fr{float:right;}
+.clearfix:after{content:"";height:0;visibility: hidden;clear:both;display: block;}
+ul li{list-style: none;}
+/*头部开始部分*/
+header{background:#f3f3f3;height:100px; box-shadow: 0 0 15px #777;position: relative;z-index:2;}
+header .content{width:1024px;height:100%;margin:0 auto;}
+header .logo{display: inline-block;vertical-align:middle;margin-top:16px;}
+
+header .logo img{vertical-align: middle;}
+.navbar{height:100%;box-sizing: border-box;}
+.navbar li{margin-right:25px;line-height:92px;float:left;}
+.navbar li.act a{display: inline-block;color:#e60011;}
+.navbar li a{font-size:16px;color:#595656;}
+.navbar li.active a{display: inline-block;border-bottom:inset 10px solid #e60011;color:#e60011;border-bottom: 8px solid red;}
+/*头部分结束*/
+/*尾部开始部分*/
+.sec4{
+    background:#595656;
+}
+.ppxx{margin:0 auto;width:100%;margin-top:35px;}
+.ppxx img{margin:0 auto;display: block;}
+.sec4 h2,.sec4 h3{position: relative;z-index:999999;}
+.bq{border-top:1px solid #e2e2e2;padding-bottom:18px;}
+.bq_message{width:940px;margin:0 auto;padding:40px 50px;}
+.bq_message .p1{font-size: 18px;color:#fff;}
+.bq_message .p2{font-size: 14px;color:#fff;margin-top:6px;}
+.pp_info{width:580px;}
+.bq_message .ppqq{margin-top:23px;}
+.bq_messagefr {margin-top:-30px;}
+.line1{margin-right:30px;margin-top:10px;}
+.ewm{margin-left:55px;display:block;margin-top:-10px;font-size:14px;color:#fff;}
+footer{background: #000;}
+.footer_btm{width:840px;margin:0 auto;height:60px;line-height: 60px;color:#fff;font-size: 14px;color:#8b8b8b;}
+/*尾部结束*/
+
+/*软件下载页面样式开始部分*/
+.sec1_onload{
+    width:866px;
+    margin:0 auto;
+    padding-top:56px;
+    padding-left:110px;
+    padding-bottom:40px;
+}
+.dlewm {
+    width:370px;
+    margin-left:120px;
+    margin-top:35px;
+}
+.dlewm h2{
+    font-size:24px; 
+    color:#e30920; 
+    line-height: 50px;
+    text-align: center;
+   letter-spacing:4px;
+}
+.dlewm h4{
+    font-size:14px; 
+    color:#727171; 
+    text-align: center;
+    letter-spacing:2px;
+    font-weight: normal;
+}
+.dlewm ul{
+    margin-top:35px;
+}
+.dlewm ul li span{
+   border:1px solid #cecece;
+   width:158px;
+   height:158px;
+   display: block;
+   text-align: center;
+   line-height: 158px;
+}
+.dlewm .im_btn{
+    margin-left:7px;
+}
+.ulios{
+    margin-right:46px;
+}
+.art_1{
+    margin-top:20px;
+
+}
+.art_1 h3{
+    font-size: 18px;
+    line-height: 50px;
+    color:#e30920;
+    letter-spacing: 2px;
+}
+.art_1 p{
+    font-size: 16px;
+    color:#727171;
+    letter-spacing: 2px;
+    line-height: 24px;
+}
+
+
+

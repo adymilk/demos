@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">外汇局：8月21日起发卡行应报送银行卡境外交易信息</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2017/08/03 19:27:40</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p style="line-height: 1.5em;"><span style="font-size: 14px;">　　国家外汇管理局各省、自治区、直辖市分局、外汇管理部，深圳、大连、青岛、厦门、宁波市分局，各全国性银行，中国银联股份有限公司：</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　根据《国家外汇管理局关于金融机构报送银行卡境外交易信息的通知》（汇发〔2017〕15号）有关要求，现将境内发卡金融机构（以下简称发卡行）接入银行卡境外交易外汇管理系统（以下简称银行卡管理系统）联调、验收和试运行等相关工作通知如下：</span></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px;">　　一、联调工作安排</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　（一）发卡行接入准备工作</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　1、发卡行应做好接口程序开发工作。发卡行应通过接口程序从自身系统获取原始交易数据并按照要求生成规范的数据文件，其中数据接口方式应报送XML格式数据文件，界面方式应报送XLS格式数据文件（即Excel文件）。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　发卡行应开发程序处理国家外汇管理局（以下简称外汇局）反馈的错误信息并及时重新报送，以及保存和处理外汇局下发的银行卡境外违规交易记录。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　2、发卡行需与外汇局完成专线连接，并向所在地外汇局分局、外汇管理部（以下简称外汇分局）申请金融机构代码和总行级金融机构标识码。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　（二）联调工作实施要求</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　1、外汇局向发卡行提供银行卡管理系统（银行版）测试环境，用于联调接口程序、验收等相关工作。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　2、发卡行根据《银行卡境外交易外汇管理系统（银行版）测试环境配置手册》（专线访问外汇局银行信息门户网http://banksvc.safe“资料下载”栏目或向所在地外汇分局获取，以下文件表格获取方式同）配置后访问银行卡管理系统（银行版）测试环境，使用方法详见《银行卡境外交易外汇管理系统（银行版）测试环境用户手册》。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　3、使用外汇局消息传输系统（MTS）通过数据接口方式报送数据的发卡行，还需向所在地外汇分局申请开通银行卡管理系统MTS联调环境。同时根据《消息传输系统（MTS）安装部署手册（银行版）》和《消息传输系统（MTS）各业务接口配置手册》进行配置后完成接入工作，MTS使用方式详见《消息传输系统（MTS）银行用户使用手册》。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　4、通过数据接口方式或界面方式报送数据的发卡行，均应按《银行卡境外交易外汇管理系统接口程序联调方案》有关要求进行联调。</span></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px;">　　二、验收工作安排</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　（一）发卡行正式接入系统前需通过外汇局验收。验收工作由外汇局统一组织开展，外汇分局负责具体实施。外汇分局应安排国际收支和科技部门人员共同参加验收工作，并按发卡行法人所在地原则实施验收，验收具体流程见《银行卡境外交易外汇管理系统接口程序验收要求》（以下简称《验收要求》）。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　（二）发卡行确认满足《验收要求》相关条件后，应向所在地外汇分局申请验收。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　（三）验收未通过的发卡行应及时整改，整改完成后重新申请验收，最迟应于2017年8月21日前通过验收。发卡行修改相关自身系统或接口程序，应及时向所在地外汇分局报备。改动较大的发卡行，外汇分局可要求重新验收。</span></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px;">　　三、试运行工作安排</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　（一）外汇局将于2017年8月21日至8月31日期间开展银行卡管理系统试运行工作。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　（二）各外汇分局应于2017年8月21日前完成对辖内发卡行的验收工作，并根据《MTS系统联调测试与上线相关问题说明》为验收通过的辖内发卡行申请开通银行卡管理系统MTS生产环境接入，同时在银行卡管理系统（外汇局版）中完成对验收通过的辖内发卡行的业务准入工作。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　（三）发卡行应于2017年8月21日前完成网络配置、客户端环境设置、用户维护等工作，并通过外汇局银行信息门户网登录银行卡管理系统（银行版）中完成基本信息维护。银行卡管理系统（银行版）访问设置的具体操作说明，详见《外汇应用系统访问设置手册（银行版）》。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　（四）2017年8月21日起，各发卡行均应按照银行卡境外交易数据采集规范要求于北京时间每日12：00前报送上日24小时内本行银行卡境外交易信息。采用数据接口方式报送的发卡行应根据《消息传输系统（MTS）各业务接口配置手册》配置生产环境接入报送数据；采用界面方式报送的发卡行通过银行卡管理系统（银行版）报送数据。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　（五）各外汇分局应督促辖内发卡行做好试运行工作，及时监测各发卡行数据报送情况，如遇问题及时反馈外汇局国际收支司和科技司。</span></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px;">　　四、其他</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　（一）凡开通银行卡境外交易业务的发行卡，应按照汇发15号文和本通知规定，接入银行卡外汇管理系统向外汇局报送银行卡境外交易信息。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　发卡行若不能按要求接入银行卡外汇管理系统报送银行卡境外交易信息，自2017年9月1日起应暂停本行银行卡境外交易业务，直至履行信息报送义务。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　（二）2017年9月1日以后新办银行卡业务的境内金融机构，应在具备接入银行卡外汇管理系统报送银行卡境外交易信息的条件后，方可开通本行银行卡境外交易业务。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　五、外汇分局接到本通知后，应及时转发辖内中心支局、城市商业银行、农村商业银行、外商独资银行、中外合资银行、外国银行分行、农村合作金融机构、村镇银行。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=0E8AA9977224451993E3F0070F6D187C" class="previous_news" title="今晚非农非比寻常美元救赎就看今夜">上一篇：今晚非农非比寻常美元救赎就看今夜</a>
+                            <a href="?id=17B9A0A363B448F985F23401E8452471" class="next_news" title="完善外汇市场需适时适度放松实需原则">下一篇：完善外汇市场需适时适度放松实需原则</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

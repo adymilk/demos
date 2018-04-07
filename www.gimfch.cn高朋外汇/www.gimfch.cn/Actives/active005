@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-开启第五代国际金融交易模式变革</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+    <!--animate.css动画效果-->
+  <link rel="stylesheet" type="text/css" href="/Content/Styles/Actives/active005.css" />
+<link href="/Content/Images/newindex/gpp.ico" rel="shortcut icon" type="image/x-icon" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+
+<!-- 内容区域-->
+<div class="main">
+    <div class="banner005"></div>
+    <div class="content1">
+        <div class="container1">
+            <div class="content10">
+                <div class="title_box">
+                    <h1>IM系统</h1>
+                    <h3>中央财经大学IMFCH课题组·倾情打造最新研究成果</h3>
+                </div>
+
+                <div class="sys_txt">
+                    <p class="sys_p">
+                        IM系统（Intelligent Multilateral System）智能多边清算系统，是基于国际多边金融清算（ IMFCH）模式的理论，使平等状态下的多元集成系统实现“集成核心”的作用，将数据订单管理系 统、自动报告生成系统、交易行为分析系统、风险控制系统等进行连接达到互联互通，打造无缝衔 接的一体化系统。引入大数据分析、人工智能系统、机器深度学习等金融科技工具，通过实时的、 并发的、同步的数据分享机制，实现“扁平化”的交易策略，使所有的参与者都能通过专属网络，
+                        蜘蛛网模型实现多边清算，达到共享订单流的目的。
+                    </p>
+                </div>
+
+                <ul class="img_ul">
+                    <li class="left imgzoom">
+                        <img src="/Content/Images/activeimg/activeimg005/img1.jpg" alt="">
+                    </li>
+                    <li class="right imgzoom">
+                        <img src="/Content/Images/activeimg/activeimg005/img2.jpg" alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="content2">
+        <div class="container1">
+            <div class="content20">
+                <h2 class="title2">六大核心优势</h2>
+                <ul class="superiority clearfix">
+                    <li>
+                        <div class="icon_box">
+                            <img src="/Content/Images/activeimg/activeimg005/icon1.png" alt="">
+                        </div>
+                        <p class="super_p1">CIC交易模式·</p>
+                        <p class="super_p1" style="margin-bottom:20px;">Combat Information Center Mode</p>
+                        <p class="super_p2">信息指挥中心，</p>
+                        <p class="super_p2">系统最核心的技术所在</p>
+                    </li>
+                    <li class="line_secent">
+                        <div class="icon_box">
+                            <img src="/Content/Images/activeimg/activeimg005/icon2.png" alt="">
+                        </div>
+                        <p class="super_p1">平台化和多引擎·</p>
+                        <p class="super_p1" style="margin-bottom:20px;">Platformed and Hybrid Engine</p>
+                        <p class="super_p2">不管是怎样的交易体验</p>
+                        <p class="super_p2">都能快速达成</p>
+                    </li>
+                    <li class="last">
+                        <div class="icon_box">
+                            <img src="/Content/Images/activeimg/activeimg005/icon3.png" alt="">
+                        </div>
+                        <p class="super_p1">订单流模式识别·</p>
+                        <p class="super_p1" style="margin-bottom:20px;">Pattern recognition</p>
+                        <p class="super_p2">实现大量无序、</p>
+                        <p class="super_p2">无关订单流的互联互通</p>
+                    </li>
+                    <li>
+                        <div class="icon_box">
+                            <img src="/Content/Images/activeimg/activeimg005/icon4.png" alt="">
+                        </div>
+                        <p class="super_p1">智能化算法辅助·</p>
+                        <p class="super_p1" style="margin-bottom:20px;">Intelligent algorithm aids</p>
+                        <p class="super_p2">学习和自主认知 摆脱</p>
+                        <p class="super_p2">盲目的信号和噪声干扰</p>
+                    </li>
+                    <li class="line_secent">
+                        <div class="icon_box">
+                            <img src="/Content/Images/activeimg/activeimg005/icon5.png" alt="">
+                        </div>
+                        <p class="super_p1">订单信号分析及策略化·</p>
+                        <p class="super_p1" style="margin-bottom:20px;">Order signal analysis and strategy</p>
+                        <p class="super_p2">调取最深层级订单</p>
+                        <p class="super_p2">获取真实可靠数据源</p>
+                    </li>
+                    <li class="last">
+                        <div class="icon_box">
+                            <img src="/Content/Images/activeimg/activeimg005/icon6.png" alt="">
+                        </div>
+                        <p class="super_p1">真正的多边清算·</p>
+                        <p class="super_p1" style="margin-bottom:20px;">Real multilateral clearing</p>
+                        <p class="super_p2">联通世界交易节点的</p>
+                        <p class="super_p2">“一张网”</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="content3">
+        <div class="container1">
+            <div class="content30">
+                <div class="title_box2">
+                    <h1>四大功能板块</h1>
+                </div>
+                <div class="content3_txt">
+                    <ul class="fun_ul">
+                        <li class="left">
+                            <dl class="fun_dl">
+                                <dt>数据订单管理系统</dt>
+                                <dd>基于定制化工作流程的分权限事务管</dd>
+                                <dd>理，实现分工合作，提高整体工作</dd>
+                                <dd>效率</dd>
+                            </dl>
+                        </li>
+                        <li class="right">
+                            <dl class="fun_dl">
+                                <dt>自动报告生成系统</dt>
+                                <dd>基于业务需求，定制化报表系统，</dd>
+                                <dd>将所需信息以报告形式体现出来</dd>
+                            </dl>
+                        </li>
+                        <li class="left">
+                            <dl class="fun_dl">
+                                <dt>交易行为分析系统</dt>
+                                <dd>人工智能系统，排除噪声干扰，实现</dd>
+                                <dd>机器自动化；通过数据建模的逆向过</dd>
+                                <dd>程，呈现去噪声的真实交易 </dd>
+                            </dl>
+                        </li>
+                        <li class="right">
+                            <dl class="fun_dl">
+                                <dt>风险控制系统</dt>
+                                <dd>多边清算，订单撮合，单机及时大</dd>
+                                <dd>交易数据量达到26万次/秒</dd>
+                            </dl>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="content4">
+        <div class="container1">
+            <div class="content40">
+                <h2 class="cont40_h2">IM系统产品发布会</h2>
+                <h3 class="cont40_h3">用科技点亮金融！</h3>
+            </div>
+        </div>
+    </div>
+
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Miit_logo {float:left;width:238px; border:1px dotted #036eb6;border-radius:5px; text-align:center;}
+.Miit_logo img {margin:10px 0;}
+.Miit_present {float:left;width:590px; border:1px dotted #036eb6; border-radius:5px; padding:25px; font-size:15px; line-height:30px; color:#404040;}
+.box_text {font-size:15px; line-height:30px; color:#404040;}
+
+

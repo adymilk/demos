@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html class="js lang-cn" lang="cn"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script type="text/javascript" async="" src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/collect.js"></script><script charset="utf-8" src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/v.html"></script><script src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/tm.js" async=""></script><script src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/hm.js"></script>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="KVB昆仑国际">
+<meta name="keywords" content="KVB昆仑国际 | 外汇交易 外汇平台 外汇开户">
+<meta name="description" content="KVB昆仑国际 | 外汇交易 外汇平台 外汇开户">
+<meta name="version" content="{Site.AppVersion}">
+<meta itemprop="name" content="外汇交易_外汇平台_外汇开户_企业外汇 | KVB昆仑国际">
+<meta itemprop="description" content="KVB昆仑国际 | 外汇交易 外汇平台 外汇开户">
+<meta itemprop="image" content="//www.kvbkunlun.com/images/logo.png">
+<meta property="og:title" content="外汇交易_外汇平台_外汇开户_企业外汇 | KVB昆仑国际">
+<meta property="og:type" content="website">
+<meta property="og:url" content="//www.kvbkunlun.com/cn/">
+<meta property="og:image" content="//www.kvbkunlun.com/images/logo.png">
+<meta property="og:description" content="KVB昆仑国际 | 外汇交易 外汇平台 外汇开户">
+<meta property="og:site_name" content="KVB昆仑国际">
+<title>外汇交易_外汇平台_外汇开户_企业外汇 | KVB昆仑国际</title>
+<link rel="icon" type="image/x-icon" href="#/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="#/favicon.ico">
+<link rel="stylesheet" type="text/css" href="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/app-f962e3dba8.css">
+<script type="text/javascript"> document.documentElement.className = document.documentElement.className.replace('no-js', 'js'); </script> <!--[if lt IE 9]> <script src="/build/js/html5shiv-a92ded3b7a.js"></script> <![endif]--> <!--[if lte IE 9]> <script src="/build/js/respond-b7b050628d.js"></script> <![endif]-->
+<script async="" src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/hotjar-378722.js"></script><script async="" src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/modules-5a1b5f3d8ddb3cd6ed74ef0875922c3a.js"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style></head>
+<body class=" pace-running"><div class="pace pace-active"><div class="pace-progress" style="transform: translate3d(100%, 0px, 0px);" data-progress-text="99%" data-progress="99">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+<div id="header">
+<nav class="primary-nav  carousel ">
+<div class="container">
+<a href="#/cn" data-mce-href="../../cn"> <img src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/kvb_log_white2x.png" alt="KVB Kunkun" class="primary-nav__brand" data-mce-src="../../img/home/kvb_log_white@2x.png"> </a>
+<div class="primary-nav__toggle">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</div>
+<div class="primary-nav__lang primary-nav__item" data-mce-tabindex="5">
+<div>
+<picture class=" lazyloaded">
+
+</div>
+
+</div>
+<div class="primary-nav__lang primary-nav__item wechat" data-mce-tabindex="5">
+<div>
+<picture class=" lazyloaded">
+
+<noscript> &amp;amp;lt;img class="primary-nav__dropicon" src=https://www.kvbkunlun.com/img/icons/btn_wechat.png /&amp;amp;gt; </noscript>
+</div>
+
+</div>
+<div class="primary-nav__collapse">
+<div class="primary-nav__overlay">
+<div class="notosc chi nav-section-title get-start">Get Started</div>
+<div class="action-btn-nav container" style="display: home.jp-section-display-css;" data-mce-style="display: home.jp-section-display-css;">
+<ul class="primary-action-list">
+<li class="action-btn-nav__item">
+<a href="https://ao.kvbkunlun.com/cn/demo.aspx" target="_blank">
+<div class="item-title notosc-light chi">免费模拟帐户</div>
+<div class="item-description notosc chi">外汇交易模拟帐户</div>
+</a>
+</li>
+<li class="action-btn-nav__item">
+<a href="https://accountopening.kvbkunlun.com/cn/index_1.html" target="_blank">
+<div class="item-title notosc-light chi">外汇交易</div>
+<div class="item-description notosc chi">开立帐户</div>
+</a>
+</li>
+<li class="action-btn-nav__item">
+<a href="https://service.kvbgc.com/" target="_blank">
+<div class="item-title notosc-light chi">国际结算与支付</div>
+<div class="item-description notosc chi">开立帐户</div>
+</a>
+</li>
+<li class="action-btn-nav__item action-btn-nav__desktop-item" style="display: header.kvbpay-display-css;" data-mce-style="display: header.kvbpay-display-css;">
+<a href="https://www.kvbgc.com/cn/corp-fx-treasury-mgmt/" target="_blank">
+<div class="item-title notosc-light chi">企业外汇管理</div>
+<div class="item-description notosc chi">KVBGC网站</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="primary-nav__group">
+<div class="primary-nav__item notosc chi" style="font-size: header.jp-primary-nav-item-font-size;" data-mce-style="font-size: header.jp-primary-nav-item-font-size;" data-mce-tabindex="1">
+<div class="notosc chi nav-section-title primary-nav__header">关于我们
+
+
+</div>
+<ul class="primary-nav__childlist">
+<li class="notosc chi"><a href="#/cn/aboutkvb" data-mce-href="../../cn/aboutkvb"> KVB昆仑国际 </a></li>
+<li class="notosc chi"><a href="#/cn/aboutkvb#accreditation" data-mce-href="../../cn/aboutkvb#accreditation"> 监管资质 </a></li>
+<li class="notosc chi"><a href="#/cn/news" data-mce-href="../../cn/news"> 集团新闻 </a></li>
+<li class="notosc chi"><a href="#/cn/activity" data-mce-href="../../cn/activity"> 活动推广 </a></li>
+<li class="notosc chi"><a href="#/cn/coverage" data-mce-href="../../cn/coverage"> 媒体聚焦 </a></li>
+<li class="notosc chi"><a href="#/cn/investor-relationship" data-mce-href="../../cn/investor-relationship"> 投资者关系 </a></li>
+<li class="notosc chi"><a href="#/cn/aboutkvb#partners" data-mce-href="../../cn/aboutkvb#partners"> 合作伙伴 </a></li>
+<li class="notosc chi"><a href="#/cn/joinkvb" data-mce-href="../../cn/joinkvb"> 加入我们 </a></li>
+</ul>
+</div>
+<div class="primary-nav__item notosc chi" style="font-size: header.jp-primary-nav-item-font-size;" data-mce-style="font-size: header.jp-primary-nav-item-font-size;" data-mce-tabindex="2">
+<div class="notosc chi nav-section-title primary-nav__header">产品与服务
+
+<noscript> &amp;amp;lt;img class="primary-nav__dropicon" src=/img/icons/btn_dropdown_arrow.png /&amp;amp;gt; </noscript>
+</div>
+<ul class="primary-nav__childlist">
+<li class="notosc chi"><a href="#/cn/forex-trading" data-mce-href="../../cn/forex-trading"> 外汇交易 </a></li>
+<li class="notosc chi"><a href="#/cn/liquidity-solutions" data-mce-href="../../cn/liquidity-solutions"> 流动性解决方案 </a></li>
+<li class="notosc chi"><a href="#/cn/corporate-fx" data-mce-href="../../cn/corporate-fx"> 国际结算与企业外汇管理 </a></li>
+<li class="notosc chi"><a href="#/cn/securities" data-mce-href="../../cn/securities"> 证券交易 </a></li>
+<li class="notosc chi"><a href="#/cn/fintech" data-mce-href="../../cn/fintech"> 金融科技 </a></li>
+<li class="notosc chi"><a href="#/cn/wealth-management" data-mce-href="../../cn/wealth-management"> 财富管理 </a></li>
+</ul>
+</div>
+<div class="primary-nav__item notosc chi" style="font-size: header.jp-primary-nav-item-font-size;" data-mce-style="font-size: header.jp-primary-nav-item-font-size;" data-mce-tabindex="3">
+<div class="notosc chi nav-section-title primary-nav__header">交易平台
+
+<noscript> &amp;amp;lt;img class="primary-nav__dropicon" src=/img/icons/btn_dropdown_arrow.png /&amp;amp;gt; </noscript>
+</div>
+<ul class="primary-nav__childlist">
+<li class="notosc chi"><a href="#/cn/forexstar" data-mce-href="../../cn/forexstar"> 外汇之星交易平台 </a></li>
+<li class="notosc chi"><a href="https://efxgc.kvbgc.com/en_US/login.html" target="_blank" data-mce-href="//efxgc.kvbgc.com/en_US/login.html"> eFX结算支付平台 </a></li>
+<li class="notosc chi"><a href="https://etrade.kvbsecurities.com.hk/InternetTrading/tc/custom_login.html" target="_blank" data-mce-href="https://etrade.kvbsecurities.com.hk/InternetTrading/tc/custom_login.html"> 香港证券交易平台 </a></li>
+</ul>
+</div>
+<div class="primary-nav__item notosc chi" style="font-size: header.jp-primary-nav-item-font-size;" data-mce-style="font-size: header.jp-primary-nav-item-font-size;" data-mce-tabindex="4">
+<div class="notosc chi nav-section-title primary-nav__header">分析与教育
+
+<noscript> &amp;amp;lt;img class="primary-nav__dropicon" src=/img/icons/btn_dropdown_arrow.png /&amp;amp;gt; </noscript>
+</div>
+<ul class="primary-nav__childlist">
+<li class="notosc chi"><a href="http://www.kvbfinance.com/" target="_blank" data-mce-href="http://www.kvbfinance.com/"> 昆仑财经 KVBFinance&nbsp;</a></li>
+<li class="notosc chi"><a href="#/cn/market-insight" data-mce-href="../../cn/market-insight">专家专栏</a></li>
+<li class="notosc chi"><a href="http://www.kvbfinance.com/info/infoList.aspx?ID=7_3" target="_blank" data-mce-href="http://www.kvbfinance.com/info/infoList.aspx?ID=7_3"> 外汇纵横 </a></li>
+</ul>
+</div>
+<div class="primary-nav__item notosc chi" style="font-size: header.jp-primary-nav-item-font-size;" data-mce-style="font-size: header.jp-primary-nav-item-font-size;" data-mce-tabindex="5">
+<div class="notosc chi nav-section-title primary-nav__header">客户支援
+
+<noscript> &amp;amp;lt;img class="primary-nav__dropicon" src=/img/icons/btn_dropdown_arrow.png /&amp;amp;gt; </noscript>
+</div>
+<ul class="primary-nav__childlist">
+<li class="notosc chi"><a href="#/cn/account-opening" data-mce-href="../../cn/account-opening"> 开立帐户 </a></li>
+<li class="notosc chi"><a href="#/cn/legal-documents" data-mce-href="../../cn/legal-documents"> 一般法律文件 </a></li>
+<li class="notosc chi"><a href="#/cn/contactus" data-mce-href="../../cn/contactus"> 联络方式 </a></li>
+<li class="notosc chi"><a href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800077725&amp;aty=0&amp;a=0&amp;curl=&amp;ty=1" target="_blank" data-mce-href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800077725&amp;aty=0&amp;a=0&amp;curl=&amp;ty=1"> QQ 在线客服 </a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="carousel ">
+<ul class="carousel__list">
+<li class="carousel__item" onclick="if ('#/cn/activity/detail/49' != '') window.location.href='#/cn/activity/detail/49'; " style="cursor:pointer">
+<div class="hero index-carousel AutoSwitchImage" style="background-image: url(&quot;https://www.kvbkunlun.com/img/home/201805Jonathan.jpg&quot;);" smallimage="/img/home/201805Jonathan_M5.jpg" normalimage="https://www.kvbkunlun.com/img/home/201805Jonathan.jpg">
+<div class="overlay index-carousel" style="background-image: url();">
+<div class="outter">
+<div class="middle">
+<div class="header-info">
+<nav class="info-name notosc-light chi"></nav>
+<h1 class="header-title notosc chi"></h1>
+<a href="" class="action-btn notosc" style="display:none;;">none;</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="carousel__item" onclick="if ('' != '') window.location.href=''; " style="">
+<div class="hero index-carousel " style="background-image: url(https://www.kvbkunlun.com/img/home/2018CorporateFX_2.jpg)" smallimage="" normalimage="">
+<div class="overlay index-carousel" style="background-image: url();">
+<div class="outter">
+<div class="middle">
+<div class="header-info">
+<nav class="info-name notosc-light chi"></nav>
+<h1 class="header-title notosc chi">一站式企业外汇及财资管理</h1>
+<a href="https://www.kvbgc.com/cn/201803CorpFX/?Campaign=201803CorpFX&amp;Source=KVB&amp;Medium=GPTopBanner" class="action-btn notosc" style="display:了解更多;">了解更多</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="carousel__item active" onclick="if ('#/cn/news/detail/1336' != '') window.location.href='#/cn/news/detail/1336'; " style="cursor:pointer">
+<div class="hero index-carousel " style="background-image: url(https://www.kvbkunlun.com/img/home/2018YKS.jpg)" smallimage="" normalimage="">
+<div class="overlay index-carousel" style="background-image: url();">
+<div class="outter">
+<div class="middle">
+<div class="header-info">
+<nav class="info-name notosc-light chi"></nav>
+<h1 class="header-title notosc chi"></h1>
+<a href="" class="action-btn notosc" style="display:none;;">none;</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="carousel__item" onclick="if ('' != '') window.location.href=''; " style="">
+<div class="hero index-carousel " style="background-image: url(https://www.kvbkunlun.com/img/home/img-bg-trial-052.jpg)" smallimage="" normalimage="">
+<div class="overlay index-carousel" style="background-image: url();">
+<div class="outter">
+<div class="middle">
+<div class="header-info">
+<nav class="info-name notosc-light chi"></nav>
+<h1 class="header-title notosc chi">专业、丰富、前瞻的金融产品和服务</h1>
+<a href="#/cn/aboutkvb" class="action-btn notosc" style="display:了解更多;">了解更多</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<ul class="carousel__indicators">
+<li data-slide-to="0" class=""></li>
+<li data-slide-to="1" class=""></li>
+<li data-slide-to="2" class="active"></li>
+<li data-slide-to="3" class=""></li>
+</ul>
+<div class="carousel__control carousel__control--left">
+
+<noscript> <img src=/img/carousel/img_right_arrow.png alt="prev" /> </noscript>
+</div>
+<div class="carousel__control carousel__control--right">
+
+<noscript> <img src=/img/carousel/img_left_arrow.png alt="next" /> </noscript>
+</div>
+</ul>
+</div>
+<div class="action-btn-nav container" style="display:home.jp-section-display-css;">
+<ul class="primary-action-list">
+<li class="action-btn-nav__item">
+<a href="https://ao.kvbkunlun.com/cn/demo.aspx" target="_blank">
+<div class="item-title notosc-light chi">免费模拟帐户</div>
+<div class="item-description notosc chi">外汇交易模拟帐户</div>
+</a>
+</li>
+<li class="action-btn-nav__item">
+<a href="https://accountopening.kvbkunlun.com/cn/index_1.html" target="_blank">
+<div class="item-title notosc-light chi">外汇交易</div>
+<div class="item-description notosc chi">开立帐户</div>
+</a>
+</li>
+<li class="action-btn-nav__item">
+<a href="https://service.kvbgc.com/" target="_blank">
+<div class="item-title notosc-light chi">国际结算与支付</div>
+<div class="item-description notosc chi">开立帐户</div>
+</a>
+</li>
+<li class="action-btn-nav__item action-btn-nav__desktop-item" style="display:header.mykvb-display-css;">
+<a href="https://www.kvbgc.com/cn/corp-fx-treasury-mgmt/" target="_blank">
+<div class="item-title notosc-light chi">企业外汇管理</div>
+<div class="item-description notosc chi">KVBGC网站</div>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="fxrate-section clearfix">
+<div class="fx-container">
+<div class="hc-3 fx-title clearfix">
+<h5 class="section-info-title notosc-bold chi">外汇交易</h5>
+<h2 class="section-title notosc chi">货币对，<span style="display:none;">贵金属，</span>环球股指<span style="display:none;">和商品</span></h2>
+<div class="fxrate-section__timestamp">最近更新时间 <span class="time">2018.04.07 2:40 pm</span></div>
+<a href="#/cn/forex-trading/" class="section-action">了解更多</a>
+</div>
+<div class="hc-9 forex-info">
+<div class="clearfix">
+<div class="hc-12 clearfix">
+<script type="text/x-tmpl" id="tmpl-forex-item"><div class="forex-item {% if (o.Change > 0) { %}up{% } else if (o.Change < 0) { %}down{% } %}"> <div class="forex-item__main clearfix"> <div class="forex-item__title">{%= o.Symbol %}</div> <div> <span class="percentage tungsten-book">{%= o.Percent %}%</span> <div class='updown'> <div class="{% if (o.Change > 0) { %}up{% } else if (o.Change < 0) { %}down{% } %}-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> {%= o.Bid %}</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> {%= o.Ask %}</div> </div> </div> </script> <script type="text/x-tmpl" id="tmpl-forex-item-opt"> <div class="forex-item-opt"> <label><input type="checkbox" name="Symbol" value="{%= o.oriSymbol %}" {%if (o.checked) { %}checked{% } %}> {%= o.Symbol %}</label> </div></script>
+<div class="widget-forex">
+<ul class="widget-forex__tabs">
+<li class="widget-forex__tab  active " data-target="forex">外汇</li>
+<li class="widget-forex__tab " data-target="metals" style="display:none;">贵金属</li>
+<li class="widget-forex__tab " data-target="indices">股票指数</li>
+<li class="widget-forex__tab " data-target="commodities" style="display:none;">大宗商品</li>
+</ul>
+<div class="widget-forex__contents">
+<div class="widget-forex__content  active " data-id="forex">
+<div class="forex clearfix"><div class="forex-item down"> <div class="forex-item__main clearfix"> <div class="forex-item__title">欧元 - 美元</div> <div> <span class="percentage tungsten-book">-0.016%</span> <div class="updown"> <div class="down-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 1.2278</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 1.2282</div> </div> </div> <div class="forex-item "> <div class="forex-item__main clearfix"> <div class="forex-item__title">澳元 - 美元</div> <div> <span class="percentage tungsten-book">0%</span> <div class="updown"> <div class="-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 0.7679</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 0.7683</div> </div> </div> <div class="forex-item "> <div class="forex-item__main clearfix"> <div class="forex-item__title">纽元 - 美元</div> <div> <span class="percentage tungsten-book">0%</span> <div class="updown"> <div class="-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 0.7261</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 0.7265</div> </div> </div> <div class="forex-item "> <div class="forex-item__main clearfix"> <div class="forex-item__title">英镑 - 美元</div> <div> <span class="percentage tungsten-book">0%</span> <div class="updown"> <div class="-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 1.4088</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 1.4092</div> </div> </div> <div class="forex-item "> <div class="forex-item__main clearfix"> <div class="forex-item__title">美元 - 日元</div> <div> <span class="percentage tungsten-book">0%</span> <div class="updown"> <div class="-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 106.93</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 106.95</div> </div> </div> <div class="forex-item down"> <div class="forex-item__main clearfix"> <div class="forex-item__title">美元 - 瑞士法郎</div> <div> <span class="percentage tungsten-book">-0.021%</span> <div class="updown"> <div class="down-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 0.9588</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 0.9592</div> </div> </div> <div class="forex-item "> <div class="forex-item__main clearfix"> <div class="forex-item__title">美元 - 加元</div> <div> <span class="percentage tungsten-book">0%</span> <div class="updown"> <div class="-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 1.2782</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 1.2786</div> </div> </div> <div class="forex-item "> <div class="forex-item__main clearfix"> <div class="forex-item__title">美元 - 离岸人民币</div> <div> <span class="percentage tungsten-book">0%</span> <div class="updown"> <div class="-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 6.312</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 6.312</div> </div> </div> <div class="forex-item "> <div class="forex-item__main clearfix"> <div class="forex-item__title">英镑 - 日元</div> <div> <span class="percentage tungsten-book">0%</span> <div class="updown"> <div class="-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 150.63</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 150.69</div> </div> </div> </div>
+</div>
+<div class="widget-forex__content " data-id="metals">
+<div class="metals clearfix"><div class="forex-item "> <div class="forex-item__main clearfix"> <div class="forex-item__title">黄金兑美元</div> <div> <span class="percentage tungsten-book">0%</span> <div class="updown"> <div class="-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 1333.35</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 1333.85</div> </div> </div> <div class="forex-item "> <div class="forex-item__main clearfix"> <div class="forex-item__title">白银兑美元</div> <div> <span class="percentage tungsten-book">0%</span> <div class="updown"> <div class="-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 16.365</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 16.415</div> </div> </div> <div class="forex-item up"> <div class="forex-item__main clearfix"> <div class="forex-item__title">黄金兑人民币</div> <div> <span class="percentage tungsten-book">0%</span> <div class="updown"> <div class="up-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 270.28</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 270.28</div> </div> </div> <div class="forex-item up"> <div class="forex-item__main clearfix"> <div class="forex-item__title">白银兑人民币</div> <div> <span class="percentage tungsten-book">0.008%</span> <div class="updown"> <div class="up-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 3322</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 3322</div> </div> </div> </div>
+</div>
+<div class="widget-forex__content " data-id="indices">
+<script type="text/x-tmpl" id="tmpl-indices">
+                                    <div class="forex-item {%= o.__filter %} {% if (o.Change > 0) { %}up{% } else if (o.Change < 0) { %}down{% } %} clearfix">
+                                        <div class="forex-item__main clearfix">
+                                            <div class="forex-item__title">{%= o.Symbol %}</div>
+                                            <div> <span class="percentage tungsten-book">{%= o.Bid %}</span>
+                                                <div class='updown'>
+                                                    <div class="{% if (o.Change > 0) { %}up{% } else if (o.Change < 0) { %}down{% } %}-triangle"></div>
+                                                </div>
+                                            </div>
+                                            <div class="tungsten-book">{%= o.Percent %}%</div>
+                                        </div>
+                                    </div>
+                                </script>
+<div class="indices all">
+<div class="indices__list clearfix">
+                                    <div class="forex-item global up clearfix">
+                                        <div class="forex-item__main clearfix">
+                                            <div class="forex-item__title">道琼斯工业平均指数</div>
+                                            <div> <span class="percentage tungsten-book">23932.76</span>
+                                                <div class="updown">
+                                                    <div class="up-triangle"></div>
+                                                </div>
+                                            </div>
+                                            <div class="tungsten-book">0.003%</div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="forex-item global  clearfix">
+                                        <div class="forex-item__main clearfix">
+                                            <div class="forex-item__title">标准普尔500指数</div>
+                                            <div> <span class="percentage tungsten-book">2754</span>
+                                                <div class="updown">
+                                                    <div class="-triangle"></div>
+                                                </div>
+                                            </div>
+                                            <div class="tungsten-book">0%</div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="forex-item global  clearfix">
+                                        <div class="forex-item__main clearfix">
+                                            <div class="forex-item__title">纳斯达克100指数</div>
+                                            <div> <span class="percentage tungsten-book">6915.11</span>
+                                                <div class="updown">
+                                                    <div class="-triangle"></div>
+                                                </div>
+                                            </div>
+                                            <div class="tungsten-book">0%</div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="forex-item global up clearfix">
+                                        <div class="forex-item__main clearfix">
+                                            <div class="forex-item__title">香港恒生指数</div>
+                                            <div> <span class="percentage tungsten-book">29844.94</span>
+                                                <div class="updown">
+                                                    <div class="up-triangle"></div>
+                                                </div>
+                                            </div>
+                                            <div class="tungsten-book">0.003%</div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="forex-item china  clearfix">
+                                        <div class="forex-item__main clearfix">
+                                            <div class="forex-item__title">上海股票指数</div>
+                                            <div> <span class="percentage tungsten-book">3131.11</span>
+                                                <div class="updown">
+                                                    <div class="-triangle"></div>
+                                                </div>
+                                            </div>
+                                            <div class="tungsten-book">0%</div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="forex-item global up clearfix">
+                                        <div class="forex-item__main clearfix">
+                                            <div class="forex-item__title">日经225平均指数</div>
+                                            <div> <span class="percentage tungsten-book">21427.5</span>
+                                                <div class="updown">
+                                                    <div class="up-triangle"></div>
+                                                </div>
+                                            </div>
+                                            <div class="tungsten-book">0.002%</div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="forex-item global  clearfix">
+                                        <div class="forex-item__main clearfix">
+                                            <div class="forex-item__title">澳洲SP200指数</div>
+                                            <div> <span class="percentage tungsten-book">5788.74</span>
+                                                <div class="updown">
+                                                    <div class="-triangle"></div>
+                                                </div>
+                                            </div>
+                                            <div class="tungsten-book">0%</div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="forex-item china  clearfix">
+                                        <div class="forex-item__main clearfix">
+                                            <div class="forex-item__title">中华300指数</div>
+                                            <div> <span class="percentage tungsten-book">3843.1</span>
+                                                <div class="updown">
+                                                    <div class="-triangle"></div>
+                                                </div>
+                                            </div>
+                                            <div class="tungsten-book">0%</div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="forex-item china  clearfix">
+                                        <div class="forex-item__main clearfix">
+                                            <div class="forex-item__title">鑫富A50指数</div>
+                                            <div> <span class="percentage tungsten-book">12552.5</span>
+                                                <div class="updown">
+                                                    <div class="-triangle"></div>
+                                                </div>
+                                            </div>
+                                            <div class="tungsten-book">0%</div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="forex-item global  clearfix">
+                                        <div class="forex-item__main clearfix">
+                                            <div class="forex-item__title">德国DAX指数</div>
+                                            <div> <span class="percentage tungsten-book">12384.5</span>
+                                                <div class="updown">
+                                                    <div class="-triangle"></div>
+                                                </div>
+                                            </div>
+                                            <div class="tungsten-book">0%</div>
+                                        </div>
+                                    </div>
+                                </div>
+</div>
+</div>
+<div class="widget-forex__content " data-id="commodities">
+<div class="commodities clearfix"><div class="forex-item "> <div class="forex-item__main clearfix"> <div class="forex-item__title">原油</div> <div> <span class="percentage tungsten-book">0%</span> <div class="updown"> <div class="-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 61.89</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 61.95</div> </div> </div> <div class="forex-item up"> <div class="forex-item__main clearfix"> <div class="forex-item__title">天然橡胶</div> <div> <span class="percentage tungsten-book">0.005%</span> <div class="updown"> <div class="up-triangle"></div> </div> </div> <div class="rate tungsten-book"><span class="forex-item__bid ">BID</span> 10963</div> <div class="rate tungsten-book"><span class="forex-item__ask">ASK</span> 10963</div> </div> </div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix">
+<div class="hc-6 c-push-6 home.invisible-css" style="opacity:home.jp-section-opacity-display-css;">
+<div class="widget-stock-quote">
+</div>
+</div>
+<div class="hc-6 c-pull-6 exchange-history">
+<div class="currency">
+<div class="section-info-title notosc-light chi"> 货币换算 </div>
+<div class="js-exchange-history currency__symbol">
+<select class="js-exchange-history-src">
+<option value="0" selected="selected">美元USD</option>
+<option value="9">人民币CNY</option>
+<option value="3">欧元EUR</option>
+<option value="2">加元CAD</option>
+<option value="12">日元JPY</option>
+<option value="1">澳元AUD</option>
+<option value="4">英镑GBP</option>
+<option value="5">纽元NZD</option>
+<option value="17">新加坡元SGD</option>
+<option value="7">瑞郎CHF</option>
+<option value="10">港币HKD</option>
+<option value="19">台币TWD</option>
+<option value="11">印度卢比INR</option>
+<option value="16">卢布RUB</option>
+<option value="21">南非兰特ZAR</option>
+<option value="14">澳门元MOP</option>
+</select><div class="currency__exchange"></div><select class="js-exchange-history-to">
+<option value="0">美元USD</option>
+<option value="9">人民币CNY</option>
+<option value="3" selected="selected">欧元EUR</option>
+<option value="2">加元CAD</option>
+<option value="12">日元JPY</option>
+<option value="1">澳元AUD</option>
+<option value="4">英镑GBP</option>
+<option value="5">纽元NZD</option>
+<option value="17">新加坡元SGD</option>
+<option value="7">瑞郎CHF</option>
+<option value="10">港币HKD</option>
+<option value="19">台币TWD</option>
+<option value="11">印度卢比INR</option>
+<option value="16">卢布RUB</option>
+<option value="21">南非兰特ZAR</option>
+<option value="14">澳门元MOP</option>
+</select>
+</div>
+<div>
+<input class="js-exchange-src spacer" step="any" value="1000" type="number"><div class="currency__spacer"></div><input class="js-exchange-to result-box" readonly="readonly" disabled="disabled" value="814.3322" type="text">
+</div>
+</div>
+</div>
+</div>
+<div class="hc-12 clearfix widget-currency-converter">
+<div class="exchange-history">
+<div id="exchange_history" data-highcharts-chart="0"><div id="highcharts-58jesdb-0" style="position: relative; overflow: hidden; width: 928px; height: 300px; text-align: left; line-height: normal; z-index: 0; left: 0px; top: 0.199951px;" class="highcharts-container "><svg version="1.1" class="highcharts-root" style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Helvetica, sans-serif;font-size:12px;" xmlns="http://www.w3.org/2000/svg" width="928" height="300"><desc>Created with Highstock 5.0.6</desc><defs><clipPath id="highcharts-58jesdb-1"><rect x="0" y="0" width="908" height="250" fill="none"></rect></clipPath><clipPath id="highcharts-58jesdb-2"><rect x="-99" y="-10" width="1005.9160778879962" height="300" fill="none"></rect></clipPath><clipPath id="highcharts-58jesdb-3"><rect x="0" y="0" width="907.5609523438686" height="250" fill="none"></rect></clipPath></defs><rect fill="#ffffff" class="highcharts-background" x="0" y="0" width="928" height="300" rx="0" ry="0"></rect><rect fill="none" class="highcharts-plot-background" x="10" y="10" width="908" height="250"></rect><g class="highcharts-grid highcharts-xaxis-grid "><path fill="none" class="highcharts-grid-line" d="M 31.5 10 L 31.5 260" opacity="1"></path><path fill="none" class="highcharts-grid-line" d="M 121.5 10 L 121.5 260" opacity="1"></path><path fill="none" class="highcharts-grid-line" d="M 210.5 10 L 210.5 260" opacity="1"></path><path fill="none" class="highcharts-grid-line" d="M 299.5 10 L 299.5 260" opacity="1"></path><path fill="none" class="highcharts-grid-line" d="M 389.5 10 L 389.5 260" opacity="1"></path><path fill="none" class="highcharts-grid-line" d="M 478.5 10 L 478.5 260" opacity="1"></path><path fill="none" class="highcharts-grid-line" d="M 568.5 10 L 568.5 260" opacity="1"></path><path fill="none" class="highcharts-grid-line" d="M 657.5 10 L 657.5 260" opacity="1"></path><path fill="none" class="highcharts-grid-line" d="M 746.5 10 L 746.5 260" opacity="1"></path><path fill="none" class="highcharts-grid-line" d="M 836.5 10 L 836.5 260" opacity="1"></path></g><g class="highcharts-grid highcharts-yaxis-grid "><path fill="none" stroke="#e6e6e6" stroke-width="1" class="highcharts-grid-line" d="M 10 260.5 L 918 260.5" opacity="1"></path><path fill="none" stroke="#e6e6e6" stroke-width="1" class="highcharts-grid-line" d="M 10 210.5 L 918 210.5" opacity="1"></path><path fill="none" stroke="#e6e6e6" stroke-width="1" class="highcharts-grid-line" d="M 10 160.5 L 918 160.5" opacity="1"></path><path fill="none" stroke="#e6e6e6" stroke-width="1" class="highcharts-grid-line" d="M 10 110.5 L 918 110.5" opacity="1"></path><path fill="none" stroke="#e6e6e6" stroke-width="1" class="highcharts-grid-line" d="M 10 60.5 L 918 60.5" opacity="1"></path><path fill="none" stroke="#e6e6e6" stroke-width="1" class="highcharts-grid-line" d="M 10 10.5 L 918 10.5" opacity="1"></path></g><rect fill="none" class="highcharts-plot-border" x="10" y="10" width="908" height="250"></rect><g class="highcharts-axis highcharts-xaxis "><path fill="none" class="highcharts-tick" stroke="#ccd6eb" stroke-width="1" d="M 31.5 260 L 31.5 270" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#ccd6eb" stroke-width="1" d="M 121.5 260 L 121.5 270" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#ccd6eb" stroke-width="1" d="M 210.5 260 L 210.5 270" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#ccd6eb" stroke-width="1" d="M 299.5 260 L 299.5 270" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#ccd6eb" stroke-width="1" d="M 389.5 260 L 389.5 270" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#ccd6eb" stroke-width="1" d="M 478.5 260 L 478.5 270" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#ccd6eb" stroke-width="1" d="M 568.5 260 L 568.5 270" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#ccd6eb" stroke-width="1" d="M 657.5 260 L 657.5 270" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#ccd6eb" stroke-width="1" d="M 746.5 260 L 746.5 270" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#ccd6eb" stroke-width="1" d="M 836.5 260 L 836.5 270" opacity="1"></path><path fill="none" class="highcharts-axis-line" stroke="#ccd6eb" stroke-width="1" d="M 10 260.5 L 918 260.5"></path></g><g class="highcharts-axis highcharts-yaxis "><path fill="none" class="highcharts-axis-line" d="M 918 10 L 918 260"></path></g><g class="highcharts-scrollbar" transform="translate(10,268)"><rect fill="#f2f2f2" class="highcharts-scrollbar-track" x="0" rx="0" ry="0" height="14" width="908" stroke="#f2f2f2" stroke-width="1" y="-0.5"></rect><g transform="translate(14,-0.5)"><rect fill="#cccccc" class="highcharts-scrollbar-thumb" height="14" width="880" rx="0" ry="0" stroke="#cccccc" stroke-width="1"></rect><path fill="none" d="M -3 3.5 L -3 9.333333333333334 M 0 3.5 L 0 9.333333333333334 M 3 3.5 L 3 9.333333333333334" class="highcharts-scrollbar-rifles" stroke="#333333" stroke-width="1" transform="translate(439.5,0)"></path></g><g><rect fill="#e6e6e6" class="highcharts-scrollbar-button" stroke="#cccccc" stroke-width="1" x="-0.5" y="-0.5" width="14" height="14" rx="0" ry="0"></rect><path fill="#333333" d="M 8 4 L 8 10 L 5 7" class="highcharts-scrollbar-arrow"></path></g><g transform="translate(894,0)"><rect fill="#e6e6e6" class="highcharts-scrollbar-button" stroke="#cccccc" stroke-width="1" x="-0.5" y="-0.5" width="14" height="14" rx="0" ry="0"></rect><path fill="#333333" d="M 6 4 L 6 10 L 9 7" class="highcharts-scrollbar-arrow"></path></g></g><g class="highcharts-series-group"><g class="highcharts-series highcharts-series-0 highcharts-line-series highcharts-color-0 " transform="translate(10,10) scale(1 1)" clip-path="url(#highcharts-58jesdb-3)" width="250" height="908"><path fill="none" d="M 0 171.50243834624774 L 1.8618978507975 173.60932997174734 L 3.7237957015951 174.13506519056438 L 5.5856935523926 180.7152704565824 L 7.4475914031902 180.71527045658019 L 9.3094892539877 180.7152704565824 L 11.171387104785 180.71527045658019 L 13.033284955583 180.7152704565824 L 14.89518280638 168.86836938923292 L 16.757080657178 168.86869014769715 L 18.618978507975 170.1858313722388 L 20.480876358773 170.1858313722388 L 22.342774209571 164.58616327183876 L 24.204672060368 161.48863538426428 L 26.066569911166 158.98328558095864 L 27.928467761963 160.69740918143896 L 29.790365612761 162.60922159179017 L 31.652263463558 158.06000271026576 L 33.514161314356 158.6535187462884 L 35.376059165153 158.32385902225855 L 37.237957015951 156.67486413078188 L 39.099854866749 161.75219188041157 L 40.961752717546 164.91592995009188 L 42.823650568344 165.70656754255901 L 44.685548419141 172.49008052542098 L 46.547446269939 172.55608713256993 L 48.409344120736 174.46504437247438 L 50.271241971534 174.13588730207215 L 52.133139822331 173.4775090303981 L 53.995037673129 169.3955466375147 L 55.856935523926 168.5393513905004 L 57.718833374724 168.60517638108533 L 59.580731225522 168.5393513905004 L 61.442629076319 168.60517638108533 L 63.304526927117 165.24537564847566 L 65.166424777914 162.0160909531704 L 67.028322628712 161.95016971159828 L 68.890220479509 162.0160909531704 L 70.752118330307 160.9613510880187 L 72.614016181104 161.48872102059786 L 74.475914031902 160.9613510880187 L 76.3378118827 160.9613510880209 L 78.199709733497 158.32380546693838 L 80.061607584295 160.1701677190032 L 81.923505435092 161.62056350373769 L 83.78540328589 158.32377333374671 L 85.647301136687 160.63126314318777 L 87.509198987485 164.38861357017944 L 89.371096838282 169.65888937111876 L 91.23299468908 168.34174813617878 L 93.094892539877 171.50270541947793 L 94.956790390675 177.0313333562263 L 96.818688241473 179.7286426125495 L 98.68058609227 178.8735366959388 L 100.54248394307 178.08413838296406 L 102.40438179387 178.08414905497847 L 104.26627964466 179.3997844469037 L 106.12817749546 179.66288164883946 L 107.99007534626 179.7286959596429 L 109.85197319706 180.97831432179865 L 111.71387104785 178.41294318853568 L 113.57576889865 176.24190305838124 L 115.43766674945 175.7812775141538 L 117.29956460025 175.1890019627284 L 119.16146245104 177.0971903914604 L 121.02336030184 179.6629243265164 L 122.88525815264 184.6595957174941 L 124.74715600344 188.60326037704334 L 126.60905385423 194.18609113217423 L 128.47095170503 193.59516924366173 L 130.33284955583 188.93166025565634 L 132.19474740663 187.8148109082873 L 134.05664525742 186.2376136938144 L 135.91854310822 183.6082837998216 L 137.78044095902 176.24156142920293 L 139.64233880982 167.28747919254886 L 141.50423666061 161.75176376130253 L 143.36613451141 173.60851826455252 L 145.22803236221 180.3862522756001 L 147.08993021301 170.97449194362574 L 148.9518280638 143.4715919765988 L 150.8137259146 144.3307666469345 L 152.6756237654 134.87408881362398 L 154.5375216162 122.63346223434766 L 156.39941946699 125.28261157648978 L 158.26131731779 128.1956789560095 L 160.12321516859 126.93794590643614 L 161.98511301939 126.60686828229561 L 163.84701087018 127.59978878423439 L 165.70890872098 126.34210959382263 L 167.57080657178 131.23973637051023 L 169.43270442258 142.21618216849134 L 171.29460227337 147.1049262365792 L 173.15650012417 144.06656712123316 L 175.01839797497 143.47196783095757 L 176.88029582577 141.1588685020431 L 178.74219367656 142.48062885411633 L 180.60409152736 140.63051255665255 L 182.46598937816 140.36614116242512 L 184.32788722896 140.36609817171635 L 186.18978507975 143.80216355208748 L 188.05168293055 141.68791217308348 L 189.91358078135 142.81125422035683 L 191.77547863215 141.42358375908873 L 193.63737648295 142.8112005081688 L 195.49927433374 143.27371078851007 L 197.36117218454 141.82007638007968 L 199.22307003534 142.48085444530426 L 201.08496788614 142.4808974150587 L 202.94686573693 140.10151183440558 L 204.80876358773 137.85418298396127 L 206.67066143853 139.17636241163981 L 208.53255928933 140.82873737702835 L 210.39445714012 140.16780887837137 L 212.25635499092 135.8703224185436 L 214.11825284172 131.10772303780482 L 215.98015069252 132.56309915777024 L 217.84204854331 137.1928244601555 L 219.70394639411 139.5068266544191 L 221.56584424491 141.15908343464815 L 223.42774209571 144.79285819217142 L 225.2896399465 146.44423414225832 L 227.1515377973 138.84557572539973 L 229.0134356481 140.8947979904101 L 230.8753334989 144.7931802689056 L 232.73723134969 146.18020638034463 L 234.59912920049 147.76531773117938 L 236.46102705129 148.8216007415138 L 238.32292490209 150.40602530930698 L 240.18482275288 150.1421261844854 L 242.04672060368 149.4159208750717 L 243.90861845448 148.82177241111458 L 245.77051630528 146.77473048927908 L 247.63241415607 148.02943140116483 L 249.49431200687 150.40618621033062 L 251.35620985767 150.93429553528824 L 253.21810770847 151.0660949234138 L 255.08000555926 145.38769364849153 L 256.94190341006 149.41597452182538 L 258.80380126086 151.7263361757398 L 260.66569911166 152.05550240738938 L 262.52759696245 155.68542434120812 L 264.38949481325 160.6315842794387 L 266.25139266405 166.49633884493755 L 268.11329051485 171.8313496249874 L 269.97518836564 181.50418872614546 L 271.83708621644 175.4515653274786 L 273.69898406724 172.29244529148264 L 275.56088191804 168.8682090620414 L 277.42277976883 174.1354601200668 L 279.28467761963 176.43926063284417 L 281.14657547043 166.75985249690774 L 283.00847332123 159.9722112630003 L 284.87037117203 151.19806597066628 L 286.73226902282 150.07588318260377 L 288.59416687362 151.1979802299784 L 290.45606472442 154.6952448799349 L 292.31796257522 156.74080678665547 L 294.17986042601 148.75365131221503 L 296.04175827681 130.31336084399038 L 297.90365612761 125.94445437538891 L 299.76555397841 128.1953773489235 L 301.6274518292 134.21687220011518 L 303.48934968 141.95202572783666 L 305.3512475308 145.12289293380937 L 307.2131453816 152.78176141316823 L 309.07504323239 146.44254829420385 L 310.93694108319 132.43091358140327 L 312.79883893399 127.9228675755144 L 314.66073678479 94.7652397762869 L 316.52263463558 85.78771921078393 L 318.38453248638 91.04306015025352 L 320.24643033718 87.11718424493395 L 322.10832818798 88.11640244218907 L 323.97022603877 91.44129788955877 L 325.83212388957 98.22041024571325 L 327.69402174037 104.06567327928366 L 329.55591959117 98.75265141091194 L 331.41781744196 99.0838995007829 L 333.27971529276 88.64890475255325 L 335.14161314356 88.44930862392826 L 337.00351099436 89.44629137600333 L 338.86540884515 95.42985867079943 L 340.72730669595 92.10680630716203 L 342.58920454675 95.09821026051833 L 344.45110239755 97.15822406676489 L 346.31300024834 100.41325694538006 L 348.17489809914 96.62676275276317 L 350.03679594994 92.43933267934855 L 351.89869380074 91.57499827372271 L 353.76059165153 95.09810187425836 L 355.62248950233 97.68994533820441 L 357.48438735313 96.42708018554856 L 359.34628520393 97.6894253173447 L 361.20818305472 91.77446423802834 L 363.07008090552 93.96828618883279 L 364.93197875632 94.10109731758962 L 366.79387660712 100.34712197715601 L 368.65577445791 100.41352757331791 L 370.51767230871 98.75278134197563 L 372.37957015951 99.55008159590528 L 374.24146801031 98.75291128360865 L 376.1033658611 96.09494393767937 L 377.9652637119 99.28437259761037 L 379.8271615627 99.28432928020294 L 381.6890594135 101.14411906216682 L 383.5509572643 101.40982804987908 L 385.41285511509 101.94107284035948 L 387.27475296589 101.40971980928927 L 389.13665081669 99.01866359931321 L 390.99854866749 102.07382991768412 L 392.86044651828 107.78238564983536 L 394.72234436908 107.71592604438976 L 396.58424221988 105.92445662217102 L 398.44614007068 105.72538045914996 L 400.30803792147 106.98621064323657 L 402.16993577227 108.71163126396505 L 404.03183362307 107.78268836388474 L 405.89373147387 107.0527892418686 L 407.75562932466 109.10971875934189 L 409.61752717546 114.34897161110942 L 411.47942502626 119.18840899942924 L 413.34132287706 113.35499485855033 L 415.20322072785 114.41589529869884 L 417.06511857865 112.69185784474263 L 418.92701642945 108.04813769055326 L 420.78891428025 112.3596142677145 L 422.65081213104 114.946361708637 L 424.51270998184 115.34418992081004 L 426.37460783264 116.27226861124424 L 428.23650568344 115.67567743882498 L 430.09840353423 114.94623213696582 L 431.96030138503 110.03855357216523 L 433.82219923583 107.78277486115854 L 435.68409708663 105.72532637852996 L 437.54599493742 109.10971878047164 L 439.40789278822 103.73315854641999 L 441.26979063902 99.81535749421988 L 443.13168848982 100.41352757332012 L 444.99358634061 100.08119647650727 L 446.85548419141 95.42969638954435 L 448.71738204221 89.1783701039198 L 450.57927989301 93.76744323754048 L 452.4411777438 115.20917679032777 L 454.3030755946 134.54147704034017 L 456.1649734454 147.23700453549924 L 458.0268712962 138.84519949106271 L 459.88876914699 131.63650843896636 L 461.75066699779 127.26889426703013 L 463.61256484859 131.10759385572868 L 465.47446269939 125.28277321181935 L 467.33636055018 121.57188254689629 L 469.19825840098 113.02307530304518 L 471.06015625178 115.21124943134882 L 472.92205410258 114.01769991402449 L 474.78395195338 112.29368399729361 L 476.64584980417 121.97054144988547 L 478.50774765497 124.22291952309193 L 480.36964550577 119.32074506626742 L 482.23154335657 120.51345269193979 L 484.09344120736 113.88383096453663 L 485.95533905816 105.92406727343553 L 487.81723690896 113.68399837829375 L 489.67913475976 131.10625890751672 L 491.54103261055 135.53975068587403 L 493.40293046135 128.989481147042 L 495.26482831215 130.9091647953835 L 497.12672616295 132.69519864775694 L 498.98862401374 141.1580732314049 L 500.85052186454 146.18020640128788 L 502.71241971534 146.1134265551039 L 504.57431756614 132.69524178548588 L 506.43621541693 138.2504390196764 L 508.29811326773 139.30779567683342 L 510.16001111853 135.86983841892766 L 512.02190896933 131.63702508325593 L 513.88380682012 127.93052174499931 L 515.74570467092 133.4892594026909 L 517.60760252172 134.21708736352667 L 519.46950037252 133.22467294999464 L 521.33139822331 127.26857108841294 L 523.19329607411 119.18823640589866 L 525.05519392491 118.9895812533552 L 526.91709177571 121.57360844034667 L 528.7789896265 115.34397399440883 L 530.6408874773 114.41559285926311 L 532.5027853281 109.04317266454947 L 534.3646831789 114.41593848925663 L 536.22658102969 115.67556947562437 L 538.08847888049 113.62010926046645 L 539.95037673129 110.70201471305813 L 541.81227458209 110.96656716796087 L 543.67417243288 112.69164178642026 L 545.53607028368 110.1713430609123 L 547.39796813448 112.02861281496538 L 549.25986598528 111.23270797631685 L 551.12176383607 113.35483285438914 L 552.98366168687 113.88542887820913 L 554.84555953767 114.68116089658403 L 556.70745738847 116.0071649568421 L 558.56935523926 116.80243276112762 L 560.43125309006 117.06770912500758 L 562.29315094086 117.0012497385535 L 564.15504879166 119.71865947769487 L 566.01694664246 119.32106871865898 L 567.87884449325 119.45351266437186 L 569.74074234405 118.98974308612904 L 571.60264019485 119.45359897167094 L 573.46453804565 123.29600560212748 L 575.32643589644 122.89856583608969 L 577.18833374724 121.30875284962747 L 579.05023159804 123.16345381178583 L 580.91212944884 121.63986279292425 L 582.77402729963 118.65837429468047 L 584.63592515043 115.6756234638205 L 586.49782300123 112.293770388963 L 588.35972085203 112.02850479900033 L 590.22161870282 112.02862361788175 L 592.08351655362 111.69696329278926 L 593.94541440442 110.43666267865277 L 595.80731225522 111.03361022066144 L 597.66921010601 113.35500565882879 L 599.53110795681 115.01243251456557 L 601.39300580761 119.18845215834568 L 603.25490365841 116.33843658801086 L 605.1168015092 113.35491924605628 L 606.97869936 110.03839144921017 L 608.8405972108 106.72093434281919 L 610.7024950616 108.71168531815727 L 612.56439291239 108.84431268658716 L 614.42629076319 108.04806200148047 L 616.28818861399 104.59651777799542 L 618.15008646479 102.40569560376923 L 620.01198431558 92.9045400107079 L 621.87388216638 92.10654607405809 L 623.73578001718 91.30898584157197 L 625.59767786798 81.46045681597852 L 627.45957571877 83.85729449289752 L 629.32147356957 89.11173596641649 L 631.18337142037 93.70184011615854 L 633.04526927117 85.45466090329273 L 634.90716712196 87.31840855865232 L 636.76906497276 88.11663033856416 L 638.63096282356 93.70184011615854 L 640.49286067436 94.43323351245903 L 642.35475852515 105.39143803994824 L 644.21665637595 111.69647712195902 L 646.07855422675 111.76295832793042 L 647.94045207755 106.05724617167837 L 649.80234992834 106.45526871481607 L 651.66424777914 105.72532637852996 L 653.52614562994 108.57882014825998 L 655.38804348074 109.04246997320658 L 657.24994133153 98.22058364251907 L 659.11183918233 90.11183217816384 L 660.97373703313 84.39031806602134 L 662.83563488393 84.78979275409444 L 664.69753273473 75.06345613846025 L 666.55943058552 73.1326292551351 L 668.42132843632 76.39965053898993 L 670.28322628712 73.13562194006386 L 672.14512413792 76.93363171647175 L 674.00702198871 79.79673971321847 L 675.86891983951 86.25366425588672 L 677.73081769031 70.1349931505193 L 679.59271554111 63.333480999614665 L 681.4546133919 58.12691991747852 L 683.3165112427 43.8268871909965 L 685.1784090935 44.429448079213046 L 687.0403069443 40.88441201952409 L 688.90220479509 36.400367606068784 L 690.76410264589 39.0095036769257 L 692.62600049669 48.7751282407946 L 694.48789834749 59.06236095754045 L 696.34979619828 57.794135756674876 L 698.21169404908 54.78897210466033 L 700.07359189988 50.44581647058581 L 701.93548975068 43.292118331244154 L 703.79738760147 45.0982372732002 L 705.65928545227 51.84964465803759 L 707.52118330307 52.45092630882925 L 709.38308115387 56.12473622092625 L 711.24497900466 56.12481263336039 L 713.10687685546 56.391923974963476 L 714.96877470626 54.12117739490148 L 716.83067255706 54.52191535712208 L 718.69257040785 55.123076886503156 L 720.55446825865 52.6514700188165 L 722.41636610945 54.12090445131153 L 724.27826396025 57.72742612104827 L 726.14016181104 57.46036934140017 L 728.00205966184 59.32963588875202 L 729.86395751264 59.12936512238139 L 731.72585536344 58.795565966183375 L 733.58775321423 59.12941966828919 L 735.44965106503 57.9944829006964 L 737.31154891583 58.461832265080034 L 739.17344676663 59.06266638255906 L 741.03534461742 60.79814274645898 L 742.89724246822 63.333829836889265 L 744.75914031902 63.133253979475086 L 746.62103816982 72.13637035969023 L 748.48293602061 75.13506113586502 L 750.34483387141 74.00228136589939 L 752.20673172221 71.13661816362995 L 754.06862957301 73.20276687256901 L 755.93052742381 74.13561358013322 L 757.7924252746 71.06997382548187 L 759.6543231254 74.13539601035328 L 761.5162209762 81.19552042894301 L 763.378118827 80.79634997384204 L 765.24001667779 83.32596476614802 L 767.10191452859 84.45738587893354 L 768.96381237939 81.19578112943532 L 770.82571023019 80.92950817750548 L 772.68760808098 80.1305589555204 L 774.54950593178 78.46570105529497 L 776.41140378258 70.53590460753625 L 778.27330163338 64.40140263977565 L 780.13519948417 66.46911933335019 L 781.99709733497 59.79689799304987 L 783.85899518577 59.32937410045878 L 785.72089303657 56.45852444921459 L 787.58279088736 59.596518164262335 L 789.44468873816 58.4617777191678 L 791.30658658896 58.528290970792 L 793.16848443976 61.46551201949865 L 795.03038229055 56.65902441274204 L 796.89228014135 48.10655800753477 L 798.75417799215 48.6416874645858 L 800.61607584295 53.45315341038122 L 802.47797369374 49.17667485058192 L 804.33987154454 45.0982371927179 L 806.20176939534 37.40379731544962 L 808.06366724614 36.73522749868107 L 809.92556509693 40.61687452902265 L 811.78746294773 46.769690457602195 L 813.64936079853 41.15203705143301 L 815.51125864933 48.440761017281176 L 817.37315650012 51.58228210012234 L 819.23505435092 54.45510750140565 L 821.09695220172 60.66457074663819 L 822.95885005252 64.13417159109946 L 824.82074790331 60.93136578076772 L 826.68264575411 63.46740178861964 L 828.54454360491 62.80010883708462 L 830.40644145571 63.80095016726116 L 832.2683393065 63.3337862215424 L 834.1302371573 59.796734395418866 L 835.9921350081 56.12477988976369 L 837.8540328589 55.1230223004608 L 839.71593070969 56.65836948725706 L 841.57782856049 48.10721376330889 L 843.43972641129 52.384107514480576 L 845.30162426209 69.464137638511 L 847.16352211289 49.70667944535171 L 849.02541996368 77.79621405239936 L 850.88731781448 96.88974057012112 L 852.74921566528 105.06154087284872 L 854.61111351608 102.46993714186283 L 856.47301136687 94.43350443173935 L 858.33490921767 101.40913551115494 L 860.19680706847 97.7558419362249 L 862.05870491927 98.48481877810212 L 863.92060277006 92.43884488149976 L 865.78250062086 101.93981735528138 L 867.64439847166 104.06567327928366 L 869.50629632246 105.39334168864025 L 871.36819417325 102.07377581061863 L 873.23009202405 105.65822837588482 L 875.09198987485 100.41298625126404 L 876.95388772565 104.33128486897738 L 878.81578557644 103.40096799311286 L 880.67768342724 101.94094296223346 L 882.53958127804 102.4057496976053 L 884.40147912884 110.96734513635724 L 886.26337697963 121.30837539347004 L 888.12527483043 121.30859108270317 L 889.98717268123 116.33838259981474 L 891.84907053203 112.82445284666747 L 893.71096838282 122.36831546316427 L 895.57286623362 120.77859948419521 L 897.43476408442 116.33849056301534 L 899.29666193522 119.18849530672833 L 901.15855978601 119.32085292405455 L 903.02045763681 116.27226861124424 L 904.88235548761 114.01807787097025 L 906.74425333841 113.35504885994035" class="highcharts-graph" stroke="#7cb5ec" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"></path></g><g class="highcharts-markers highcharts-series-0 highcharts-line-series highcharts-color-0 " transform="translate(10,10) scale(1 1)" clip-path="url(#highcharts-58jesdb-2)" width="250" height="908"></g></g><g class="highcharts-axis-labels highcharts-xaxis-labels "><text x="32.34277420957059" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:91px;text-overflow:clip;" text-anchor="middle" transform="translate(0,0)" y="279" opacity="1"><tspan>2. Apr</tspan></text><text x="121.71387104785298" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:91px;text-overflow:clip;" text-anchor="middle" transform="translate(0,0)" y="279" opacity="1"><tspan>12:00</tspan></text><text x="211.08496788613536" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:91px;text-overflow:clip;" text-anchor="middle" transform="translate(0,0)" y="279" opacity="1"><tspan>3. Apr</tspan></text><text x="300.45606472441773" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:91px;text-overflow:clip;" text-anchor="middle" transform="translate(0,0)" y="279" opacity="1"><tspan>12:00</tspan></text><text x="389.8271615627001" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:91px;text-overflow:clip;" text-anchor="middle" transform="translate(0,0)" y="279" opacity="1"><tspan>4. Apr</tspan></text><text x="479.19825840098247" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:91px;text-overflow:clip;" text-anchor="middle" transform="translate(0,0)" y="279" opacity="1"><tspan>12:00</tspan></text><text x="568.5693552392648" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:91px;text-overflow:clip;" text-anchor="middle" transform="translate(0,0)" y="279" opacity="1"><tspan>5. Apr</tspan></text><text x="657.9404520775472" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:91px;text-overflow:clip;" text-anchor="middle" transform="translate(0,0)" y="279" opacity="1"><tspan>12:00</tspan></text><text x="747.3115489158296" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:91px;text-overflow:clip;" text-anchor="middle" transform="translate(0,0)" y="279" opacity="1"><tspan>6. Apr</tspan></text><text x="836.682645754112" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:91px;text-overflow:clip;" text-anchor="middle" transform="translate(0,0)" y="279" opacity="1"><tspan>12:00</tspan></text></g><g class="highcharts-axis-labels highcharts-yaxis-labels "><text x="918" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:296px;text-overflow:clip;" text-anchor="end" transform="translate(0,0)" y="258" opacity="1"><tspan>0.8075</tspan></text><text x="918" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:296px;text-overflow:clip;" text-anchor="end" transform="translate(0,0)" y="208" opacity="1"><tspan>0.81</tspan></text><text x="918" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:296px;text-overflow:clip;" text-anchor="end" transform="translate(0,0)" y="158" opacity="1"><tspan>0.8125</tspan></text><text x="918" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:296px;text-overflow:clip;" text-anchor="end" transform="translate(0,0)" y="108" opacity="1"><tspan>0.815</tspan></text><text x="918" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:296px;text-overflow:clip;" text-anchor="end" transform="translate(0,0)" y="58" opacity="1"><tspan>0.8175</tspan></text><text x="0" style="color:#666666;cursor:default;font-size:11px;fill:#666666;width:296px;text-overflow:clip;" text-anchor="end" transform="translate(0,0)" y="-9999"><tspan>0.82</tspan></text></g></svg></div></div>
+</div>
+<h6 class="section-remark notosc chi">报价为国际银行同业市场参考报价，仅供参考。KVB昆仑国际的实际交易汇率会因产品、金额和服务区域等因素而有所不同，请向KVB昆仑国际各公司查询。</h6>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section-product-and-service section-max-width-container" style="display:home.jp-section-display-css;">
+<div class="pas-banenr section-info-title notosc-bold chi">关于我们</div>
+<h1 class="pas-title notosc chi">产品与服务</h1>
+<p class="pas-desc">KVB昆仑国际金融集团兼具全球外汇经纪商、流动性提供商、外汇交易系统供应商、证券经纪、企业财资管理平台服务商等多重角色，为全球华人和企业提供外汇交易、流动性解决方案、国际结算与企业避险、财富管理、证券投资、金融IT解决方案等金融产品和服务</p>
+<div class="pas-cta video-container">
+<div class="video-wrapper">
+<a class="video-dismiss">×</a>
+<div class="video-poster" style="background-image: url(https://www.kvbkunlun.com/img/aboutkvb_carousel/img-bg-about-kvb-04.jpg)"></div>
+<div class="video">
+<video controls="controls">
+<source src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/20170117-TVC.mp4" type="video/mp4">
+</video>
+</div>
+</div>
+</div>
+<ul class=" container clearfix">
+<li class="pas-item clearfix">
+<picture class=" lazyloaded">
+<source srcset="  /img/home/img_forex_trading@2x.png 2x,  /img/home/img_forex_trading.png 1x">
+<img class="pas-item-icon" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://www.kvbkunlun.com/img/home/img_forex_trading.png" alt="Forex Trading" width="50" height="50">
+</picture>
+<noscript> <img class="pas-item-icon" src=/img/home/img_forex_trading.png alt="Forex Trading" /> </noscript>
+<div class="pas-item-desc">
+<h3 class="robotoc">外汇交易</h3>
+<p>外汇, <span style="display:none;">贵金属, </span>股票指数<span style="display:none;">, 大宗商品</span></p>
+<a href="#/cn/forex-trading">了解更多 →</a>
+</div>
+</li>
+<li class="pas-item clearfix">
+<picture class=" lazyloaded">
+<source srcset="  /img/home/img_liquid_s@2x.png 2x,  /img/home/img_liquid_s.png 1x">
+<img class="pas-item-icon" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/img/home/img_liquid_s.png" alt="Liquidity solutions" width="50" height="50">
+</picture>
+<noscript> <img class="pas-item-icon" src=/img/home/img_liquid_s.png alt="Liquidity solutions" /> </noscript>
+<div class="pas-item-desc">
+<h3 class="robotoc">流动性解决方案</h3>
+<p>让机构客户在全球资本市场获得竞争优势</p>
+<a href="#/cn/liquidity-solutions">了解更多 →</a>
+</div>
+</li>
+<li class="pas-item clearfix">
+<picture class=" lazyloaded">
+<source srcset="  /img/home/img_inter_settle@2x.png 2x,  /img/home/img_inter_settle.png 1x">
+<img class="pas-item-icon" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/img/home/img_inter_settle.png" alt="International Settlement and Enterprises Foreign Exchange Management" width="50" height="50">
+</picture>
+<noscript> <img class="pas-item-icon" src=/img/home/img_inter_settle.png alt="International Settlement and Enterprises Foreign Exchange Management" /> </noscript>
+<div class="pas-item-desc">
+<h3 class="robotoc">国际结算与企业外汇管理</h3>
+<p>提供一站式企业外汇管理解决方案</p>
+<a href="#/cn/corporate-fx">了解更多 →</a>
+</div>
+</li>
+<li class="pas-item clearfix">
+<picture class="lazyload">
+<source srcset="  /img/home/img_security@2x.png 2x,  /img/home/img_security.png 1x">
+<img class="pas-item-icon" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/img/home/img_security.png" alt="Securities Trading" width="50" height="50">
+</picture>
+<noscript> <img class="pas-item-icon" src=/img/home/img_security.png alt="Securities Trading" /> </noscript>
+<div class="pas-item-desc">
+<h3 class="robotoc">证券交易</h3>
+<p>通过KVB昆仑国际的证券交易平台进行香港及国际股票买卖</p>
+<a href="#/cn/securities">了解更多 →</a>
+</div>
+</li>
+<li class="pas-item clearfix">
+<picture class="lazyload">
+<source srcset="  /img/home/img_fintech@2x.png 2x,  /img/home/img_fintech.png 1x">
+<img class="pas-item-icon" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/img/home/img_fintech.png" alt="Financial Technology" width="50" height="50">
+</picture>
+<noscript> <img class="pas-item-icon" src=/img/home/img_fintech.png alt="Financial Technology" /> </noscript>
+<div class="pas-item-desc">
+<h3 class="robotoc">金融科技</h3>
+<p>积极专注利用最新研究成果提供高端金融解决方案</p>
+<a href="#/cn/fintech">了解更多 →</a>
+</div>
+</li>
+<li class="pas-item clearfix">
+<picture class="lazyload">
+<source srcset="  /img/home/img_wealth_management@2x.png 2x,  /img/home/img_wealth_management.png 1x">
+<img class="pas-item-icon" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/img/home/img_wealth_management.png" alt="Wealth Management" width="50" height="50">
+</picture>
+<noscript> <img class="pas-item-icon" src=/img/home/img_wealth_management.png alt="Wealth Management" /> </noscript>
+<div class="pas-item-desc">
+<h3 class="robotoc">财富管理</h3>
+<p>为客户的财富提供安全的保值和增值服务是我们的工作核心</p>
+<a href="#/cn/wealth-management">了解更多 →</a>
+</div>
+</li>
+</ul>
+
+</div>
+<div class="news-section clearfix container " style="display:home.news-section-display-css;">
+<div class="c-6">
+<img src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/Banner_002.jpg" alt="三年蝉联IEBE电商大奖 KVB昆仑国际非凡实力获得认证">
+<h5 class="section-info-title notosc-bold chi">集团新闻</h5>
+<a href="#/cn/news/detail/1337">
+<h1 class="section-title robotoc">三年蝉联IEBE电商大奖 KVB昆仑国际非凡实力获得认证</h1>
+</a>
+<a href="#/cn/news" class="section-action">了解更多</a>
+</div>
+<div class="c-6">
+<img src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/Banner.jpg" alt="助力“中国制造”走向更远！KVB昆仑国际与有棵树集团达成深度战略合作">
+<h5 class="section-info-title notosc-bold chi">集团新闻</h5>
+<a href="#/cn/news/detail/1336">
+<h1 class="section-title robotoc">助力“中国制造”走向更远！KVB昆仑国际与有棵树集团达成深度战略合作</h1>
+</a>
+<a href="#/cn/news" class="section-action">了解更多</a>
+</div>
+</div>
+
+<div class="aux-info-section" style="display:home.jp-section-display-css;">
+<div class="container">
+<div class="ad-content-section">
+<div class="ad-block ad-03">
+<div class="ad-title notosc">加入我们</div>
+<p class="ad-description notosc">公司将提供具有竞争力的薪资福利待遇，良好的培训和个人发展机会。如果你对自身能力充满自信，愿意不断挑战自我，挑战未来，欢迎你加入我们的行列，KVB昆仑国际将为你提供施展才华的舞台。</p>
+<a href="#/cn/joinkvb" class="learn-more-action-btn notosc target=" _blank"="">浏览职位空缺</a> 
+			</div>
+			<div class="ad-block ad-04">
+				<div class="ad-title notosc">订阅汇市情报</div>
+				<p class="ad-description notosc">如果您希望收到有关产品推广和公司新闻的定期简报，请注册您的电子邮件。</p>
+				<form action=""> <input name="email address" placeholder="Email Address" id="" type="text"> <input value="提交" type="submit"> </form>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="sticky-footer clearfix">
+	<a class="sticky-footer__action" href="https://accountopening.kvbkunlun.com/cn/index_1.html" target="_blank">开立帐户</a>
+	<a class="sticky-footer__action" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800077725&amp;aty=0&amp;a=0&amp;curl=&amp;ty=1" target="_blank">联系客服</a>
+</div>
+		
+		<div class="container">
+    <div class="footer">
+        <div class="footer__group">
+            <div class="footer__item">
+                <div class="footer__header">关于我们</div>
+                <ul class="footer__childlist">
+                    <li><a href="#/cn/aboutkvb" data-mce-href="../../cn/aboutkvb"> KVB昆仑国际 </a></li>
+                    <li><a href="#/cn/aboutkvb#accreditation" data-mce-href="../../cn/aboutkvb#accreditation"> 监管资质 </a></li>
+                    <li><a href="#/cn/news" data-mce-href="../../cn/news"> 集团新闻 </a></li>
+                    <li><a href="#/cn/activity" data-mce-href="../../cn/activity"> 活动推广 </a></li>
+                    <li><a href="#/cn/coverage" data-mce-href="../../cn/coverage"> 媒体聚焦 </a></li>
+                    <li><a href="#/cn/investor-relationship" data-mce-href="../../cn/investor-relationship"> 投资者关系 </a></li>
+                    <li><a href="#/cn/aboutkvb#partners" data-mce-href="../../cn/aboutkvb#partners"> 合作伙伴 </a></li>
+                    <li><a href="#/cn/joinkvb" data-mce-href="../../cn/joinkvb"> 加入我们 </a></li>
+                </ul>
+            </div>
+            <div class="footer__item">
+                <div class="footer__header">产品与服务</div>
+                <ul class="footer__childlist">
+                    <li><a href="#/cn/forex-trading" data-mce-href="../../cn/forex-trading"> 外汇交易 </a></li>
+                    <li><a href="#/cn/liquidity-solutions" data-mce-href="../../cn/liquidity-solutions"> 流动性解决方案 </a></li>
+                    <li><a href="#/cn/corporate-fx" data-mce-href="../../cn/corporate-fx"> 国际结算与企业外汇管理 </a></li>
+                    <li><a href="#/cn/securities" data-mce-href="../../cn/securities"> 证券交易 </a></li>
+                    <li><a href="#/cn/fintech" data-mce-href="../../cn/fintech"> 金融科技 </a></li>
+                    <li><a href="#/cn/wealth-management" data-mce-href="../../cn/wealth-management"> 财富管理 </a></li>
+                </ul>
+            </div>
+            <div class="footer__item">
+                <div class="footer__header">交易平台</div>
+                <ul class="footer__childlist">
+                    <li><a href="#/cn/forexstar" data-mce-href="../../cn/forexstar"> 外汇之星交易平台 </a></li>
+                    <li><a href="https://efxgc.kvbgc.com/en_US/login.html" target="_blank" data-mce-href="//efxgc.kvbgc.com/en_US/login.html"> eFX结算支付平台 </a></li>
+                    <li><a href="https://etrade.kvbsecurities.com.hk/InternetTrading/tc/custom_login.html" target="_blank" data-mce-href="https://etrade.kvbsecurities.com.hk/InternetTrading/tc/custom_login.html"> 香港证券交易平台 </a></li>
+                </ul>
+            </div>
+            <div class="footer__item">
+                <div class="footer__header">分析与教育</div>
+                <ul class="footer__childlist">
+                    <li><a href="http://www.kvbfinance.com/" target="_blank" data-mce-href="http://www.kvbfinance.com/"> 昆仑财经 KVBFinance </a>
+                        <br>
+                    </li>
+                    <li><a href="#/cn/market-insight" data-mce-href="../../cn/market-insight"> 专家专栏 </a></li>
+                    <li><a href="http://www.kvbfinance.com/info/infoList.aspx?ID=7_3" target="_blank" data-mce-href="http://www.kvbfinance.com/info/infoList.aspx?ID=7_3"> 外汇纵横 </a></li>
+                </ul>
+            </div>
+            <div class="footer__item">
+                <div class="footer__header">客户支援</div>
+                <ul class="footer__childlist">
+                    <li><a href="#/cn/account-opening" data-mce-href="../../cn/account-opening"> 开立帐户 </a></li>
+                    <li><a href="#/cn/legal-documents" data-mce-href="../../cn/legal-documents"> 一般法律文件 </a></li>
+                    <li><a href="#/cn/contactus" data-mce-href="../../cn/contactus"> 联络方式 </a></li>
+                    <li><a href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800077725&amp;aty=0&amp;a=0&amp;curl=&amp;ty=1" target="_blank" data-mce-href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800077725&amp;aty=0&amp;a=0&amp;curl=&amp;ty=1"> QQ 在线客服 </a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-detail">
+            <p class="footer-detail__content">KVB昆仑国际集团（旗下包括KVB Kunlun 
+Pty Limited, KVB Asset Management Limited, KVB Kunlun New Zealand 
+Limited, KVB Kunlun International (HK) Limited, KVB Kunlun Securities 
+(HK) Limited, KVB Kunlun Asset Management (HK) Limited, KVB Kunlun 
+Canada Inc, KVB Global Markets Limited, KVB Global Markets Pty 
+Limited）（KVB 
+昆仑国际集团，下称集团）所登文件仅为提供资料，任何改变都不会作出任何事前通知。集团并不担保此刊物所提供的准确性、可靠性或完整性。本文件所载资料并
+不构成金融或投资建议，也不对任何金融产品或服务构成要约、建议或销售邀请。相关资讯不考虑您的个人目标、财政状况、 
+需要、经验或承担亏损之能力。外汇保证金、差价合约、证券及其他衍生工具属高险投资，亏损风险可以相当巨大，甚至超越所持现金和任何其他已作抵押资产的价
+值，阁下须以个人之财状况及投资目标作出评估或咨询独立专业投资顾问。</p>
+            <p class="footer-detail__company"><a href="http://www.kvblistco.com/cn/" target="_blank" data-mce-href="http://www.kvblistco.com/cn/">昆仑国际金融(HKEX:6877.HK)</a></p>
+            <p class="footer-detail__copyright"><a href="#/cn/disclaimer" data-mce-href="../../cn/disclaimer">免责声明</a> | <a href="#/cn/privacy" data-mce-href="../../cn/privacy">私隐政策</a> | 京ICP备10210378号-5 Copyright © 2010-2017 KVB Kunlun. All rights reserved.</p>
+        </div>
+        <a style="padding-left: 40px; display: none; -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)'; filter: alpha(opacity=0); opacity: 0; pointer-events: none; cursor: default;" href="https://v.pinpaibao.com.cn/authenticate/cert/?site=www.kvbkunlun.com&amp;at=business" target="_blank" data-mce-href="//v.pinpaibao.com.cn/authenticate/cert/?site=www.kvbkunlun.com&amp;at=business" data-mce-style="padding-left: 40px; display: none; -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)'; filter: alpha(opacity=0); opacity: 0; pointer-events: none; cursor: default;"> <strong id="aqLogoWMOJQ" style="display: none;" data-mce-style="display: none;"></strong><img src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/hy_83x30.png" alt="安全联盟认证" style="border: none;" data-mce-src="//static.anquan.org/static/outer/image/hy_83x30.png?id=www.kvbkunlun.com" data-mce-style="border: none;" width="83" height="30"> </a>
+    </div>
+</div>
+
+<script type="text/javascript"> var CURRENCY= {
+    "USDX": "\u7f8e\u5143\u6307\u6570", "EURUSD": "\u6b27\u5143 - \u7f8e\u5143", "AUDUSD": "\u6fb3\u5143 - \u7f8e\u5143", "USDCAD": "\u7f8e\u5143 - \u52a0\u5143", "NZDUSD": "\u7ebd\u5143 - \u7f8e\u5143", "USDJPY": "\u7f8e\u5143 - \u65e5\u5143", "GBPUSD": "\u82f1\u9551 - \u7f8e\u5143", "GBPJPY": "\u82f1\u9551 - \u65e5\u5143", "USDCNY": "\u7f8e\u5143 - \u4eba\u6c11\u5e01", "USDCNH": "\u7f8e\u5143 - \u79bb\u5cb8\u4eba\u6c11\u5e01", "USDHKD": "\u7f8e\u5143 - \u6e2f\u5e01", "AUDJPY": "\u6fb3\u5143 - \u65e5\u5143", "AUDCNY": "\u6fb3\u5143 - \u4eba\u6c11\u5e01", "NZDCNY": "\u7ebd\u5143 - \u4eba\u6c11\u5e01", "CADCNY": "\u52a0\u5143 - \u4eba\u6c11\u5e01", "USDCHF": "\u7f8e\u5143 - \u745e\u58eb\u6cd5\u90ce", "XAUUSD": "\u9ec3\u91d1", "XAGUSD": "\u767d\u9280", "USCRUDE": "\u539f\u6cb9", "CORN": "\u7389\u7c73", "SOYBEAN": "\u5927\u8c46"
+}
+
+;
+var COMMODITIES= {
+    "USCRUDE":"\u539f\u6cb9",
+    "CORN":"\u7389\u7c73",
+    "SOYBEAN":"\u5927\u8c46",
+    "COPPER":"\u94dc",
+    "RUBBER":"\u5929\u7136\u6a61\u80f6",
+    "children": {
+        "USCRUDE":[ {
+            "header": "\u539f\u6cb9\u5546\u54c1\u5dee\u4ef7\u5408\u7ea6\u4ea4\u6613\u7ec6\u5219", "description": "", "body": [["\u4ea4\u6613\u4ee3\u53f7", "USCRUDE"], ["\u76f8\u5173\u8bc1\u5238", "\u7ebd\u7ea6\u5546\u54c1\u4ea4\u6613\u6240\u5f53\u524d\u6708\u4efd\u8f7b\u8d28\u539f\u6cb9\u671f\u8d27"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "1,000\u6876\/\u624b"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "0.05"], ["\u5c0f\u6570\u70b9\u4f4d", "2"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8", "0.01"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8\uff08\u4ef7\u503c\uff09", "US$10\/\u624b"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.01\u624b"], ["\u6bcf\u7b14\u6700\u5927\u5355\u4f4d", "10\u624b"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "1%"], ["\u4f63\u91d1", "\u65e0"], ["\u4ed3\u79df", "\u65e0"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7ebd\u7ea6\u5f53\u5730\u65f6\u95f4\uff1a\u00a0<\/br>\n\u6bcf\u65e518:00-17:00\u5468\u65e5\u81f3\u5468\u4e94\uff08\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u65f6\u95f4\u4e3a16:00\uff09\u00a0<\/br>\nGMT\u65f6\u95f4\uff1a\u00a0<\/br>\n\u6bcf\u65e522:00-21:00\u5468\u65e5\u81f3\u5468\u4e94\uff08\u7ebd\u7ea6\u590f\u4ee4\u65f6\uff09\uff08\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u65f6\u95f4\u4e3a20:00\uff09\u00a0<\/br>\n\u6bcf\u65e523:00-22:00\u5468\u65e5\u81f3\u5468\u4e94\uff08\u7ebd\u7ea6\u51ac\u4ee4\u65f6\uff09\uff08\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u65f6\u95f4\u4e3a21:00\uff09"], ["\u5408\u7ea6\u5230\u671f\u65e5", "\u7ebd\u7ea6\u5546\u54c1\u4ea4\u6613\u6240\u671f\u8d27\u5408\u7ea6\u5230\u671f\u65e5\u524d2\u4e2a\u4ea4\u6613\u65e5"], ["\u7ed3\u7b97", "\u975e\u5b9e\u7269\u4ea4\u5272\uff0c\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u540e\u4ee5\u73b0\u91d1\u7ed3\u7b97"], ["\u653e\u7f6e\u5b9a\u5355\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "0.01"], ["\u5b9a\u5355\u65f6\u6548", "\u6240\u6709\u5b9a\u5355\u53ea\u9650\u5f53\u5929\u6267\u884c\uff08\u5305\u62ec\u6b62\u635f\u4e0e\u6b62\u8d5a\u5b9a\u5355\uff09"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229<\/p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002<\/p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5<\/p>"
+}
+,
+{
+"header": "\u5230\u671f\u65e5\u7684\u8f6c\u6362\uff1a", "description": "<p>\u7279\u522b\u6ce8\u610f\uff1a\u671f\u8d27\u5408\u7ea6\u7531\u4ea4\u6613\u6240\u89c4\u5b9a\u5747\u6709\u5230\u671f\u65e5\u3002\u76ee\u524d\u6211\u4eec\u4e0d\u652f\u6301\u81ea\u52a8\u7684\u5c06\u5934\u5bf8\u7531\u4e00\u4e2a\u6708\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u3002\u5728\u5230\u671f\u65e5\uff0c\u4efb\u4f55\u672a\u5e73\u4ed3\u5934\u5bf8\u5c06\u7531KVB\u5e94\u7528\u6536\u5e02\u65f6\u7684\u4e2d\u95f4\u4ef7\u5e73\u6389\u5e76\u4ee5\u73b0\u91d1\u7ed3\u7b97\u3002<\/p>\n <p>\u4e3a\u4e86\u907f\u514d\u6700\u540e\u4ea4\u6613\u65e5\u7684\u6ce2\u52a8\uff0c\u5728\u4ea4\u6613\u6240\u89c4\u5b9a\u7684\u4e0b\u5217\u5230\u671f\u65e5\u524d2\u4e2a\u4ea4\u6613\u65e5\uff0cKVB\u5c06\u7531\u5f53\u524d\u6708\u4efd\u7684\u62a5\u4ef7\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u4efd\u3002\u5728\u6b64\u62a5\u4ef7\u8f6c\u6362\u5b8c\u6210\u540e\uff0c\u5ba2\u6237\u53ef\u4ee5\u7ee7\u7eed\u4f7f\u7528\u540c\u6837\u7684\u5dee\u4ef7\u5408\u7ea6\u4ee3\u53f7\u91cd\u65b0\u8fdb\u5165\u5e02\u573a\u3002<\/p>", "body": [["\u5408\u7ea6\u6708\u4efd", "\u7ebd\u7ea6\u5546\u4e1a\u4ea4\u6613\u6240", "KVB\u6606\u4ed1\u56fd\u9645"], ["1\u6708", "12\/20\/2016", "12\/16\/2016"], ["2\u6708", "1\/20\/2017", "1\/18\/2017"], ["3\u6708", "2\/21\/2017", "2\/16\/2017"], ["4\u6708", "3\/21\/2017", "3\/17\/2017"], ["5\u6708", "4\/20\/2017", "4\/18\/2017"], ["6\u6708", "5\/22\/2017", "5\/18\/2017"], ["7\u6708", "6\/20\/2017", "6\/16\/2017"], ["8\u6708", "7\/20\/2017", "7\/18\/2017"], ["9\u6708", "8\/22\/2017", "8\/18\/2017"], ["10\u6708", "9\/20\/2017", "9\/18\/2017"], ["11\u6708", "10\/20\/2017", "10\/18\/2017"], ["12\u6708", "11\/20\/2017", "11\/16\/2017"]], "footer": ""
+}
+],
+"CORN":[ {
+"header": "\u7389\u7c73\u5546\u54c1\u5dee\u4ef7\u5408\u7ea6\u4ea4\u6613\u7ec6\u5219", "description": "", "body": [["\u4ea4\u6613\u4ee3\u53f7", "CORN"], ["\u76f8\u5173\u8bc1\u5238", "\u829d\u52a0\u54e5\u5546\u54c1\u4ea4\u6613\u6240\u5f53\u524d\u6708\u4efd\u7389\u7c73\u671f\u8d27"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "5000\u84b2\u5f0f\u8033\/\u624b"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "$2\u7f8e\u5206"], ["\u5c0f\u6570\u70b9\u4f4d", "2"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8", "0.25\u7f8e\u5206"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8\uff08\u4ef7\u503c\uff09", "12.5\u7f8e\u5143\/\u624b"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.01\u624b"], ["\u6bcf\u7b14\u6700\u5927\u5355\u4f4d", "10\u624b"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "5%\uff08KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229\uff09"], ["\u4ed3\u79df", "\u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7f8e\u56fd\u4e2d\u90e8\u65f6\u95f4(CST)<\/br>\n7:00 PM -7:45 AM, 8:30 AM \u2013 1:15 PM<\/br>\nGMT\u65f6\u95f4\uff1a<\/br>\n\u6bcf\u65e5 0:00-12:45, 13:30-18:15 \u5468\u65e5\u81f3\u5468\u4e94(\u7ebd\u7ea6\u590f\u4ee4\u65f6)<\/br>\n\u6bcf\u65e5 1:00-13:45, 14:30-19:15 \u5468\u65e5\u81f3\u5468\u4e94(\u7ebd\u7ea6\u51ac\u4ee4\u65f6)"], ["\u5408\u7ea6\u5230\u671f\u65e5", "\u829d\u52a0\u54e5\u4ea4\u6613\u6240\u671f\u8d27\u5408\u7ea6\u7b2c\u4e00\u5934\u5bf8\u65e5\uff08First Position Day\uff09\u524d2\u4e2a\u4ea4\u6613\u65e5"], ["\u7ed3\u7b97", "\u975e\u5b9e\u7269\u4ea4\u5272\uff0c\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u540e\u4ee5\u73b0\u91d1\u7ed3\u7b97"], ["\u653e\u7f6e\u5b9a\u5355\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "5\u7f8e\u5206"], ["\u5b9a\u5355\u65f6\u6548", "\u6240\u6709\u5b9a\u5355\u53ea\u9650\u5f53\u5929\u6267\u884c\uff08\u5305\u62ec\u6b62\u635f\u4e0e\u6b62\u8d5a\u5b9a\u5355\uff09"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229<\/p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002<\/p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5<\/p>"
+}
+,
+{
+"header": "\u5230\u671f\u65e5\u7684\u8f6c\u6362\uff1a", "description": "<p>\u671f\u8d27\u5408\u7ea6\u7531\u4ea4\u6613\u6240\u89c4\u5b9a\u5747\u6709\u5230\u671f\u65e5\u3002\u76ee\u524d\u6211\u4eec\u4e0d\u652f\u6301\u81ea\u52a8\u7684\u5c06\u5934\u5bf8\u7531\u4e00\u4e2a\u6708\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u3002\u5728\u5230\u671f\u65e5\uff0c\u4efb\u4f55\u672a\u5e73\u4ed3\u5934\u5bf8\u5c06\u7531KVB\u5e94\u7528\u6536\u5e02\u65f6\u7684\u4e2d\u95f4\u4ef7\u5e73\u6389\u5e76\u4ee5\u73b0\u91d1\u7ed3\u7b97\u3002<\/p>\n <p>\u4e3a\u4e86\u907f\u514d\u6700\u540e\u4ea4\u6613\u65e5\u7684\u6ce2\u52a8\uff0c\u5728\u4ea4\u6613\u6240\u89c4\u5b9a\u7684\u4e0b\u7b2c\u4e00\u5934\u5bf8\u65e5\uff08First Position Day\uff09\u524d2\u4e2a\u4ea4\u6613\u65e5\uff0cKVB\u5c06\u7531\u5f53\u524d\u6708\u4efd\u7684\u62a5\u4ef7\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u4efd\u3002\u5728\u6b64\u62a5\u4ef7\u8f6c\u6362\u5b8c\u6210\u540e\uff0c\u5ba2\u6237\u53ef\u4ee5\u7ee7\u7eed\u4f7f\u7528\u540c\u6837\u7684\u5dee\u4ef7\u5408\u7ea6\u4ee3\u53f7\u91cd\u65b0\u8fdb\u5165\u5e02\u573a\u3002<\/p>", "body": [["\u5408\u7ea6\u6708\u4efd", "\u829d\u52a0\u54e5\u5546\u54c1\u4ea4\u6613\u6240", "KVB\u6606\u4ed1\u56fd\u9645"], ["2017", "\u7b2c\u4e00\u5934\u5bf8\u65e5\uff08First Position Day\uff09", "\u5408\u7ea6\u5230\u671f\u65e5"], ["3\u6708", "2\/27\/2017", "2\/23\/2017"], ["5\u6708", "4\/27\/2017", "4\/25\/2017"], ["7\u6708", "6\/29\/2017", "6\/27\/2017"], ["9\u6708", "8\/30\/2017", "8\/28\/2017"], ["12\u6708", "11\/29\/2017", "11\/27\/2017"]], "footer": ""
+}
+],
+"SOYBEAN":[ {
+"header": "\u5927\u8c46\u5546\u54c1\u5dee\u4ef7\u5408\u7ea6\u4ea4\u6613\u7ec6\u5219", "description": "", "body": [["\u4ea4\u6613\u4ee3\u53f7", "SOYBEAN"], ["\u76f8\u5173\u8bc1\u5238", "\u829d\u52a0\u54e5\u5546\u54c1\u4ea4\u6613\u6240\u5f53\u524d\u6708\u4efd\u5927\u8c46\u671f\u8d27"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "5000\u84b2\u5f0f\u8033\/\u624b"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "$2\u7f8e\u5206"], ["\u5c0f\u6570\u70b9\u4f4d", "2"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8", "0.25\u7f8e\u5206"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8\uff08\u4ef7\u503c\uff09", "12.5\u7f8e\u5143\/\u624b"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.01\u624b"], ["\u6bcf\u7b14\u6700\u5927\u5355\u4f4d", "10\u624b"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "5%\uff08KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229\uff09"], ["\u4ed3\u79df", "\u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7f8e\u56fd\u4e2d\u90e8\u65f6\u95f4(CST)<\/br>\n7:00 PM -7:45 AM, 8:30 AM \u2013 1:15 PM<\/br>\nGMT\u65f6\u95f4\uff1a<\/br>\n\u6bcf\u65e5 0:00-12:45, 13:30-18:15 \u5468\u65e5\u81f3\u5468\u4e94(\u7ebd\u7ea6\u590f\u4ee4\u65f6)<\/br>\n\u6bcf\u65e5 1:00-13:45, 14:30-19:15 \u5468\u65e5\u81f3\u5468\u4e94(\u7ebd\u7ea6\u51ac\u4ee4\u65f6)"], ["\u5408\u7ea6\u5230\u671f\u65e5", "\u829d\u52a0\u54e5\u4ea4\u6613\u6240\u671f\u8d27\u5408\u7ea6\u7b2c\u4e00\u5934\u5bf8\u65e5\uff08First Position Day\uff09\u524d2\u4e2a\u4ea4\u6613\u65e5"], ["\u7ed3\u7b97", "\u975e\u5b9e\u7269\u4ea4\u5272\uff0c\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u540e\u4ee5\u73b0\u91d1\u7ed3\u7b97"], ["\u653e\u7f6e\u5b9a\u5355\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "5\u7f8e\u5206"], ["\u5b9a\u5355\u65f6\u6548", "\u6240\u6709\u5b9a\u5355\u53ea\u9650\u5f53\u5929\u6267\u884c\uff08\u5305\u62ec\u6b62\u635f\u4e0e\u6b62\u8d5a\u5b9a\u5355\uff09"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229<\/p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002<\/p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5<\/p>"
+}
+,
+{
+"header": "\u5230\u671f\u65e5\u7684\u8f6c\u6362\uff1a", "description": "<p>\u671f\u8d27\u5408\u7ea6\u7531\u4ea4\u6613\u6240\u89c4\u5b9a\u5747\u6709\u5230\u671f\u65e5\u3002\u76ee\u524d\u6211\u4eec\u4e0d\u652f\u6301\u81ea\u52a8\u7684\u5c06\u5934\u5bf8\u7531\u4e00\u4e2a\u6708\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u3002\u5728\u5230\u671f\u65e5\uff0c\u4efb\u4f55\u672a\u5e73\u4ed3\u5934\u5bf8\u5c06\u7531KVB\u5e94\u7528\u6536\u5e02\u65f6\u7684\u4e2d\u95f4\u4ef7\u5e73\u6389\u5e76\u4ee5\u73b0\u91d1\u7ed3\u7b97\u3002<\/p>\n <p>\u4e3a\u4e86\u907f\u514d\u6700\u540e\u4ea4\u6613\u65e5\u7684\u6ce2\u52a8\uff0c\u5728\u4ea4\u6613\u6240\u89c4\u5b9a\u7684\u4e0b\u5217\u7b2c\u4e00\u5934\u5bf8\u65e5\uff08First Position Day\uff09\u524d2\u4e2a\u4ea4\u6613\u65e5\uff0cKVB\u5c06\u7531\u5f53\u524d\u6708\u4efd\u7684\u62a5\u4ef7\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u4efd\u3002\u5728\u6b64\u62a5\u4ef7\u8f6c\u6362\u5b8c\u6210\u540e\uff0c\u5ba2\u6237\u53ef\u4ee5\u7ee7\u7eed\u4f7f\u7528\u540c\u6837\u7684\u5dee\u4ef7\u5408\u7ea6\u4ee3\u53f7\u91cd\u65b0\u8fdb\u5165\u5e02\u573a\u3002<\/p>", "body": [["\u5408\u7ea6\u6708\u4efd", "\u829d\u52a0\u54e5\u5546\u54c1\u4ea4\u6613\u6240", "KVB\u6606\u4ed1\u56fd\u9645"], ["2017", "\u7b2c\u4e00\u5934\u5bf8\u65e5\uff08First Position Day\uff09", "\u5408\u7ea6\u5230\u671f\u65e5"], ["1\u6708", "12\/29\/2016", "12\/27\/2016"], ["3\u6708", "2\/27\/2017", "2\/23\/2017"], ["5\u6708", "4\/27\/2017", "4\/25\/2017"], ["7\u6708", "6\/29\/2017", "6\/27\/2017"], ["8\u6708", "7\/28\/2017", "7\/26\/2017"], ["9\u6708", "8\/30\/2017", "8\/28\/2017"], ["11\u6708", "10\/30\/2017", "10\/26\/2017"]], "footer": ""
+}
+],
+"COPPER":[ {
+"header": "\u94dc\u671f\u8d27\u5dee\u4ef7\u5408\u7ea6\u4ea4\u6613\u7ec6\u5219", "description": "", "body": [["\u4ea4\u6613\u4ee3\u53f7", "COPPER"], ["\u76f8\u5173\u8bc1\u5238", "COMEX\u6d3b\u8dc3\u6708\u4efd\u94dc\u671f\u8d27"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "25000\u78c5"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "2%"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "0.7\u7f8e\u5206"], ["\u5c0f\u6570\u70b9\u4f4d", "2"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8", "0.05"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8\uff08\u4ef7\u503c\uff09", "12.5\u7f8e\u5143"], ["\u4f63\u91d1", "0"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "1\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "1\u624b"], ["\u6bcf\u7b14\u6700\u5927\u5355\u4f4d", "5\u624b"], ["\u4ed3\u79df", "\u957f\u4ed3-1% \/ \u77ed\u4ed3-1%**"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7f8e\u56fd\u4e1c\u90e8\u65f6\u95f4:\u00a0<\/br>\n\u6bcf\u5929 18:00-17:00\uff0c\u5468\u65e5\u81f3\u5468\u4e94\uff08\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u65f6\u95f4\u4e3a16\uff1a00\uff09<\/br>\nGMT\u65f6\u95f4\uff1a\u00a0<\/br>\n\u6bcf\u65e522:00-21:00\uff0c\u5468\u65e5\u81f3\u5468\u4e94\uff08\u7ebd\u7ea6\u590f\u4ee4\u65f6\uff09\uff08\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u65f6\u95f4\u4e3a20:00\uff09<\/br>\n\u6bcf\u65e523:00-22:00\uff0c\u5468\u65e5\u81f3\u5468\u4e94\uff08\u7ebd\u7ea6\u51ac\u4ee4\u65f6\uff09\uff08\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u65f6\u95f4\u4e3a21:00\uff09"], ["\u5408\u7ea6\u5230\u671f\u65e5", "COMEX\u94dc\u671f\u8d27\u5408\u7ea6\u7b2c\u4e00\u5934\u5bf8\u65e5(First Position Day)\u524d2\u4e2a\u4ea4\u6613\u65e5"], ["\u7ed3\u7b97", "\u975e\u5b9e\u7269\u4ea4\u5272\uff0c\u6700\u540e\u4ea4\u6613\u65e5\u7ed3\u675f\u540e\u4ee5\u73b0\u91d1\u7ed3\u7b97"], ["\u653e\u7f6e\u5b9a\u5355\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "2\u7f8e\u5206"], ["\u5b9a\u5355\u65f6\u6548", "\u6240\u6709\u5b9a\u5355\u53ea\u9650\u5f53\u5929\u6267\u884c\uff08\u5305\u62ec\u6b62\u635f\u4e0e\u6b62\u8d5a\u5b9a\u5355\uff09"]], "footer": "\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u57fa\u4e8e\u5e02\u573a\u72b6\u51b5\u5236\u5b9a\uff0c\u82e5\u6709\u4efb\u4f55\u66f4\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5\u3002<\/p>\n <p>* KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229<\/p>\n <p>**KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229<\/p>"
+}
+,
+{
+"header": "\u5230\u671f\u65e5\u7684\u8f6c\u6362\uff1a", "description": "<p>\u7279\u522b\u6ce8\u610f\uff1a\u671f\u8d27\u5408\u7ea6\u7531\u4ea4\u6613\u6240\u89c4\u5b9a\u5747\u6709\u5230\u671f\u65e5\u3002\u76ee\u524d\u6211\u4eec\u4e0d\u652f\u6301\u81ea\u52a8\u7684\u5c06\u5934\u5bf8\u7531\u4e00\u4e2a\u6708\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u3002\u5728\u5230\u671f\u65e5\uff0c\u4efb\u4f55\u672a\u5e73\u4ed3\u5934\u5bf8\u5c06\u7531KVB\u5e94\u7528\u6536\u5e02\u65f6\u7684\u4e2d\u95f4\u4ef7\u5e73\u6389\u5e76\u4ee5\u73b0\u91d1\u7ed3\u7b97\u3002<\/p>\n <p>\u4e3a\u4e86\u907f\u514d\u6700\u540e\u4ea4\u6613\u65e5\u7684\u6ce2\u52a8\uff0c\u5728\u4ea4\u6613\u6240\u89c4\u5b9a\u7684\u4e0b\u5217\u5230\u671f\u65e5\u524d2\u4e2a\u4ea4\u6613\u65e5\uff0cKVB\u5c06\u7531\u5f53\u524d\u6708\u4efd\u7684\u62a5\u4ef7\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u4efd\u3002\u5728\u6b64\u62a5\u4ef7\u8f6c\u6362\u5b8c\u6210\u540e\uff0c\u5ba2\u6237\u53ef\u4ee5\u7ee7\u7eed\u4f7f\u7528\u540c\u6837\u7684\u5dee\u4ef7\u5408\u7ea6\u4ee3\u53f7\u91cd\u65b0\u8fdb\u5165\u5e02\u573a\u3002<\/p>\n <p>\u6d3b\u8dc3\u6708\u4efd\u94dc\u671f\u8d27\u662f\u63073\u6708\uff0c5\u6708\uff0c7\u6708\uff0c9\u6708\u548c12\u6708\u5408\u7ea6\u3002<\/p>", "body": [["\u5408\u7ea6\u6708\u4efd", "\u7ebd\u7ea6\u5546\u54c1\u4ea4\u6613\u6240", "KVB\u6606\u4ed1\u56fd\u9645"], ["3\u6708", "2\/27\/2017", "2\/23\/2017"], ["5\u6708", "4\/27\/2017", "4\/25\/2017"], ["7\u6708", "6\/29\/2017", "6\/27\/2017"], ["9\u6708", "8\/30\/2017", "8\/28\/2017"], ["12\u6708", "11\/29\/2017", "11\/27\/2017"]], "footer": ""
+}
+],
+"RUBBER":[ {
+"header": "\u5929\u7136\u6a61\u80f6\u5dee\u4ef7\u5408\u7ea6\u4ea4\u6613\u7ec6\u5219", "description": "", "body": [["\u4ea4\u6613\u4ee3\u53f7", "RUBBER"], ["\u76f8\u5173\u8bc1\u5238", "\u4e0a\u6d77\u671f\u4ea4\u6240\u5929\u7136\u6a61\u80f6\u6d3b\u8dc3\u6708\u4efd\u671f\u8d27"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "10\u5428\/\u624b"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "30\u4eba\u6c11\u5e01"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.01\u624b"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "5%*"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8", "5\u4eba\u6c11\u5e01\/\u5428"], ["\u6700\u4f4e\u4ef7\u683c\u53d8\u52a8\uff08\u4ef7\u503c\uff09", "50\u4eba\u6c11\u5e01"], ["\u6bcf\u7b14\u6700\u5927\u5355\u4f4d", "10\u624b"], ["\u4f63\u91d1", "\u65e0"], ["\u4ed3\u79df", "\u957f\u4ed3-3% \/ \u77ed\u4ed3-1%**"], ["\u6bcf\u65e5\u4ef7\u683c\u6700\u5927\u6ce2\u52a8\u9650\u5236", "\u00b15%***"], ["\u4ea4\u6613\u65f6\u6bb5", "\u5317\u4eac\u65f6\u95f4:\u00a0<\/br>\n\u6bcf\u65e509:00-11:30, 13:30-15:00 \u5468\u4e00\u81f3\u5468\u4e94<\/br>\nGMT\u65f6\u95f4:\u00a0<\/br>\n\u6bcf\u65e501:00-03:30, 05:30-07:00\u5468\u4e00\u81f3\u5468\u4e94"], ["\u5408\u7ea6\u5230\u671f\u65e5", "\u8bf7\u53c2\u89c1\u5408\u7ea6\u5230\u671f\u8f6c\u6362\u65e5\u9644\u8868"], ["\u5b9a\u5355\u65f6\u6548", "\u6240\u6709\u5b9a\u5355\u53ea\u9650\u5f53\u5929\u6267\u884c\uff08\u5305\u62ec\u6b62\u635f\u4e0e\u6b62\u8d5a\u5b9a\u5355\uff09"]], "footer": "\n <p>* KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229<\/p>\n <p>**KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229<\/p>\n <p>***KVB\u5c06\u4fdd\u7559\u5f53\u6bcf\u65e5\u4ef7\u683c\u8fbe\u81f3\u6700\u5927\u6ce2\u52a8\u9650\u5236\u65f6\u505c\u6b62\u4ea4\u6613\u7684\u6743\u5229\u3002<\/p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u57fa\u4e8e\u5e02\u573a\u72b6\u51b5\u5236\u5b9a\uff0c\u82e5\u6709\u4efb\u4f55\u66f4\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5\u3002<\/p>"
+}
+,
+{
+"header": "\u5230\u671f\u65e5\u7684\u8f6c\u6362\uff1a", "description": "<p>\u7279\u522b\u6ce8\u610f\uff1a\u671f\u8d27\u5408\u7ea6\u7531\u4ea4\u6613\u6240\u89c4\u5b9a\u5747\u6709\u5230\u671f\u65e5\u3002\u76ee\u524d\u6211\u4eec\u4e0d\u652f\u6301\u81ea\u52a8\u7684\u5c06\u5934\u5bf8\u7531\u4e00\u4e2a\u6708\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u3002\u5728\u5230\u671f\u65e5\uff0c\u4efb\u4f55\u672a\u5e73\u4ed3\u5934\u5bf8\u5c06\u7531KVB\u5e94\u7528\u6536\u5e02\u65f6\u7684\u4e2d\u95f4\u4ef7\u5e73\u6389\u5e76\u4ee5\u73b0\u91d1\u7ed3\u7b97\u3002<\/p>\n <p>\u4e3a\u4e86\u907f\u514d\u6700\u540e\u4ea4\u6613\u65e5\u7684\u6ce2\u52a8\uff0c\u6309\u7167\u4e0b\u8868\u7684\u65e5\u671f\uff0cKVB\u5c06\u7531\u5f53\u524d\u6708\u4efd\u7684\u62a5\u4ef7\u8f6c\u6362\u5230\u4e0b\u4e00\u4e2a\u6708\u4efd\u3002\u5728\u6b64\u62a5\u4ef7\u8f6c\u6362\u5b8c\u6210\u540e\uff0c\u5ba2\u6237\u53ef\u4ee5\u7ee7\u7eed\u4f7f\u7528\u540c\u6837\u7684\u5dee\u4ef7\u5408\u7ea6\u4ee3\u53f7\u91cd\u65b0\u8fdb\u5165\u5e02\u573a\u3002<\/p>", "body": [["\u5408\u7ea6\u6708\u4efd", "\u4e0a\u6d77\u671f\u8d27\u4ea4\u6613\u6240", "KVB\u6606\u4ed1\u56fd\u9645"], ["1\u6708", "16\/1\/2017", "25\/11\/2016"], ["5\u6708", "15\/5\/2017", "17\/3\/2017"], ["9\u6708", "15\/9\/2017", "28\/7\/2017"]], "footer": ""
+}
+]
+}
+}
+;
+var METALS= {
+"XAUUSD":"\u9ec4\u91d1\u5151\u7f8e\u5143",
+"XAGUSD":"\u767d\u94f6\u5151\u7f8e\u5143",
+"XAUCNY":"\u9ec4\u91d1\u5151\u4eba\u6c11\u5e01",
+"XAGCNY":"\u767d\u94f6\u5151\u4eba\u6c11\u5e01",
+"children": {
+"XAUUSD":[ {
+"header": "\u9ec4\u91d1\u5151\u7f8e\u5143\u4ea4\u6613\u7ec6\u5219", "description": "", "body": [["\u4ee3\u53f7", "XAUUSD"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "\u6bcf\u624b100\u76ce\u53f8"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "$0.50\u7f8e\u5143*"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u6ce2\u5e45", "0.01"], ["\u6bcf\u70b9\u7f8e\u5143\u4ef7\u503c(\u6bcf1\u624b)", "$ 10\u7f8e\u5143"], ["\u6bcf\u70b9\u7f8e\u5143\u4ef7\u503c(\u6bcf0.01\u624b)", "$ 0.1\u7f8e\u5143"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "0.5 %"], ["\u653e\u7f6e\u6307\u4ee4\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "0.50"], ["\u76c8 \/ \u4e8f\u8ba1\u7b97", "\u5b9e\u65f6\u4ef7\u4f4d"], ["\u7ed3\u7b97", "\u6bcf\u65e5\u7ed3\u7b97"], ["\u4ea4\u6536\u7c7b\u522b", "\u4e0d\u53ef\u4ea4\u5272"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7ebd\u7ea6\u5f53\u5730\u65f6\u95f4\uff1a \u6bcf\u65e518:00-17:00\u5468\u65e5\u81f3\u5468\u4e94"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229<\/p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002<\/p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5<\/p>"
+}
+],
+"XAGUSD":[ {
+"header": "\u767d\u94f6\u5151\u7f8e\u5143\u4ea4\u6613\u89c4\u5219", "description": "", "body": [["\u4ee3\u53f7", "XAGUSD"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "\u6bcf\u624b100\u76ce\u53f8"], ["\u76ee\u6807\u4e70\u5356\u5dee\u4ef7", "$0.03\u7f8e\u5143*"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.5\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.5\u624b"], ["\u6700\u5c0f\u6ce2\u5e45", "0.001"], ["\u6bcf\u70b9\u7f8e\u5143\u4ef7\u503c(\u6bcf1\u624b)", "$ 1\u7f8e\u5143"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "1 %"], ["\u653e\u7f6e\u6307\u4ee4\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "0.03"], ["\u7ed3\u7b97", "\u6bcf\u65e5\u7ed3\u7b97"], ["\u4ea4\u6536\u7c7b\u522b", "\u4e0d\u53ef\u4ea4\u5272"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7ebd\u7ea6\u5f53\u5730\u65f6\u95f4\uff1a \u6bcf\u65e518:00-17:00\u5468\u65e5\u81f3\u5468\u4e94"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229<\/p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002<\/p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5<\/p>"
+}
+],
+"XAUCNY":[ {
+"header": "\u9ec4\u91d1\u5151\u4eba\u6c11\u5e01\u4ea4\u6613\u89c4\u5219", "description": "", "body": [["\u4ee3\u53f7", "XAUCNY"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "\u6bcf\u624b1000\u514b"], ["\u8ba1\u4ef7\u5355\u4f4d", "\u4eba\u6c11\u5e01X \/ \u514b"], ["\u8ba1\u4ef7\u5355\u4f4d", "\u4eba\u6c11\u5e010.25\u5143"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.01\u624b"], ["\u6700\u5c0f\u6ce2\u52a8", "\u4eba\u6c11\u5e010.01\u5143"], ["\u6bcf\u70b9\u4eba\u6c11\u5e01\u4ef7\u503c\uff08\u6bcf1\u624b\uff09", "\u4eba\u6c11\u5e0110\u5143"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "5%"], ["\u5229\u606f", "\u5355\u8fb91%"], ["\u653e\u7f6e\u6307\u4ee4\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "\u4eba\u6c11\u5e010.1\u5143"], ["\u76c8 \/ \u4e8f\u8ba1\u7b97", "\u5b9e\u65f6\u4ef7\u4f4d"], ["\u7ed3\u7b97", "\u6bcf\u65e5\u7ed3\u7b97"], ["\u4ea4\u6536\u7c7b\u522b", "\u4e0d\u53ef\u4ea4\u5272"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7ebd\u7ea6\u5f53\u5730\u65f6\u95f4\uff1a \u6bcf\u65e518:00-17:00\u5468\u65e5\u81f3\u5468\u4e94"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229<\/p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002<\/p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5<\/p>"
+}
+],
+"XAGCNY":[ {
+"header": "\u767d\u94f6\u5151\u4eba\u6c11\u5e01\u4ea4\u6613\u89c4\u5219", "description": "", "body": [["\u4ee3\u53f7", "XAGCNY"], ["\u6807\u51c6\u4ea4\u6613\u5408\u7ea6", "\u6bcf\u624b15\u516c\u65a4"], ["\u8ba1\u4ef7\u5355\u4f4d", "\u4eba\u6c11\u5e01 X \/ \u516c\u65a4"], ["\u8ba1\u4ef7\u5355\u4f4d", "\u4eba\u6c11\u5e0110\u5143"], ["\u6700\u5c0f\u4ea4\u6613\u5355\u4f4d", "0.5\u624b"], ["\u6700\u5c0f\u52a0\u5355\u5355\u4f4d", "0.5\u624b"], ["\u6700\u5c0f\u6ce2\u52a8", "\u4eba\u6c11\u5e011\u5143"], ["\u6bcf\u70b9\u4eba\u6c11\u5e01\u4ef7\u503c\uff08\u6bcf1\u624b\uff09", "\u4eba\u6c11\u5e0115\u5143"], ["\u4fdd\u8bc1\u91d1\u6bd4\u4f8b", "5%"], ["\u5229\u606f", "\u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002KVB\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002"], ["\u653e\u7f6e\u6307\u4ee4\u4e4b\u6700\u5c0f\u4ef7\u4f4d\u5dee\u8ddd", "\u4eba\u6c11\u5e0130\u5143"], ["\u76c8 \/ \u4e8f\u8ba1\u7b97", "\u5b9e\u65f6\u4ef7\u4f4d"], ["\u7ed3\u7b97", "\u6bcf\u65e5\u7ed3\u7b97"], ["\u4ea4\u6536\u7c7b\u522b", "\u4e0d\u53ef\u4ea4\u5272"], ["\u4ea4\u6613\u65f6\u6bb5", "\u7ebd\u7ea6\u5f53\u5730\u65f6\u95f4\uff1a \u6bcf\u65e518:00-17:00\u5468\u65e5\u81f3\u5468\u4e94"]], "footer": "\n <p>* \u76ee\u6807\u4e70\u5356\u5dee\u4ef7\u53ef\u80fd\u968f\u5e02\u573a\u60c5\u51b5\u6539\u53d8\uff0cKVB \u6606\u4ed1\u56fd\u9645\u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u66f4\u6539\u76ee\u6807\u4e70\u5356\u4ef7\u5dee\u6216\u4fdd\u8bc1\u91d1\u6bd4\u4f8b\u7684\u6743\u5229<\/p>\n <p>** \u4ed3\u79df\u8bf7\u53c2\u8003\u4ea4\u6613\u5e73\u53f0\u4e0a\u7684\u4fe1\u606f\u3002 KVB \u4fdd\u7559\u6309\u7167\u5e02\u573a\u60c5\u51b5\u8c03\u6574\u4ed3\u79df\u7684\u6743\u5229\u3002<\/p>\n <p>\u5907\u6ce8\uff1a\u4ee5\u4e0a\u7ec6\u5219\u82e5\u6709\u4fee\u6539\uff0c\u5c06\u4e0d\u4f5c\u53e6\u884c\u901a\u77e5<\/p>"
+}
+]
+}
+}
+;
+var INDEX= {
+"DJI30": "\u9053\u743c\u65af\u5de5\u4e1a\u5e73\u5747\u6307\u6570", "SPX500": "\u6807\u51c6\u666e\u5c14500\u6307\u6570", "NASDAQCOMP": "\u7eb3\u65af\u8fbe\u514b100\u6307\u6570", "HSI43": "\u9999\u6e2f\u6052\u751f\u6307\u6570", "SZSC": "\u6df1\u8bc1\u7efc\u6307", "SPTSXCOMP": "\u591a\u4f26\u591a\u7efc\u5408\u6307\u6570", "HSCEI": "\u56fd\u4f01\u6307\u6570", "SSEC": "\u4e0a\u6d77\u80a1\u7968\u6307\u6570", "NIK225": "\u65e5\u7ecf225\u5e73\u5747\u6307\u6570", "ASX200": "\u6fb3\u6d32SP200\u6307\u6570", "NZSE50": "\u7ebd\u897f\u5170NZSE50\u6307\u6570", "CHINA300": "\u4e2d\u534e300\u6307\u6570", "CHINA-A50": "\u946b\u5bccA50\u6307\u6570", "DX30": "\u5fb7\u56fdDAX\u6307\u6570"
+}
+;
+</script>
+<script type="text/javascript" src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/app-cc0f44c9a0.js"></script>
+<script type="text/javascript" src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/userinfo-3543e32d13.js"></script>
+<script type="text/x-tmpl" id="tmpl-card">
+<div class="box">
+	<label class="title notosc-light chi"> {%=o.key%}</label>
+	<p class="title notosc-light chi"> {%=o.value%}</p> 
+</div> 
+
+</script>
+<script type="text/javascript">
+$('.mapbox-link').click(function() {
+	var $this = $(this);
+	var name = $this.attr("name");
+	$data = CompanyAddress[name];
+	console.log("$data=");
+	console.log($data);
+    //$data=$(this).data('json');
+    $('.mapbox-link').removeClass('active');
+    $(this).addClass('active');
+    $('#mapbox').attr('src', $data.url);
+    $(this).parent().parent().find('.title').text($data.title);
+    $(this).parent().parent().find('.address').text($data.address);
+    $('#contacts').html('');
+    $('#contacts').append($.map($data.items, function(itm) {
+        return tmpl('tmpl-card', itm);
+    }));
+});
+$('.mapbox-link:first-child').trigger('click');
+</script>
+<script>
+	$(function () {
+		AutoSwitchImage();
+	
+		$(window).resize(AutoSwitchImage);
+		
+		function AutoSwitchImage() {
+			var $win = $(window);
+			var iWidth = $win.width();
+			var $items = $(".AutoSwitchImage");
+			
+			$items.each(function () {
+				var $this = $(this);
+				var SmallImage = $this.attr("SmallImage");
+				var NormalImage = $this.attr("NormalImage");
+				
+				//console.log("SmallImage=" + SmallImage);
+				//console.log("NormalImage=" + NormalImage);
+				
+				if (typeof(SmallImage) == "undefined" || typeof(NormalImage) == "undefined") {
+					return (false);
+				}
+				
+				if (iWidth < 560) {
+					$this.css("background-image", "url(" + SmallImage + ")");
+					//console.log("background-image=" + SmallImage);
+				}
+				else {
+					$this.css("background-image", "url(" + NormalImage + ")");
+					//console.log("background-image=" + NormalImage);
+				}
+			});
+		}
+	});
+</script>
+<script type="text/javascript">
+$(function () {
+	UserInfo.getInfo(function(data) {
+		if (data.country.code !=='CN') {
+			(function(i, s, o, g, r, a, m) {
+				i['GoogleAnalyticsObject']=r;
+				i[r]=i[r]||function() {
+					(i[r].q=i[r].q||[]).push(arguments)
+				}
+				, i[r].l=1*new Date();
+				a=s.createElement(o), m=s.getElementsByTagName(o)[0];
+				a.async=1;
+				a.src=g;
+				m.parentNode.insertBefore(a, m)
+			}
+			)(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+			ga('create', 'UA-58556007-1', 'auto');
+			ga('send', 'pageview');
+		}
+	}
+
+	, function(err) {}
+
+	);
+});
+
+</script>
+<script>
+var element=document.createElement("script");
+element.src="//wpa.b.qq.com/cgi/wpa.php?key=XzgwMDA3NzcyNV8xMDA3MjFfODAwMDc3NzI1Xw";
+document.body.appendChild(element);
+(function(h, o, t, j, a, r) {
+    h.hj=h.hj||function() {
+        (h.hj.q=h.hj.q||[]).push(arguments)
+    }
+    ;
+    h._hjSettings= {
+        hjid: 378722, hjsv: 5
+    }
+    ;
+    a=o.getElementsByTagName('head')[0];
+    r=o.createElement('script');
+    r.async=1;
+    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    a.appendChild(r);
+}
+
+)(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');
+(function() {
+    var hm=document.createElement("script");
+    hm.src="//hm.baidu.com/hm.js?e81716b5bdc4ea54e08a991cffe25dc9";
+    var s=document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+}
+
+)();
+</script><script src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/wpa.php"></script>
+<script>!(function(a, b, c, d, e, f) {
+    var g="", h=a.sessionStorage, i="__admaster_ta_param__", j="tmDataLayer"!==d?"&dl="+d: "";
+    if(a[f]= {}
+    , a[d]=a[d]||[], a[d].push( {
+        startTime: +new Date, event: "tm.js"
+    }
+    ), h) {
+        var k=a.location.search, l=new RegExp("[?&]"+i+"=(.*?)(&|#|$)").exec(k)||[];
+        l[1]&&h.setItem(i, l[1]), l=h.getItem(i), l&&(g="&p="+l+"&t="+ +new Date)
+    }
+    var m=b.createElement(c), n=b.getElementsByTagName(c)[0];
+    m.src="//tag.cdnmaster.cn/tmjs/tm.js?id="+e+j+g, m.async=!0, n.parentNode.insertBefore(m, n)
+}
+
+)(window, document, "script", "tmDataLayer", "TM-117318", "admaster_tm");
+</script>
+
+<script type="text/javascript" id="">var _smq = _smq || []; _smq.push(['_setAccount', '2e60816', new Date()]); _smq.push(['pageview']); (function() { var sm = document.createElement('script'); sm.type = 'text/javascript'; sm.async = true; sm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'site.cdnmaster.cn/sitemaster/collect.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sm, s); })(); </script><iframe style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="%E5%A4%96%E6%B1%87%E4%BA%A4%E6%98%93_%E5%A4%96%E6%B1%87%E5%B9%B3%E5%8F%B0_%E5%A4%96%E6%B1%87%E5%BC%80%E6%88%B7_%E4%BC%81%E4%B8%9A%E5%A4%96%E6%B1%87%20|%20KVB%E6%98%86%E4%BB%91%E5%9B%BD%E9%99%85_files/rcj-99d43ead6bdf30da8ed5ffcb4f17100c.html"></iframe><div id="ads"></div><!--在线客服  -->
+
+<link rel="stylesheet" href="http://oe3vwrk94.bkt.clouddn.com/qq.css">
+
+<div class="SonlineBox" id="SonlineBox" style="top: 300px; right: 0px; height: 400px; position: fixed;">
+    <div class="openTrigger" style="display: none; right: 0px;" title="展开"></div>
+    <div class="contentBox"><div class="closeTrigger">
+        <img src="http://oe3vwrk94.bkt.clouddn.com/closeBtnImg.gif" title="关闭"></div><div class="titleBox">
+        <span>客服中心</span>
+    </div>
+        <div class="listBox">
+            <div class="QQList">
+                <span>客服01：</span>
+                <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=827720128&amp;site=qq&amp;menu=yes">
+                    <img src="http://oe3vwrk94.bkt.clouddn.com/pa.gif" alt="点击这里" border="0">
+                </a>
+            </div>
+            <div class="QQList">
+                <span>客服02：</span>
+                <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=799831320&amp;site=qq&amp;menu=yes">
+                    <img src="http://oe3vwrk94.bkt.clouddn.com/pa.gif" alt="点击这里" border="0">
+                </a>
+            </div>
+            <div class="QQList">
+                <span>客服03：</span>
+                <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1248604050&amp;site=qq&amp;menu=yes">
+                    <img src="http://oe3vwrk94.bkt.clouddn.com/pa.gif" alt="点击这里" border="0">
+                </a>
+            </div>
+
+            <div class="bottom">
+                <div class="QQList">
+                    <h5>服务专线：</h5>
+                    <b>400-6055-850</b>
+                 </div>
+                 <hr>
+                    <div class="QQList">
+                        <h5>工作时间：</h5>
+                        <b>[8:30-18:00]</b>
+                    </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+</body></html>
+
+

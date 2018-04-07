@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">区块链简史：解读这场技术革命的前世今生</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2018/01/12 16:45:49</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p style="text-align: center;"><span style="font-size: 14px;"><img src="/upload/catcher/20180112/6365137222080484896947588.jpg"/></span></p><p><span style="font-size: 14px;"><br/></span></p><p><span style="font-size: 14px;">区块链已然继撒币答题，成为了2018年的第二个“风口”了。随着越来越多地被提起，也有越来越多的人会问，什么是区块链。</span></p><p><br/></p><p><span style="font-size: 16px;"><strong>区块链的本质：点对点的记账系统</strong></span></p><p><br/></p><p><span style="font-size: 14px;">区块链本质上是一个分布式的公共账本，将各个区块连成一个链条，实际上是一种点对点的记账系统（一个总账本），每一个点都可以在上面记账（记录信息）。（在此前《比特币简史 | 一文看懂这个价值3万元的数字黄金》一文曾作过阐述。）</span></p><p><br/></p><p><span style="font-size: 14px;">传统的记账系统，记账权只掌握在中心服务器手中。比如所有QQ、微信上的信息，只能由腾讯的服务器来记账；淘宝、天猫的信息，只能由阿里的服务器来记账。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/upload/catcher/20180112/6365137223383087185938305.jpg"/></p><p><br/></p><p><span style="font-size: 14px;">但在区块链系统，每台计算机是一个节点，一个节点就是一个数据库（服务器）。任何一个节点都可以记账，而且直接连接另外一个点（即P2P模式），中间无需第三方服务器。当其中两个节点发生交易时，这笔加密的交易会广播到其他所有节点（记账），目的是防止交易双方篡改交易信息。</span></p><p><br/></p><p><span style="font-size: 14px;">打个比方，在一个100人的村子，张三买了李四家一头牛，向他支付1万元。普通的做法是，他可以告知中间人村会计赵六（总记账人），将自己账下1万元转到李四账下。</span></p><p><br/></p><p><span style="font-size: 14px;">但在区块链系统里，张三无需再通过总记账人赵六，而是直接将自己账本的1万元记到李四账本；同时这笔交易信息也会传到全村（即整个区块链系统）。当村里其他人知道并确认了这笔交易，交易才算最终完成。因为这笔交易被加密处理，只有李四才能收到这1万元，而其他98人只能在账户内看到有这笔交易信息，但无法看到这笔信息是转给谁的。此外系统可以完整记录交易过程，整个交易可以溯源。</span></p><p><br/></p><p><span style="font-size: 14px;">假如张三把这1万元误转给了王五，因为交易被加密，王五在没有密钥的情况下无法得到这笔转款。另外，如果张三转完这1万元后又重复转给李四1万元，因为其他98人已经收到过相同信息便不会再确认，这种情况下交易便不会成立。还有一种情况，张三发起1万元转款后突然后悔，想私自把转的1万元改成100元，他需要将其他98人账户内的信息都要由1万改成100元。如果全网节点足够大，这样的修改是需要极高成本（远高于交易成本），理论上这种修改是不能实现的。</span></p><p><br/></p><p><span style="font-size: 14px;">这体现了区块链的几个重要特征：完全点对点，没有中间方；信息加密，注重隐私；交易可追溯；所有节点信息统一，交易不可篡改（修改一个节点信息，需要其他节点共同修改）。</span></p><p><br/></p><p><span style="font-size: 14px;">所以区块链要解决的问题是：消除中介信用问题。当然比特币是目前区块链技术在数字货币领域最好的应用之一；此外在支付领域，区块链技术可以消除第三方而直接点对点支付，而且使支付更安全，溯源的特性可以监管洗钱等违法活动。随着研究的深入，区块链也已经开始在征信、版权、公证、证券、资产管理等领域逐渐得到应用。</span></p><p><br/></p><p><span style="font-size: 16px;"><strong>区块链的产生</strong></span></p><p><br/></p><p><span style="font-size: 14px;">区块链（Blockchain）的概念最早可以追溯到2008年末，化名为“中本聪”的神秘人士在论坛中发表了一篇论文《比特币：一种点对点的电子现金系统》，首次提出了区块链的概念。</span></p><p><br/></p><p><span style="font-size: 14px;">文中提到，为解决电子货币的安全问题，可由时间戳服务器为一组，以区块（Block）形式存在的数据实施哈希（Hash）后加上时间戳，并且广播该哈希，每个时间戳将前一个时间戳纳入其哈希中，随后的时间戳会对之前的时间戳进行增强，由此形成了一个“区块链”。</span></p><p><br/></p><p><span style="font-size: 14px;">区块的产生可以这样理解：因为这种点对点的交易需要记录在一个账本，所以系统设置了一个功能：每隔10分钟就产生一张用于记录这些信息的账单（即区块），但是这个账单（区块）只能给最有能力的那个人记账，证明他有能力的方式，靠解答一道极为复杂的数学题（哈希运算）。这种方式，也被称为“挖矿”。</span></p><p><br/></p><p><span style="font-size: 14px;">答题开始，每个人要在系统里预留一个地址，当最有能力的A率先解出难题后，他可以得到区块，当初预留的地址自动记录在区块上。同时为了奖励他，系统会向这个预留的地址发放一定数量的比特币。所有区块连在一起，形成区块链。</span></p><p><br/></p><p><span style="font-size: 14px;">区块很像数据库的记录，每次写入数据，就是创建一个区块。每个区块包含两个部分： 区块头（Head），记录当前区块的元信息；区块体（Body），记录实际数据。</span></p><p><br/></p><p><span style="font-size: 14px;">区块头的元信息，主要是区块生成时间，实际数据（即区块体）的Hash；上一个区块的Hash（哈希运算值）。</span></p><p><br/></p><p><span style="font-size: 14px;">一个区块不等于一个节点：一个节点实际上就是一台接入区块链的计算机（服务器），任何联网的计算机都可以接入区块链，所以区块链上的节点是无数的；但是区块链上的区块是有限的，即每10分钟产生一个区块，达到一定数量后便不再新增。所以一个活跃（算力强）的节点可能有多个区块的记账权，而一个不活跃（算力低）的节点就只有很小一部分区块的记账权。</span></p><p><br/></p><p><span style="font-size: 14px;">实际上在“挖矿”中，也有一些规则：比如为了保证各节点信息同步，所以新区块添加速度不能太快，系统设计为平均每10分钟全网才能生成一个新区块，产出速度不是通过命令达成的，而是故意设置了海量的计算；为了保证是正好10分钟产出一个区块，设计了难度系数的动态调节机制，每两周（2016个区块）调整一次，比如两周内区块平均产生速度如果是9分钟，则难度系数要调高10%，反之同理；如果区块链分叉了（一个区块上接入了两个区块），采纳的是最先达到6个新区块（称为“六次确认”）的链条。</span></p><p><br/></p><p><span style="font-size: 16px;"><strong>其发展经历了三个阶段：</strong></span></p><p><br/></p><p><span style="font-size: 14px;">酝酿期：2009-2012年，经济形态以比特币及其产业生态为主；</span></p><p><br/></p><p><span style="font-size: 14px;">萌芽期：时期为2012-2015年，区块链随着比特币进入公众视野，新生的钱包支付和汇款公司出现，区块链经济扩散到金融领域。区块链底层技术创新不断。区块链技术从比特币系统中剥离出来。</span></p><p><br/></p><p><span style="font-size: 14px;">发展期：2016年开始探索行业应用，出现了大量区块链创业公司。2017年ICO的火热让区块链受到前所未有的关注。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/upload/catcher/20180112/6365137225808891445998860.jpg"/></p><p><br/></p><p><span style="font-size: 16px;"><strong>区块链的价值：机器信任、价值传递、智能合约</strong></span></p><p><br/></p><p><span style="font-size: 14px;">产生的区块链，有什么价值呢？实际上这从区块链的特性上就可以得出结论：去中心化、交易点对点、不可篡改的特性可以实现机器信任；交易不可逆、信息加密的特性可以实现价值传递；此外信息点对点、不可篡改等还可以实现智能合约。</span></p><p><br/></p><p><span style="font-size: 14px;">机器信任。比如在区块链上，不存在一个第三方的中心机构，而完全依靠点对点、不可篡改等交易机制保证双方信任。区块链技术不可篡改的特性，改变了中心化的信用创建方式，通过数学原理而非中心化信用机构来降低成本，建立信用。</span></p><p><br/></p><p><span style="font-size: 14px;">此前寻找中国创客曾报道的布比区块链旗下壹诺金融（文章《用区块链重塑供应链金融模式，他如何做到企业信用可传递？》）便是一家借助区块链技术实现企业信用可传递的区块链应用项目。</span></p><p><br/></p><p><span style="font-size: 14px;">价值传递。区块链是第一个能够实现价值传递的网络：一方面，简单的价值传输，让数字资产可以在区块链上自由流通；另一方面，发行代币，让融资更加便利，同时持有者还能享受整个生态的服务（比如一种代币是基于一种区块链应用而产生，拥有代币，代表了拥有应用服务）。</span></p><p><br/></p><p><span style="font-size: 14px;">智能合约。这一条款以计算机语言而非法律语言记录，是指将电子合约与区块链技术结合，当一个预先编好的条件被触发时，智能合约执行相应的合同条款。</span></p><p><br/></p><p><span style="font-size: 14px;">比如当A公司与B公司签署了一份合约，规定3个月后产品交付自动打款。当条件（3个月后、产品交付）触发后合约自动执行，钱款直接打到对方账户。</span></p><p><br/></p><p><span style="font-size: 14px;">这种智能合约的好处在于，一方面降低签约成本、执行成本和合规成本等，尤其在大量日常交易情况下；另一方面还能防止单方面毁约，保障合同按规定执行。</span></p><p><br/></p><p><span style="font-size: 16px;"><strong>区块链的劣势</strong></span></p><p><br/></p><p><span style="font-size: 14px;">实际上区块链作为一种新兴技术，价值固然存在，但也显现出了一些劣势。</span></p><p><br/></p><p><span style="font-size: 14px;">其一便是效率低。数据写入区块链，最少要等待十分钟，所有节点都同步数据，则需要更多的时间。拿比特币举例，当前产生的交易有效性受网络传输影响，比特币交易每次的确实时间大约10分钟，6次确认的话需要一个小时。因此区块链的交易数据是有延迟性的。</span></p><p><br/></p><p><span style="font-size: 14px;">其二便是能耗，区块的生成需要矿工进行无数无意义的计算，这是非常耗费能源的。英国一家电力信息网POWER-COMPARE提供的预测数据显示，按照目前比特币挖矿、交易耗电量的增长速度，至2020年比特币耗电量将会与目前全球用电量持平。尽管这一数据备受质疑，但是那些藏在深山老林的“矿场”则实实在在展现了这门生意的耗能景象。</span></p><p><br/></p><p><span style="font-size: 14px;">此外，在区块链公有链中，每一个参与者都能够获得完整的数据备份，所有交易数据都是公开和透明的。如果想知道一些商业机构的帐户和交易信息，就能知道他的所有财富还有重要资产和商业机密等，隐私保障难。</span></p><p><br/></p><p><span style="font-size: 14px;">当然，区块链的去中心、自治化的特点淡化了国家监管的概念。在监管无法触达的情况下一些，市场的逐利等特性会导致区块链技术应用于非法领域，为黑色产业提供了庇护所。</span></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=701857A5374C428E9168604F47D69B90" class="previous_news" title="Fintech透视——金融科技的定义与分类">上一篇：Fintech透视——金融科技的定义与分类</a>
+                            <a href="?id=BADDEBF92FDA4CDBAF2F6A5CBB51B2A9" class="next_news" title="G-IMFCH高朋荣获第二届金荣奖“最佳科技金融创新奖”">下一篇：G-IMFCH高朋荣获第二届金荣奖“最佳科技金融创新奖”</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">高朋金融荣获“优秀外汇投资者教育平台”光荣称号</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2018/03/30 16:07:09</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p style="text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20180330/6365802217769605649095293.jpg" title="1.jpg" alt="1.jpg" width="867" height="448" border="0" vspace="0" style="width: 867px; height: 448px;"/></span></p><p style="text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20180330/6365802223825536285086711.png" title="2.png" alt="2.png" width="867" height="622" border="0" vspace="0" style="width: 867px; height: 622px;"/></span></p><p><span style="font-size: 14px;"><br/></span></p><p><span style="font-size: 14px;">　　3月26日，由中金在线、黄金网、外汇网主办的“2018年第七届海峡金融论坛”（以下简称论坛）在福州香格里拉大饭店圆满举办。</span></p><p><br/></p><p><span style="font-size: 14px;">　　本届论坛的主题是“2018年金融衍生品市场投资与展望”，本届论坛汇聚金融领域的专家学者、资深分析师、优秀企业代表及行业媒体共同交流探讨金融衍生品市场当前的趋势，把握2018年的主要投资机会，其中金砖汇通首席策略师赵相宾、福能期货研究院院长丁纯、外汇自律联盟秘书长崔宏毅分别进行主题演讲，博得台下阵阵雷鸣般掌声。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20180330/6365802239576883957795164.png" title="QQ截图20180330155855.png" alt="QQ截图20180330155855.png" width="867" height="595" border="0" vspace="0" style="width: 867px; height: 595px;"/></span></p><p style="text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20180330/6365802252298706292629576.png" title="23.png" alt="23.png" width="867" height="652" border="0" vspace="0" style="width: 867px; height: 652px;"/></span></p><p><span style="font-size: 14px;"><br/></span></p><p><br/></p><p><span style="font-size: 14px;">　　“防风险，求生存！--2018年外汇行业发展展望”主题访谈。就“外汇行业监管趋严”、“金融分析行业如何提高服务质量”、“美国打响贸易大战”等问题，专家、嘉宾各抒己见，将本次峰会推向高潮。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20180330/6365802256549713761032360.jpg" title="5.jpg" alt="5.jpg" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></p><p><br/></p><p><span style="font-size: 14px;">　　在颁奖典礼环节，G-IMFCH高朋金融（简称高朋金融）荣获“优秀外汇投资者教育平台”的光荣称号。高朋金融通过结合线上和线下双渠道对中国数以万计的投资者进行外汇教育，得到社会的一致肯定和好评。高朋金融，自2010年进入中国，凭借国际领先科技的金融技术自来到中国，本着安全、智能和本土的核心优势以及用心的服务理念，获得了权威机构及金融同行的高度认可，一路走来，受到广泛的认可和好评。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20180330/6365802267048532206004917.png" title="77.png" alt="77.png" width="667" height="892" border="0" vspace="0" style="width: 667px; height: 892px;"/></p><p><br/></p><p><span style="font-size: 14px; color: rgb(49, 133, 155);">　<span style="font-size: 14px;">　G-IMFCH高朋金融（简称高朋金融），总部位于新西兰，是一家专门为投资家提供外汇、贵金属、CFDS 差价合约等金融衍生品的在线交易服务，以及为全球的私人银行、对冲基金经理和私人投资家提供专业的交易解决方案的金融科技服务供应商。</span></span></p><p><br/></p><p><span style="font-size: 14px; color: rgb(49, 133, 155);">　　2015年创立了高朋国际多边金融清算中心（Global Integrable Multilateral Financial Clearing House,简称 G-IMFCH），推出IMFCH模式，为全球投资者提供平等、公开、透明的国际金融交易环境。2017年，IMFCH模式列入中央财经大学课题研究组，成为中央财经大学2017年年度重点研究课题。</span></p><p><br/></p><p><span style="font-size: 14px; color: rgb(49, 133, 155);">　　2017年7月1日亚太区办事处在香港正式成立，使公司能更好的发展亚太区的外汇事业并更好地服务亚太区的客户，将先进的金融科技应用的范围更广，覆盖更多的受众，</span></p><p><br/></p><p><span style="font-size: 14px; color: rgb(49, 133, 155);">　　同年8月18日，由澳洲爱默科技（Helmsman Technology Pty Ltd）研发，中央财经大学IMFCH课题组提供理论研究支持的IM 系统（Intelligent Multilateral System）智能多边清算系统在上海召开新闻发布会。</span></p><p><br/></p><p><span style="font-size: 14px; color: rgb(49, 133, 155);">　　2017年，高朋金融通过金融科学技术应用的不断深入和应用实践，升级为金融科技新革命下的新型科技型券商，实现了从传统券商到科技券商的转型升级。</span></p><p><br/></p><p><span style="font-size: 14px; color: rgb(49, 133, 155);">　　2018年，高朋金融作为优秀的外汇投资者教育平台，不辱时代使命，将会在中国外汇投资者教育领域继续深耕，砥砺前行！</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="javascript:void(0);" class="previous_news">上一篇：没有啦！</a>
+                            <a href="?id=2110B2CF59594F6992824B1EA5E16278" class="next_news" title="亚洲博览会圆满结束G-IMFCH高朋满载而归">下一篇：亚洲博览会圆满结束G-IMFCH高朋满载而归</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">新西兰“金融+”旅学计划亮点之金融科技Fintech的前世今生</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2017/11/07 09:57:47</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p style="text-align: center;"><span style="font-size: 14px; color: rgb(0, 0, 0);">吃个早餐可以直接用支付宝付款；</span></p><p><br/></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(0, 0, 0);">去菜市场买菜能直接用微信支付；</span></p><p><br/></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(0, 0, 0);">买理财产品可以在网上就可以完成；</span></p><p><br/></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(0, 0, 0);">出国旅游不用再带现金；</span></p><p><br/></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(0, 0, 0);">不知不觉间，我们的支付方式被改变了；</span></p><p><span style="color: rgb(0, 0, 0);"><br/></span></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(0, 0, 0);">我们的理财方式被改变了</span></p><p><br/></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(0, 0, 0);">实际上这个背后有一个掌控全局的大佬；</span></p><p><br/></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(0, 0, 0);">一个被称为金融科技（FinTech）的高端技术。</span></p><p><br/></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(0, 0, 0);">今天，在这里先简单的普及一下；</span></p><p><br/></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(0, 0, 0);">12月的 “金融+”新西兰旅学计划；</span></p><p><br/></p><p style="text-align: center;"><span style="font-size: 14px; color: rgb(0, 0, 0);">更有专业金融技术人才为你现场演说！</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171107/6364564523111960033745082.jpg" title="1.jpg" alt="1.jpg" width="600" height="375" border="0" vspace="0" style="width: 600px; height: 375px;"/></p><p><br/></p><p style="text-align: center;"><strong><span style="font-size: 14px;"><br/></span></strong></p><p style="text-align: center;"><strong><span style="font-size: 14px;">【什么是Fintech】</span></strong></p><p><br/></p><p><span style="font-size: 14px;">Fintech顾名思义就是金融(Financial)与科技(Technology)的结合，一种运用高科技促使金融服务更加富有效率的商业模式。它的核心就是用技术驱动金融创新。</span></p><p><br/></p><p><span style="font-size: 14px;">FinTech通过利用云计算、大数据、移动互联网等新兴技术对传统金融进行改造、革新乃至颠覆，从而提供更为普惠的金融服务。它几乎正被应用到金融领域的方方面面：借贷、财富管理、支付、保险、众筹、征信，甚至是零售银行和房屋中介。</span></p><p><br/></p><p style="text-align: center;"><strong><span style="font-size: 14px;">【Fintech历史】</span></strong></p><p><br/></p><p><strong><span style="font-size: 14px; color: rgb(79, 97, 40);">金融科技可以分成三个不同阶段：</span></strong></p><p><br/></p><p><span style="font-size: 14px;">第一个阶段是金融的IT阶段，也就是1.0阶段。这个阶段的典型特点是金融行业（银行、证券、保险）将传统的IT软件硬件应用到办公、业务、产品等方面。电子化提高了行业的业务效率。这一阶段IT公司参与程度有限，仅限于金融机构内部，包括银行、证券的科技部门，也包括ATM系统、核心系统，这对银行效率提高发挥了重要作用。</span></p><p><br/></p><p><span style="font-size: 14px;">第二个阶段是互联网金融阶段，也就是2.0阶段。金融业搭建一些在线业务平台，通过互联网，或者移动终端、渠道来接触、服务大量用户，这实际上是对传统金融渠道的一个变革，代表性的业务包括：互联网基金销售，比如前一段时间所谓的这个宝、那个宝。如果按照按金融学的角度来评估它的创新，说不出来有什么创新，无非就是把一个支付工具的留存资金和一个货币基金产品进行了对接，但是因为有互联网这么一个强大的渗透能力，所以它发展非常快。</span></p><p><br/></p><p><span style="font-size: 14px;">第三个阶段是Fintech，也就是3.0阶段，通过大数据、云计算、人工智能、区块链这些技术来改造传统的金融信息的采集或者是风险的识别、量化、定制，改变决策定价、投资决策的过程，能够大幅提升传统金融行业的效率，比如说大数据征信，在中国的互联网金融崛起之后，征信牌照忽然变得很贵，不管现在赚不赚钱，牌照的议价最近非常高。</span></p><p><br/></p><p style="text-align: center;"><strong><span style="font-size: 14px;">【Fintech核心技术】</span></strong></p><p><br/></p><p><strong><span style="font-size: 14px; color: rgb(79, 97, 40);">Fintech的核心技术集中在几个方面:</span></strong></p><p><br/></p><p><span style="font-size: 14px;">一是人工智能。人工智能的意义在于，首先是怎么快速的吸收信息，把信息转化为知识；二是在确定的规则下的一个优化博弈的策略；三是在预见某个大数据分析基础上对未来进行一个预测。实际上，云计算也是大数据计算的一个技术保证。</span></p><p><br/></p><p><span style="font-size: 14px;">二是区块链技术，它重构的是金融行业的底层架构，作为数字货币底层的一个核心技术，它能够实现一个分散式的、跨越空间的价值传递，来解决中间交换产生的信息不对称问题。如果把它用在交易所中，交易所这个业务形态将来有没有存在的必要。有些香港的银行将技术用在住房按揭上，用在住房的登记和估值以及最后的贷款、偿还，开始做的业务量比较大了。区块链技术经历过几个不同的发展阶段，比如说启蒙和探索阶段，加速发展阶段。后来，一些知名的技术公司介入，加快推动了区块链技术的成熟和行业应对阶段，在真实的生活、生产环境中出现了区块链技术的产品化和工程化。</span></p><p><br/></p><p style="text-align: center;"><strong><span style="font-size: 14px;">【Fintech企业分类】</span></strong></p><p><br/></p><p><span style="font-size: 14px;">现在市面上 fintech 企业很多，分类方式也是五花八门，个人以为可以从两个大方面做分类。</span></p><p><br/></p><p><span style="color: rgb(79, 97, 40);"><strong><span style="font-size: 14px;">第一类：以科技为尖刀切入金融领域，用更高效的科技手段抢占市场提供金融服务</span></strong></span></p><p><br/></p><p><span style="font-size: 14px;">第三方支付，第三方支付(Third-Party Payment)狭义上是指具备一定实力和信誉保障的非银行机构，借助通信、计算机和信息安全技术，采用与各大银行签约的方式，在用户与银行支付结算系统间建立连接的电子支付模式。</span></p><p><br/></p><p><span style="font-size: 14px;">P2P网贷平台：即点对点信贷。P2P 网络贷款是指通过第三方互联网平台进行资金借、贷双方的匹配，需要借贷的人群可以通过网站平台寻找到有出借能力并且愿意基于一定条件出借的人群，帮助贷款人通过和其他贷款人一起分担一笔借款额度来分散风险，也帮助借款人在充分比较的信息中选择有吸引力的利率条件。</span></p><p><br/></p><p><span style="font-size: 14px;">互联网金融门户是指利用互联网进行金融产品的销售以及为金融产品销售提供第三方服务的平台。它的核心就是 “搜索 + 比价” 的模式，采用金融产品垂直比价的方式，将各家金融机构的产品放在平台上，用户通过对比挑选合适的金融产品。互联网金融门户多元化创新发展，形成了提供高端理财投资服务和理财产品的第三方理财机构，提供保险产品咨询、比价、购买服务的保险门户网站等。这种模式不存在太多政策风险，因为其平台既不负责金融产品的实际销售，也不承担任何不良的风险，同时资金也完全不通过中间平台。</span></p><p><br/></p><p><span style="font-size: 14px;">众筹：众筹意为大众筹资或群众筹资，是指用团购 + 预购的形式，向网友募集项目资金的模式。本意众筹是利用互联网和 SNS 传播的特性，让创业企业、艺术家或个人对公众展示他们的创意及项目，争取大家的关注和支持，进而获得所需要的资金援助。众筹平台的运作模式大同小异--需要资金的个人或团队将项目策划交给众筹平台，经过相关审核后，便可以在平台的网站上建立属于自己的页面，用来向公众介绍项目情况。</span></p><p><br/></p><p><strong><span style="font-size: 14px; color: rgb(79, 97, 40);">第二类：为金融机构提供科技服务自身并不直接做金融服务</span></strong></p><p><br/></p><p><span style="font-size: 14px;">前沿科技整合供应商是指将许多的前沿科技如 AI，区块链，VR，机器人等，整合进金融服务并提供解决方案的供应商。现在我们看到的一切都将成为历史，而未来科技与金融的结合势必引发新一轮的金融变革。未来会怎样本人不敢妄加评论，可以预见的是随着科技发展的奇点来临，变化会越来越快，不久的将来金融也将呈现出和现在完全不同的形态。</span></p><p><br/></p><p style="text-align: center;"><strong><span style="font-size: 14px;">【Fintech的三种监管模式】</span></strong></p><p><br/></p><p><span style="color: rgb(79, 97, 40);"><strong><span style="font-size: 14px;">第一种，以美国为代表的限制性监管(Restriced Regulation)</span></strong></span></p><p><br/></p><p><span style="font-size: 14px;">美国的人才优势和优越的资本环境，形成了以技术创新为主要驱动力的金融科技业态。针对这样的特性，美国采用功能性监管，即不论金融科技以何种形态出现，抓住金融科技的金融本质，把金融科技所涉及的金融业务，按照其功能纳入现有金融监管体系。 这种监管的有效性，取决于现有监管体系的成熟度。美国金融体系历史悠久，经历百年来多次金融风暴的洗礼，金融法规和监管相对成熟，有丰富的经验。对于现有法律法规无法覆盖到的金融科技新领域，政府也能及时适当调整立法。</span></p><p><br/></p><p><span style="font-size: 14px;">总体来说，美国对金融科技的监管是相对比较严格的，监管以稳定为主。对于具有强大的创新力的美国金融科技，适当偏严的监管是有利于平衡发展需要的。</span></p><p><br/></p><p><strong><span style="font-size: 14px; color: rgb(79, 97, 40);">第二种，以中国为代表的被动型监管(Passive Regulation)</span></strong></p><p><br/></p><p><span style="font-size: 14px;">和美国相反，中国的金融科技以市场和商业模式为驱动。中国的巨大市场需求和有待完善的现有金融服务体系，为金融科技的发展提供了广阔的应用空间。另外一方面，相对英美法体系的案例法，属于大陆法体系的中国，对金融科技的监管依靠成文的法律法规，因此灵活性和时效性相对不足。</span></p><p><br/></p><p><span style="font-size: 14px;">这种监管的不成熟性，反而给中国金融科技提供了发展的灰色地带。加上新一届政府鼓励创新的整体战略，监管初期采取较为宽松的“黑名单”策略，即明文规定不可为，规定之外允许尝试创新。</span></p><p><br/></p><p><strong><span style="font-size: 14px; color: rgb(79, 97, 40);">第三种，以英国和新加坡为代表的主动型监管(Active Regulation)</span></strong></p><p><br/></p><p><span style="font-size: 14px;">区别于美国和中国，这类国家没有技术和市场的优势，为了发展金融科技， 政府挺身而出成为主要引导力量。英国的伦敦和新加坡都致力于打造世界金融中心， 因此在监管金融科技上也是推陈出新，不留余力。</span></p><p><br/></p><p><span style="font-size: 14px;">以英国为例，FCA首先对公布筛选标准，对申请的企业进行初步筛选,筛选的标准包括企业的规模、产品的创新性、对消费者的贡献等。其次,FCA根据经过筛选的企业的测试产品和服务，选取相应的典型消费者, 并要求企业设定消费者保护计划,包括适当的赔偿等一些列风险控制措施。最后, FCA允许参与实验的企业向更大范围的客户推出创新产品和服务,测试期一般为3-6个月。FCA将根据测试的结果进行监管政策的制定或完善,在促进Fintech等新兴业态发展的同时,防范金融风险。</span></p><p><span style="font-size: 14px;">GPP高朋金融，是一家专门为投资家提供外汇、贵金属、CFDS差价合约等金融衍生品的在线交易服务，以及为全球的私人银行、对冲基金经理和私人投资家提供专业的交易解决方案的金融服务供应商。依托专业的市场分析师团队，精湛的技术支撑和完善的客户服务体系，向来自100多个国家的20多万客户和机构提供服务。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=8154C813E1804298BEE8C785B686CFEA" class="previous_news" title="新西兰“金融+”精英旅学计划&#183;财经精品课程提前分享">上一篇：新西兰“金融+”精英旅学计划&#183;财经精品课程提前分享</a>
+                            <a href="?id=84F5CAD53C664A489FFAEAE4CB8A3EBE" class="next_news" title="高朋金融恭祝2017金融衍生品投资理财高峰论坛圆满落幕">下一篇：高朋金融恭祝2017金融衍生品投资理财高峰论坛圆满落幕</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html data-ng-app="myApp" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#" class="js js no-touch csstransforms3d csstransitions js opacity generatedcontent pointerevents ng-scope" style="" lang="zh-hans"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript" async="" src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/analytics.js"></script><script async="" src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/analytics.js"></script><script async="" src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/gtm.js"></script><script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/jsbenchmark.js" type="text/javascript" async="async"></script><link rel="shortcut icon" href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/favicon.png" type="image/png">
+<meta name="description" content="兴业投资提供HY Trader电脑下载版MT4交易平台、HY WebTrader网页版交易平台、兴业投资手机版交易平台三种专业交易平台。">
+<meta name="keywords" content="HY Trader, HY Trader平台, HY Trader交易平台, HY交易平台, MT4平台, HY平台, HYCM, 兴业投资">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="https://www.hycm.com/cn/platforms">
+<link rel="shortlink" href="https://www.hycm.com/cn/node/20">
+  <title>HY Trader | HY交易平台 | MT4交易平台_HYCM兴业投资</title>
+  <link type="text/css" rel="stylesheet" href="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/css_IdCCTN0DGoQg4jymu0qIG7wWAp43zmaXOnVjd5ZgVbA.css" media="all">
+<link type="text/css" rel="stylesheet" href="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/css_cMo1o7yTlBd0bTTpK2op0hH-CFXxoQeAgPfgCTTPaxM.css" media="all">
+<link type="text/css" rel="stylesheet" href="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/css_bY8nDFdaIKwteyqmfBwNmB2MNGm2o84wkZNEBOIUNDM.css" media="all">
+<style>.md-layer-1-0-0{z-index:2 !important;}.md-layer-1-0-1{z-index:2!important;}.md-layer-1-1-0{z-index:999 !important;color:#ffffff !important;}.md-layer-1-1-1{z-index:1000!important;}.md-layer-1-1-2{z-index:998 !important;}.md-layer-1-2-0{z-index:999 !important;}.md-layer-1-2-1{z-index:1000!important;}.md-layer-1-3-0{z-index:999 !important;}.md-layer-1-3-1{z-index:1000!important;}.md-layer-1-4-0{z-index:999 !important;}.md-layer-1-4-1{z-index:1000!important;}
+</style>
+<link type="text/css" rel="stylesheet" href="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/css_bXD_KwDY4Uxf2ADDnUfO7XE540GTrR5Wdcv4k3-RX2A.css" media="all">
+<style>@media (max-width:460px){.hideonmobile{display:none !important;}}
+#sliding-popup.sliding-popup-bottom{background:#f1f5f5;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#333 !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/css_SaF03WYxgjL3b93C4YBLDn2bxYxTQKixOR4PE62Fn5Y.css" media="all">
+<link type="text/css" rel="stylesheet" href="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/bootstrap.css" media="all">
+<link type="text/css" rel="stylesheet" href="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/css_e6xNt9Eme9yGikxuCjorsbfeYR3oah84e_cSmbJkL2Q.css" media="all">
+  <script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/jquery_005.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/jquery_004.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/drupal.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/bootstrap.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/admin_devel.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/zh-hans_7nILwr8RGxNSQTLNaEIoaAznztix6739g39kptF2ORU.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/main.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/jquery_003.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/jquery_002.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/modernizr_002.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/jquery-migrate-1.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/jquery.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/md-slider.js"></script>
+<script>(function($) {
+      $(document).ready(function() {
+          effectsIn = Drupal.settings.inEffects;
+          effectsOut = Drupal.settings.outEffects;
+          var options_1 = Drupal.settings.md_slider_options_1;$('#md-slider-1-block').mdSlider(options_1);
+      });
+    })(jQuery);</script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/angular.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/angular-route.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/jquery-ui.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/resource.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/angular-messages.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/angular-count-to.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/ui-bootstrap-tpls-0.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/chosen.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/angular-cookies.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/js.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/track_campaign_id.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/validation_form.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/common.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/userService.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/shim.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/vue.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/alert.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/modernizr.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/dropdown_init.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/cn\/","pathPrefix":"","ajaxPageState":{"theme":"hycmcn","theme_token":"uWA_1dsSU8WBOaah2nNhRo8zQIC9rzAlhWPZUquzfxU","js":{"sites\/www.hycm.com.cn\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/js\/cbpHorizontalMenu.min.js":1,"0":1,"sites\/www.hycm.com.cn\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/www.hycm.com.cn\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/js\/bootstrap.js":1,"sites\/www.hycm.com.cn\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/zh-hans_7nILwr8RGxNSQTLNaEIoaAznztix6739g39kptF2ORU.js":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/js\/main.js":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/js\/jquery.menu-aim.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/jquery.touchwipe.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/modernizr.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/jquery-migrate-1.2.1.min.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/jquery.easing.js":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/js\/md-slider.js":1,"1":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular.min.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular-route.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/jquery-ui.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/resource.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular-messages.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular-count-to.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/ui-bootstrap-tpls-0.11.0.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/chosen.jquery.min.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/angular-cookies.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/js.cookie.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/track_campaign_id.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/page\/validation_form.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/common.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/services\/userService.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/lib\/core-js\/shim.min.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/lib\/vue\/vue.js":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/js\/common\/component\/alert.js":1,"sites\/www.hycm.com.cn\/modules\/language_selector\/js\/modernizr.custom.79639.js":1,"sites\/www.hycm.com.cn\/modules\/language_selector\/js\/dropdown_init.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/www.hycm.com.cn\/modules\/footer_sitemap\/footer_sitemap.css":1,"modules\/node\/node.css":1,"sites\/www.hycm.com.cn\/modules\/views\/css\/views.css":1,"sites\/www.hycm.com.cn\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/www.hycm.com.cn\/modules\/ctools\/css\/ctools.css":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/css\/reset.css":1,"sites\/www.hycm.com.cn\/modules\/hycm_menu\/css\/style_drop.css":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/css\/animate.css":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/css\/md-slider.css":1,"0":1,"sites\/www.hycm.com.cn\/modules\/md_slider\/css\/md-slider-style.css":1,"1":1,"2":1,"sites\/www.hycm.com.cn\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/www.hycm.com.cn\/modules\/language_selector\/css\/style_dropdown.css":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/css\/page\/page.css":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/css\/page\/platforms.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/css\/bootstrap.min.css":1,"sites\/www.hycm.com.cn\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/www.hycm.com.cn\/themes\/hycmcn\/css\/style.css":1}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"md_slider_options_1":{"fullwidth":false,"transitionsSpeed":800,"width":"","height":"","enableDrag":false,"responsive":true,"pauseOnHover":true,"loop":true,"showLoading":false,"loadingPosition":"bottom","showArrow":true,"showBullet":true,"posBullet":"2","showThumb":false,"posThumb":"1","slideShowDelay":"9000","slideShow":true,"styleBorder":"0","styleShadow":"0","videoBox":false},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003E\u672c\u7f51\u7ad9\u6211\u4eec\u4f7f\u7528\u4e86cookies\u4ee5\u589e\u5f3a\u60a8\u7684\u7528\u6237\u4f53\u9a8c\u3002\u003C\/h2\u003E\u003Cp\u003E\u70b9\u51fb\u6b64\u9875\u9762\u4e0a\u7684\u4efb\u4f55\u94fe\u63a5\u610f\u5473\u7740\u60a8\u540c\u610f\u6211\u4eec\u8bbe\u7f6ecookies\u3002\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons-div\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022btn red-whitebg-btn\u0022\u003E\u662f\u7684\uff0c\u6211\u540c\u610f\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022btn red-btn\u0022\u003E\u4e0d\uff0c\u6211\u60f3\u4e86\u89e3\u66f4\u591a\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003E\u591a\u8c22\u60a8\u540c\u610f\u6211\u4eec\u8bbe\u7f6ecookies\u3002\u003C\/h2\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003E\u9690\u85cf\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003E\u4e86\u89e3\u66f4\u591a\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":59,"popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.hycm.com\/cn\/sites\/www.hycm.com.cn\/files\/HYCM_CN_Cookies_Policy.pdf","popup_link_new_window":1,"popup_position":null,"popup_language":"zh-hans","domain":""},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+  
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TTMH9LL');</script>
+<!-- End Google Tag Manager -->
+  
+</head>
+<body class="navbar-is-fixed-top html not-front not-logged-in no-sidebars page-node page-node- page-node-20 node-type-page i18n-zh-hans sliding-popup-processed">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1229664-35', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+        <header id="navbar" role="banner" class="navbar navbar-fixed-top navbar-default">
+	<div class="topheadernav">
+		
+				            <div class="container">
+	<div ng-controller="CommController" class="ng-scope">
+
+
+		<!-- ngIf: demoAuth -->
+
+  		<div ng-switch="isAuthIN()">
+  
+     		<!-- ngSwitchWhen: truein -->
+
+			<section id="block-language-selector-language-selector--2" class="block block-language-selector pull-right clearfix">
+
+      
+  <div data-toggle="dropdown" class="navactions selected-country"> <a id="dropbtn" class="com-sp flag-global"><span>CN</span></a></div><ul id="customDropdown" class="dropdown-content dropdown-container"><div class="container"><ul class="dropdown langcontent col-md-2 col-md-offset-1"><div class=" textR">语言</div></ul><ul class="dropdown col-md-2"><li><a href="https://www.hycm.com/ar"><h6 class="flag ar">العربية</h6></a></li><li><a href="https://www.hycm.com/en"><h6 class="flag en">English</h6></a></li><li><a href="https://www.hycm.com/es"><h6 class="flag es">Español</h6></a></li></ul><ul class="dropdown col-md-2"><li><a href="https://www.hycm.com/it"><h6 class="flag it">Italiano</h6></a></li><li><a href="https://www.hycm.com/ru"><h6 class="flag ru">Русский</h6></a></li><li><a href="https://www.hycm.com/cn"><h6 class="flag cn">中文</h6></a></li></ul></div></ul>
+</section>
+			<!-- ngSwitchWhen: out --><!-- ngIf: !demoAuth --><div ng-switch-when="out" ng-if="!demoAuth" class="ng-scope">
+			<section id="block-block-7--2" class="block block-block clearfix">
+
+      
+  <div class="license-no-header"><p>FCA许可证号: <span class="textR"><a class="textLink" href="https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfHH0AAN" target="_blank">186171</a><a></a></span></p></div>
+</section>
+	
+			</div><!-- end ngIf: !demoAuth --><!-- end ngSwitchWhen: -->
+			<!-- ngSwitchWhen: truein -->
+		</div>
+
+		<!-- ngIf: demoAuth -->
+	</div>
+
+</div>
+		          		
+	</div>
+   <div class="container">
+    <div class="navbar-header">
+              <a class="logo navbar-btn pull-left" href="https://www.hycm.com/cn/" title="Home">
+          <img src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/logo_hycm_cn.svg" alt="兴业投资外汇平台">
+        </a>
+      
+      
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar top-bar"></span>
+  <span class="icon-bar middle-bar"></span>
+  <span class="icon-bar bottom-bar"></span>
+        </button>
+               <div class="reg_log_btn_tablet hidden-lg ">
+          <a class="btn green-btn hidden hidden-lg " href="https://www.hycm.com/cn/account/overview" id="prof_btn_top">账户概况</a>
+          <a class="btn red-whitebg-btn " id="login_btn_top" href="https://www.hycm.com/cn/login">登录</a>
+
+        </div>
+    </div>
+  
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                                            <div class="region region-navigation">
+    <section id="block-block-15" class="block block-block pull-right clearfix">
+
+      
+  <div class="pos-log">
+<a id="login_btn" href="https://www.hycm.com/cn/login" class="btn red-whitebg-btn hidden-xs hidden-sm hidden-md">登录</a>
+<a id="prof_btn" href="https://www.hycm.com/cn/account/overview" class="btn green-btn hidden hidden-xs hidden-sm hidden-md">账户概况</a>
+<a href="https://www.hycm.com/cn/register" class="btn red-btn chating hidden-xs hidden-sm hidden-md">开立账户</a>
+<a id="login_btn" href="https://ib.hycm.com/login.hyml?lang=zh_CN" target="_blank" class="btn red-whitebg-btn hidden-xs hidden-sm hidden-md">IB管理后台</a>
+</div>
+</section>
+<section id="block-hycm-menu-hycm-menu" class="block block-hycm-menu pull-left clearfix">
+
+      
+  <div class="cd-dropdown-wrapper"><nav id="cbp-hrmenu" class="cbp-hrmenu">
+					<ul class="cd-dropdown-content"><li class="has-children"><a class="" href="#"><h4 class="">关于我们</h4></a>
+							<div class="cbp-hrsub">
+								<div class="cbp-hrsub-inner"> 
+					<div class="text-desc hidden-sm hidden-xs">  <h4 class=" textR">关于我们</h4>
+                    <p>欢迎来到兴业投资（英国）！兴业投资（英国）受FCA监管，是外汇和CFD交易的市场领导者</p>
+                    <a class="grey-btn btn textW" href="https://www.hycm.com/cn/about">了解更多</a>
+                  </div>
+<div><ul class="cd-secondary-dropdown is-hidden">
+                    		<li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+<li><a href="https://www.hycm.com/cn/about/advantages">公司优势</a></li>
+<li><a href="https://www.hycm.com/cn/about/license-and-regulation">监管与资金安全</a></li>
+<li><a href="https://www.hycm.com/cn/about/group-history">集团历史</a></li>
+<li><a href="https://www.hycm.com/cn/about/international-offices">国际办事处</a></li>
+<li><a href="https://www.hycm.com/cn/about/awards">兴业奖项</a></li>
+<li><a href="https://www.hycm.com/cn/support/contact">联系我们</a></li>
+</ul></div>
+</div>
+</div>
+</li>
+<li class="has-children"><a class="" href="#"><h4 class="">交易产品</h4></a>
+	<div class="cbp-hrsub">
+	<div class="cbp-hrsub-inner">
+	<div class="text-desc hidden-sm hidden-xs">   <h4 class="textR">交易产品</h4>
+                    <p>在这里，您可以全面了解到兴业投资（英国）所有的产品信息以及点差/保证金</p>
+                    <a class="grey-btn btn textW" href="https://www.hycm.com/cn/products">了解更多 </a>	</div>
+<div><ul class="cd-sec-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+                    <li><a class="" href="https://www.hycm.com/cn/products?product=0">外汇</a></li>
+			<li><a class="" href="https://www.hycm.com/cn/products?product=1">贵金属</a></li>
+			<!-- <li><a class="" href="/cn/products?product=2">能源</a></li>
+			<li><a class="" href="/cn/products?product=3">软性商品</a></li> -->
+			<li><a class="" href="https://www.hycm.com/cn/products?product=2">股票和指数</a></li>		
+			<!-- <li><a class="" href="/cn/products?product=2">指数</a></li>	-->
+			<li><a class="" href="https://www.hycm.com/cn/products?product=3">点差和保证金</a></li>					
+					</ul></div></div></div></li>
+					<li class="has-children"><a class="" href="#"><h4 class="">外汇平台</h4></a>
+							<div class="cbp-hrsub">
+								<div class="cbp-hrsub-inner"> 
+									<div class="text-desc hidden-sm hidden-xs"> 
+										<h4 class="textR">外汇平台</h4>
+										 <p>多种外汇交易平台任您选择，电脑版、手机版和网页版一应俱全</p>
+										  <a class="grey-btn btn textW" href="https://www.hycm.com/cn/platforms">了解更多 </a>
+									</div>
+									<div>
+									<ul class="cd-5-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+<li><a href="https://www.hycm.com/cn/platforms/account-types">账户类型</a></li>
+<li><a href="https://www.hycm.com/cn/platforms/trader">电脑版 HY Trader</a></li>
+<li><a href="https://www.hycm.com/cn/platforms/mobile-trading">手机版 移动端交易</a></li>
+<li><a href="https://www.hycm.com/cn/platforms/webTrader">网页版 HY WebTrader</a></li>
+</ul>
+</div>
+</div></div></li>
+<li class="has-children"><a class="" href="#"><h4 class="">教育与工具</h4></a>
+<div class="cbp-hrsub">
+		<div class="cbp-hrsub-inner"> 
+				<div class="text-desc hidden-sm hidden-xs"> 
+					<h4 class=" textR">教育与工具</h4>
+						<p>知识是开启财富的钥匙！兴业投资（英国）为您提供全面及详实的学习视频，以及外汇平台交易所需的工具和即时资讯</p>
+                    <a class="grey-btn btn textW" href="https://www.hycm.com/cn/education-and-markets">了解更多 </a>	</div>
+									<div>
+		<ul class="cd-thrd-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+		<li><a href="https://www.hycm.com/cn/education-and-markets/videos">视频教程</a></li>
+		<li><a href="https://www.hycm.com/cn/sites/www.hycm.com.cn/themes/hycmcn/platforms/ebook.pdf" target="_blank">电子教程</a></li>
+	 <li><a href="https://www.hycm.com/cn/education-and-markets/trading-signals">交易信号</a></li>
+		<li><a href="https://www.hycm.com/cn/education-and-markets/economic-calendar">财经日历</a></li>
+		<li><a href="https://www.hycm.com/cn/education-and-markets/news">即时新闻</a></li>
+		<li><a href="https://www.hycm.com/cn/education-and-markets/daily-commentary">每日评论</a></li>
+		<li><a href="https://www.hycm.com/cn/education-and-markets/daily-outlook">今日播报</a></li>
+	<!-- <li><a href="/cn/education-and-markets/webinars">在线讲座</a></li> -->
+	     <li><a href="http://edu.pro-daily.com/" target="_blank">在线讲座</a></li>
+		<li><a href="https://www.hycm.com/cn/education-and-markets/forex-getting-started">外汇入门</a></li>
+		<li><a href="https://www.hycm.com/cn/hylp/2017finance-talk" target="_blank">年度专题</a></li>
+		
+</ul>
+</div>
+</div></div></li>
+
+<li class="has-children"><a class="" href="#"><h4 class="">合作伙伴</h4></a>
+							<div class="cbp-hrsub">
+								<div class="cbp-hrsub-inner"> 
+							<div class="text-desc hidden-sm hidden-xs"> 
+ <h4 class=" textR">合作伙伴</h4>
+     <p>成为兴业投资（英国）的盟友和介绍经纪人（IBs)，享有全面的技术和业务支援服务</p>
+    <a class="grey-btn btn textW" href="https://www.hycm.com/cn/partnerships">了解更多 </a>
+      </div>
+<div>
+<ul class="cd-5-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li>
+
+<li><a href="https://www.hycm.com/cn/partnerships/media-affiliates">媒体盟友</a></li>
+<li><a href="https://www.hycm.com/cn/partnerships/introducing-brokers">介绍经纪人</a></li>
+<li><a href="https://www.hycm.com/cn/partnerships/white-label-partners">白标伙伴</a></li>
+
+</ul></div></div>
+	</div></li>
+<li class="has-children"><a class="" href="#"><h4 class="">客户支持</h4></a>
+<div class="cbp-hrsub">
+	<div class="cbp-hrsub-inner"> 
+<div class="text-desc hidden-sm hidden-xs"> 
+ <h4 class=" textR">客户支持</h4>
+     <p>我们的客户服务5天24小时为您提供帮助</p>
+    <a class="grey-btn btn textW" href="https://www.hycm.com/cn/support/contact">了解更多 </a>
+      </div>
+<div>
+<ul class="cd-4-dropdown is-hidden"><li class="go-back visible-sm visible-xs"><a href="#">返回</a></li><li><a href="https://www.hycm.com/cn/support/contact">联系我们</a></li>
+<li><a href="https://www.hycm.com/cn/support/getting-started">开户流程</a></li>
+<li><a href="https://www.hycm.com/cn/hylp/activity-review">线上活动</a></li>
+<li><a href="https://www.hycm.com/cn/support/event" target="_blank">线下活动</a></li>
+<li><a href="https://www.hycm.com/cn/support/account-funding">支付方式</a></li>
+<li><a href="https://www.hycm.com/cn/support/forms-and-documents">常用表单</a></li>
+<li><a href="https://www.hycm.com/cn/support/holiday-notice">假期通知</a></li>
+<li><a href="https://www.hycm.com/cn/support/contract-expiry-notice">期货到期通知</a></li>
+<li><a href="https://www.hycm.com/cn/support/faq">常见问答</a></li>
+<li><a href="https://www.hycm.com/cn/support/risk-warning">风险警告及披露</a></li>
+</ul></div>
+</div></div>
+</li>
+</ul>
+</nav></div>
+</section>
+  </div>
+                  </nav>
+      </div>
+      </div>
+</header>
+
+
+    <div class="innerbanner topbanner-platforms"> <div class="container">
+  <h1 class="banner-title">外汇平台</h1></div>
+    </div>
+       
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+      <div class="Section-quotes"> 
+	<div class="maincontent container">
+  	<div class="row">   
+        <div class="region region-content-quotes">
+    <section id="block-block-13" class="block block-block clearfix">
+
+      
+  <div class="hidden-xs hidden-sm ">
+<ul id="side-bar" class="side-pannel side-bar"><li>
+  <a href="#" class="text qq" onclick="live800Click()"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>客服</a></li>
+ <li> <a href="https://www.hycm.com/cn/banking" class="text deposit"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>入金</a></li>
+ <li> <a href="https://www.hycm.com/cn/register" target="_blank" class="text reg"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>开户</a></li>
+ <li> <a href="https://www.hycm.com/cn/demo" target="_blank" class="text demo"><i class="comm-small-icons2 side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i></a></li>
+ <li> <a href="https://www.hycm.com/cn/platforms/trader" target="_blank" class="text down"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>下载</a></li>
+ <li> <a href="" class="text qrcode"><i class="comm-small-icons side-button-links pull-left col-xs-offset-4 col-xs-1 col-md-offset-0 col-sm-offset-0"></i>微信 <img class="qrshow" src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/QR-HYCM-CN.jpg"></a></li>
+
+</ul></div>
+</section>
+  </div>
+ </div>
+</div>
+</div>
+       <section class="col-sm-12">
+                  <a id="main-content"></a>
+    
+                                        <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-20" class="node node-page node-promoted node-sticky clearfix" about="/cn/platforms" typeof="foaf:Document">
+    <header>
+            <span property="dc:title" content="外汇平台" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>兴业投资（英国）为投资者进入全球资本市场提供便捷渠道。不论何时何地，您都可以通过网页版平台HY Webtrader、行业内领先的下载版平台HY Trader，或手机版平台交易。</p><br><h4 class="latoH textB">概览</h4>
+<p>不妨在兴业投资（英国）一试，体验全球资本市场通道的便捷。不管您是新手，还是经验丰富的交易者，兴业投资（英国）为您提供不同的交易方案。您可以
+通过我们产品类别多样的网页版平台或享誉全球的MT4平台HY 
+Trader进行交易。我们还提供支持苹果和安卓操作系统的手机应用，可以让您随时随地在手机及平板设备上交易。</p>
+
+    <div class="col-md-4">
+       <div class="box_bg less-col plat-col">
+         <div class="platforms tab-plat"></div><br><h4 class="latoH textB ul-title text-center">HY Trader</h4><br><ul class="mh-200 list-style ul-no-style bullet lft30 "><li>行业领先交易软件</li>
+            <li>可从单一综合账户交易所有资本市场产品</li>
+            <li>全面的图表、图形和技术分析工具</li>
+          </ul><div class="text-center">
+          <a class="btn grey-btn" href="https://www.hycm.com/cn/platforms/trader">了解更多</a>
+        </div><br></div>
+    </div>
+        <div class="col-md-4">
+       <div class="box_bg less-col plat-col">
+         <div class="platforms mob-plat"></div><br><h4 class="latoH textB ul-title text-center">手机版 移动端交易</h4><br><ul class="mh-200 list-style ul-no-style bullet lft30 "><li>在智能手机上随时随地交易</li>
+            <li>支持安卓和苹果系统</li>
+            <li>进行全面的账户和订单管理</li>
+          </ul><div class="text-center ">
+           <a class="btn grey-btn" href="https://www.hycm.com/cn/platforms/mobile-trading">了解更多</a>
+         </div><br></div>
+   </div>
+   
+    <div class="col-md-4 ">
+       <div class="box_bg less-col plat-col">
+         <div class="platforms des-plat"></div><br><h4 class="latoH textB ul-title text-center">HY WebTrader</h4><br><ul class="mh-200 list-style ul-no-style bullet lft30 "><li>基于网页的平台</li>
+            <li>清晰、简洁的界面</li>
+            <li>交易产品高达200多种</li>
+			<li>在线账户信息和管理</li>
+			<li>多种报价视图满足投资者不同需求</li>
+			<li>提供保证止损</li>
+          </ul><div class="text-center">
+            <a class="btn grey-btn" href="https://www.hycm.com/cn/platforms/webTrader">了解更多</a>
+          </div><br></div>
+    </div>
+
+    </div></div></div>    </article>
+
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+
+
+  <footer class="footer">
+    <div class="footer-top">
+    <div class="container">
+      <div class="region region-footer">
+    <section id="block-block-6" class="block block-block clearfix">
+
+      
+  <p class="textW risk"><b>高风险投资提示：</b>差价合约（CFD）是一种使用保证金交易的复杂的金融产品。交易差价合
+约（CFD）具有高风险。您有可能亏损掉所有资金。这些产品可能不适合所有人。您应当确保您已理解其中所涉及的风险。若有需要，请咨询个别专家建议，且在
+您能够承担的亏损范围内投资。请综合所有相关情况以及您的个人资源，仔细考虑这些交易是否适合您。我们不建议客户用所有账户余额来满足保证金要求。客户可
+以通过要求改变杠杆限制将风险敞口水平降到最低。更多详情，请参阅兴业投资（英国）<a class="textR" href="https://www.hycm.com/cn/support/risk-warning">风险警告及披露</a>。另外，网站内容仅供参考，并不作为推荐或建议。兴业投资（英国）发布的宣传中包含的任何过去表现的参考或模拟不能作为未来结果的可靠指标。客户对其在兴业投资（英国）的所有业务或投资单独负责。</p>
+</section>
+  </div>
+    </div></div>
+            <div class="footer-first">
+    <div class="container">
+      <div class="region region-footer-first">
+    <section id="block-footer-sitemap-footer-sitemap" class="block block-footer-sitemap textW clearfix">
+
+      
+  <div id="footer-sitemap" class="clearfix">
+  <div class="fs-block-content"><div class="main-menu"><ul class="footer_links_main-menu total-items-6 parent-items-0 single-items-0"><li class="menu-443 depth-1 total-children-6 parent-children-0 single-children-6  first"><a href="https://www.hycm.com/cn/about" class="fs-root-link">关于我们</a><ul class="footer_links_main-menu total-items-6 parent-items-0 single-items-0"><li class="menu-444 depth-1 fs-no-children  first"><a href="https://www.hycm.com/cn/about/advantages">公司优势</a></li>
+<li class="menu-445 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/about/license-and-regulation">监管与资金安全</a></li>
+<li class="menu-446 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/about/group-history">集团历史</a></li>
+<li class="menu-447 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/about/international-offices">国际办事处</a></li>
+<li class="menu-448 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/about/awards">兴业奖项</a></li>
+<li class="menu-449 depth-1 fs-no-children  last"><a href="https://www.hycm.com/cn/support/contact">联系我们</a></li>
+</ul></li>
+<li class="menu-450 depth-1 total-children-4 parent-children-0 single-children-4"><a href="https://www.hycm.com/cn/products" class="fs-root-link">交易产品</a><ul class="footer_links_main-menu total-items-4 parent-items-0 single-items-0"><li class="menu-461 depth-1 fs-no-children  first"><a href="https://www.hycm.com/cn/products?product=0" title="">外汇</a></li>
+<li class="menu-463 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/products?product=1" title="">贵金属</a></li>
+<li class="menu-1169 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/products?product=2">股票和指数</a></li>
+<li class="menu-466 depth-1 fs-no-children  last"><a href="https://www.hycm.com/cn/products?product=3">点差和保证金</a></li>
+</ul></li>
+<li class="menu-467 depth-1 total-children-4 parent-children-0 single-children-4  active"><a href="https://www.hycm.com/cn/platforms" class="fs-root-link active">外汇平台</a><ul class="footer_links_main-menu total-items-4 parent-items-0 single-items-0"><li class="menu-468 depth-1 fs-no-children  first"><a href="https://www.hycm.com/cn/platforms/account-types">账户类型</a></li>
+<li class="menu-469 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/platforms/trader">电脑版 HY Trader</a></li>
+<li class="menu-470 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/platforms/mobile-trading">手机版 移动端交易</a></li>
+<li class="menu-471 depth-1 fs-no-children  last"><a href="https://www.hycm.com/cn/platforms/webTrader">网页版 HY WebTrader</a></li>
+</ul></li>
+<li class="menu-472 depth-1 total-children-10 parent-children-0 single-children-10"><a href="https://www.hycm.com/cn/education-and-markets" class="fs-root-link">教育与工具</a><ul class="footer_links_main-menu total-items-10 parent-items-0 single-items-0"><li class="menu-473 depth-1 fs-no-children  first"><a href="https://www.hycm.com/cn/education-and-markets">视频教程</a></li>
+<li class="menu-1195 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/www.hycm.com.cn/themes/hycmcn/platforms/ebook.pdf" target="_blank">电子教程</a></li>
+<li class="menu-474 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/education-and-markets/trading-signals">交易信号</a></li>
+<li class="menu-475 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/education-and-markets/economic-calendar">财经日历</a></li>
+<li class="menu-567 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/education-and-markets/news">即时新闻</a></li>
+<li class="menu-1180 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/education-and-markets/daily-commentary">每日评论</a></li>
+<li class="menu-566 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/education-and-markets/daily-outlook">今日播报</a></li>
+<li class="menu-739 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/education-and-markets/webinars" target="_blank">在线讲座</a></li>
+<li class="menu-1181 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/education-and-markets/forex-getting-started">外汇入门</a></li>
+<li class="menu-1198 depth-1 fs-no-children  last"><a href="https://www.hycm.com/cn/hylp/2017finance-talk" target="_blank">年度专题</a></li>
+</ul></li>
+<li class="menu-476 depth-1 total-children-3 parent-children-0 single-children-3"><a href="https://www.hycm.com/cn/partnerships" class="fs-root-link">合作伙伴</a><ul class="footer_links_main-menu total-items-3 parent-items-0 single-items-0"><li class="menu-477 depth-1 fs-no-children  first"><a href="https://www.hycm.com/cn/partnerships/media-affiliates">媒体盟友</a></li>
+<li class="menu-478 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/partnerships/introducing-brokers">介绍经纪人</a></li>
+<li class="menu-479 depth-1 fs-no-children  last"><a href="https://www.hycm.com/cn/partnerships/white-label-partners">白标伙伴</a></li>
+</ul></li>
+<li class="menu-481 depth-1 total-children-10 parent-children-0 single-children-10  last"><a href="https://www.hycm.com/cn/support/contact" title="" class="fs-root-link">客户支持</a><ul class="footer_links_main-menu total-items-10 parent-items-0 single-items-0"><li class="menu-482 depth-1 fs-no-children  first"><a href="https://www.hycm.com/cn/support/contact" title="">联系我们</a></li>
+<li class="menu-483 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/support/getting-started">开户流程</a></li>
+<li class="menu-1188 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/hylp/activity-review" target="_blank">线上活动</a></li>
+<li class="menu-985 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/support/event" target="_blank">线下活动</a></li>
+<li class="menu-484 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/support/account-funding">支付方式</a></li>
+<li class="menu-485 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/support/forms-and-documents">常用表单</a></li>
+<li class="menu-775 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/support/holiday-notice">假期通知</a></li>
+<li class="menu-781 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/support/contract-expiry-notice">期货到期通知</a></li>
+<li class="menu-487 depth-1 fs-no-children"><a href="https://www.hycm.com/cn/support/faq">常见问答</a></li>
+<li class="menu-568 depth-1 fs-no-children  last"><a href="https://www.hycm.com/cn/support/risk-warning">风险警告及披露</a></li>
+</ul></li>
+</ul></div>
+</div>
+</div>
+
+</section>
+  </div>
+    </div></div>
+             <div class="footer-second">
+    <div class="container">
+     
+      <div class="region region-footer-second">
+    <section id="block-block-9" class="block block-block clearfix">
+
+      
+  <div class="row">
+<div class="col-md-8 col-sm-12">
+<ul class="list-inline footer-contact-links"><li class="col-sm-4 col-xs-12 footer-icons-xs"> <a href="https://www.hycm.com/cn/support/contact"><i class="com-sp contact-links pull-left contact col-xs-offset-4 col-xs-1 col-md-offset-0  col-sm-offset-0"></i> <h5 class="textW col-xs-4 col-md-7 col-sm-7 text-left">联系我们</h5></a></li>
+<li class="col-sm-4 col-xs-12 footer-icons-xs"><a onclick="live800Click();" href="#"><i class="com-sp contact-links pull-left livechat col-xs-offset-4 col-xs-1 col-md-offset-0  col-sm-offset-0"></i><h5 class="textW col-xs-4 col-md-7 col-sm-7 text-left">在线客服</h5></a></li>
+<li class="col-sm-4 col-xs-12 call-xs footer-icons-xs"><a href="" data-toggle="modal" data-target="#CallBackModal"><i class="com-sp contact-links pull-left call col-xs-offset-4 col-xs-1 col-md-offset-0  col-sm-offset-0"></i><h5 class="textW col-xs-4 col-md-7 col-sm-7 text-left">来电回访</h5></a></li></ul></div>
+<!--<div class="col-md-4 col-sm-12">
+<ul class="list-inline social-media-links tb-xs lp">
+<li class="col-sm-2 col-sm-offset-1 col-xs-2 col-xs-offset-1 col-md-offset-2"> <a target="_blank" href="https://twitter.com/HYCM">
+            <i class="com-sp social-media lp twitter"></i></a></li>    
+           <li class="col-sm-2 col-xs-2"> <a target="_blank" href="https://www.facebook.com/hycm">
+            <i class="com-sp social-media  facebook"></i></a></li>        
+    <li class="col-sm-2 col-xs-2"><a target="_blank" href="">
+            <i class="com-sp social-media  tumblr"></i></a></li>
+           <li class="col-sm-2 col-xs-2"> <a  target="_blank" href="https://www.linkedin.com/company/hycm">
+            <i class="com-sp social-media  instagram"></i></a></li>
+            <li class="col-sm-2 col-xs-2"><a  target="_blank" href="https://plus.google.com/106861226736161719453/about">
+            <i class="com-sp social-media gplus"></i></a></li>
+ </ul></div>--></div>
+
+  <div class="modal fade call-back-top " id="CallBackModal" role="dialog">
+    <div class="modal-dialog call-back">
+    
+      <!-- Modal content-->
+      <div class="modal-content call-back-bg">
+       <button class="glyphicon glyphicon-remove callb pull-right" aria-hidden="true" data-dismiss="modal" type="button"></button>
+        <div class="modal-header">
+          <i class="com-sp contact-links pull-left call call-phone"></i>
+          <h2 class="textW modal-title">来电回访</h2>
+        </div>
+
+        <div class="fix-model ng-scope" ng-controller="HomeController">
+
+          <form name="userFormCB" novalidate="" ng-submit="userFormCB.$valid &amp;&amp; SendData()" id="userFormCB" class="ng-pristine ng-invalid ng-invalid-required ng-valid-pattern ng-valid-maxlength ng-valid-email ng-valid-minlength">
+            <div class="fix-table">
+
+			<div id="succ1CB" class="alert alert-success alert-dismissable hidden">
+				<button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+				已成功提交请求。我们将尽快电话您。
+			</div>
+
+			<div id="err1CB" class="alert alert-danger alert-dismissable hidden">
+				<button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+				系统出错。 请稍后再试。
+			</div>
+
+              <div id="name_divCB" class="form-group callB pt-30" ng-class="{'has-error': (submitted2CB &amp;&amp; userFormCB.firstNameCB.$invalid)}" show-errors="">
+		<div class="col-sm-12-CB"><label class="latoR control-label">名: </label>
+		<input ng-pattern="/^[A-Za-z\-\s\'\_\u0391-\uFFE5]+$/" id="name_inpCB" onblur="click_remove_error(this)" ng-click="submitted2CB=false; clicked2CB=true;" class="form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-pattern ng-valid-maxlength" name="firstNameCB" ng-model="firstNameCB" required="" maxlength="35" type="text"></div>
+		<div class="col-sm-12-CB"><!-- ngIf: (clicked2CB && userFormCB.firstNameCB.$invalid) || (submitted2CB && userFormCB.firstNameCB.$invalid) --> 
+	     </div></div>
+<div id="surname_divCB" class="form-group callB" ng-class="{'has-error': (submitted02CB &amp;&amp; userFormCB.surnameCB.$invalid)}" show-errors="">
+		<div class="col-sm-12-CB"><label class="latoR control-label">姓: </label>
+		  <input ng-pattern="/^[A-Za-z]+$/" id="surname_inpCB" onblur="click_remove_error(this)" ng-click="submitted02CB=false; clicked02CB=true;" class="form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-pattern ng-valid-maxlength" name="surnameCB" ng-model="surnameCB" required="" maxlength="40" type="text"></div>
+		<div class="col-sm-12-CB"><!-- ngIf: (clicked02CB && userFormCB.surnameCB.$invalid) || (submitted02CB && userFormCB.surnameCB.$invalid) -->
+                </div>
+	     </div>
+           <div id="email_divCB" ng-class="{'has-error': (submittedCB &amp;&amp; userFormCB.emailCB.$invalid)}" class="form-group callB" show-errors="">
+             <div class="col-sm-12-CB"><label class="latoR control-label">电子邮箱: </label>
+             <input ng-class="{'ng-valid': (userFormCB.emailCB.$valid)}" id="email_inpCB" onblur="click_remove_error(this)" ng-click="submittedCB=false; clickedCB=true;" validate-email="" class="form-control ng-pristine ng-untouched ng-valid-email ng-invalid ng-invalid-required" name="emailCB" ng-model="emailCB" required="" type="email"></div>
+             <div class="col-sm-12-CB"><!-- ngIf: (clickedCB && userFormCB.emailCB.$invalid)  || (submittedCB && userFormCB.emailCB.$invalid) --> 
+           </div></div>
+
+          <div class="form-group callB" ng-class="{'has-error': (submitted7CB &amp;&amp; userFormCB.areaListCB.$invalid)}">
+		<div class="col-sm-12-CB"><label class="latoR">国家: </label>
+		<select class="change select-inp form-control ng-pristine ng-untouched ng-invalid ng-invalid-required" ng-model="areaListCB" name="areaListCB" ng-options="areaCB as areaCB.ch_name for areaCB in areasCB" required=""><option value="" disabled="disabled" selected="selected" class="">- 选择 -</option><option label="阿富汗" value="object:4">阿富汗</option><option label="阿兰，阿兰群岛" value="object:5">阿兰，阿兰群岛</option><option label="阿尔巴尼亚" value="object:6">阿尔巴尼亚</option><option label="阿尔及利亚" value="object:7">阿尔及利亚</option><option label="美属萨摩亚" value="object:8">美属萨摩亚</option><option label="安道尔" value="object:9">安道尔</option><option label="安哥拉" value="object:10">安哥拉</option><option label="安圭拉岛" value="object:11">安圭拉岛</option><option label="南极洲" value="object:12">南极洲</option><option label="安提瓜和巴布达" value="object:13">安提瓜和巴布达</option><option label="阿根廷" value="object:14">阿根廷</option><option label="亚美尼亚" value="object:15">亚美尼亚</option><option label="阿鲁巴" value="object:16">阿鲁巴</option><option label="澳大利亚" value="object:17">澳大利亚</option><option label="奥地利" value="object:18">奥地利</option><option label="阿塞拜疆" value="object:19">阿塞拜疆</option><option label="巴哈马" value="object:20">巴哈马</option><option label="巴林" value="object:21">巴林</option><option label="孟加拉国" value="object:22">孟加拉国</option><option label="巴巴多斯" value="object:23">巴巴多斯</option><option label="白俄罗斯" value="object:24">白俄罗斯</option><option label="比利时" value="object:25">比利时</option><option label="伯利兹" value="object:26">伯利兹</option><option label="贝宁" value="object:27">贝宁</option><option label="百慕大群岛" value="object:28">百慕大群岛</option><option label="不丹" value="object:29">不丹</option><option label="玻利维亚" value="object:30">玻利维亚</option><option label="波斯尼亚和黑塞哥维那" value="object:31">波斯尼亚和黑塞哥维那</option><option label="博茨瓦纳" value="object:32">博茨瓦纳</option><option label="布韦岛" value="object:33">布韦岛</option><option label="巴西" value="object:34">巴西</option><option label="英属维尔京群岛" value="object:35">英属维尔京群岛</option><option label="不列颠印度洋属土" value="object:36">不列颠印度洋属土</option><option label="文莱达鲁萨兰国" value="object:37">文莱达鲁萨兰国</option><option label="保加利亚" value="object:38">保加利亚</option><option label="布基纳法索" value="object:39">布基纳法索</option><option label="布隆迪" value="object:40">布隆迪</option><option label="柬埔寨" value="object:41">柬埔寨</option><option label="喀麦隆" value="object:42">喀麦隆</option><option label="加拿大" value="object:43">加拿大</option><option label="佛得角" value="object:44">佛得角</option><option label="开曼群岛" value="object:45">开曼群岛</option><option label="中非共和国" value="object:46">中非共和国</option><option label="乍得" value="object:47">乍得</option><option label="智利" value="object:48">智利</option><option label="中国" value="object:49">中国</option><option label="香港特区中国" value="object:50">香港特区中国</option><option label="澳门特区中国" value="object:51">澳门特区中国</option><option label="圣诞岛" value="object:52">圣诞岛</option><option label="科科斯群岛（基灵群岛）" value="object:53">科科斯群岛（基灵群岛）</option><option label="哥伦比亚" value="object:54">哥伦比亚</option><option label="科摩罗" value="object:55">科摩罗</option><option label="刚果（布拉柴维尔）" value="object:56">刚果（布拉柴维尔）</option><option label="刚果（金沙萨）" value="object:57">刚果（金沙萨）</option><option label="库克群岛" value="object:58">库克群岛</option><option label="哥斯达黎加" value="object:59">哥斯达黎加</option><option label="科特迪瓦" value="object:60">科特迪瓦</option><option label="克罗地亚" value="object:61">克罗地亚</option><option label="古巴" value="object:62">古巴</option><option label="塞浦路斯" value="object:63">塞浦路斯</option><option label="捷克共和国" value="object:64">捷克共和国</option><option label="丹麦" value="object:65">丹麦</option><option label="吉布提" value="object:66">吉布提</option><option label="多米尼加" value="object:67">多米尼加</option><option label="多米尼加共和国" value="object:68">多米尼加共和国</option><option label="厄瓜多尔" value="object:69">厄瓜多尔</option><option label="埃及" value="object:70">埃及</option><option label="萨尔瓦多" value="object:71">萨尔瓦多</option><option label="赤道几内亚" value="object:72">赤道几内亚</option><option label="厄立特里亚" value="object:73">厄立特里亚</option><option label="爱沙尼亚" value="object:74">爱沙尼亚</option><option label="埃塞俄比亚" value="object:75">埃塞俄比亚</option><option label="福克兰群岛（马尔维纳斯）" value="object:76">福克兰群岛（马尔维纳斯）</option><option label="法罗群岛" value="object:77">法罗群岛</option><option label="斐济群岛" value="object:78">斐济群岛</option><option label="芬兰" value="object:79">芬兰</option><option label="法国" value="object:80">法国</option><option label="法属圭亚那" value="object:81">法属圭亚那</option><option label="法属波利尼西亚" value="object:82">法属波利尼西亚</option><option label="法属南部领地" value="object:83">法属南部领地</option><option label="加蓬" value="object:84">加蓬</option><option label="冈比亚" value="object:85">冈比亚</option><option label="乔治亚" value="object:86">乔治亚</option><option label="德国" value="object:87">德国</option><option label="加纳" value="object:88">加纳</option><option label="直布罗陀" value="object:89">直布罗陀</option><option label="希腊" value="object:90">希腊</option><option label="格陵兰" value="object:91">格陵兰</option><option label="格林纳达" value="object:92">格林纳达</option><option label="瓜德罗普岛" value="object:93">瓜德罗普岛</option><option label="关岛" value="object:94">关岛</option><option label="危地马拉" value="object:95">危地马拉</option><option label="根西岛" value="object:96">根西岛</option><option label="几内亚" value="object:97">几内亚</option><option label="几内亚比绍" value="object:98">几内亚比绍</option><option label="圭亚那" value="object:99">圭亚那</option><option label="海地" value="object:100">海地</option><option label="听到和麦克唐纳群岛" value="object:101">听到和麦克唐纳群岛</option><option label="教廷（梵蒂冈城）" value="object:102">教廷（梵蒂冈城）</option><option label="洪都拉斯" value="object:103">洪都拉斯</option><option label="匈牙利" value="object:104">匈牙利</option><option label="冰岛" value="object:105">冰岛</option><option label="印度" value="object:106">印度</option><option label="印度尼西亚" value="object:107">印度尼西亚</option><option label="伊朗伊斯兰共和国" value="object:108">伊朗伊斯兰共和国</option><option label="伊拉克" value="object:109">伊拉克</option><option label="爱尔兰" value="object:110">爱尔兰</option><option label="马恩岛" value="object:111">马恩岛</option><option label="以色列" value="object:112">以色列</option><option label="意大利" value="object:113">意大利</option><option label="牙买加" value="object:114">牙买加</option><option label="日本" value="object:115">日本</option><option label="新泽西" value="object:116">新泽西</option><option label="约旦" value="object:117">约旦</option><option label="哈萨克斯坦" value="object:118">哈萨克斯坦</option><option label="肯尼亚" value="object:119">肯尼亚</option><option label="基里巴斯" value="object:120">基里巴斯</option><option label="韩国（北）" value="object:121">韩国（北）</option><option label="韩国（南）" value="object:122">韩国（南）</option><option label="科威特" value="object:123">科威特</option><option label="吉尔吉斯斯坦" value="object:124">吉尔吉斯斯坦</option><option label="老挝人民民主共和国" value="object:125">老挝人民民主共和国</option><option label="拉脱维亚" value="object:126">拉脱维亚</option><option label="黎巴嫩" value="object:127">黎巴嫩</option><option label="莱索托" value="object:128">莱索托</option><option label="利比里亚" value="object:129">利比里亚</option><option label="利比亚" value="object:130">利比亚</option><option label="列支敦士登" value="object:131">列支敦士登</option><option label="立陶宛" value="object:132">立陶宛</option><option label="卢森堡" value="object:133">卢森堡</option><option label="马其顿共和国" value="object:134">马其顿共和国</option><option label="马达加斯加" value="object:135">马达加斯加</option><option label="马拉维" value="object:136">马拉维</option><option label="马来西亚" value="object:137">马来西亚</option><option label="马尔代夫" value="object:138">马尔代夫</option><option label="马里" value="object:139">马里</option><option label="马耳他" value="object:140">马耳他</option><option label="马绍尔群岛" value="object:141">马绍尔群岛</option><option label="马提尼克岛" value="object:142">马提尼克岛</option><option label="毛里塔尼亚" value="object:143">毛里塔尼亚</option><option label="毛里求斯" value="object:144">毛里求斯</option><option label="马约特岛" value="object:145">马约特岛</option><option label="墨西哥" value="object:146">墨西哥</option><option label="密克罗尼西亚联邦" value="object:147">密克罗尼西亚联邦</option><option label="摩尔多瓦" value="object:148">摩尔多瓦</option><option label="摩纳哥" value="object:149">摩纳哥</option><option label="蒙古" value="object:150">蒙古</option><option label="黑山" value="object:151">黑山</option><option label="蒙特塞拉特" value="object:152">蒙特塞拉特</option><option label="摩洛哥" value="object:153">摩洛哥</option><option label="莫桑比克" value="object:154">莫桑比克</option><option label="缅甸" value="object:155">缅甸</option><option label="纳米比亚" value="object:156">纳米比亚</option><option label="瑙鲁" value="object:157">瑙鲁</option><option label="尼泊尔" value="object:158">尼泊尔</option><option label="荷兰" value="object:159">荷兰</option><option label="荷属安的列斯群岛" value="object:160">荷属安的列斯群岛</option><option label="新喀里多尼亚" value="object:161">新喀里多尼亚</option><option label="新西兰" value="object:162">新西兰</option><option label="尼加拉瓜" value="object:163">尼加拉瓜</option><option label="尼日尔" value="object:164">尼日尔</option><option label="尼日利亚" value="object:165">尼日利亚</option><option label="纽埃" value="object:166">纽埃</option><option label="诺福克岛" value="object:167">诺福克岛</option><option label="北马里亚纳群岛" value="object:168">北马里亚纳群岛</option><option label="挪威" value="object:169">挪威</option><option label="阿曼" value="object:170">阿曼</option><option label="巴基斯坦" value="object:171">巴基斯坦</option><option label="帕劳群岛" value="object:172">帕劳群岛</option><option label="巴勒斯坦领土" value="object:173">巴勒斯坦领土</option><option label="巴拿马" value="object:174">巴拿马</option><option label="巴布亚新几内亚" value="object:175">巴布亚新几内亚</option><option label="巴拉圭" value="object:176">巴拉圭</option><option label="秘鲁" value="object:177">秘鲁</option><option label="菲律宾" value="object:178">菲律宾</option><option label="皮特凯恩" value="object:179">皮特凯恩</option><option label="波兰" value="object:180">波兰</option><option label="葡萄牙" value="object:181">葡萄牙</option><option label="波多黎各" value="object:182">波多黎各</option><option label="卡塔尔" value="object:183">卡塔尔</option><option label="团圆" value="object:184">团圆</option><option label="罗马尼亚" value="object:185">罗马尼亚</option><option label="俄罗斯联邦" value="object:186">俄罗斯联邦</option><option label="卢旺达" value="object:187">卢旺达</option><option label="圣巴泰勒米" value="object:188">圣巴泰勒米</option><option label="圣赫勒拿" value="object:189">圣赫勒拿</option><option label="圣基茨和尼维斯" value="object:190">圣基茨和尼维斯</option><option label="圣卢西亚" value="object:191">圣卢西亚</option><option label="圣马丁" value="object:192">圣马丁</option><option label="圣皮埃尔和密克隆" value="object:193">圣皮埃尔和密克隆</option><option label="圣文森特和格林纳丁斯" value="object:194">圣文森特和格林纳丁斯</option><option label="萨摩亚" value="object:195">萨摩亚</option><option label="圣马力诺" value="object:196">圣马力诺</option><option label="圣多美和普林西比" value="object:197">圣多美和普林西比</option><option label="沙特阿拉伯" value="object:198">沙特阿拉伯</option><option label="塞内加尔" value="object:199">塞内加尔</option><option label="塞尔维亚共和国" value="object:200">塞尔维亚共和国</option><option label="塞拉利昂" value="object:201">塞拉利昂</option><option label="塞拉利昂" value="object:202">塞拉利昂</option><option label="新加坡" value="object:203">新加坡</option><option label="斯洛伐克" value="object:204">斯洛伐克</option><option label="斯洛文尼亚" value="object:205">斯洛文尼亚</option><option label="所罗门群岛" value="object:206">所罗门群岛</option><option label="索马里" value="object:207">索马里</option><option label="南非" value="object:208">南非</option><option label="南乔治亚和南桑威奇群岛" value="object:209">南乔治亚和南桑威奇群岛</option><option label="南苏丹" value="object:210">南苏丹</option><option label="西班牙" value="object:211">西班牙</option><option label="斯里兰卡" value="object:212">斯里兰卡</option><option label="苏丹" value="object:213">苏丹</option><option label="苏里南" value="object:214">苏里南</option><option label="斯瓦尔巴群岛和扬马宁群岛" value="object:215">斯瓦尔巴群岛和扬马宁群岛</option><option label="斯威士兰" value="object:216">斯威士兰</option><option label="瑞典" value="object:217">瑞典</option><option label="瑞士" value="object:218">瑞士</option><option label="阿拉伯叙利亚共和国（叙利亚）" value="object:219">阿拉伯叙利亚共和国（叙利亚）</option><option label="台湾" value="object:220">台湾</option><option label="塔吉克斯坦" value="object:221">塔吉克斯坦</option><option label="坦桑尼亚联合共和国" value="object:222">坦桑尼亚联合共和国</option><option label="泰国" value="object:223">泰国</option><option label="东帝汶" value="object:224">东帝汶</option><option label="多哥" value="object:225">多哥</option><option label="托克劳" value="object:226">托克劳</option><option label="汤加" value="object:227">汤加</option><option label="特立尼达和多巴哥" value="object:228">特立尼达和多巴哥</option><option label="突尼斯" value="object:229">突尼斯</option><option label="土耳其" value="object:230">土耳其</option><option label="土库曼斯坦" value="object:231">土库曼斯坦</option><option label="特克斯群岛和凯科斯群岛" value="object:232">特克斯群岛和凯科斯群岛</option><option label="图瓦卢" value="object:233">图瓦卢</option><option label="乌干达" value="object:234">乌干达</option><option label="乌克兰" value="object:235">乌克兰</option><option label="阿拉伯联合酋长国" value="object:236">阿拉伯联合酋长国</option><option label="英国" value="object:237">英国</option><option label="美国" value="object:238">美国</option><option label="美国小离岛" value="object:239">美国小离岛</option><option label="乌拉圭 " value="object:240">乌拉圭 </option><option label="乌兹别克斯坦" value="object:241">乌兹别克斯坦</option><option label="瓦努阿图" value="object:242">瓦努阿图</option><option label="委内瑞拉玻利瓦尔共和国" value="object:243">委内瑞拉玻利瓦尔共和国</option><option label="越南" value="object:244">越南</option><option label="维尔京群岛" value="object:245">维尔京群岛</option><option label="瓦利斯群岛和富图纳群岛" value="object:246">瓦利斯群岛和富图纳群岛</option><option label="撒哈拉沙漠西部" value="object:247">撒哈拉沙漠西部</option><option label="也门" value="object:248">也门</option><option label="赞比亚" value="object:249">赞比亚</option><option label="津巴布韦" value="object:250">津巴布韦</option></select></div>
+		<div class="col-sm-12-CB"><!-- ngIf: (submitted7CB && userFormCB.areaListCB.$invalid) --></div>
+	</div>
+
+
+        <div id="phone_divCB" class="form-group callB" ng-class="{'has-error': (submitted4CB &amp;&amp; userFormCB.phoneCB.$invalid)}" show-errors="">
+         <div class="col-sm-12-CB"> <label class="latoR">联络电话:</label>
+         <input disabled="disabled" ng-model="areaListCB.value" class="phone-prefix form-control ng-pristine ng-untouched ng-valid" type="text"><input ng-minlength="8" maxlength="20" id="phone_inpCB" onblur="click_remove_error(this)" ng-click="submitted4CB=false; clicked4CB=true;" class="phone-input form-control ng-pristine ng-untouched ng-invalid ng-invalid-required ng-valid-minlength ng-valid-maxlength" name="phoneCB" ng-model="phoneCB" required="required" numbers-only="numbers-only" type="text"></div>
+          <div class="col-sm-12-CB"><!-- ngIf: (clicked4CB && userFormCB.phoneCB.$invalid) || (submitted4CB && userFormCB.phoneCB.$invalid) --> </div>
+        </div>
+            
+            <div id="question_divCB" class="form-group callB" ng-class="{'has-error': (submitted3CB &amp;&amp; userFormCB.questionCB.$invalid)}" show-errors="">
+              <div class="col-sm-12-CB"><label class="latoR">问题: </label>
+              <textarea id="question_inpCB" type="text" onblur="click_remove_error(this)" ng-click="submitted3CB=false; clicked3CB=true;" class="form-control call-back-question pull-left ng-pristine ng-untouched ng-invalid ng-invalid-required" name="questionCB" ng-model="questionCB" required=""></textarea></div><div class="col-sm-12-CB"><!-- ngIf: (clicked3CB && userFormCB.questionCB.$invalid) || (submitted3CB && userFormCB.questionCB.$invalid) --> </div>
+             
+            </div>
+
+</div>
+
+          <div id="div_btn_CB" class="xs-center mt-10">          
+          <button id="btn_addCB" class="btn green-btn mt-30" type="submit" ng-click="submittedCB=true;submitted2CB=true;submitted02CB=true;submitted3CB=true;submitted4CB=true;submitted7CB=true;">
+            <span id="load_anim" class="hidden"></span><span id="load_msg" class="hidden">LOADING...</span><span id="text_btn">提交</span>
+          </button>
+        </div>
+
+           </form>
+
+         </div>
+
+      </div>
+     </div>
+      
+    </div>
+</section>
+  </div>
+   </div></div>
+             <div class="footer-third">
+    <div class="container">
+      <div class="row">
+      <div class="region region-footer-third">
+    <section id="block-block-14" class="block block-block clearfix">
+
+      
+  <div class="text-center footer-meta">
+<img alt="Home" style="width=130px;" src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/logo_hycm_cn.svg"><ul class="latoM terms-links list-inline normal-terms"><li><a href="https://www.hycm.com/cn/support/forms-and-documents">条款和细则</a></li>
+                <li><a href="https://www.hycm.com/cn/about/license-and-regulation">客户资金保护</a></li>
+                <li><a href="https://www.hycm.com/cn/support/forms-and-documents">常用表单</a></li>
+                <li><a href="https://www.hycm.com/cn/support/forms-and-documents">Cookies政策</a></li>
+                <li><a href="https://www.hycm.com/cn/support/forms-and-documents">个人隐私条款</a></li>
+              </ul><ul class="latoM terms-links list-inline hidden yahui-terms"><li><a href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/HYCM_CN_Customer_Agreement1.pdf">用户协议</a></li>
+                <li><a href="https://www.hycm.com/cn/sites/www.hycm.com.cn/files/HYCM%20Terms%20of%20Business_CN.pdf">商业条款</a></li>
+              </ul></div>
+
+
+
+
+
+
+</section>
+  </div>
+    </div></div></div>
+              <div class="footer-last">
+    <div class="container">
+      <div class="region region-footer-fourth">
+    <section id="block-block-1" class="block block-block clearfix">
+
+      
+  <p class="licen latoM text-center">
+<span class="copyri bold"> COPYRIGHT© 
+2018- 兴业投资（英国）是兴业资本市场（英国）有限公司的交易名称。版权所有</span><br>
+英国伦敦EC2N 2AN，思罗克英顿大街28号3楼 <br>
+兴业投资（英国）由英国金融市场行为管理局（FCA）授权并监管，许可证号：<a class="textLink" href="https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000MfHH0AAN" target="_blank">186171</a>
+</p>
+</section>
+  </div>
+    </div></div>
+             <div class="footer-fixed">
+      <div class="region region-footer-fixed-bottom">
+    <section id="block-block-21" class="block block-block clearfix">
+
+      
+  <h6 class="latoR text-center risk">风险提示：所有外汇及差价合约交易都会对您的资本带来高风险。您有可能亏损掉所有资金。因此，这些产品可能不适合所有人。您应当确保您已理解其中所涉及的风险，若有需要，请咨询个别专家建议。</h6>
+</section>
+  </div>
+    </div>
+      </footer>
+
+    <script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/eu_cookie_compliance.js"></script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/cbpHorizontalMenu.js"></script>
+<script>(function($){
+				cbpHorizontalMenu.init();
+			})(jQuery);</script>
+<script src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/bootstrap_002.js"></script>
+    
+<script>
+function live800Click(){
+document.getElementById('live800iconlink').click();
+}
+</script>
+
+
+<div style="display:none;"><a href="http://www.live800.com/">ΤΪΟίΏΝ·ώ</a></div><script language="javascript" src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/textButton.js"></script><script language="javascript" src="HY%20Trader%20|%20HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%20|%20MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0_HYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84_files/textStatic.js"></script><a id="live800iconlink" target="_blank" href="javascript:void(0)" onclick="return live800.navigateToUrl('https://chat8.live800.com/live800/chatClient/chatbox.jsp?companyID=299276&amp;configID=149790&amp;jid=1221985430&amp;enterurl=https%3A%2F%2Fwww.hycm.com%2Fcn%2Fplatforms&amp;pagetitle=HY+Trader+%7C+HY%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0+%7C+MT4%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0%5FHYCM%E5%85%B4%E4%B8%9A%E6%8A%95%E8%B5%84&amp;pagereferrer=https%3A%2F%2Fwww%2Ehycm%2Ecom%2Fcn&amp;firstEnterUrl=https%3A%2F%2Fwww%2Ehycm%2Ecom%2Fcn', 'chatbox299276', globalWindowAttribute,this);">.</a><a href="javascript:void(0);" id="live800:link" style="visibility:hidden;position:absolute;top:0px;right:0px;">&nbsp;</a>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTMH9LL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+
+</body></html>

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">Fintech透视——金融科技的定义与分类</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2018/01/15 18:22:28</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p><span style="font-size: 14px;">金融科技或称Fintech泛指技术进步驱动的金融创新，随着互联网与信息技术的突飞猛进，现在特指科技产业与金融服务的融合，类似“联姻”。在后金融危机时代，Fintech是个非常时髦的名词，被政府、社会以及专家人士等热捧。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/upload/catcher/20180115/6365163725218387807602363.jpg" width="536" height="292" border="0" vspace="0" title="高朋外汇" alt="高朋外汇" style="width: 536px; height: 292px;"/></p><p><br/></p><p><strong><span style="font-size: 14px;">如何定义Fintech</span></strong></p><p><br/></p><p><span style="font-size: 14px;">近几年，随着互联网金融加强规范， Fintech一词开始日益受到业界关注，甚至很多原来积极宣称介入互联网金融行业的企业，纷纷改弦易辙，举起金融科技大旗。</span></p><p><br/></p><p><span style="font-size: 14px;">金融科技的定义目前并未统一，因此关于金融科技，大家也都给出了自己的理解：</span></p><p><br/></p><p><span style="font-size: 14px;">维基百科：它是由一群通过科技，让金融服务更高效的企业，构成的一个经济产业。Fintech公司通常是那些尝试绕过现存金融体系，而直接触达用户的初创企业，它们挑战着那些较少依赖于软件的传统机构。</span></p><p><br/></p><p><span style="font-size: 14px;">蚂蚁金服总裁井贤栋："Fintech并非简单的在'互联网上做金融'，而是基于移动互联网、云计算和大数据等技术、实现金融服务和产品的发展创新和效率提升。”</span></p><p><br/></p><p><span style="font-size: 14px;">京东金融CEO陈生强：京东金融认为，金融科技公司应该定义成，“遵从金融本质，以数据为基础，以技术为手段，为金融行业服务，从而帮助金融行业提升效率、降低成本。”</span></p><p><br/></p><p><span style="font-size: 14px;">高盛全球金融机构投行副主席John Mahoney：金融科技公司需要以技术为基础，并且专注于金融产品与服务价值链上一部分或多部分，主要包括支付、科技支持型借贷、保险科技、市场结构、资产管理科技和资金筹集。</span></p><p><br/></p><p><span style="font-size: 14px;">中国银行网络金融部副总经理董俊峰：主要指互联网公司或者高科技公司利用云计算、大数据、移动互联等新兴技术开展的低门槛金融服务。这些服务和银行所提供的金融产品和服务，不是颠覆的关系，而是互为补充。</span></p><p><br/></p><p><span style="font-size: 14px;">全球金融稳定委员会：金融与科技相互融合，创造新的业务模式、新的应用、新的流程和新的产品，从而对金融市场、金融机构、金融服务的提供方式形成非常大的影响。</span></p><p><br/></p><p><span style="font-size: 14px;">金融科技更侧重于表达对科技的运用，而互联网科技则更多的指的是一种商业模式，二者有着本质上的不同。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">金融科技的主要分类</span></strong></p><p><br/></p><p><span style="font-size: 14px;">2016年以来，国内外著名金融机构如高盛、大摩、招商银行以及计算机软硬件提供商如谷歌、苹果、百度等企业为金融科技行业投入了巨额资金，使金融科技领域快速发展，金融科技行业细分也不断丰富。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">分类一：新型的支付手段</span></strong></p><p><br/></p><p><span style="font-size: 14px;">借助于信息技术的进步，传统的支付业务越来越多的被新型支付手段替代。产生了短信支付、扫码支付、NFC近场支付、生物识别技术支付等众多支付手段。新的支付手段为用户带来了更加便捷，快速的体验，也使得交易过程变得更加安全。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">分类二：区块链技术</span></strong></p><p><br/></p><p><span style="font-size: 14px;">区块链技术得本质是去中心化且寓于分布式结构的数据存储、传输和证明的方法。区块链技术目前还处于探索应用阶段，但对金融领域的基础设施和体系结构具有颠覆性的影响力，因而广受关注。已有银行运用区块链技术开展贸易结算，用数字加密技术传递传统的纸质版的提单，大大提高了结算效率和安全性。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">分类三：多样化的融资方式</span></strong></p><p><br/></p><p><span style="font-size: 14px;">传统的融资方式资金渠道单一，融资成本高昂，使得很多小企业及其他长尾客户融资十分困难，随着电子商务、支付技术和大数据技术的发展，传统融资方式逐渐改变。以众筹和P2P为代表的网络借贷发展迅猛。尽管单笔信贷额度不大，但服务范围广泛，涉及长尾客户，体现出普惠金融特征。消费金融借助电商大数据获得大量增长，电商平台可以为消费者提供分期付款等业务，弥补了传统金融的不足。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">分类四：智能金融理财服务</span></strong></p><p><br/></p><p><span style="font-size: 14px;">随着大数据、云计算和人工智能技术的发展，这些技术纷纷被应用到金融领域，为客户提供投资顾问、咨询等服务。智能投顾比传统的投资顾问更加理性，灵敏，精确和高效，成本也更加低廉，它的发展在海外得到了用户的青睐，国内的企业也纷纷试水，行业的发展十分迅速，前景光明。</span></p><p><br/></p><p><span style="font-size: 14px;">目前智能金融理财服务的创新领域主要包括：人工智能算法在投资决策中的运用; 大数据和自动化技术在信息搜集、处理中的应用; 人机交互技术在确定投资目标和风险控制过程中的应用;以及云计算等在提升运用管理和风险管理中的应用。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">分类五：大数据风控和征信</span></strong></p><p><br/></p><p><span style="font-size: 14px;">大数据风控是指通过运用大数据构建模型的方法对借款人进行风险控制和风险提示。与原有人为对借款企业或借款人进行经验式风控不同，通过采集大量借款人或借款企业的各项指标进行数据建模的大数据风控更为科学有效。大数据征信主要来源于企业庞大的消费者数据，比传统征信行业更广泛，更多样化，可以从多个维度建立起个人的信用画像，能够更加全面地反映个人信用状况。</span></p><p><br/></p><p><span style="font-size: 14px;">通过大数据、云计算以及人工智能等科技的运用，金融机构相互之间、金融机构与金融科技公司之间的壁垒将被打破，合作、共享、联合运营将成为未来金融业发展的主流。</span></p><p><br/></p><p><span style="font-size: 14px;">伴随Fintech 的持续发展，信息科技将深度改造金融业，只有那些真正以技术驱动的创新、能够影响人们生活的产品才能带领企业穿越时间、历经考验。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=6760BC0D7A6748C2A6BC3AB789C792A7" class="previous_news" title="美元暴跌之后该往左走还是往右走">上一篇：美元暴跌之后该往左走还是往右走</a>
+                            <a href="?id=A811B55CCD8F44BB938CCFE044674DEF" class="next_news" title="区块链简史：解读这场技术革命的前世今生">下一篇：区块链简史：解读这场技术革命的前世今生</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

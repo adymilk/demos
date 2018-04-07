@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+.inn_cont{ padding-bottom:70px;}
+.inn_left{ width:393px; float:left;}
+.inn_right{ width:670px; float:right;}
+.inn_ul li{ font-size:15px; color:#404040; text-indent:2em; line-height:28px; background:url(/Content/Images/newindex/icons/diamond_icon2.png) no-repeat 2px 11px;}
+
+.inn_left.coop{ width:538px;}
+.inn_right.coop{ width:538px;}
+.inn_left.coop h3,.inn_right.coop h3{ height:28px; line-height:26px; border-radius:5px; padding-left:10px; font-size:18px; color:#fff; background:#1c85de;}
+.inn_left.coop ul,.inn_right.coop ul{ padding-left:10px; padding-top:10px;}
+.inn_left.coop ul li,.inn_right.coop ul li{ font-size:16px; color:#1c85de; line-height:32px;}
+.cooptitle0{ width:625px; height:46px; margin:0 auto; border:1px dashed #2280bf; background:url(/Content/Images/newindex/icons/big_ling.png) no-repeat 25px center; border-radius:25px;}
+.cooptitle1{ width:625px; height:46px; line-height:46px; text-align:center; font-size:22px; color:#187fd7; background:url(/Content/Images/newindex/icons/big_ling.png) no-repeat 581px center;}
+.flowpath{ padding-top:45px;}
+.flowpath li{ font-size:17px; color:#1c84dd; text-align:center; height:30px; line-height:30px; margin:4px auto;}
+.flowpath li.text{ border:1px solid #aad1f2; border-radius:5px; width:330px;}
+.flowpath li.text.text2{ border:1px dashed #aad1f2; width:125px;}
+.inn_right.coop h3.vistah3{ background:#1c85de url(/Content/Images/newindex/icons/ling_white.png) no-repeat 10px center; padding-left:30px;}
+.inn_right.coop ul{ padding-top:5px;}
+.inn_right.coop ul.vistaul li{ text-indent:2em; background:url(/Content/Images/newindex/icons/ling_blue.png) no-repeat 12px 7px; line-height:23px; color:#404040;}
+.vista_p{ font-size:18px; color:#404040; line-height:30px; padding:20px 0; text-align:center;}
+.vistatable{ border-left:1px solid #499ce4; border-bottom:1px solid #499ce4;}
+.vistatable tbody tr td{ height:24px; padding:15px 5px; line-height:24px; font-size:18px; color:#1c84dd; text-align:center;border-right:1px solid #499ce4; border-top:1px solid #499ce4;}
+.vistah4{ font-size:30px; color:#036eb6; text-align:center; line-height:40px; padding-top:90px; padding-bottom:30px; font-weight:bold;}
+.asia_img{ display:block; margin:0 auto;}
+.vista_p2{ font-size:18px; color:#404040; line-height:30px; padding-bottom:20px; text-align:center;}
+.vista_cont{ height:82px;}
+.vista_left{ width:50%; height:82px; float:left;border-radius:5px;}
+.vista_left.left1{background:url(/Content/Images/Gimfch/vista_bg1.png) no-repeat;}
+.vista_left.left2{background:url(/Content/Images/Gimfch/vista_bg2.png) no-repeat;}
+.vista_left.left3{background:url(/Content/Images/Gimfch/vista_bg3.png) no-repeat;}
+.vista_left h3{ line-height:82px; font-size:31px; color:#fff; text-align:center;}
+.vista_right{ width:50%; float:right;}
+.vista_right p{ border-radius:5px; margin-left:2px; border:1px dashed #61a4d1; font-size:15px; color:#404040; line-height:25px; height:65px; padding:15px 28px 0;}
+.procedurebox{ height:240px; padding:40px 0 10px; text-align:center;}

@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-风险披露</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+    <!--animate.css动画效果-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/TradeCategory/tradecategory.css" />
+    <link href="/Content/Images/newindex/gpp.ico" rel="shortcut icon" type="image/x-icon" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav hover">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+
+<!--小banner-->
+<div class="cont_banner ban_bg_06"></div>
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1" style=" padding-top:60px;">
+            <!--标题-->
+            <div class="com_title0 wow fadeIn">
+                <span class="com_title1"><h2> RISK DISCLOSURE </h2></span>
+            </div>
+            <h3 class="sub_title wow fadeIn">风险披露</h3>
+            <!-- 标题结束 -->
+            <!-- 内容 -->
+            <div class="clearfix margb70">
+                <img class="fl_Left wow fadeInLeft" style=" margin-left:40px; padding-top:5px;" src="/Content/Images/User/riskdis1.png" alt="" title="" />
+                <div class="kinds_present fl_Right wow fadeInRight" style="width:675px; padding-right:60px;">
+                    <ul class="rd_ul">
+                        <li class="rd_title">G－imfch市场意见</li>
+                        <li>任何发表在本网站的评论、新闻、研究、分析、价格及其他资料只能视作一般市场资讯，并不构成投资建议。G-IMFCH不会为直接或间接使用或依赖此等资料而造成的任何亏损或损失(包括但不限于任何盈利的损失)负责。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="clearfix margb70">
+                <img class="fl_Left wow fadeInLeft" style=" margin-left:40px; padding-top:5px;" src="/Content/Images/User/riskdis2.png" alt="" title="" />
+                <div class="kinds_present fl_Right wow fadeInRight" style="width:675px; padding-right:60px;">
+                    <ul class="rd_ul">
+                        <li class="rd_title">无交易员平台外汇执行模式</li>
+                        <li>G-IMFCH透过直通式处理方式(或无交易员平台外汇执行模式)提供外汇交易执行。在这个模式之下，G-IMFCH向客户提供的报价是G-IMFCH其中一名流通量提供者所给予的最佳价格另加对每个货币对所附加的固定标高点子。在这个模式下，G-IMFCH并非作为任何货币对的市场庄家。因此，G-IMFCH依赖这些外部提供者提供外汇报价。虽然这种模式可促进效率及市场定价竞争，但是流通量的若干限制却可能会使阁下指令的最终执行受到影响。</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="clearfix margb70">
+                <img class="fl_Left wow fadeInLeft" style=" margin-left:40px; padding-top:5px;" src="/Content/Images/User/riskdis3.png" alt="" title="" />
+                <div class="kinds_present fl_Right wow fadeInRight" style="width:675px; padding-right:60px;">
+                    <ul class="rd_ul">
+                        <li class="rd_title">滑点</li>
+                        <li>G-IMFCH致力为客户提供最佳交易执行，并竭力按照要求的价格成交所有指令。虽然如此，有时基于市场波动或交易量增加的原因，指令可能会受滑点影响。滑点最常在基础新闻事件或流通量有限的期间发生。以交易转仓(美东时间下午5:00)为例的情况来说，这是一个众所周知流通量倾向有限的期间，因为不少流通量提者都会对当天的交易进行交收。在此等期间内，阁下的指令类别、所需的数量，及特定指令指示可能会对阁下所获得的整体交易执行造成影响。</li>
+                        <li class="point_no">市场波动期间可能会造成指令难以执行的情况。例如，在执行阁下指令时阁下所获得的价格可能会基于市场变动而跟所选择或所报的价格相差许多点子。在此情况下，交易者期望以指定价位执行交易，但举例说，在少于一秒的时间内，市场可能已大幅偏离该价格。交易者的指令其后将会就该特定指令按下一个可得价格执行。同样地，基于G-IMFCH的无交易员平台外汇执行模式，必须存在足够的流通量以于任何价格执行所有交易。</li>
+                        <li class="point_no">此外，止损保证交易执行，但却不保证可按特定价格执行。因此，视乎市场情况而定，止损单可能出    现滑点。</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="clearfix">
+                <img class="fl_Left wow fadeInLeft" style=" margin-left:40px; padding-top:5px;" src="/Content/Images/User/riskdis4.png" alt="" title="" />
+                <div class="kinds_present fl_Right wow fadeInRight" style="width:675px; padding-right:60px;">
+                    <ul class="rd_ul">
+                        <li class="rd_title">流通量</li>
+                        <li>在开市后的头几个小时成交倾向比平常淡静，直至东京及伦敦开市为止。市场淡静时买家及卖家较少，差价较大，这大致上是因为开市的头几个小时对于世界上大部分地方来说仍然是周末。流动量亦可能会在交易转仓(美东时间下午5:00)时受到影响，因为我们不少流通量提供者会暂时中断网络以对当天的交易进行交收，而这亦可能会因为乏流通量的缘故而导致该个时间的买卖差价较大。在市场缺乏流通量时，交易者可能会难以按其要求的价格建立或将持仓平仓、遇到延迟执行，及获取一个跟要求价格相距极多点子的执行价格</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- 内容结束 -->
+        </div>
+
+
+
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

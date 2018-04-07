@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">四大理由告诉你硬脱欧或对英镑有利</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2018/02/24 15:25:59</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p><span style="font-size: 14px;">关于英镑前景的压倒性共识是，软脱欧对其有利，硬脱欧将使英镑承压。然而，外汇市场以神秘的方式运作着，这一压倒性共识也不一定就是正确的。Pound Sterling Live认为，完全有理由相信英镑将受益于硬脱欧。以下就是其给出的四大理由。</span></p><p><br/></p><p><span style="font-size: 14px;">总有理想不倒的事情发生，所以要永远做好准备：美元和特朗普的贸易保护主义言论就是例子</span></p><p><br/></p><p><span style="font-size: 14px;">放眼看看美国的例子，交易者在英国最终硬脱欧的情况下，对于卖出英镑应三思而后行。</span></p><p><br/></p><p><span style="font-size: 14px;">特朗普竞选时的贸易保护主义言论被大多数货币分析师解读为对美元不利。</span></p><p><br/></p><p><span style="font-size: 14px;">他们认为，限制外国进口将对美国企业的竞争力造成负面影响，进而损害美国经济，削弱美元。</span></p><p><br/></p><p><span style="font-size: 14px;">最后，事实却恰恰相反，美元出现了上涨。虽然可以认为这是对更大幅度的财政刺激措施的预期所带来的，但部分原因是由于对外贸采取了更强硬的立场，预计进口将减少。</span></p><p><br/></p><p><span style="font-size: 14px;">撇开“美国公司竞争力”不谈，仅从简单的流动角度来看，似乎贸易保护主义立场对货币更加有利(至少在贸易逆差的国家是这样)。</span></p><p><br/></p><p><span style="font-size: 14px;">英国贸易地位调整，硬脱欧对欧元打击或更大</span></p><p><br/></p><p><span style="font-size: 14px;">与美国一样，英国也有贸易赤字，因此任何贸易障碍都可能严重影响进口，这对欧元的打击可能要比英镑还要严重。</span></p><p><br/></p><p><span style="font-size: 14px;">英国从欧盟的进口量要远远超过对其的出口量，差不多要高出20%左右。因此，如果英国硬脱欧，贸易量受到影响的话，英国将调整对进口的依赖。</span></p><p><br/></p><p><span style="font-size: 14px;">因此，对欧元的需求最终会减少。在其他条件不变的情况下，英镑兑欧元汇率方面，欧元将受到负面的影响，而非英镑，进而最终导致英镑的上涨。</span></p><p><br/></p><p><span style="font-size: 14px;">然而，这种调整将在很长一段时间内发生。英国消费者面临昂贵的进口商品将感到很头疼，而这反过来又促使他们寻求国内替代产品。</span></p><p><br/></p><p><span style="font-size: 14px;">此外，随着移民的减少，在英国工作的欧盟成员国公民带来的汇款也会减少。这一影响虽不是很大，但仍旧是一个不可忽视的因素。</span></p><p><br/></p><p><span style="font-size: 14px;">对英镑来说，脱欧确定下来对其是有利的</span></p><p><br/></p><p><span style="font-size: 14px;">英国脱欧公投后，英镑遭受重创，因为市场认为不确定性的突然激增会影响商业投资决策。</span></p><p><br/></p><p><span style="font-size: 14px;">迄今为止，不确定性仍然是英镑估值的一大绊脚石。分析师表示，不确定性越少，英镑的环境就越好。</span></p><p><br/></p><p><span style="font-size: 14px;">一旦英国脱欧决定作出后，即使最终走的是硬脱欧，不确定性溢价也将消失。</span></p><p><br/></p><p><span style="font-size: 14px;">正是不确定最终的贸易关系会是什么样子，阻碍了投资决策，而不是软脱欧还是硬脱欧的问题。这种不确定性的解除对很多投资者来说，应该都是一种解脱。所以说，硬脱欧对英镑的打击可能还不如不确定性带来的打击大。</span></p><p><br/></p><p><span style="font-size: 14px;">企业资本流动：英国企业的国际影响力或推升英镑</span></p><p><br/></p><p><span style="font-size: 14px;">反对脱欧者认为，在英国硬脱欧的情况下，许多在英国经营的公司将会选择离开，因为英国将无法为这些公司提供进入欧洲的门户，这对英国经济不利，进而导致英镑走弱。</span></p><p><br/></p><p><span style="font-size: 14px;">假设这是对的，那么单纯从资本流动角度来看，它对英镑可能并不是消极的，因为这会导致这些公司不再将利润汇到其海外基地，从而减少了英镑卖出以及外汇需求。</span></p><p><br/></p><p><span style="font-size: 14px;">假设这是对的，英镑在脱欧后下跌。难么他们可能也不会立即选择汇钱回去，这样就亏了，所以他们可能会等着英镑反弹。</span></p><p><br/></p><p><span style="font-size: 14px;">与此同时，英国自己的企业部门可能相对不受英国脱欧的影响，并且考虑到英国企业的国际影响力很大，他们往英国汇钱的情况将持续下去，并且会很快超过资金流出的下滑，从而导致对英镑的持续需求。</span></p><p><br/></p><p><span style="font-size: 14px;">此外，由于英国跨国公司的原因，在全球经济复苏浪潮中，英国将从中受益。这就解释了为什么英国富时100(FTSE)指数与英镑呈负相关关系。因为汇率关系，英镑走弱，公司利润会增加。</span></p><p><br/></p><p><span style="font-size: 14px;">最后，虽然英镑在脱欧公投后，因投资者对英国经济表示担忧，英镑一夜之间下跌了10%以上。但随着英国经济保持相对弹性，英镑出现了反弹。</span></p><p><br/></p><p><span style="font-size: 14px;">综上，硬脱欧并不一定是给英镑当头一棒，英镑上涨的可能性还是存在的。所以投资者应保持谨慎的态度，切勿盲目跟风。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=ADF3D7B1998D467AACDEB1B690B15EFE" class="previous_news" title="美联储主席鲍威尔能否救美元于水火之中？">上一篇：美联储主席鲍威尔能否救美元于水火之中？</a>
+                            <a href="?id=6CD4CAB1EC3441F882EEB695FF5F2990" class="next_news" title="外币红包意外走红背后隐患有哪些">下一篇：外币红包意外走红背后隐患有哪些</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

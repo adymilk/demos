@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">新西兰金融+精英旅学把风景做成明信片寄给你</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2017/12/27 19:14:14</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p style="line-height: 1.5em;"><span style="font-size: 14px;">在新西兰旅行，感觉就像走进油画里，或者是漫步天堂。明媚的阳光透着清亮，湛蓝的大海汹涌壮观，自由的海鸥俯仰皆是，如茵的青草满地牛羊。</span></p><p><br/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">12月16日，乘车穿越南岛农业重镇坎特伯里冲积平原和辽阔的纽西兰乡间牧场景致后抵达南阿尔卑斯山麓，沿途一路欣赏着美景。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999660066665098758797.jpg" title="1.jpg" alt="1.jpg" width="867" height="1156" border="0" vspace="0" style="width: 867px; height: 1156px;"/></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20171227/6364999663954191927017426.jpg" title="2.jpg" alt="2.jpg" width="867" height="1156" border="0" vspace="0" style="width: 867px; height: 1156px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">这张照片画面感是不是很美，只是黑衣服哥们的手放的位置太尴尬了。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999671646565437421245.jpg" title="3.jpg" alt="3.jpg" width="867" height="578" border="0" vspace="0" style="width: 867px; height: 578px;"/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">这就是传说中的放飞自我吧，我要起飞，我要飞得更高！</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999675983373053290476.jpg" title="4.jpg" alt="4.jpg" width="867" height="579" border="0" vspace="0" style="width: 867px; height: 579px;"/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">路上偶遇的这个穿着粉色碎花吊带裙的小女孩，呆萌可爱的样子，就像一个从天而落的小天使，Hello!</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999681000341863992592.jpg" title="5.jpg" alt="5.jpg" width="867" height="579" border="0" vspace="0" style="width: 867px; height: 579px;"/></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999682692944839130404.jpg" title="6.jpg" alt="6.jpg" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">我们到达格雷茅斯，新西兰南岛西岸港市，座落于新西兰南岛西海岸，背靠着南阿尔卑斯山脚，这里曾经是毛利人居住的地方。</span></p><p><br/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">最让人称奇的是Punakaiki普纳凯基的薄饼岩，位于普纳凯基国家公园的千层岩，形成于3千万年前，是新西兰著名景观。吹着海风，欣赏着层层叠叠的薄饼岩，惊叹大自然的鬼斧神工。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999702948020412760561.jpg" title="7.jpg" alt="7.jpg" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">千层薄饼岩还有一大奇观就是潮涌洞，在涨潮时分，这里每隔几分钟就会出现喷泉状的水雾，伴随着潮水击打岩石内的空心部分而产生的巨大轰鸣，很壮观。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999710099072974170347.jpg" title="8.jpg" alt="8.jpg" width="867" height="578" border="0" vspace="0" style="width: 867px; height: 578px;"/></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999711818195994292533.jpg" title="9.jpg" alt="9.jpg" width="867" height="578" border="0" vspace="0" style="width: 867px; height: 578px;"/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">南岛西海岸艺术小镇Hokitika霍奇蒂卡，又名玉石小镇。充满19世纪古典建筑物的小镇街道上处处皆是手工艺品小店，有玻璃艺术品，玉石和鲍鱼贝壳和骨器加工装饰品店。当天晚上，我们一行到达福克斯冰川小镇。</span></p><p><br/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">12月17日，本来兴致勃勃地想体验一下坐直升飞机高空游览冰川，但是由于早上下了小雨，所以没有飞成，心中留有小小遗憾，但这也算是给自己留有一个念想，成为下次再来一游的最好理由。</span></p><p><br/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">我们接着来到阿斯帕林山国家公园，公园得名于它的最高峰--阿斯帕林山，是《指环王》系列电影的拍摄场地，因这里无人居住，景色如史诗般壮丽。公园内有高山、冰川、河谷、高山湖泊等景观，由于下过雨的关系，观看雪山若隐若现，雾气升腾缭绕，颇有人间仙境的感觉。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999716855444835465698.jpg" title="10.jpg" alt="10.jpg" width="867" height="580" border="0" vspace="0" style="width: 867px; height: 580px;"/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">午餐后乘车前往瓦纳卡湖（Lake Wanaka）位于新西兰南岛的奥塔哥区，被高高的山脉包围，是新西兰第四大湖泊。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999727416663384608065.jpg" title="11.jpg" alt="11.jpg" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999736509919361917922.jpg" title="12.jpg" alt="12.jpg" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">你没看错，这里除了有成群结队的海鸥在空中翩翩翱翔，地上还有贪吃的嘎嘎呆萌鸭们紧紧盯着游客手中的美味食物。突然想起丑小鸭的故事，可是应该还有天鹅才对！</span></p><p><br/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">瓦纳卡湖水纯净透明，湛蓝清澈，由于未经破坏，仍然保留着最原始的风貌，空气清新无比，淳真质朴，与天地浑然一体，像是隐匿于人间的世外桃源。漫步湖边，游游泳、喝喝咖啡或仅仅是坐在湖边斗个地主，偶然打个盹小憩一下，都有偷得浮生半日闲的感受。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999741238287669443099.jpg" title="13.jpg" alt="13.jpg" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></p><p><br/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">沿着瓦纳卡湖散步，遇见了世界上最美最独孤的瓦纳卡之树，长在湖边又靠湖中心的地方，与岸边的树群瑶瑶相望，婀娜的身姿，微微俯身弄裙的谦卑与优雅，湖中照镜的骄傲与孤芳自赏，遗世独立，在湖中倔强又勇敢地站成一道风景。</span></p><p><br/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">它像一个妖娆多姿的百变女郎，一千个人去拍，会呈现一千种不同的美；它又像一首诗，一万个人去读，它会有一万个完全不同的诗意。不知不自觉爱上这棵孤独的树。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999746996257772689418.jpg" title="001.jpg" alt="001.jpg" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></p><p style="line-height: 1.5em; text-align: center;"><img src="/Upload/UEdit/20171227/6364999752194186908699902.jpg" title="002.jpg" alt="002.jpg" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">来新西兰这几天，完全被这里的美景折服，被冰爽的冰淇淋和鲜美的水果吸引，尤其是水果，让人垂涎欲滴。12月18日，上午去了水果镇，现场采摘车厘子。都说自己动手，丰衣足食，吃着自己亲手摘的车厘子，真的是很甜。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999830041443631590655.jpg" title="1001.jpg" alt="1001.jpg" width="867" height="488" border="0" vspace="0" style="width: 867px; height: 488px;"/></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20171227/6364999836315774652075876.jpg" title="1002.jpg" alt="1002.jpg" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">看这张登着梯子采摘车厘子的照片是不是有小猪佩奇里猪妈妈去果园采摘蓝莓做点心的既视感，充满童话乐趣。</span></p><p><br/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">吃完车厘子，我们驱车来到皇后镇，据说因为此地美得适合维多利亚女王居住，因此被命名为“皇后镇”。在皇后山徒步，是很不错的选择。这可是皇后镇最出名的远足徒步路线之一，这条徒步线路囊括了原始森林、珍稀动植物和无敌美景，真是赚到了！</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999854427406473026546.jpg" title="1006.jpg" alt="1006.jpg" width="867" height="488" border="0" vspace="0" style="width: 867px; height: 488px;"/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">当然为了节省时间，搭乘天际缆车SkyLine登山顶，也是很棒的体验。在山顶可以俯瞰整个皇后镇，美景尽收眼底，壮哉，美哉！</span></p><p><br/></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">话不多说，先上几张美图，可以拿去当手机屏保或电脑壁纸，不用客气！</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999864642304419739146.jpg" title="123456.jpg" alt="123456.jpg" width="867" height="651" border="0" vspace="0" style="width: 867px; height: 651px;"/></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20171227/6364999868149190579139236.jpg" title="12222.jpg" alt="12222.jpg" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">下午爬完山后，坐在湖边咖啡厅，吃着美味的冰淇淋，这张照片让我想起一首歌，你在北半球的北风中裹着羽绒服瑟瑟发抖，我在南半球的艳阳里吃着冰淇淋穿着泳衣。静静地坐着，看着湖边的蓝天、白云、海鸥、邮轮、行人，在忙碌中感受慢生活的美好和惬意。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171227/6364999874927402479433053.png" title="12123.png" alt="12123.png" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20171227/6364999878793089263991389.jpg" title="455.jpg" alt="455.jpg" width="867" height="1156" border="0" vspace="0" style="width: 867px; height: 1156px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">傍晚，在皇后镇山顶的缆车餐厅享受自助晚餐，据说要提前半年预定才能定上位置，一边欣赏皇后镇的全景，一边享受着美食美酒，然后再美美地睡一觉，简直完美！</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=1DCF272278D14E8596075400A8DA284B" class="previous_news" title="新西兰“金融+”精英旅学第10天带你在海上行走新西兰">上一篇：新西兰“金融+”精英旅学第10天带你在海上行走新西兰</a>
+                            <a href="?id=F8CA1C89656D4A1D8ED8A2542F8889C5" class="next_news" title="第一届“金融+”精英旅学俱乐部圆满结束">下一篇：第一届“金融+”精英旅学俱乐部圆满结束</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

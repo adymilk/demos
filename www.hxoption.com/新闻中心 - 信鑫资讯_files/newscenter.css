@@ -1,0 +1,239 @@
+
+
+.newscenter{
+	width:100%;
+	padding:60px 0 100px;
+	background:#f7f7f7;
+}
+.center-in{
+	width:1200px;
+	margin:0 auto;
+}
+.center-l{
+	float:left;
+}
+.center-hd li{
+	float:left;
+	font-size:20px;
+	color:#000;
+	line-height:50px;
+	margin-right:80px;
+	cursor:pointer;
+}
+.center-hd li.current{
+	border-bottom:4px solid #009cff;
+	color:#009cff;
+}
+.center-bd{
+	margin-top:46px;
+}
+.bd-news{
+	width:100%;
+	height:260px;
+	background:#fff;
+	box-sizing:border-box;
+	padding:40px 30px 30px 30px;
+	margin-bottom:30px;
+}
+.center-bd ul li:hover{
+	box-shadow:0px 6px 10px rgba(203,203,203,0.3);
+	-webkit-box-shadow:0px 6px 10px rgba(203,203,203,0.3);
+}
+.center-bd ul li:last-child{
+	margin-bottom:0px;
+}
+.bd-news img{
+	width:242px;
+	height:176px;
+	float:left;
+}
+.bd-zi{
+	float: left;
+	margin-left:20px;
+	width:538px;
+}
+.bd-zi p{
+	font-size:24px;
+	color:#000;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap;
+}
+.bd-zi span{
+	font-size:16px;
+	color:#666;
+	display:block;
+	margin:15px 0 25px;
+}
+.bd-zi i{
+	font-size:14px;
+	color:#000;
+	display:block;
+	line-height:28px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	-webkit-box-orient:vertical;
+	-webkit-line-clamp:3;
+	display:-webkit-box;
+}
+.center-yeshu {
+    width: 500px;
+    margin: 26px auto 0;
+    text-align: center;
+}
+.center-yeshu ul li{
+	width:26px;
+	height:26px;
+	background:#fff;
+	border:1px solid #acacac;
+	margin-right:14px;
+	line-height:26px;
+	text-align:center;
+	cursor:pointer;
+}
+.center-yeshu li.ys-shang,.center-yeshu li.ys-xia{
+	width:62px;
+	height:26px;
+}
+.center-yeshu li.curr{
+	background:#009cff;
+	border:1px solid #009cff;
+	color:#fff;
+}
+
+.center-r{
+	float:right;
+	width:300px;
+	height:1035px;
+	background:#fff;
+	margin-top:44px;
+}
+.center-fr li{
+	margin:20px 28px 0;
+	width:244px;
+}
+.center-fr li p{
+	font-size:16px;
+	color:#666;
+	margin-bottom:12px;
+}
+.center-fr li img{
+	width:244px;
+	height:120px;
+	cursor:pointer;
+}
+.tuijian{
+	margin:30px 14px 0 14px;
+}
+.tuijian p span{
+	font-size:20px;
+	font-weight:bold;
+	color:#000;
+}
+.tuijian p i{
+	display:inline-block;
+	width:4px;
+	height:20px;
+	background:#009cff;
+	margin-right:14px;
+	vertical-align:middle;
+	margin-top:-7px;
+}
+.tuijian li{
+	font-size:14px;
+	color:#000;
+	margin-top:20px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap;
+	width:272px;
+}
+.tuijian li i{
+	display:inline-block;
+	width:4px;
+	height:4px;
+	background:#666;
+	vertical-align:middle;
+	margin:-1px 14px 0 0;
+}
+.tuijian li a{
+	color:#000;
+}
+
+.y_con {
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    z-index: 10;
+    margin-top: 103px;
+    padding-bottom: 100px;
+    box-sizing: border-box;
+}
+.y_ul {
+    width: 100%;
+    height: auto;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+.y_ul li {
+    width: 100%;
+    height: auto;
+    margin: 10px 0;
+    align-items: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 44px;
+    box-sizing: border-box;
+    background-color: #fff;
+    z-index: 12;
+}
+.y_img {
+    width: 420px;
+    height: 324px;
+    overflow: hidden;
+    margin-right: 45px;
+}
+.y_img img {
+    width: 100%;
+    height: auto;
+}
+coment.css:11
+img {
+    max-width: 100%;
+    height: auto;
+    display: inline;
+    border: none;
+}
+.y_right {
+    webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+.y_title {
+    font-size: 32px;
+    color: #333;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+}
+.y_txt {
+    font-size: 18px;
+    color: #778a9b;
+    line-height: 28px;
+    margin-top: 30px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 5;
+}

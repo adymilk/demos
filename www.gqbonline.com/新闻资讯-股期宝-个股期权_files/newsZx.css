@@ -1,0 +1,88 @@
+
+.artnews{position: relative;}
+.im1{width:142px;height:142px;background: #444;float: left;}
+.im1 img{width:100%;}
+.news1{width:695px;margin-left:25px;}
+.news1_title {cursor: pointer;}
+.news1_title h4{font-size: 14px;color:#000;}
+.news1_title .riqi{font-size: 12px;color:#8b8b8b;}
+.news1_msg{font-size: 12px;color:#8b8b8b;width:680px;line-height: 20px;margin-top:10px;}
+.read{width:80px;height:28px;line-height: 28px;color:#fff;text-align:center;background: #e30920;position: absolute;left:170px;top:115px;}
+.read a{color:#fff;text-align:center;background: #e30920;display: inline-block;}
+.artnew_list {margin-top:35px;
+    height:500px;
+    overflow: hidden;}
+.artnew_list>ul>li{width:100%;height:85px;
+    border-bottom:1px solid #ededed;
+}
+
+.artnew_list>ul>li:first-child{border-top:1px solid #dedede;}
+.artnew_list .time{width:142px;text-align: center;margin-top:28px;}
+.artnew_list .time .day{font-size: 18px;line-height: 20px;font-weight: bold;color:#727171;display: block;}
+.artnew_list .time .yearri{font-size: 12px;line-height: 20px;color:#727171;}
+.artnew_list .news_info{font-size: 12px;
+    line-height: 20px;color:#727171;max-width:568px;
+    margin-left:25px;
+    margin-top:20px;
+    cursor: pointer;
+}
+.artnew_list .news_info h6{font-size: 14px;font-weight:bold; line-height: 20px;color:#727171;margin-bottom:6px;}
+.artnew_list li .news_info:hover h6{color:#e30920;}
+.artnew_list .news_info p{font-size: 12px;color:#8b8b8b;
+	width:100%;overflow: hidden;text-overflow:ellipsis;
+white-space: nowrap;}
+.im2{width:24px;height:38px;margin-right:30px;margin-top:28px;cursor: pointer;}
+.im2 img{width:100%;}
+
+.play_info{width:866px;margin:0 auto;}
+.fhtitle{position:relative;}
+.fh{position: absolute;left:0;}
+.fhlist{font-size:12px;color:#e60012;}
+.playtitle{font-size: 16px;color:#727171;text-align: center;}
+.newstitle{color:#000;font-weight: bold;margin-bottom:35px;}
+.artnews_msg{
+    margin:0 25px;
+    font-size: 12px;
+    color:#8b8b8b;
+    line-height:20px;
+    margin-bottom:100px;
+    text-align:justify;
+}
+.artnews_msg p{margin-bottom:20px;text-indent:2em;}
+.im3{
+    text-align: center;
+    width:418px;
+    height:227px;
+    margin:0 auto;
+    margin-bottom:25px;
+}
+.im3 img{
+   width:100%;
+}
+.pagination ul li{float: left}
+.pagination{padding: 25px 0 15px 0;text-align: center;}
+.pagination ul {
+    display: inline-block;
+    margin-left: 0;
+    margin-bottom: 0;
+}
+.pagination ul>li>a, .pagination ul>li>span {
+    margin: 0 3px;
+    float: left;
+    padding: 4px 12px 3px;
+    opacity: 0.88;
+    border-radius: 2px;
+    line-height: 20px;
+    text-decoration: none;
+    background-color: #ddd;
+    color: #666;
+}
+.pagination ul>.active>a, .pagination ul>.active>span {
+    background-color: #e30920;
+    color: #fff;
+}
+.pagination ul>li>span, .pagination ul>.disabled>span, .pagination ul>.disabled>a, .pagination ul>.disabled>a:hover, .pagination ul>.disabled>a:focus {
+    color: #999;
+    background-color: transparent;
+    cursor: default;
+}

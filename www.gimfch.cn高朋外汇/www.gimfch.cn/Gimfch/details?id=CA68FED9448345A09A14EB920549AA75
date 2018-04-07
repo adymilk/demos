@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">耶伦言论鹰派强势希腊债务欧盟谨慎</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2017/02/15 17:41:16</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p style="line-height: 1.5em;"><span style="font-size: 14px;">　　<strong>2月15日关注：</strong></span></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px;">　　17:30 英国1月失业金申请人数变动、失业率、以及至12月三个月ILO失业率</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　<span style="font-size: 14px; color: rgb(255, 0, 0);">21:30 美国1月CPI</span>、零售销售、2月纽约联储制造业指数</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　22:15 美国1月工业产出</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　23:00 美国2月NAHB房产市场指数、<span style="font-size: 14px; color: rgb(255, 0, 0);"><strong>美联储主席耶伦出席国会众议院听证会</strong></span></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　<strong>　23:30 美国能源信息署(EIA)发布政府版原油库存周报</strong></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　次日01:45 2017年FOMC票委、费城联储主席Patrick Harker就经济前景发表讲话</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　次日05:00 美国12月长期资本净流入</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　<span style="font-size: 14px; color: rgb(255, 0, 0);"><strong>(周三数据较多，预期会引起较大市场变动，合理设置止盈止损)</strong></span></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　<strong>　黄金</strong></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　美联储主席耶伦(Jannet Yellen)在国会证词较市场预期更为鹰派，使得3月加息预期攀升，亚市盘初微幅回落至1225美元/盎司附近交投。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　基本面，周二公布的数据显示，1月美国生产者物价指数(PPI)收获逾四年来最大涨幅，支持国内通胀正在接近美联储设定的2%目标的观点。美联储主席耶伦周二在国会作证词陈述时表示，如果美国经济符合央行通胀率逐步上升和劳动力市场收紧的展望，那么实施更多的加息将是合适之举，且每次FOMC会议均有可能加息。不过她暗示，特朗普政府的经济政策存在相当大的不确定性。由于耶伦的证词较预期更为鹰派，市场对美联储3月加息的预期进一步升温。联邦基金期货走势显示，3月加息概率攀升至36%，讲话前这一几率为30%。5月加息概率自48%上升至54%，6月加息概率自71%攀升至74%。</span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170215/6362277716523436737267112.png" title="123.png" alt="123.png" width="530" height="360" border="0" vspace="0" style="width: 530px; height: 360px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　技术面，4小时K线图，布林带指标中轨转向走平，三线收紧，价格连续两次回调中轨;日K线图，在2月8日、9日形成的乌云盖顶形态后，展开小幅调整，三组一阳一阴组合，价格下探100日均线1217。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　操作策略：美联储加息预期施压贵金属，技术面布林带指标转平，日内关注1217支撑区，1236阻力区，区间操作，日内反弹做空，设置止盈止损。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　<strong>　欧元</strong></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　耶伦发表强硬的言论后，美元指数上涨，欧元再度承压回落，欧元在开盘后维持窄幅整理的走势，目前交投于1.06一线。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　基本面，欧元区自身方面，由于近期不理想经济数据和政治不确定性为经济预期带来负面冲击，德国经济信心数据进一步恶化，这也打压了欧元的的下行。由于越来越多的国家担心希腊还不上债，因此希腊再次上了头条新闻，希腊所欠债务的最大债主是欧洲央行。</span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170215/6362277719687122297540127.png" title="124.png" alt="124.png" width="530" height="360" border="0" vspace="0" style="width: 530px; height: 360px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　技术面，日K线图，短期14均线指标持平，中期55均线略有拐头，连续多根阴线跌破55均线支撑，使其由支撑线变成压力线，</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　操作策略：美元筑底转强，欧元受到压制;技术面震荡调整，欧元整理，关注1.0520支撑区和-1.0660阻力区形成的区间，区间操作，数据面今日较多，设置止损止盈，防范风险。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　<strong>英镑</strong></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　过去几周英国公布了一系列低迷的数据后，1月通胀数据不及预期，英镑先涨后跌，目前维持近期低位1.2450附近整理。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　基本面，受全球油价上涨带动，英国1月消费者物价涨幅创2014年6月以来最大，但整体通胀年率为1.8%。加拿大丰业银行，由于英国经济在2016年第二季度表现极其良好，英国央行因此采取了中立的货币政策，预计英镑兑美元将在接下来的几个月将跌至1.20关口。</span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170215/6362277722292326865521560.png" title="125.png" alt="125.png" width="530" height="360" border="0" vspace="0" style="width: 530px; height: 360px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　技术面，日K线图，55均线持平，价格连续多次下探55均线，下方价格在89均线与55均线附近1.243。4小时K线图，多空线指标连续持平，144均线支撑点1.243。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　操作策略：英国数据低迷，加上美元走强，英镑受到压制，技术面指标高位震荡，关注1.2410支撑区，1.2610阻力区，区间操作，设置止损止盈。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　<strong>　原油</strong></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　美国API原油库存大增，令市场对美国原油产量回升的忧虑情绪升温，美市全部回吐涨幅，目前在53附近小幅整理。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　基本面，美国石油协会(API)北京时间周三(2月15日)05:30公布的数据显示，美国截至2月10日当周原油库存增加994万桶，预期为增加317.5万桶。汽油库存增加71.7万桶。OPEC月度原油市场报告，因产油国执行减产协议，OPEC 
+1月原油总产量减少89.02万桶/日至3213.9万桶/日。</span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170215/6362277724878811419744796.png" title="126.png" alt="126.png" width="530" height="360" border="0" vspace="0" style="width: 530px; height: 360px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　技术面，日K线图，短期14均线持平，连续2个月处于高位震    荡。中期55均线具有较强的支撑力度。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　操作策略：沙特超额减产提振市场，但产量回升情绪蔓延，多空交织;技术面震荡，关注第一阻力区53.8，第二阻力区54.7第一支撑53.0，第二支撑52.4，区间操作，做好止盈止损，控制风险。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　<span style="font-size: 14px; color: rgb(0, 0, 0);"><strong><span style="font-size: 14px;">免责声明：所有分析决策类文章的观点，仅代表个人观点，仅供参考，市场随时变化，不构成买卖之依据。使用前请核实，风险自负。</span></strong></span></span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=A1F3CA4EC82E45E494BC5E9358FD92D8" class="previous_news" title="黄金避险情绪高涨希腊荷兰法国搅局欧盟">上一篇：黄金避险情绪高涨希腊荷兰法国搅局欧盟</a>
+                            <a href="?id=CCF035F5A9F2416281F078F9FFCC1A35" class="next_news" title="耶伦讲话预期变动加剧黄金险被扑杀">下一篇：耶伦讲话预期变动加剧黄金险被扑杀</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

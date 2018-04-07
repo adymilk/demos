@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+.trade_list,.contact_list {margin:50px 0;}
+/* 交易须知css */
+.trade_img {float:left;width:295px;text-align:center;}
+.trade_img img {width:100%; border-radius:5px;}
+.trade_cont {float:left;width:770px;margin-left:30px;font-size:15px; line-height:30px; color:#404040;}
+.cont_title {font-size:18px; color:#036eb6;}
+
+/* 联系我们css */
+.contact_mall, .contact_else {width:430px; font-size:16px; line-height:30px; color:#404040;}
+.contact_title {background:#1c85de; height:30px; font-size:18px; color:#fff; border-radius:5px;}
+.contact_ul {margin:20px 0;}
+.contact_ul.contact_ul2 li{ padding-left:1em;}

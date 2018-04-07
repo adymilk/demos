@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+.title_notice {margin-top:-30px; margin-bottom:50px;font-size:16px; line-height:30px; color:#404040; text-align:center;}
+.kinds_present {width:540px;font-size:16px; line-height:25px; color:#404040;}
+.mode_title {width:623px; height:43px; margin:0 auto; border:1px dotted #036eb7; border-radius:50px; font-size:23px; line-height:43px; color:#187fd7; text-align:center;}
+.blue_16px {display:inline-block;background:url(/Content/Images/TradeCategory/blue_16px.png) no-repeat; width:16px; height:16px;margin:15px 20px;}
+
+.mode_title2 {width:258px; height:43px; margin:0 auto; border:1px dotted #fff; border-radius:50px; font-size:23px; line-height:43px; color:#fff; text-align:center;}
+.white_16px {display:inline-block;background:url(/Content/Images/TradeCategory/white_16px.png) no-repeat; width:16px; height:16px;margin:15px 20px;}
+
+.item_boxs {padding-bottom:60px; margin-bottom:80px;}
+.kinds_img {width:400px; text-align:center;}
+.kinds_item {width:680px;font-size:15px; line-height:25px; color:#404040;}
+.but_details {background:#1c85de; display:inline-block; width:200px; height:30px; margin-top:10px; border-radius:5px; font-size:16px; line-height:30px; color:#fff;}
+.but_details:hover {background:#1f8dea;}
+.kinds_title {background:#1c85de; height:30px; font-size:18px; color:#fff; border-radius:5px;}
+.kinds_text {margin:10px 0;}
+.kinds_ul {color:#1c85de;}
+.kinds_ul li {background:url(/Content/Images/FooterLinks/blue_9px.png) 0 10px no-repeat; padding-left:15px;}
+
+
+.mode_table {width:100%; margin:40px 0; font-size:16px; color:#005cab; text-align:center;}
+.mode_table td,.mode_table th {height:40px;padding:10px;border:1px solid #036eb7;}
+.mode_table th {background:#ccdeee; width:150px; font-weight: normal;}
+
+.margin_10px {margin:10px 0;}
+.m_top_50px {margin-top:50px;}
+.blue_box {background:#499de4; margin-top:60px; margin-bottom:60px; padding-top:40px; padding-bottom:20px;}
+.cases_box {margin:30px; border:1px dotted #fff;}
+.boxs_only {width:455px; padding:30px; font-size:14px; line-height:30px; color:#fff;}
+.border_right {border-right:1px dotted #fff;}
+.boxs_only h2 {margin-bottom:10px;font-size:24px; line-height:40px;}
+.boxs_only p {margin-bottom:50px;}
+.boxs_only table {width:100%; margin-bottom:40px;line-height:20px; text-align:center;}
+.boxs_only table td {border:1px solid #fff; height:40px; padding:0 10px;}
+
+.quote {background:#1c84dd; width:100%; margin:20px 0; line-height:20px; text-align:center; font-size:14px; color:#fff;}
+.quote td {border:1px solid #fff; height:40px; padding:0 10px;}
+
+.quote_up {display:inline-block;background:url(/Content/Images/TradeCategory/quote_up.png) no-repeat; width:17px; height:18px;margin:0 10px;}
+.quote_down {display:inline-block;background:url(/Content/Images/TradeCategory/quote_down.png) no-repeat; width:17px; height:18px;margin:0 10px;}

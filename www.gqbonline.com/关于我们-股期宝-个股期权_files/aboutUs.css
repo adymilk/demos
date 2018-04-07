@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-01-26 11:33:16
+ * @version $Id$
+ */
+.banner{
+    border-bottom:4px solid #606060;
+    overflow: hidden;
+    height:220px;
+    width:100%;
+    position: relative;
+}
+.banner ul li img{
+    position: absolute;
+    left:50%;
+    margin-left:-960px;
+}
+.sec4{border:none;padding-top:0;
+}
+.about{width:940px;margin:0 auto;padding:56px 37px 100px 37px;}
+.navbar_list h2{font-size: 28px; color:#e60012;}
+.navbar_listfr{margin-top:40px;}
+.navbar_listfr li.active a{color:#e60011;}
+.navbar_listfr li span{color:#b5b5b5;display: inline-block;margin-right:3px;}
+.line{margin-top:15px;}
+.line .spline{width:40px;height:4px;background:#e60011;display:block; position: relative;z-index:3;}
+.line .spline1{width:100%;height:1px;border-bottom:1px solid #acacac;display: block;margin-top:-1px; 
+}
+/*横线部分结束*/
+.art1{font-size:12px;color:#727171;background:url(../images/map.png) no-repeat center center; background-size:726px 355px;background-position:90px 10px;padding:0px;}
+.art1_message{
+    font-size:12px;
+    line-height:20px;
+    padding-top:30px;
+    color:#8b8b8b;
+    text-align:justify;
+}
+.art1_message .bold{font-size:12px;font-weight: bold;}
+.bold{font-weight: bold;}
+.art2{padding:75px 0px 0px 0px ;}
+.art2 {display: flex;}
+.art2 li{flex:1;
+    width:16.66%;
+    text-align: center;font-size:14px;color:#857874;font-weight: bold;}
+.art2 li img{height:54px;display: inline-block;}
+.art2 li span{padding-top:26px;display: block;}
+.art2 li.art2_btm span{padding-top:13px;}

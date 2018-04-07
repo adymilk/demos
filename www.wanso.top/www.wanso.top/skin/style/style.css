@@ -221,7 +221,7 @@ em, i {
 /* 解决固定层在IE6下闪的问题 */
 
 *html {
-	background-image: url(about:blank);
+	background-image: url(../..about:blank);
 	background-attachment: fixed;
 }
 /*png图片ie6下透明滤镜实现写法*/
@@ -316,7 +316,7 @@ u {
 }
 /*自定义字体*/
 
-/* @font-face {  font-family: danley;  src: url('../font/danley.ttf');  }  .danley {  font-family: danley; } */
+/* @font-face {  font-family: danley;  src: url(../..'../font/danley.ttf');  }  .danley {  font-family: danley; } */
 
 
 
@@ -573,13 +573,13 @@ body {
 	position: relative;
 }
 .page1 {
-	background: url(../imgs/bg1.jpg) no-repeat center;
+	background: url(../..../imgs/bg1.jpg) no-repeat center;
 	background-size: cover !important;
 	height: 886px;
 }
 /*.page1 .nav{
 
-	background: url(../imgs/img4.png) repeat-x center; height: 32px; position: absolute; left: 0; right: 0; bottom: -60px; text-align: center;
+	background: url(../..../imgs/img4.png) repeat-x center; height: 32px; position: absolute; left: 0; right: 0; bottom: -60px; text-align: center;
 
 	-webkit-transition: all 1s;
 
@@ -605,13 +605,13 @@ body {
 
 .page1 .nav li a{
 
-	background: url(../imgs/img3.png) no-repeat center; width: 32px; height: 32px; display: inline-block;
+	background: url(../..../imgs/img3.png) no-repeat center; width: 32px; height: 32px; display: inline-block;
 
 }
 
 .page1 .nav li.selected a{
 
-	background-image: url(../imgs/img2.png);
+	background-image: url(../..../imgs/img2.png);
 
 }*/
 
@@ -693,7 +693,7 @@ body {
 	transform: scale(1, 1)
 }
 .page2 {
-	background: url(/skin/images/bg2.jpg) no-repeat center;
+	background: url(../../skin/images/bg2.jpg) no-repeat center;
 	background-size: cover !important;
 	height: 964px;
 }
@@ -768,16 +768,16 @@ body {
 	transition-delay: 400ms;
 }
 .page2 li.l1 .ico {
-	background-image: url(../imgs/img5.png);
+	background-image: url(../..../imgs/img5.png);
 }
 .page2 li.l2 .ico {
-	background-image: url(../imgs/img6.png);
+	background-image: url(../..../imgs/img6.png);
 }
 .page2 li.l3 .ico {
-	background-image: url(../imgs/img7.png);
+	background-image: url(../..../imgs/img7.png);
 }
 .page2 li.l4 .ico {
-	background-image: url(../imgs/img8.png);
+	background-image: url(../..../imgs/img8.png);
 }
 .page2 li.selected .ico {
 	background-position: center bottom;
@@ -787,7 +787,7 @@ body {
 	margin-top: 35px;
 }
 .page2 li .link a {
-	background: url(../imgs/img41.png) no-repeat;
+	background: url(../..../imgs/img41.png) no-repeat;
 	width: 48px;
 	height: 48px;
 	display: inline-block;
@@ -875,7 +875,7 @@ body {
 	line-height: 24px;
 }
 .page3 {
-	background: url(/skin/images/bg3.jpg) repeat center;
+	background: url(../../skin/images/bg3.jpg) repeat center;
 	height: 1040px;
 }
 .page3 .wrapper {
@@ -1130,7 +1130,7 @@ body {
 	transform: scale(1, 1)
 }
 .page4 {
-	background: url(/skin/images/bg4.jpg) no-repeat center;
+	background: url(../../skin/images/bg4.jpg) no-repeat center;
 	background-size: cover !important;
 	height: 998px;
 }
@@ -1517,7 +1517,7 @@ body {
 	top: 0;
 }
 .page6 {
-	/*background: url(/skin/images/bg6.jpg) no-repeat center; */background-size: cover !important;
+	/*background: url(../../skin/images/bg6.jpg) no-repeat center; */background-size: cover !important;
 	height: 900px;
 }
 .page6 video {
@@ -1529,7 +1529,7 @@ body {
 	min-width: 100%;
 }
 .page6 .bg {
-	background: url(/skin/images/img50.png) repeat;
+	background: url(../../skin/images/img50.png) repeat;
 	position: absolute;
 	left: 0;
 	right: 0;
@@ -1652,7 +1652,7 @@ body {
 	font-weight: bold;
 }
 .gb-arrow {
-	background: url(/skin/images/img42.png) no-repeat left center;
+	background: url(../../skin/images/img42.png) no-repeat left center;
 	height: 47px;
 	line-height: 47px;
 	padding-left: 30px;
@@ -1706,7 +1706,7 @@ body {
 .slide-wrap li.selected {
 }
 .slide-wrap li .bg {
-	background: url(/skin/images/img50.png) repeat;
+	background: url(../../skin/images/img50.png) repeat;
 	position: absolute;
 	left: 0;
 	right: 0;
@@ -2223,31 +2223,31 @@ body {
 	color: #fff;
 }
 .nav_main ul li.h0 {
-	background: url(/skin/images/homes.png) no-repeat 10px 12px;
+	background: url(../../skin/images/homes.png) no-repeat 10px 12px;
 }
 .nav_main ul li.h1 {
-	background: url(/skin/images/services.png) no-repeat 10px 12px;
+	background: url(../../skin/images/services.png) no-repeat 10px 12px;
 }
 .nav_main ul li.h2 {
-	background: url(/skin/images/cases.png) no-repeat 10px 12px;
+	background: url(../../skin/images/cases.png) no-repeat 10px 12px;
 }
 .nav_main ul li.h3 {
-	background: url(/skin/images/abouts.png) no-repeat 10px 12px;
+	background: url(../../skin/images/abouts.png) no-repeat 10px 12px;
 }
 .nav_main ul li.h4 {
-	background: url(/skin/images/news.png) no-repeat 10px 12px;
+	background: url(../../skin/images/news.png) no-repeat 10px 12px;
 }
 .nav_main ul li.h5 {
-	background: url(/skin/images/Advantages.png) no-repeat 10px 12px;
+	background: url(../../skin/images/Advantages.png) no-repeat 10px 12px;
 }
 .nav_main ul li.h6 {
-	background: url(/skin/images/tiyans.png) no-repeat 10px 12px;
+	background: url(../../skin/images/tiyans.png) no-repeat 10px 12px;
 }
 .nav_main ul li.h7 {
-	background: url(/skin/images/jobs.png) no-repeat 10px 12px;
+	background: url(../../skin/images/jobs.png) no-repeat 10px 12px;
 }
 .nav_main ul li.h8 {
-	background: url(/skin/images/contacts.png) no-repeat 10px 12px;
+	background: url(../../skin/images/contacts.png) no-repeat 10px 12px;
 }
 .nav_main ul li div a:after {
 	-webkit-transition: 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
@@ -2321,7 +2321,7 @@ a.close_menu {
 	height: 48px;
 	display: inline-block;
 	margin-top: 20px;
-	background: url(../images/close.png) no-repeat;
+	background: url(../..../images/close.png) no-repeat;
 	float: right;
 	margin-right: 30px;
 	-moz-transition: -moz-transform 0.5s; /* Firefox 4 */

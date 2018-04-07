@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-米兰世博会</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+    <!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link href="/Content/Images/newindex/gpp.ico" rel="shortcut icon" type="image/x-icon" />
+
+<style>
+    .clearfix:after {
+        content: ".";
+        display: block;
+        height: 0;
+        clear: both;
+        visibility: hidden;
+    }
+
+    * html > body .clearfix {
+        display: inline-block;
+        width: 100%;
+    }
+
+    * html .clearfix { /* Hides from IE-mac \*/
+        height: 1%; /* End hide from IE-mac */
+    }
+
+    html, body, h1, h2, h3, h4, h5, h6, img {
+        margin: 0;
+        padding: 0;
+    }
+
+    a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, dialog, div, dl, dt, em, embed,
+    fieldset, figcaption, figure, font, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, meter, nav, object, ol, output,
+    p, pre, progress, q, rp, rt, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+        border: 0;
+        margin: 0;
+        padding: 0;
+    }
+    /* ie7 hack*/
+    * + html .clearfix {
+        min-height: 1%;
+    }
+
+    a, area {
+        blr: expression(this.onFocus=this.blur());
+    }
+
+    pre {
+        white-space: pre-wrap;
+        white-space: -moz-pre-wrap;
+        white-space: -pre-wrap;
+        white-space: -o-pre-wrap;
+        word-wrap: break-word;
+    }
+
+    html, body {
+        -webkit-text-size-adjust: none; /*字体小于12px Chrome浏览器专有属性*/
+    }
+
+    html {
+        _filter: expression(document.execCommand("BackgroundImageCache", false, true)); /*IE6解决背景图片闪烁问题*/
+    }
+
+    body { /*height: 100%;*/
+        line-height: 1.5;
+    }
+
+    img {
+        color: transparent;
+        font-size: 0;
+        vertical-align: middle;
+        *vertical-align: baseline;
+        -ms-interpolation-mode: bicubic;
+    }
+
+    li { /* For IE6 + IE7.*/
+        display: list-item;
+    }
+
+    table {
+        border-collapse: collapse;
+        border-spacing: 0;
+        empty-cells: show;
+        cellpadding ="0" cellspacing="0";
+    }
+
+    q {
+        quotes: none;
+    }
+
+        q:before, q:after {
+            content: '';
+            content: none;
+        }
+
+    sub, sup, small {
+        font-size: 75%;
+    }
+
+    sub, sup {
+        line-height: 0;
+        position: relative;
+        vertical-align: baseline;
+    }
+
+    sub {
+        bottom: -0.25em;
+    }
+
+    sup {
+        top: -0.5em;
+    }
+
+    svg { /* For IE9.*/
+        overflow: hidden;
+    }
+
+    fieldset {
+        border: 0;
+    }
+
+    iframe {
+        display: block;
+        border: 0;
+    }
+    /* for IE */
+    html, body {
+        margin: 0;
+        padding: 0;
+        font-size: 12px;
+        line-height: 150%;
+        font-family: "微软雅黑", "新宋体";
+        background-color: #fff;
+    }
+
+    p {
+        margin: 0;
+    }
+
+    a, a:focus {
+        text-decoration: none;
+    }
+
+    ul, li, ol {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+        li img {
+            vertical-align: top;
+            line-height: 0;
+        }
+
+    td {
+        font-size: 12px;
+    }
+
+    img, input.type-image {
+        border: 0 none;
+    }
+    /******public css end*********/
+    .banner {
+        width: 100%;
+        height: 477px;
+        background: url(/Content/Images/activeimg/activeimg002/banner.jpg) no-repeat center;
+        position: relative;
+    }
+
+    .banner0 {
+        width: 1020px;
+        wheight: 477px;
+        margin: 0 auto;
+    }
+
+    .content1 {
+        width: 100%;
+        height: 452px;
+    }
+
+    .content10 {
+        width: 1020px;
+        height: 396px;
+        margin: 0 auto;
+        background: url(/Content/Images/activeimg/activeimg002/content01-bg.png) no-repeat center 206px;
+        padding-top: 56px;
+    }
+
+        .content10 p {
+            color: #595757;
+            font-size: 18px;
+            line-height: 30px;
+            width: 790px;
+            text-align: center;
+            margin: 0 auto;
+            padding-bottom: 15px;
+        }
+
+        .content10 h3 {
+            font-size: 24px;
+            color: #595757;
+            line-height: 44px;
+            width: 776px;
+            margin: 0 auto;
+            border-top: 1px solid #222128;
+            border-bottom: 1px solid #222128;
+            text-align: center;
+        }
+
+    .content2 {
+        width: 100%;
+        height: 852px;
+        background: url(/Content/Images/activeimg/activeimg002/content02-bg.jpg) no-repeat center;
+    }
+
+    .content20 {
+        width: 1020px;
+        height: 852px;
+        margin: 0 auto;
+    }
+
+        .content20 h1 {
+            line-height: 158px;
+            text-align: center;
+            font-size: 46px;
+            color: #f7f8f8;
+        }
+
+    .box {
+        width: 450px;
+        border: 3px solid #8393aa;
+        border-radius: 10px;
+        padding: 20px 25px;
+    }
+
+    .leftbox {
+        float: left;
+    }
+
+    .rightbox {
+        float: right;
+    }
+
+    .box h2 {
+        font-size: 18px;
+        color: #56e4fe;
+        line-height: 26px;
+    }
+
+    .box h3 {
+        font-size: 16px;
+        color: #56e4fe;
+        line-height: 26px;
+    }
+
+    .box h4 {
+        font-size: 14px;
+        color: #56e4fe;
+        line-height: 26px;
+        border-top: 1px solid #fff;
+        padding-top: 5px;
+        margin-top: 10px;
+    }
+
+    .box ul li {
+        font-size: 14px;
+        color: #f7f8f8;
+        line-height: 24px;
+    }
+
+    a.fastbtn {
+        width: 113px;
+        height: 34px;
+        padding-left: 18px;
+        display: block;
+        margin: 20px auto 0;
+        border-radius: 0;
+        color: #496187;
+        font-size: 16px;
+        line-height: 34px;
+        background: #fff url(/Content/Images/activeimg/activeimg002/icon2.png) no-repeat 90px center;
+        font-weight: bold;
+    }
+
+        a.fastbtn:hover {
+            filter: alpha(opacity=90);
+            -moz-opacity: 0.9;
+            opacity: 0.9;
+        }
+
+    .content3 {
+        width: 100%;
+        height: 268px;
+    }
+
+    .content30 {
+        width: 1020px;
+        height: 268px;
+        margin: 0 auto;
+    }
+
+        .content30 h1 {
+            line-height: 125px;
+            text-align: center;
+            font-size: 46px;
+            color: #595757;
+        }
+
+        .content30 h3 {
+            width: 945px;
+            font-size: 20px;
+            color: #595757;
+            height: 32px;
+            padding-left: 5px;
+            margin: 0 auto;
+        }
+
+        .content30 p {
+            width: 945px;
+            padding: 10px 5px;
+            margin: 0 auto;
+            font-size: 14px;
+            color: #595757;
+            border-bottom: 1px solid #222128;
+            border-top: 1px solid #222128;
+            line-height: 20px;
+        }
+
+    .content4 {
+        width: 100%;
+        height: 646px;
+        background: #496187;
+    }
+
+    .content40 {
+        width: 1020px;
+        height: 580px;
+        margin: 0 auto;
+    }
+        .content40 h1 {
+            line-height: 140px;
+            text-align: center;
+            font-size: 46px;
+            color: #fff;
+        }
+
+    .box ul li h5 {
+        font-size: 14px;
+        color: #56e4fe;
+    }
+
+    .box ul li p.borderbt {
+        font-size: 14px;
+        color: #fff;
+        line-height: 25px;
+        padding: 5px 0;
+        border-bottom: 1px solid #8190a7;
+        margin-bottom: 5px;
+    }
+
+    .content5 {
+        width: 100%;
+        height: 152px;
+        background: #f8f8f8;
+    }
+
+    .content50 {
+        width: 1020px;
+        height: 107px;
+        margin: 0 auto;
+        padding-top: 45px;
+    }
+
+        .content50 p {
+            font-size: 18px;
+            color: #595757;
+            text-align: center;
+            line-height: 30px;
+        }
+
+            .content50 p i {
+                font-weight: bold;
+                font-size: 22px;
+            }
+</style>
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+
+<!-- 内容区域-->
+<div class="main">
+    <div class="banner">
+
+        <div class="banner0"></div>
+
+    </div>
+
+    <div class="content1">
+        <div class="content10">
+            <p>朴树在《平凡之路》里唱：“我曾经像你像他像那野草野花/绝望着/也渴望着/也哭也笑平凡着。”路遥在《平凡的世界》里写：“只有努力工作，才能叫人尊重。”</p>
+            <h3>加入G-IMFCH，让每一个平凡的你，发现自己的不凡。</h3>
+        </div>
+    </div>
+
+    <div class="content2">
+        <div class="content20">
+            <h1>G-IMFCH招聘职位</h1>
+            <div class="box leftbox">
+                <h2>渠道总监</h2>
+                <h3>职位诱惑：北京 ｜生日福利 ｜全职｜周末双休｜高薪资</h3>
+                <h4>[ 岗位职责 ]</h4>
+                <ul>
+                    <li>1. 协助团队成员达成个人业绩任务，以及完成所管辖团 队的团队业绩；</li>
+                    <li>2. 负责推动销售经理的招募与甄选、辅导、训练与管理；</li>
+                    <li>3. 通过持续跟进与服务，为客户不断提供专业的理财咨询与服务；</li>
+                    <li>4. 了解团队成员日常工作进度情况及服务客户情况，帮助成员挖掘和维<br />&nbsp;&nbsp;&nbsp;&nbsp;护优质客户；</li>
+                    <li>5. 激发团队士气，培养良好的团队精神。</li>
+                </ul>
+                <h4>[ 任职要求 ]</h4>
+                <ul>
+                    <li>1. 具有丰富的金融知识，了解国内外投资理财市场，具有国内现货或者外<br />&nbsp;&nbsp;&nbsp;&nbsp;汇经验，对该行业有自己的认识与思考；</li>
+                    <li>2. 有销售管理经验，有良好的团队带头作风，有带领销售团队的管理能<br />&nbsp;&nbsp;&nbsp;&nbsp;力和凝聚力；</li>
+                    <li>3. 具有3年以上从业经验者优先；</li>
+                    <li>4. 有一定客户资源或销售经验者优先，有自己的团队者优先。</li>
+                </ul>
+                <a class="fastbtn" href="mailto:info@gpptrading.com">马上应聘</a>
+            </div>
+            <div class="box rightbox">
+                <h2>渠道经理</h2>
+                <h3>职位诱惑：北京｜生日福利｜全职｜周末双休｜高薪资</h3>
+                <h4>[ 岗位职责 ]</h4>
+                <ul>
+                    <li>1. 积极主动开发新客户，并跟进成单；</li>
+                    <li>2. 挖掘渠道客户，并跟进成单；</li>
+                    <li>3. 完成团队月度、季度和年度业绩目标，敢于挑战高薪；</li>
+                    <li>4. 保持良好的客情关系，利用现有客户扩大资源网络， 达成二次销售。</li>
+                    <li style="height:24px;"></li>
+                    <li style="height:24px;"></li>
+                </ul>
+                <h4>[ 任职要求 ]</h4>
+                <ul>
+                    <li>1. 大专以上学历；</li>
+                    <li>2. 优秀的语言表达能力和沟通能力；</li>
+                    <li>3. 具有1年以上销售经验，在同行业有工作经验者优先 考虑；</li>
+                    <li>4. 具有敏锐的市场洞察力；</li>
+                    <li>5. 具备优秀的语言表达和沟通能力。</li>
+                    <li>6. 优秀应届生可以考虑。</li>
+                </ul>
+                <a class="fastbtn" href="mailto:info@gpptrading.com">马上应聘</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="content3">
+        <div class="content30">
+            <h1>关于G-IMFCH</h1>
+            <h3>我们是谁</h3>
+            <p>GPP高朋金融，是一家专门为投资家提供外汇、贵金属、CFDS差价合约等金融衍生品的在线交易服务，以及为全球的私人银行、对冲基金经理和私人投资家提供专业的交易解决方案的金融服务供应商。依托专业的市场分析师团队，精湛的技术支撑和完善的客户服务体系，向来自100多个国家的20多万客户和机构提供服务。</p>
+        </div>
+    </div>
+
+    <div class="content4">
+        <div class="content40">
+            <h1>为什么选择G-IMFCH</h1>
+            <div class="box leftbox">
+                <ul>
+                    <li>
+                        <h5>No.1 资金保全先行者！</h5>
+                        <p class="borderbt">G-IMFCH是国内首家投资者资金保全外汇平台，也是目前国内唯一一家提供投资者资金保全的外汇平台。拥有强大资金背景实力的盛宝源为G-IMFCH的资金安全提供保全服务。</p>
+                    </li>
+                    <li>
+                        <h5>No.2 GPP高朋金融受到国际权威认可！</h5>
+                        <p class="borderbt">GPP高朋金融是米兰世博会唯一指定外汇服务商，受到国际化的高度关注与权威认可</p>
+                    </li>
+                    <li>
+                        <h5>No.3 G-IMFCH受到工信部荣誉授权！</h5>
+                        <p class="borderbt" style="border-bottom: none;">GPP高朋金融是中国工业和信息化部教育与考试中心指定合作伙伴，是“国家贵金属在线交易师（OPMT）”、“国家在线金融理财师（OFP）”职业认证培训课程实训平台。</p>
+                    </li>
+                </ul>
+            </div>
+            <div class="box rightbox">
+                <ul>
+                    <li>
+                        <h5>No.4 优厚的工作回报！</h5>
+                        <p class="borderbt">
+                            专业培训指导：我们为业务人员提供专业的销售指导培训，以及人性化的业务推广的支持，包括线上线下的双轨支持；<br />
+                            意向客户指引：不论您擅长做代理还是直客，我们都有相应的支持体系帮助您快速找到意向客户并达成合作；<br />
+                            丰厚薪资回报：我们提供不低于行业水平的底薪，以及有竞争力的提成和晋升通道，您的事业将更踏实的起步并稳定发展。
+                        </p>
+                    </li>
+                    <li>
+                        <h5>No.5 不止是一份工作！</h5>
+                        <p>我们相信快乐、诚信、努力、团结、和谐是优秀职场所表现出来的美德，并积极提供这样的办公环境给我们的员工！</p>
+                        <p style="padding-top:10px;">如果您也有同样的信仰，欢迎加入G-IMFCH。在这里，您得到的将不止是一份工作，还将发掘自己的不平凡！</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="content5">
+        <div class="content50">
+            <p>请将您的简历发至<i>info@gimfch.com</i>，我们将尽快回复您！</p>
+            <p>期待您的加入！</p>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

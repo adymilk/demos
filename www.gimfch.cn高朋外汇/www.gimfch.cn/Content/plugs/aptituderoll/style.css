@@ -1,0 +1,11 @@
+.dg-container{width: 300px;height: 400px;margin:35px auto 0;position: relative;}
+.dg-wrapper{width: 300px;height: 400px;margin: 0 auto;position: relative;-webkit-transform-style: preserve-3d;-moz-transform-style: preserve-3d;-o-transform-style: preserve-3d;-ms-transform-style: preserve-3d;transform-style: preserve-3d;-webkit-perspective: 1000px;-moz-perspective: 1000px;-o-perspective: 1000px;-ms-perspective: 1000px;perspective: 1000px;}
+.dg-wrapper a{width: 300px;height: 400px;display: block;position: absolute;left:0;top: 0; text-align:center; font-size:17px; color:#232323;}
+.dg-wrapper a img {width: 100%;}
+.dg-wrapper a.dg-transition{-webkit-transition: all 0.5s ease-in-out;-moz-transition: all 0.5s ease-in-out;-o-transition: all 0.5s ease-in-out;-ms-transition: all 0.5s ease-in-out;transition: all 0.5s ease-in-out;}
+.dg-wrapper a img{display: block; padding-bottom:10px;}
+.dg-wrapper a.dg-center div{display: block;}
+.dg-container nav{width: 300px;height: 400px;position: absolute;z-index: 1000;top:0px;}
+.dg-container nav span{cursor:pointer;}
+.dg-prev {display:block;width:200px; height:400px;  position: absolute; left:-284px;}
+.dg-next {display:block;width:200px; height:400px;  position: absolute; right:-284px;}

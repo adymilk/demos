@@ -1,0 +1,114 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+.i_login,.i_enroll,.i_phone,.i_sina,.i_tengxun,.i_qq,.i_weixin,.i_phone_gray,.i_type_white,.i_type_blue {display:inline-block;width:20px; height:20px; background-image:url(/Content/Images/icon.png); background-repeat:no-repeat; vertical-align:middle; margin-right:5px;}
+
+.i_login {background-position:0 0;}
+.i_enroll {background-position:-30px 0;}
+.i_phone {background-position:-60px 0;}
+.i_sina {background-position:-90px 0;}
+.i_tengxun {background-position:-120px 0;}
+.i_qq {background-position:-150px 0;}
+.i_weixin {background-position:-180px 0;}
+.i_phone_gray {background-position:-240px 0px;}
+.i_type_white {background-position:-80px -50px;}
+.i_type_blue {background-position:-60px -50px;}
+
+.i_up,.i_down {display:inline-block;width:20px; height:30px; background-image:url(/Content/Images/icon.png); background-repeat:no-repeat; vertical-align:middle; margin-right:5px;}
+.i_up {background-position:-60px -20px;}
+.i_down {background-position:-90px -20px;}
+
+
+.top_nav li a .i_triangle.i_triangle,.i_piece,.agent_dot {display:inline-block;width:10px; height:10px; background:url(/Content/Images/icon.png) -210px 0 no-repeat; vertical-align:middle; margin-left:5px;}
+.top_nav li.navhome a .i_triangle {background:url(/Content/Images/icon.png) -230px 0 no-repeat;}
+.i_list {/*background:url(/Content/Images/icon.png) -210px -10px no-repeat;*/}
+.subnav li a:hover .i_list,.subnav li a.hover .i_list {/*background:url(/Content/Images/icon.png) -220px -10px no-repeat;*/ }
+
+.subnav ul.menu li:hover{background:url(/Content/Images/backimages/side_nav_bg.png) no-repeat 0 0; color:#FFF;}
+.subnav ul.menu li.active_li{background:url(/Content/Images/backimages/side_nav_bg.png) no-repeat 0 0; color:#FFF;}
+.subnav ul.menu ul.subnav_thr li.active_li3{background:none;color:#000;}
+.subnav ul.menu ul.subnav_thr li.active_li3:hover{background:none; color:#000;}
+.subnav ul.menu li a.active_a{ color:#fff;}
+.subnav ul.menu li a{ /*width:221px;*/ height:40px; display:block; color:#000;}
+.subnav ul.menu li a:hover{ color:#fff;}
+.subnav ul.menu li a.active_a3{ /*width:221px;*/ height:39px; display:block; color:#000; text-indent:20px; background:#FFF url(/Content/Images/icon/sidian_hei.png) no-repeat 29px 17px;}
+.subnav ul.menu li a.active_aon{ color:red; background:#FFF url(/Content/Images/icon/sidian_hong.png) no-repeat 29px 17px;}
+.subnav ul.menu li a.active_a3:hover{ color:red; background:#FFF url(/Content/Images/icon/sidian_hong.png) no-repeat 29px 17px;}
+
+.i_piece {background:url(/Content/Images/icon.png) -230px -10px no-repeat; margin-right:10px;}
+.agent_dot {background:url(/Content/Images/icon.png) -200px -20px no-repeat;}
+
+.i_map_point {display:inline-block;width:10px; height:10px; background:#F36409; border-radius:100px;}
+
+.i_but_phone,.i_but_QQ,.i_but_message,.i_but_mt4 {display:inline-block;width:80px; height:80px; margin:1px 0; background-image:url(/Content/Images/icon.png); background-repeat:no-repeat; vertical-align:middle;text-indent:-9999px;}
+.i_but_phone {background-position:0px -70px;}
+.i_but_QQ {background-position:0px -150px;}
+.i_but_message {background-position:0px -230px;}
+.i_but_mt4 {background-position:0px -310px;}
+.i_but_phone:hover {background-position:-80px -70px;}
+.i_but_QQ:hover {background-position:-80px -150px;}
+.i_but_message:hover {background-position:-80px -230px;}
+.i_but_mt4:hover {background-position:-80px -310px;}
+
+.icon_yjwz,.icon_dxfw,.icon_cjyh,.icon_whkh,.icon_fyxt {display:inline-block;width:120px; height:80px; background-image:url(/Content/Images/icon.png); background-repeat:no-repeat; vertical-align:middle;text-indent:-9999px;}
+.icon_yjwz {background-position:-10px -400px;}
+.icon_dxfw {background-position:-150px -400px;}
+.icon_cjyh {background-position:-290px -400px;}
+.icon_whkh {background-position:-430px -400px;}
+.icon_fyxt {background-position:-570px -400px;}
+
+.i_chinese,.i_japanese,.i_eiglish {display:inline-block;width:30px; height:20px; background:url(/Content/Images/icon.png) -210px 0 no-repeat; vertical-align:middle; margin-left:5px;}
+.i_chinese {background-position:-170px -240px;}
+.i_japanese {background-position:-170px -260px;}
+.i_eiglish { background:url(/Content/Images/english_icon.jpg) no-repeat center;}
+
+
+.i_open_true {display:inline-block;width:50px; height:30px; background:url(/Content/Images/icon.png) 0 -30px no-repeat; vertical-align:middle;}
+.i_open_acc {display:inline-block;width:50px; height:30px; background:url(/Content/Images/icon.png) -540px -10px no-repeat; vertical-align:middle;}
+.i_hot {display:inline-block;width:70px; height:40px; background:url(/Content/Images/icon.png) -120px -30px no-repeat; vertical-align:middle;}
+.i_and {display:block;width:30px; height:30px; background:url(/Content/Images/icon.png) -210px -20px no-repeat; vertical-align:middle; margin-left:100px;}
+
+.i_map_about,.i_map_teamwork,.i_map_product,.i_map_attention {display:inline-block;width:40px; height:40px; background-image:url(/Content/Images/icon.png); background-repeat:no-repeat; vertical-align:middle; margin-right:5px;}
+.i_map_about {background-position:-170px -320px;}
+.i_map_teamwork {background-position:-210px -320px;}
+.i_map_product {background-position:-170px -360px;}
+.i_map_attention {background-position:-210px -360px;}
+
+/*   **** BUTTON    ***/
+.pc_button {display:inline-block;width:203px; height:55px; background:url(/Content/Images/icon.png) -230px -50px no-repeat; margin:10px 0;}
+.but_Android,.but_iPhone,.but_iPad {display:inline-block;width:175px; height:55px; background-image:url(/Content/Images/icon.png); background-repeat:no-repeat; margin-right:10px;}
+.but_Android {background-position:-230px -110px;}
+.but_iPhone {background-position:-230px -170px;}
+.but_iPad {background-position:-230px -230px;}
+.pc_button:hover {background-position:-440px -50px;}
+.but_Android:hover {background-position:-410px -110px;}
+.but_iPhone:hover {background-position:-410px -170px;}
+.but_iPad:hover {background-position:-410px -230px;}
+
+
+.ndd_left{background:url(/Content/Images/icon/bg_jiao.png) no-repeat -25px -21px;width:263px;height: 74px; text-align:center; font-size:20px; color:#4F90DC; padding-top:10px;}
+.ndd_left3{background:url(/Content/Images/icon/bg_jiao1.png) no-repeat -25px -21px;width:290px;height:74px; text-align:center; font-size:17px; color:#4F90DC; padding-top:10px;}
+.ndd_left4{ width:382px; height:150px; float:left;}
+.ndd_left4 span{ font-size:14px;}
+.ndd_left p{ line-height:26px; padding:0; margin:0;}
+.ndd_right5{ width:490px; height:130px; float:right; padding-top:10px;}
+.ndd_right5 ul li.ndd_right5_li1{  height:57px; width:480px; font-size:14px; line-height:57px; background:url(/Content/Images/milan_biaozhi.png) no-repeat 60px 7px; text-indent:12em; }
+.ndd_right5 ul li.ndd_right5_li2{  height:57px; width:480px; font-size:14px; line-height:57px; background:url(/Content/Images/gongxin_biaozhi.png) no-repeat 90px 1px;text-indent:9em; }
+
+/*******浏览器过低提示窗口 start******/
+#browser_ie{ width:100%; height:80px;/* background:#000;filter:alpha(opacity=50); -moz-opacity:0.5; opacity:0.5; position:fixed; bottom:0; z-index:999;*/ background:#2c2c2c; color:#fff; font-size:16px; position:relative; /*position:fixed; bottom:0;*/}
+#browser_ie div.brower_info{ width:980px; margin:0 auto;}
+#browser_ie div.brower_info div.notice_info{ width:477px; float:left; padding-left:35px; padding-top:17px; }
+#notice_info h4{ margin:0; padding:0;}
+#browser_ie div.brower_info div.browser_list{ float:left; width:468px; padding-top:5px;}
+#browser_ie div.brower_info div.browser_list a{ display:block; float:left; margin-right:50px;}
+#browser_ie div.brower_info div.browser_list a.a1{ width:55px; height:70px; background:url(/Content/Images/icon/icon_browser.png) no-repeat 0 0;}
+#browser_ie div.brower_info div.browser_list a.a2{ width:62px; height:70px; background:url(/Content/Images/icon/icon_browser.png) no-repeat -56px 0;}
+#browser_ie div.brower_info div.browser_list a.a3{ width:45px; height:70px; background:url(/Content/Images/icon/icon_browser.png) no-repeat -118px 0;}
+#browser_ie div.brower_info div.browser_list a.a4{ width:45px; height:70px; background:url(/Content/Images/icon/icon_browser.png) no-repeat -168px 0;}
+#browser_close{ width:65px; height:80px;background:#525252 url(/Content/Images/icon/icon_browser.png) no-repeat -212px 25px; position:absolute; right:0px; cursor:pointer;}
+/*******浏览器过低提示窗口 end******/
+
+
+
+

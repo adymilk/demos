@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">“金融+”精英旅学俱乐部进行中新西兰我来了</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2017/12/26 11:26:52</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　　暂时告别朝九晚五的职场，不去想业绩、管理、考核等，逃离喧嚣热闹的都市，来一场说走就走的旅行。要么读书、要么旅行，灵魂和身体，必须有一个在路上。如果能够带着求知的心灵上路，来一趟高端的旅学，想必是再好不过了。<br/>　　《天堂电影院》有句让我印象深刻的台词：如果你不出去走走，你就会以为这就是世界。所以不管工作和生活多忙，我每年都会给自己放一次长假，背起行囊来一次说走就走的远足，去未知的远方，期待在旅途中遇见更好的自己。<br/>　　这次有幸成为新西兰“金融+”精英旅学俱乐部的一员，能够在2017年的年末岁尾，从北半球到南半球，来一场新西兰的金融旅学，似乎又是冥冥之中的前世之约。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988262490086301198151.png" title="图片1.png" alt="图片1.png" style="width: 800px; height: 600px;" width="800" vspace="0" height="600" border="0"/><br/></span></p><p style="line-height: 1.5em;"><br/><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　12月10日从北京出发，经过一天的学术研讨会的学习后，11日凌晨开始出发，历经17个半小时左右的飞行，我们“金融+”精英旅学俱乐部此行二十多人终于跨越太平洋，来到“风帆之都”奥克兰。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988267204414587467432.png" title="图片2.png" alt="图片2.png" style="width: 800px; height: 1066px;" width="800" vspace="0" height="1066" border="0"/><br/></span></p><p style="line-height: 1.5em;"><br/><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　我们到达酒店时，看到酒店大堂里布置好的圣诞场景，没错，再过十多天，圣诞节就要来了，感受一下当地的浓厚的圣诞氛围。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988270942181159387976.png" title="图片3.png" alt="图片3.png" style="width: 800px; height: 600px;" width="800" vspace="0" height="600" border="0"/><br/></span></p><p style="line-height: 1.5em;"><br/><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　经过一晚的休息，12日早餐后乘车前往毛利人的主要聚居地—“地热之城”罗托鲁瓦（Rotorua），参观市中心的罗托鲁瓦政府花园和美丽的红树森林。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988274617547612367955.png" title="图片4.png" alt="图片4.png" style="width: 800px; height: 600px;" width="800" vspace="0" height="600" border="0"/><br/></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988279678196495768832.png" title="图片5.png" alt="图片5.png" style="width: 800px; height: 533px;" width="800" vspace="0" height="533" border="0"/><br/></span></p><p style="line-height: 1.5em;"><br/></p><p style="line-height: 1.5em; text-align: center;"><img src="/Upload/UEdit/20171226/6364988282673401752915927.png" title="图片6.png" alt="图片6.png" style="width: 800px; height: 534px;" width="800" vspace="0" height="534" border="0"/></p><p style="line-height: 1.5em;"><br/></p><p style="line-height: 1.5em; text-align: center;"><img src="/Upload/UEdit/20171226/6364988286974329312828969.png" title="图片7.png" alt="图片7.png" style="width: 800px; height: 533px;" width="800" vspace="0" height="533" border="0"/></p><p style="line-height: 1.5em;"><br/><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　这里的天很蓝，抬头看天，发现阳光刺破白云，透过斑驳的树影，照射在草地上，此时正好微风徐来，感觉整个身心都被净化了。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988292598139198924171.png" title="图片10.png" alt="图片10.png" style="width: 800px; height: 600px;" width="800" vspace="0" height="600" border="0"/><br/></span></p><p style="line-height: 1.5em;"><br/><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　徜徉在茂密的红木森林，或奔跑，或跳跃，或偷个小懒，坐着树桩上小憩或者畅谈一会，感觉往日的喧嚣生活早已恍如隔世，当下的闲淡恬静的慵懒状态瞬间让每个紧绷的神经都感到无比的放松，回归原始的本真状态，找寻最初的自己。<br/>　　其中最让我流连忘返的还是新西兰北岛西部山区的怀托摩洞穴怀托摩萤火虫洞，这是一处活性岩石洞穴，也是新西兰最有名的天然奇景，对于我而言，这是一次犹如童话般梦境般的旅行体验。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988299054990538543350.png" title="图片11.png" alt="图片11.png" style="width: 800px; height: 1068px;" width="800" vspace="0" height="1068" border="0"/><br/></span></p><p style="line-height: 1.5em;"><br/><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　萤火虫洞，顾名思义，里面肯定有很多的萤火虫。萤火虫一个接紧挨着一个，尾部发出的绿色萤光，攀附在岩洞深处的上方，一亮一闪忽明忽暗满壁的绿色荧光，投射在水中，水也变得像一个盛装的女巫，充满神秘感了，如有童话世界的一个古堡，有无数的小精灵在里面捉迷藏，闪烁着诱惑的光芒。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988301951915625495518.png" title="图片12.png" alt="图片12.png" style="width: 800px; height: 503px;" width="800" vspace="0" height="503" border="0"/><br/></span></p><p style="line-height: 1.5em;"><br/></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　我们需乘船欣赏，泛舟萤虫洞，犹如在繁星璀璨的银河系中穿梭，抑或是在琴谱上跳舞。身临如此奇特又奇妙的美景之中，会有一种亦梦亦幻的感觉。<br/>　　下午，在爱歌顿农庄，乘坐牧场专用车游览农庄，在这里我们可与各种可爱的动物零距离接触。大家纷纷地和这些可爱的精灵们们拍照留念。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988307892406052577623.png" title="图片14.png" alt="图片14.png" style="width: 800px; height: 600px;" width="800" vspace="0" height="600" border="0"/><br/></span></p><p style="line-height: 1.5em;"><br/><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　天苍苍，野茫茫，风吹草低见牛羊，对，就是这个感觉，就是这个feel。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988317051182141584707.png" title="图片15.png" alt="图片15.png" style="width: 800px; height: 600px;" width="800" vspace="0" height="600" border="0"/><br/></span></p><p style="line-height: 1.5em;"><br/><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　我看到了最喜欢的羊驼，看上去萌萌的，摸过去软软的，感觉像一个超大的毛绒玩具，但是可以走的活的，超级可爱。</span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988320626708429140514.png" title="图片17.png" alt="图片17.png" style="width: 800px; height: 533px;" width="800" vspace="0" height="533" border="0"/><br/></span></p><p style="line-height: 1.5em;"><br/></p><p style="line-height: 1.5em; text-align: center;"><img src="/Upload/UEdit/20171226/6364988322701512062664283.png" title="图片18.png" alt="图片18.png"/></p><p style="line-height: 1.5em;"><br/><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　当然，新西兰作为羊毛盛产国家，我们也不会错过这次难得的福利。随后参观羊毛被及驼羊毛被厂的生产车间地，参观了解羊毛及驼羊毛制品的生产过程，并亲手触摸羊毛和驼羊毛，真是货真价实，随便买几件带回去给亲朋好友分享。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988326604638929706226.png" title="图片20.png" alt="图片20.png" style="width: 800px; height: 600px;" width="800" vspace="0" height="600" border="0"/><br/></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><br/></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　晚上回到酒店吃完晚餐后，又去泡了一个美美的温泉，褪去了一天的疲劳，最后我还想说，奥克兰的啤酒真好喝。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988328735602668657235.png" title="图片21.png" alt="图片21.png" style="width: 800px; height: 1067px;" width="800" vspace="0" height="1067" border="0"/><br/></span></p><p style="line-height: 1.5em;"><br/><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　罗托鲁瓦是一个感受沸腾泥浆、喷涌间歇泉和地热温泉以及毛利文化的神奇圣地。我们当然不会错过这么壮观奇特的自然景观。<br/>　　12月13日上午，我们早早的在酒店吃过早餐后就出发了，一分钟都舍不得浪费。我们游览了新西兰最缤纷多彩的地热景点——怀奥塔普地热世界，欣赏由地热活动而形成了独特的地貌。这是大自然馈赠的礼物，怎么形容看后的感觉呢，壮观，震撼，仙气缭绕，摄人心魄......</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="text-align:center"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988336037975484932525.png" title="图片22.png" alt="图片22.png" style="width: 800px; height: 600px;" width="800" vspace="0" height="600" border="0"/><br/></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　中午，到达奥克兰市中心，是新西兰经济、文化、政治、航运和旅游中心，也是新西兰的“经济首都，最大最繁忙的商业金融中心，新西兰的股票交易所及多家大银行的总部就设在这里。<br/>　　团队受邀参观了GPP Markets，我见到了久仰已久的GPP Markets CEO 撒宫先生以及GPP Markets风险合规经理 艾米莉，带领我们参观了并进行了讲解，受到了热烈的欢迎和盛情的款待。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="text-align:center"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988345759912566633934.png" title="图片28.png" alt="图片28.png" style="width: 800px; height: 1067px;" width="800" vspace="0" height="1067" border="0"/><br/></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　下午，我们又去参观了伊甸山，这是一座死火山，形成于2-3万年以前，是奥克兰陆地火山带中最高的火山，也是奥克兰最重要的象征之一。这是第一次近距离感受死火山，感受大自然的神秘力量。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988355743930101826079.png" title="图片34.png" alt="图片34.png"/><br/></span></p><p style="line-height: 1.5em; text-align: center;"><br/></p><p style="line-height: 1.5em;"><br/></p><p style="line-height: 1.5em; text-align: center;"><img src="/Upload/UEdit/20171226/6364988358525414988465279.png" title="图片36.png" alt="图片36.png"/></p><p style="line-height: 1.5em;"><br/><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　锥形的火山口，山脚下成群的牛羊。市区内高耸入云的的高大建筑，与山这边充满田园的生命景象，形成强烈由鲜明的对比，更是和奥克兰这座现代繁华又充满田园气息的都市相吻合。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988362333381678068958.png" title="图片37.png" alt="图片37.png" style="width: 800px; height: 600px;" width="800" vspace="0" height="600" border="0"/><br/></span></p><p style="line-height: 1.5em;"><br/></p><p style="line-height: 1.5em; text-align: center;"><img src="/Upload/UEdit/20171226/6364988364531425532946439.png" title="图片38.png" alt="图片38.png" style="width: 800px; height: 600px;" width="800" vspace="0" height="600" border="0"/><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　夏天怎么能不去海边呢，从伊甸山下来后，我们又去领略一下素有“帆船之都”美誉的奥克兰海边，果然很壮观，这么近距离的欣赏，默默的感受，海风吹来，整个人都酥软了，这一刻，我从心里爱上了奥克兰。</span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"><img src="/Upload/UEdit/20171226/6364988367760631204370651.png" title="图片39.png" alt="图片39.png" style="width: 800px; height: 1067px;" width="800" vspace="0" height="1067" border="0"/><br/></span></p><p style="line-height: 1.5em;"><br/><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;"></span></p><p style="line-height: 1.5em;"><span style="font-family: 微软雅黑, Microsoft YaHei; font-size: 14px;">　　最后，给大家欣赏一张在迈克尔·乔瑟夫公园拍摄到的一张工党纪念碑的照片，近距离感受这座城市的历史，呼吸着现代文明，阅读者这座城市的繁华。<br/>　　明天还要去奥克兰理工大学听课，我要早点休息了。期待关注，新西兰金融旅学还在进行中，期待继续关注哦！</span></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=28A0646456444264B9484F04B1AAE25A" class="previous_news" title="新西兰“金融+”精英旅学在路上背上行囊和书包走起">上一篇：新西兰“金融+”精英旅学在路上背上行囊和书包走起</a>
+                            <a href="?id=1F3C0B660BCE448D919247EAEE46A20D" class="next_news" title="北京财大学术会堂研讨会成功举办第一届“金融+”精英旅学俱乐部正式">下一篇：北京财大学术会堂研讨会成功举办第一届“金融+”精英旅学俱乐部...</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

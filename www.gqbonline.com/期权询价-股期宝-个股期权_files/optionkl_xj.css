@@ -1,0 +1,158 @@
+﻿.play_info{margin-top:33px;}
+.box{border:1px solid #d1d1d0;
+	padding-top:48px;
+	padding-bottom:68px;
+	margin-bottom:80px;
+	background: -moz-linear-gradient(top, #fff 0%, #e6e6e6 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fff), color-stop(100%,#e6e6e6));
+    background: -webkit-linear-gradient(top, #fff 0%,#e6e6e6 100%);
+    background: -o-linear-gradient(top, #fff 0%,#e6e6e6 100%);
+    background: -ms-linear-gradient(top, #fff 0%,#e6e6e6 100%);
+    background: linear-gradient(to bottom, #fff 0%,#e6e6e6 100%);
+}
+.sp1{font-size:16px;color:#727171;margin-right:10px;font-weight: bold;}
+.inp1{
+	font-size: 14px;
+	width:258px;height:36px;
+	padding-left:10px;
+	border:1px solid #d1d1d1;
+	background: url(../images/2_03.png) no-repeat scroll right  center transparent;}
+.inp1:hover,.select1:hover{
+	
+	background: url(../images/xialahong.png) no-repeat scroll right  center transparent;
+}
+.box_d1{position: relative;width:368px;display: inline-block;margin-left:90px;}
+.box_d2{position: relative;width:268px;display: inline-block;margin-left:65px;}
+
+.xiala{position: absolute;right:0;top:1px;}
+.select1{
+	color:#727171;
+	border: solid 1px #d1d1d1;
+	width:128px;
+  /*很关键：将默认的select选择框样式清除*/
+  appearance:none;
+  -moz-appearance:none;
+  -webkit-appearance:none;
+  width:128px;height:36px;border-radius: 0;/*在选择框的最右侧中间显示小箭头图片*/
+  /*background: url(../images/2_03.png) no-repeat scroll right center transparent;*/
+  padding-left: 15px;
+}
+
+.select1 option{
+	font-size: 14px !important;
+	color:#727171;
+}
+
+.prompt_common{
+	width:270px !important;
+    border:1px solid #d1d1d1;
+    border-top:0px;
+	
+}
+.title_tr_class{
+	    background-color:none;
+	    background:url(../images/xialabg.png) no-repeat;
+}
+.td_title_class{
+	    color: #727171;
+    background: none;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 40px;
+    border:0 none !important;
+}
+.cross_tr_class_1 {
+    background-color:#f7f7f7;
+}
+.cross_tr_class_0 {
+    background-color:#fff;
+}
+/*.select1 option{
+	
+}*/
+.days1 option{
+	line-height: 35px;
+	display: block;
+	margin-top:-35px;
+}
+.select1 .opt1{
+	background: #f7f7f7;
+}
+
+
+.box_d3{
+	margin-left:90px;
+	margin-top:30px;
+	display: inline-block;
+}
+.box_d4,.box_d6{display: inline-block;}
+.box_d3 .date,.box_d4 .mybj{
+	font-size:14px;
+	color:#e30920;
+	border:0 none;
+	margin-left:20px;
+	background: none;
+}
+.box_d3 .date{
+	width:180px;
+}
+.box_d5{
+	margin-left:90px;
+	margin-top:30px;
+	display: inline-block;
+}
+.box_d5 .jg,.box_d6 .result1{
+	font-size:14px;
+	color:#e30920;
+	border:0 none;
+	margin-left:20px;
+}
+.box_d6{
+	margin-left:100px;
+}
+.box_d6 .result1{margin-left:8px;}
+.btn{
+	cursor: pointer;
+	font-size:16px;
+	color:#fff;
+	background: #e30920;
+	width:125px;
+	height:36px;
+	line-height:36px;
+	text-align: center;
+	font-weight: bold;
+	margin:0 auto;
+	margin-top:30px;
+	margin-bottom:40px;
+}
+.tb1{
+	width:760px;
+	height:200px;
+	margin-left:55px;
+	border:1px solid #d1d1d0;
+	border-collapse: collapse;
+}
+.tb1 td,.tb1 th{
+	border:1px solid #d1d1d0;
+	text-align: center; 
+	color:#e30920;
+	height:43px;
+}
+.tb1 th{font-size:14px;color:#727171;}
+.tb1 .tb1_first{
+	color:#727171;
+}
+.tb1 tbody{background: #fafafa;}
+.tab_nav ul li a span img{
+	margin-top:-4px;
+}
+#dd{
+    /*display:none;*/
+    border-top:0px;
+}
+.title_tr_class{
+    border-left:0px !important;
+}
+.title_tr_class .td_title_class{
+    border:0px !important;
+}

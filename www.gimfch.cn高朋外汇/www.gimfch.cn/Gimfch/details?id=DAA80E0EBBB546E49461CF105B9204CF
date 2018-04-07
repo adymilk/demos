@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">新西兰“金融+”精英旅学圆满结束期待下一次美丽相约</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2017/12/28 18:42:23</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p><span style="font-size: 14px;">12月21日，这是跟随“金融+”精英旅学俱乐部来新西兰的第11天。</span></p><p><br/></p><p><span style="font-size: 14px;">早餐后乘旅游大巴游览“南阿尔卑斯山的珍珠”蒂阿瑙湖，它是新西兰南岛南部湖区最大的湖泊。</span></p><p><br/></p><p><span style="font-size: 14px;">蒂阿瑙湖的大部分区域处于峡湾国家公园和蒂瓦希普纳默世界文化遗产之内，湖四周多小港汊，湖东面是连绵起伏的丘陵山村，西侧则是一片郁郁葱葱的森林和山区，湖光山色，静谧美好，犹如走进画卷，仙境一般。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171228/6365008252121836241912963.jpg" title="1.jpg" alt="1.jpg" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></p><p><span style="font-size: 14px;"><br/></span></p><p><span style="font-size: 14px;">我们乘车抵达位于新西兰南岛东海岸的但尼丁，这是奥塔古地区的首府，素有“南半球爱丁堡”之称，充满苏格兰风情的南岛大学城。雪山，森林，湖泊，草地以及港湾，沙滩，海口所构成的美丽多变的风景吸引了来自世界各地的众多游客。</span></p><p><br/></p><p><span style="font-size: 14px;">漫步八角广场（Octagon），被街道两旁琳琅满目的各色商店吸引目光，不仅有充满新西兰特色的古董行、艺术工坊、手工厨具店，还有带苏格兰风情的众多商品，让人看得目不暇接，每件都爱不释手。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171228/6365008257769046161235877.png" title="2.png" alt="2.png" width="867" height="645" border="0" vspace="0" style="width: 867px; height: 645px;"/></p><p><span style="font-size: 14px;"><br/></span></p><p><span style="font-size: 14px;">在大街上偶遇圣诞老人骑着摩托车送圣诞礼物，少了驯鹿和雪橇，夏天的圣诞老爷爷还是第一次碰见，估计和我们在三亚过春节的感觉差不多。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171228/6365008267475383202750317.jpg" title="3.jpg" alt="3.jpg" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></p><p><span style="font-size: 14px;"><br/></span></p><p><span style="font-size: 14px;">参观完热闹喧嚣的街道，又来到位于新西兰南岛的但尼丁市世界上最陡的街道--鲍德温街，以奥塔哥议员和新闻报纸创办人威廉·鲍德温命名的。</span></p><p><br/></p><p><span style="font-size: 14px;">鲍德温街全长350米，最陡处的坡度约19°或35%，即每走2.86米，高度就提升1米，已经被吉尼斯世界纪录认证为世界最陡的街道。</span></p><p><br/></p><p><span style="font-size: 14px;">为什么这个小镇会建设有如此陡的街道呢？</span></p><p><br/></p><p><span style="font-size: 14px;">这还要从那个粗心的道路规划师说起，据说新西兰还是英国的殖民地时，远在伦敦的规划师在没有实地考察的情况下就在图纸上画了几条线，正好落在了这个坡度特别大的山坡上，于是也就有了这条世界上最陡的街道。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171228/6365008278838443164850035.jpg" title="4.jpg" alt="4.jpg" width="867" height="650" border="0" vspace="0" style="width: 867px; height: 650px;"/></p><p><br/></p><p><span style="font-size: 14px;">但尼丁火车站（Dunedin Railway Station）是一座庞大的古建筑，火车站的设计师是乔治·楚普（George A. Troup），按照佛兰德文艺复兴的风格设计了但尼丁火车站，并为楚普赢得了“姜饼乔治”的绰号。由于建筑和装修风格充满文艺复兴时期的艺术感，有点不像火车站，更像是座博物馆。</span></p><p><br/></p><p><span style="font-size: 14px;">晚上，来到一家台湾的中餐厅，吃到了最鲜美的鱼和堪比国内的老干妈都美味的辣椒酱，满足了我思乡的胃。</span></p><p><br/></p><p><span style="font-size: 14px;">12月22日，这是我们在新西兰旅学的最后一天。</span></p><p><br/></p><p><span style="font-size: 14px;">上午来到今天的第一个也是旅程中最后一个景点--隧道海滩。</span></p><p><br/></p><p><span style="font-size: 14px;">这段毫无任何人工雕琢痕迹的隐秘海滩是19世纪70年代，总督William Cargill为他的家庭打造出这处不被外人打扰的私属度假海滩，人工挖掘出这段岩石隧道通向一处私密海滩，还流传着一个动人的有关父爱的故事。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171228/6365008292276306764771694.png" title="7.png" alt="7.png" width="867" height="543" border="0" vspace="0" style="width: 867px; height: 543px;"/></p><p><span style="font-size: 14px;"><br/></span></p><p><span style="font-size: 14px;">隧道海滩，顾名思义就是穿过一座隧道到达的隐秘海滩。从起点处150米的海拔高度，绵延1200米的步道，顺着72级台阶径直向下，自然柔光投洒其间，穿过隧道来到这保护完好的原生态海滩，犹如一处世外桃源。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171228/6365008303453726405577135.png" title="001.png" alt="001.png" width="867" height="567" border="0" vspace="0" style="width: 867px; height: 567px;"/></p><p><span style="font-size: 14px;"><br/></span></p><p><span style="font-size: 14px;">海滩上的砂岩崖壁、石拱门和洞穴浑然天成，岩石拙朴憨态，历经海风海浪侵蚀和雕琢，造型完全出至自然的鬼斧神工，遗世而独立着，有着一种孤傲气质，荒野苍茫，寥廓蔚蓝。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171228/6365008315837028151022523.png" title="002.png" alt="002.png" width="867" height="569" border="0" vspace="0" style="width: 867px; height: 569px;"/></p><p></p><p><span style="font-size: 14px;">蔚蓝的海水调皮地在海面上追逐嬉闹，拍打着海边岩石，溅起层层的浪花，阳光灵动地闪耀其上，银光灿灿，耀眼生辉。</span></p><p><br/></p><p><span style="font-size: 14px;">在这最返璞归真的海滩边，有一种回归自然的也野性冲动，天地万物互融为一体。来一段即兴的瑜伽表演，真正感受到了身心合一的神奇自然力量。</span></p><p><br/></p><p><span style="font-size: 14px;">离开隧道海滩，马上就要从但尼丁坐飞机前往奥克兰，后乘国际航班23日返回北京，即将要离开这个已经产生感情的美丽国度，突然有了依依不舍的留恋之感。天下没有不散的筵席，相信有缘还会再见。</span></p><p><span style="font-size: 14px;"><br/></span></p><p style="text-align: center;"><img src="/Upload/UEdit/20171228/6365008322796200376624708.jpg" title="005.jpg" alt="005.jpg" width="867" height="488" border="0" vspace="0" style="width: 867px; height: 488px;"/></p><p style="text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20171228/6365008326867807527246541.jpg" title="006.jpg" alt="006.jpg" width="867" height="488" border="0" vspace="0" style="width: 867px; height: 488px;"/></span></p><p><span style="font-size: 14px;"><br/></span></p><p><span style="font-size: 14px;">作为新西兰“金融+”精英旅学俱乐部的成员，从12月10日踏上旅学的征程，到22日下午旅学结束飞回北京，经过12天深入的旅行和学习，除了脸被晒黑了，心玩野了，魂被美丽的大自然勾走之外，我们还收获了一帮好旅友好战友，在旅学途中一起互帮互助，分享知识和感受，共同成长与收获，今天晚上我们还要一起在飞机上吃饺子过冬至。这是一生都值得回味的美丽旅学，谢谢“金融+”旅学精英俱乐部举办的这次高端旅学活动，下次我还要来。</span></p><p><br/></p><p><span style="font-size: 14px;">新西兰，我们来过，我们走过，相信“金融+”精英旅学俱乐部，下次还会与你美丽相约。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=31A598E8A34A4E18941A15A8FBF4AC28" class="previous_news" title="你与上万元的比特币，只差一个G-IMFCH高朋的距离">上一篇：你与上万元的比特币，只差一个G-IMFCH高朋的距离</a>
+                            <a href="?id=1DCF272278D14E8596075400A8DA284B" class="next_news" title="新西兰“金融+”精英旅学第10天带你在海上行走新西兰">下一篇：新西兰“金融+”精英旅学第10天带你在海上行走新西兰</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

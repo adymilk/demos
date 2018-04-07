@@ -1,0 +1,66 @@
+﻿@charset "gb2312";
+.prompt_common {
+	/*filter: Alpha(opacity = 75);*/
+	border: 1px solid gray;
+	/*border: 1px solid #F6F7FA;*/
+	font-size: 14px;
+	background-color: #fff;
+}
+
+.prompt_limit {
+	height: 210px;
+	/* filter: Alpha(opacity = 85); */
+	overflow-y: scroll;
+	border: medium double outset red;
+	font-size: 20px;
+}
+
+.table_class {
+	border: 0px;
+	width: 100%;
+}
+
+.td_title_class {
+	color: #fff;
+	background:#333;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 40px;
+}
+
+.td_class {
+	color: #333;
+	line-height: 35px;
+}
+
+.title_tr_class {
+	background-color: white;
+	cursor: default;
+	font-size: 14px;
+}
+
+.tr_selected_class {
+	background-color: #ffd2d6;
+	cursor: pointer;
+	font-size: 20px;
+}
+
+.cross_tr_class_0 {
+	cursor: pointer;
+	font-size: 20px;
+	background-color: #efefef;
+}
+
+.cross_tr_class_1 {
+	cursor: pointer;
+	font-size: 20px;
+	background-color: #ffffff;
+}
+
+.matched {
+	color: red;
+}
+
+.unmatched {
+	color: #666666;
+}

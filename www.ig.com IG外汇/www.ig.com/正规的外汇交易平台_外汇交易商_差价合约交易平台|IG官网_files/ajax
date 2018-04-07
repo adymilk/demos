@@ -1,0 +1,23 @@
+var mboxCurrent = mboxFactories.get('default').get('igComAUCN',0);mboxCurrent.setOffer(new mboxOfferAjax(''));mboxCurrent.getOffer().setOnLoad(function() {
+               if ((typeof PS !== 'undefined') && (typeof PS.util !== 'undefined') && (typeof PS.util.pubsub !== 'undefined') && (typeof PS.util.pubsub.publishAndRemove !== 'undefined')) {
+		        //fire a last-resort T&T response
+                        PS.util.pubsub.publishAndRemove('tandt.responded','none');
+                        if (typeof console !== 'undefined') console.log('T&T: default experience (event removed)');
+		} else if ((typeof PS !== 'undefined') && (typeof PS.util !== 'undefined') && (typeof PS.util.pubsub !== 'undefined')) {
+                        //fire a last-resort T&T response without removing it
+                        PS.util.pubsub.publish('tandt.responded','none');
+                        if (typeof console !== 'undefined') console.log('T&T: default experience (event not removed)'); 
+                } else if (typeof console !== 'undefined') {
+			console.log('T&T: the pub/sub functionality does not appear to exist');
+		}	
+
+/*T&T Metadata v3 ==>Response Plugin*/
+window.ttMETA=(typeof(window.ttMETA)!="undefined")?window.ttMETA:[];window.ttMETA.push({"CampaignName":"ZZZ DEFAULT CATCH-ALL - DO NOT DELETE","CampaignId":"54617","RecipeName":"DEFAULT","RecipeId":"0","OfferId":"23034","OfferName":"ASYNC NONE Response","MboxName":"igComAUCN"});
+
+/*T&T to SiteCat v4 ==>Response Plugin*/
+window.s_tnt=window.s_tnt||'',tntVal='54617:0:0,';
+if(window.s_tnt.indexOf(tntVal)==-1){window.s_tnt+=tntVal}
+
+/* next line commented out 05/02/2014 */
+/*if(mboxCurrent.getFetcher().getType()=='ajax'&&(window.s && window.s.tl)){s.tl('TnT', 'o', 'TnT');}*/
+});mboxCurrent.loaded();

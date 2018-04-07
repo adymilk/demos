@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">你与上万元的比特币，只差一个G-IMFCH高朋的距离</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2018/01/03 11:31:14</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p>要问刚刚过去的2017年，什么投资产品最火，非以比特币为代表的数字货币莫属，投资回报率甩其它金融产品几十条街都不止，成为最闪耀的投资明星。那么你知道什么是数字货币吗？</p><p><br/></p><p style="text-align: center;"><img src="/Upload/UEdit/20180103/6365057585250117781805088.png" title="QQ截图20180103112859.png" alt="QQ截图20180103112859.png"/></p><p><br/></p><p><strong>数字货币是个什么鬼</strong></p><p><br/></p><p>数字货币简称为DIGICCY，是英文的“DigitalCurrency”（数字货币）的缩写。学界对数字货币还没有一个非常准确的定义，一般认为它是电子货币形式的替代货币，它常被用于真实的商品和服务交易，而不仅仅局限在网络游戏等虚拟空间中，包括数字金币和密码货币。</p><p><br/></p><p>目前行业内默认的数字货币基本固化为使用区块链区中心化的可以交易、流通、收藏的一种货币形式，是对货币进行数字化，是虚拟币的一种。目前，大家熟知的比特币，莱特币、以太坊等都属于数字货币，更确切地说是数字加密货币，目前全世界发行有数千种数字货币。目前，中央银行不承认也不发行数字货币，数字货币也不一定要有基准货币。</p><p><br/></p><p><strong>什么是数字加密货币？</strong></p><p><br/></p><p>数字加密货币，它依据全世界的计算机运算一组方程式开源代码，通过计算机的显卡、CPU大量的运算处理产生，并使用密码学的设计来确保货币流通各个环节安全性。基于密码学的设计可以使加密货币只能被真实的拥有者转移或支付。</p><p><br/></p><p>目前，最著名的数字加密货币有比特币、以太坊、莱特币、达世币，它们是不依靠法定货币机构发行，不受央行管控。</p><p><br/></p><p>数字加密货币有三种核心机制介绍：去中心化机制、加密算法、共识机制。</p><p><br/></p><p><strong>去中心化机制：</strong></p><p><br/></p><p>任何规则的改变和代码的改变，需要由所有用户投票来决定，开源社区内部也有投票决策机制，代码的改变和发行在社区内部本身就会有讨论和投票，而任何一个用户都可以参加社区。以比特币为例，比特币社区通过并发布了一个新的比特币程序，但是与原有比特币不兼容，没有到得到现在大部分用户的认可，那么这些用户不运行新的程序，就可以让它废掉，同时另立社区延续比特币的版本，最后只有被绝大部分用户认可且运行的程序才是“事实上”的标准。开源社区对应一个民主哲学思想，开源没有秘密，所以是公开的、离散性也强，一个公开散布开来的信息，便很难被篡改。公开的所有人都知道的密码，才是最强的密码。</p><p><br/></p><p><strong>加密算法：</strong></p><p><br/></p><p>比特币加密算法一共有两类：非对称加密算法（椭圆曲线加密算法）和哈希算法（SHA256，RIMPED160算法）。这两种算法确保了数字加密货币钱包只有持有私钥（一串代码）能够打开。</p><p><br/></p><p><strong>共识机制：</strong></p><p><br/></p><p>数字加密货币每个节点都包含完整的账本，即所有的交易记录，且用区块链存储，单个节点想要伪造记录并追上当前交易进度意味着这个节点的算力是整个比特币网络的好几倍，因此篡改和伪造历史记录几乎不可能。而每个节点都拥有完整的数据，也就可以随时对账本进行对账清算。交易发生后被节点广播到网络上，矿工们不停地对交易信息进行哈希计算，直到产生合法哈希，然后将生成的新块广播到网络上。各节点只接收包含合法哈希的新块，并立即验证交易数据，对账和清算是即时完成的。如果出现了竞争分支，长链胜出，6个确认后交易才被承认。</p><p><br/></p><p><strong>数字货币与虚拟货币、法定数字货币的区别</strong></p><p><br/></p><p>很多人经常会把数字货币与虚拟货币的概念混为一谈，认为数字货币就是虚拟货币，并且数字货币和央行法定数字货币之间的区别也是傻傻分不清楚。</p><p><br/></p><p>数字货币不是虚拟货币，虚拟货币存在于网络游戏等虚拟空间中，种类比较多，通用性较低。常见的是游戏中的充值，比如QQ币等；数字货币它不能完全等同于虚拟世界中的虚拟货币，因为它经常被用于真实的商品和服务交易，而不仅仅局限在虚拟空间中。</p><p><br/></p><p>央行法定数字货币（CentralBank-issued Digital Currency, CBDC）是指各国央行发行的法定数字货币。</p><p><br/></p><p><strong>那么数字货币的价值在哪里呢？</strong></p><p><br/></p><p>我们说数字货币是去中心化的，这是数字货币的本质特点，数字货币从产生开始，就是自由发展的，因此并没有任何人为数字货币的发行负责，所以，数字货币背后是没有任何国家信用作为价值支撑的。并且数字货币也不挂钩任何资产，没有任何一个创造和运营数字货币的组织或团体宣称持有某种数字货币即可到该组织换取黄金白银或是其他有价值的资产。</p><p><br/></p><p>下面让我们简要介绍一下数字加密货币的代表着：比特币、莱特币、以太坊。</p><p><br/></p><p><strong>比特币</strong></p><p><br/></p><p>比特币（BitCoin）的概念最初由中本聪在2009年提出，根据中本聪的思路设计发布的开源软件以及建构其上的P2P网络。比特币是一种P2P形式的数字货币。点对点的传输意味着一个去中心化的支付系统。</p><p><br/></p><p>比特币不依靠特定货币机构发行，它依据特定算法，通过大量的计算产生，比特币经济使用整个P2P网络中众多节点构成的分布式数据库来确认并记录所有的交易行为，并使用密码学的设计来确保货币流通各个环节安全性。P2P的去中心化特性与算法本身可以确保无法通过大量制造比特币来人为操控币值。基于密码学的设计可以使比特币只能被真实的拥有者转移或支付。这同样确保了货币所有权与流通交易的匿名性。比特币与其他虚拟货币最大的不同，是其总数量非常有限，具有极强的稀缺性。该货币系统曾在4年内只有不超过1050万个，之后的总数量将被永久限制在2100万个。目前，比特币已经被挖掘出1700万枚。</p><p><br/></p><p>比特币可以用来兑现，可以兑换成大多数国家的货币。使用者可以用比特币购买一些虚拟物品，比如网络游戏当中的衣服、帽子、装备等，只要有人接受，也可以使用比特币购买现实生活当中的物品。2017年5月，自从日本承认比特币为合法支付方式之后，日本已有超过3000家商户接收比特币的。</p><p><br/></p><p>比特币的开发者兼创始者中本聪，在比特币前期一共挖掘了98万个比特币，根据福布斯发布的财富排行榜，中本聪以194亿美金位列全球财富排行榜的第194位。</p><p><br/></p><p><strong>以太坊</strong></p><p><br/></p><p>以太坊（Ethereum）并不是一个机构，而是一款能够在区块链上实现智能合约、开源的底层系统，以太坊从诞生到2017年12月，短短4年时间，全球已有500多个以太坊应用诞生。以太坊是一个平台和一种编程语言，使开发人员能够建立和发布下一代分布式应用。以太坊可以用来编程，分散，担保和交易任何事物：投票，域名，金融交易所，众筹，公司管理，合同和大部分的协议，知识产权，还有得益于硬件集成的智能资产。</p><p><br/></p><p><strong>创始人是俄罗斯人维塔利克˙布特林（VitalikButerin）。</strong></p><p><br/></p><p>2018年1月1日，以太币价格突破850美元，创下历史新高，从2017年2月份的8美元到今天，以太币的价格已经增长了100倍以上。与此同时，比特币的价格却出现了松动，相比此前的最高点已经降低了30%，以太币大有“接棒”比特币继续大涨的势头。</p><p><br/></p><p><strong>莱特币</strong></p><p><br/></p><p>莱特币Litecoin（简写：LTC）是一种基于“点对点”(peer-to-peer)技术的网络货币，也是MIT/X11许可下的一个开源软件项目。它可以帮助用户即时付款给世界上任何一个人。</p><p><br/></p><p>莱特币由美籍华人李启威发起，他受到了比特币（BTC）的启发，并且在技术上具有相同的实现原理，莱特币的创造和转让基于一种开源的加密协议，不受到任何中央机构的管理。莱特币旨在改进比特币，与其相比，莱特币具有三种显著差异。第一，莱特币网络每2.5分钟（而不是10分钟）就可以处理一个块，因此可以提供更快的交易确认。第二，莱特币网络预期产出8400万个莱特币，是比特币网络发行货币量的四倍之多。第三，莱特币在其工作量证明算法中使用了由Colin Percival首次提出的scrypt加密算法，这使得相比于比特币，在普通计算机上进行莱特币挖掘更为容易。每一个莱特币被分成100,000,000个更小的单位，通过八位小数来界定。</p><p><br/></p><p><strong>G-IMFCH高朋新推三种数字货币差价合约产品今日上线</strong></p><p><br/></p><p>刚刚过去的2017年，是数字加密货币爆发的一年，不少投资机构和分析师认为数字加密货币代表比特币在2018年还会大涨至4万美金，而其他币种也随之出现不同程度的上涨趋势。</p><p><br/></p><p>为了适应数字货币国际化的发展趋势，为了让中国更多的投资者可以参与进来，G-IMFCH高朋在2018年1月2日新推出三种数字货币差价合约交易产品，就像是一般的法币货币对交易一样，不仅有入场杠杆可以提供，可以双向看多看空，差价合约，这三款新产品分别是比特币兑美元（BTCUSD）、以太坊币兑美元（ETHUSD）、莱特币兑美元（LTCUSD）。</p><p><br/></p><p>如果你错过了2017年数字加密货币的牛市，如果你不想再错过2018年的行情，那还等什么，据调查这是国内首推的数字货币差价合约交易产品，心动不如行动，还等什么呢！</p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=3D40DD4A12E74A8C914938C5FC1B1E82" class="previous_news" title="你也能买起比特币G-IMFCH高朋送你月光宝盒">上一篇：你也能买起比特币G-IMFCH高朋送你月光宝盒</a>
+                            <a href="?id=DAA80E0EBBB546E49461CF105B9204CF" class="next_news" title="新西兰“金融+”精英旅学圆满结束期待下一次美丽相约">下一篇：新西兰“金融+”精英旅学圆满结束期待下一次美丽相约</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

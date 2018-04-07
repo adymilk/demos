@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">为什么说炒币不是区块链投资</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2018/02/28 16:08:31</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p><span style="font-size: 14px;">在这个区块链概念被频繁讨论的当下，一种将“炒币行为等同于区块链投资”的认知正在被部分币圈和链圈人士以讹传讹。</span></p><p><br/></p><p><span style="font-size: 14px;">当然，当一条公有链被越来越多人所熟知乃至有落地应用，代币价格会因稀缺性而水涨船高，炒币者甚至也会盆满钵满——这正是比特币一路走来的励志故事。</span></p><p><br/></p><p><span style="font-size: 14px;">然而，比特币的财富效应也并不意味着炒币等同于区块链投资。在笔者看来，真正的区块链投资必须基于解决现实痛点的视角来开展。</span></p><p><br/></p><p><span style="font-size: 14px;">相反，当前更多基于公有链的代币热，难以成为区块链中短期的商业化落地载体，其更多则只是一种复制和瓜分比特币等主流代币知名度外溢的盛宴而已。</span></p><p><br/></p><p><span style="font-size: 14px;">炒币不是投资</span></p><p><br/></p><p><span style="font-size: 14px;">过去的9年里，比特币用它的逆天涨幅证明了区块链去中心化模式创造信用的可能性，也让区块链技术成为当下的投资热点。</span></p><p><br/></p><p><span style="font-size: 14px;">然而，随着当下ICO项目和山寨币的增多，越来越多的人将炒币视为投资区块链的一种手段。</span></p><p><br/></p><p><span style="font-size: 14px;">但必须厘清的一点是，将炒币热等同于区块链投资的逻辑经不起推敲。</span></p><p><br/></p><p><span style="font-size: 14px;">这是因为，当下代币市场的估值体系从来就不被区块链应用的多寡或技术的高低所决定。</span></p><p><br/></p><p><span style="font-size: 14px;">众所周知，和其他新兴代币相比，比特币的区块链技术相对落后，其网络速度窄慢，难以落地应用，以至于矿工和投资者要为了讨论如何扩容而论战。</span></p><p><br/></p><p><span style="font-size: 14px;">即便如此，它仍然是地位难以撼动的全球头号代币；这是因为，当前代币市场较大程度上是由代币的知名度、而非技术所决定的。</span></p><p><br/></p><p><span style="font-size: 14px;">比特币千亿级美元总市值的背后，显然是其作为首条公有链代币的巨大IP效应所致。支撑价格的，是芝加哥期货品种的上线、是财经媒体们的报道、是主流论坛中的争论、是各国央行乃至IMF的关注。</span></p><p><br/></p><p><span style="font-size: 14px;">从新老代币的价格差足以看出，知名度才是决定代币价格最重要要素；而这恰与荷兰郁金香、长春君子兰、A股概念股的投机现象如出一辙。</span></p><p><br/></p><p><span style="font-size: 14px;">可以说，当下大部分ICO项目，几乎都来自于对比特币巨大IP价值的“瓜分”。而不少投资者也是抱着“比特币既然能上涨，其他币也能”的冲动而趋之若鹜的，这与真正的区块链投资大相径庭。</span></p><p><br/></p><p><span style="font-size: 14px;">“提供更好产品、节省更多成本、创造更多收益。”这是商业社会中最直白的逻辑，可是在代币投资上，投资者目前唯一的获利方式就是其他投资者以更高的价格来接盘，更不要说难以见到的现金流了。</span></p><p><br/></p><p><span style="font-size: 14px;">在笔者看来，真正的区块链投资路径有很多，可以是挖掘利用区块链技术解决现实痛点，由此可获得业绩改善的企业股权；还可以是投资提供区块链解决方案的初创企业或技术；但当下的代币投资，显然与此无关。</span></p><p><br/></p><p><span style="font-size: 14px;">公有链的乌托邦</span></p><p><br/></p><p><span style="font-size: 14px;">注意，不可视炒币为区块链投资，并非是说代币在区块链中的角色毫无意义。</span></p><p><br/></p><p><span style="font-size: 14px;">作为分布式关系，区块链在失去中心化机构存托情况下，显然不可能凭空运转，而代币则是其必然要依托的“高速公路”。</span></p><p><br/></p><p><span style="font-size: 14px;">由于代币总量往往有限，当占据了更多的节点时，意味着将掌握未来区块链更多基础设施的组成部分，而应用增加后，代币的稀缺性将导致其价格上涨。</span></p><p><br/></p><p><span style="font-size: 14px;">以上大概是不少较为理解代币机制的投资者所持有的逻辑。</span></p><p><br/></p><p><span style="font-size: 14px;">但注意，这里的一个巨大矛盾在于，“应用场景（或知名度）扩大——节点有限而稀缺——币价最终上涨”的逻辑，大概率只能在公有链状态下才能适用。</span></p><p><br/></p><p><span style="font-size: 14px;">这是因为，只有开放性极高的公有链才能像比特币一样在更大范围内创造知名度效应，或产生更多实际应用，并吸引越来越多的用户加入，此刻代币的稀缺性价值方能体现。</span></p><p><br/></p><p><span style="font-size: 14px;">但很遗憾的是，在笔者看来，至少在区块链的早中期阶段，我们很难看到一条满载应用场景的公有链出现。</span></p><p><br/></p><p><span style="font-size: 14px;">这样判断不是因为技术壁垒，而是市场对公有链需求本就有限，加之其存在的“无主地”问题，也会让其应用场景开发和商业化落地面临双重困境。</span></p><p><br/></p><p><span style="font-size: 14px;">首先，绝大多数的商业场景都是极富限定性的：一款网络游戏有特定的玩家，一款新闻APP有其特定的读者，一个当红艺人有其特定的粉丝。</span></p><p><br/></p><p><span style="font-size: 14px;">在覆盖特定用户这件事上，私有链或联盟链显然就已足够；此类区块链的建设者也必然来自原场景的运营者；这种情况下，公有链很可能是被抛弃的角色。</span></p><p><br/></p><p><span style="font-size: 14px;">退一步讲，即便是商业组织要开发公有链，但面对价格如此高昂的代币，显然也会合力重建一条新链，并与老链产生直接竞争，何况区块链更多依托密码学与通讯技术，其门槛远不像人工智能的算法那样高不可攀，正如你所看到不断增多的山寨币和比特币的不断分叉一样。</span></p><p><br/></p><p><span style="font-size: 14px;">即便是公共市场层面，区块链建设也不必依靠存量公有链开展。</span></p><p><br/></p><p><span style="font-size: 14px;">政府层面若计划开发区块链应用或发行数字货币，绝无可能利用比特币、以太坊等公有链，相反更大可能是会自建一条包含主链构建的半去中心化链条——且不说当前主流公有链的代币价格已水涨船高，当下公有链去中心化的特点难以满足国家对货币政策、资本市场进行宏观调控的现实需求。</span></p><p><br/></p><p><span style="font-size: 14px;">同理，股票期货交易、房产登记、知识产权证券化这些传统经济活动如若搭建区块链，也完全不必然依托于当下存量的公有链展开。</span></p><p><br/></p><p><span style="font-size: 14px;">因此，当下讨论公有化会对社会经济活动带来怎样的颠覆而投资代币，远不如讨论如何运用区块链技术帮助茅台酒或爱马仕防伪、减少现实经济损失来得更有意义。</span></p><p><br/></p><p><span style="font-size: 14px;">无论对于区块链的开发还是投资，不要再去争论公有链还是私有链这种意识形态问题，解决现实需求才是重要的事。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=47B2EECAFA56489B807E6CC6D5A53A7C" class="previous_news" title="鲍威尔参议院作证或坚持放鹰，警惕年内4次加息风险">上一篇：鲍威尔参议院作证或坚持放鹰，警惕年内4次加息风险</a>
+                            <a href="?id=7A1D46751C534E7EA047E406BFC6ED75" class="next_news" title="1月人民币兑美元创纪录大涨银行却未现结售汇顺差">下一篇：1月人民币兑美元创纪录大涨银行却未现结售汇顺差</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

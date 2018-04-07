@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">比特币又“火”了不过这次要注意了</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2017/02/13 18:17:17</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　摘要：2017年2月9日，bitcoinity.org的统计数据显示，半年前中国三家比特币交易平台在全球的市场份额占比为97.74%，一个月前降至92.88%，一周前降至不到40%。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　近日，比特币又火了。这次不是因为又涨了，而是因为又被央行严肃“约谈”了，而且之后比特币价格出现大跌，引发了人们对比特币的诸多猜想。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　<strong>比特币“三番五次”被约谈 检查步入深水区</strong></span></p><p style="text-align: center; line-height: 1.5em;"><span style="font-size: 14px;"><strong><img src="/Upload/UEdit/20170213/6362260612107007123850274.jpg" title="W020170118789306396712.jpg" alt="W020170118789306396712.jpg"/></strong></span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　春节之后，2月8日下午，人民银行营业管理部检查组又对其他从事比特币交易的“中国比特币”、“比特币交易网”、“好比特币”等9家在京的比特币交易平台主要负责人进行约谈，向其提示交易平台可能存在的法律风险、政策风险及技术风险等，并提出明确要求：不得违规从事融资融币等金融业务，不得违反国家反洗钱、外汇管理和支付结算等金融法律法规等。央行特别强调，如有违反，情节严重的，检查组将提请有关部门依法予以关停取缔。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　其实，这已经是2017年以来央行第三次约谈比特币平台商了。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　早在1月6日，在比特币价格出现暴涨暴跌后的次日，央行北京营管部和央行上海总部分别约见了火币网、币行、比特币中国等交易平台的主要负责人，了解平台运行情况，提示可能存在的风险，要求平台自查并进行相应的清理整顿。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　1月11日，央行北京营管部和央行上海总部同时发布消息，宣布联合地方金融部门组成检查组，进驻火币网、币行、比特币中国等平台，就企业是否超范围经营，是否未经许可或无牌照开展信贷、支付、汇兑等相关业务;是否有涉市场操纵行为;反洗钱制度落实情况;资金安全隐患等进行现场检查。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　<strong>比特币是个神马鬼 如何被“盯上”</strong></span></p><p style="text-align: center; line-height: 1.5em;"><span style="font-size: 14px;"><strong><img src="/Upload/UEdit/20170213/6362260618155137749899599.png" title="1482482082270408.png" alt="1482482082270408.png" width="530" height="366" border="0" vspace="0" style="width: 530px; height: 366px;"/></strong></span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　大家对于比特币的了解，一般仅限于知道它源于是一项很牛的互联网技术，是虚拟货币，其实不然，这与我国将要计划发行的数字货币大相径庭。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　比特币是由神秘创始人中本聪于2009年开启的基于一套密码编码、通过复杂算法产生的一种虚拟货币，任何人都可以下载并运行比特币软件而参与制造比特币;比特币利用电子签名的方式来实现流通，通过P2P网络来核查重复消费。不由政府发行，不具有法偿性与强制性，具有极高的价格波动风险。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　理论上，比特币可以绕开资本账户管制，投资者先用人民币购买比特币，然后再将比特币提现，在其他交易平台将比特币兑换成美元，达到转移资产出境的目的。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　虽然目前从技术和监管方面来看，尽管目前国内比特币平台不太可能发生大规模的洗钱行为，但比特币本身存在非法传销、洗钱、换汇活动的可能性，可能对中国现有的外汇管理和支付结算体系形成冲击。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　在过去三年里，比特币的基本面存在一定的改善，一些国家监管者开始发放比特币经营牌照，同时，越来越多人认识到比特币背后的技术价值，比特币所代表的区块链技术被视为颠覆金融业的底层技术，将能运用到证券、银行、保险等金融行业。这客观上促使更多的人去了解比特币，这是比特币长期上涨的根本原因。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　2016年中国“资产荒”比较严重，在缺乏具有吸引力的大类资产的情况下，一些投资者把目光转向了比特币。数据显示，2016年，相对于其他类别资产，比特币全年涨幅高达160%以上，远远超出了同期股票市场、大宗商品等大类资产创造的收益。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　2017年1月份以来，比特币价格继续大幅上涨，1月5日刷新历史最高价，达到每个币1249美元;但1月6日比特币价格“闪崩”，一路暴跌超30%，其价格波动风险愈发凸显。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　自2009年诞生以来，比特币一直受到质疑，在中国也只是一个小众市场。但在2016年，中国的比特币市场骤然火热起来，三家主要交易平台的交易量甚至排在了全球的前三位，交易量远超全球其他地区，整个市场出现了失控的倾向。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　中央经济工作会议提出，要把防控金融风险放到更加重要的位置。比特币的非理性繁荣和市场的高度投机倾向，已经成为一个潜在的风险点。所以，国家央行该出手时就出手，该约谈的马上就要约谈，防患于未然。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　<strong>　“三令五申”之下 严监管见成效</strong></span></p><p style="text-align: center; line-height: 1.5em;"><span style="font-size: 14px;"><strong><img src="/Upload/UEdit/20170213/6362260624928669645591690.jpg" title="10057-16092ZU933911.jpg" alt="10057-16092ZU933911.jpg" width="530" height="366" border="0" vspace="0" style="width: 530px; height: 366px;"/></strong></span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　都说再一再二不再三，央行对比特币此次三番五次地进行约谈，可谓是苦口婆心，背后有啥良苦用心?</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　就在约谈的第二天(2月9日)，比特币中国、火币网、币行三家比特币交易平台发公告称，为进一步抑制比特币市场的投机行为，防范通过比特币进行的非法传销、洗钱和换汇的可能性，即日起将暂停比特币、莱特币的提现业务。与此同时，多家平台步调一致，纷纷在官网发布了调整交易费用，防范风险的通知。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　火币网行情显示，比特币的人民币价格瞬间直落，从20点45分的7470元，45分钟后跌至6715元。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　2017年1月9日起，根据监管机构要求，各交易平台停止杠杆(融资融币)业务，即日起不再发放新的杠杆额度，老用户还完相应金额以后，不再续借。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　2017年1月24日中午12:00起，中国的比特币交易平台先后开始对比特币和莱特币的交易收取交易服务费，此前为零。具体收费方式为：交易服务费按固定比例双向收取，卖出收取人民币，买入收取比特币或莱特币;主动成交和被动成交费率一致;服务费按成交金额的0.2%固定费率收取。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　2017年2月9日，bitcoinity.org的统计数据显示，半年前中国三家比特币交易平台在全球的市场份额占比为97.74%，一个月前降至92.88%，一周前降至不到40%。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　<strong>朋朋观点：</strong></span></p><p style="text-align: center; line-height: 1.5em;"><span style="font-size: 14px;"><strong><img src="/Upload/UEdit/20170213/6362260662044254835808061.jpg" title="u=3026347492,545418256&fm=23&gp=0.jpg" alt="u=3026347492,545418256&fm=23&gp=0.jpg" width="533" height="360" border="0" vspace="0" style="width: 533px; height: 360px;"/></strong></span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　比特币近期被推向风口浪尖，接连被“三令五申”，其实这场突如其来的检查，还是姗姗来迟，早就该好好管一管了。为什么这样说?</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　比特币本身就是“风险无限”。众所周知，比特币不是政府发行，没有主权国家作信用背书，也没有相对应的实体资产作为支撑，本身就有无法解决的安全问题，技术风险等。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　人们习惯称比特币为虚拟货币，虽然“虚拟”这一形容词是对的，但比特币并不是货币，比特币和微信、支付宝等货币的虚拟化之间又巨大的区别。货币虚拟化实际上是法定货币的数字化，所采取的本体还是人民币，改变的只是支付方式;而没有国籍的比特币却不是法币，改变的是货币发行的根本规则，挑战的是央行的权威。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　其次，交易模式有“玩火自焚”的风险。目前比特币主要交易平台实施T+0交易、7x24小时开盘、无涨跌幅限制，现货杠杆交易模式较为盛行，这些在一定程度上放大了整个比特币交易的风险。同时再加上杠杆工具(融资融币)的普遍运用，促使投机者不断加入与价格不断上涨之间形成的正向循环，进一步助推了投机风潮，也加剧了市场崩溃的风险。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　最后，由于缺乏第三方托管，交易平台本身也存在较大的道德风险，很容易发生类似P2P的跑路现象。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　此外，在人民币贬值、比特币暴跌的情况下，比特币更有传言已沦为资金外流的便捷通道。</span></p><p style="line-height: 1.5em; text-align: left;"><span style="font-size: 14px;">　　所以，对于比特币遭遇2017年连二连三的“约谈”和检查，对于降低比特币市场的非理性繁荣，防止交易市场温度过热，可谓是一场及时雨，相对于贵金属、邮币卡、原油等交易市场的整顿而言，此次对于比特币的“检查”，并不是“突如其来”，其实还算来得稍微晚一些了。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=43C3E4CA210E4815B54C75CA9363A687" class="previous_news" title="黄金看涨情绪爆棚耶伦或确定三次调息">上一篇：黄金看涨情绪爆棚耶伦或确定三次调息</a>
+                            <a href="?id=39AAE019301949628D762074F4332F25" class="next_news" title="大选后市场归于平静耶伦鸽派政策或断篇">下一篇：大选后市场归于平静耶伦鸽派政策或断篇</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

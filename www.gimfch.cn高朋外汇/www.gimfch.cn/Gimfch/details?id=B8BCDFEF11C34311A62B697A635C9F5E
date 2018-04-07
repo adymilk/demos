@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">外汇交易新手要知道的20个基础问题</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2018/01/11 16:13:52</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p><span style="font-size: 14px;">新手进入外汇保证金交易市场，第一通金很容易被市场瓜分，很难逃过二八定律，关于交易存在着很多的疑问，如何巧妙地避走一些弯路，不要再摸着石头过河，既然炒汇路上有那么多的经验可以借鉴，让我们踩在巨人的肩上，成为炒汇的幸运者。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">一、基础货币的特点？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">基础货币为美元，英镑，欧元，日元，澳元，加元，瑞朗，基础交易货币兑为欧美，镑美，澳美(这3个为间接标价，因为美元在后面)，美日，美瑞，美加(直接标价，因为美元在前面)，其中澳元和加元为商品货币，意思就是受到商品等价格的影响较大(如黄金石油，金属，期货市场的涨跌)，套利息货币之称的是日元(因为日元利息低)，炒作货币一般容易发生在英镑上，瑞朗具有一定的避险功能，而欧元是个主流的货币(盘子较大，不容易被炒作)。除美元之外的货币统称为非美货币。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">二、何为标准手，交易单位怎么回事？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">国际统一的标准为约1000美金保证金1：100的杠杆相当与10万美金的交易称为一个标准合约，那么0。1标准合约是100美金保证金相当于1万美金的交易。交易单位就是每次交易所选择的合约数。交易单位的大小取决于交易商的设定。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">三、什么是杠杆？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">你很可能会奇怪，像你这样的散户投资者怎么能够交易如此大规模的货币。你可以这样设想，你的经纪商借给你100,000美元来购买货币。而它只要求你给它1,000美元作为信用保证金，它将代为你保管这笔资金。听上去是不是太美了，感觉不太真实？这就是杠杆交易的工作原理。</span></p><p><br/></p><p><span style="font-size: 14px;">你使用的杠杆比例取决于你的经纪商以及你能够承受的水平。</span></p><p><br/></p><p><span style="font-size: 14px;">一般来说，经纪商将首先要求交易者在其账户中存入一笔资金，这笔资金即我们所熟知的“账户保证金”或“初始保证金”。一旦你存入了你的资金，你就能够用它来进行交易。经纪商也会规定，每一手交易所需要的保证金水平。</span></p><p><br/></p><p><span style="font-size: 14px;">比如说，如果杠杆比例是100:1(或1%的头寸要求)，你打算进行100,000美元的交易，但是，你的账户中仅有5,000美元。这并没有什么大不了，因为你的经纪商将从5,000美元中拿出1,000美元，作为你的首付款，或者是“保证金”，并允许你“借入”余下的资金。当然，任何损失或者盈利都将在你的账户现金余额中进行减记或者增加。</span></p><p><br/></p><p><span style="font-size: 14px;">最低保证金要求因经纪商而异。在上一例子中，该经纪商允许1%的保证金。这意味着，每进行100,000美元交易，经纪商希望你存入1,000美元作为交易头寸。?</span></p><p><br/></p><p><strong><span style="font-size: 14px;">四、什么是锁仓和对冲？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">锁仓就是在自己亏损单中不愿意设损位然后做一个反向的单把亏损锁住，本人对锁仓的本质定义为：对自己所犯的不设损位错误而最无奈的选择。同时锁仓也是春天理财五大交易禁忌之一。对冲与锁仓是本质区别的，对冲指的是不同市场的选择，比如在一个市场买入某品种后，为了安全保值，那么在相关性的另外的品种进行反方向的操作，这就是对冲的含义，当然随着金融市场的发展，对冲慢慢也变得复杂化，一般不建议这么去做的，因为难度和选择较大。所以对于锁仓和对冲，不建议大家去碰。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">五、如何开始交易外汇？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">您需要在外汇公司注册交易帐户，例如AGEA。 然后您可以使用他们的外汇客户系统买进和卖出货币。这只需要您大概5分钟的时间！</span></p><p><br/></p><p><strong><span style="font-size: 14px;">六、谁拥有外汇以及外汇在哪？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">不属于任何人。外汇是央行市场，意味着所有的交易都是由两个参与者之间进行-卖家和买家。自目前的银行系统出现以来，外汇就一直存在。不属于任何国家或政府组织。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">七、外汇市场的工作时间？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">外汇市场自周日22:00 GMT（澳大利亚交易开盘）直到周五22:00 GMT（美国交易市场收盘）。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">八、什么是保证金？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">保证金是在您的外汇帐户中保证您仓位安全的资金。不同的公司需要不同的保证金数量。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">九、什么是“多”和“空”位置？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">多单：是“买进”仓位，意味着价格上涨您获得收益。</span></p><p><br/></p><p><span style="font-size: 14px;">空单：是“卖出”仓位，意味着价格下跌您获得收益。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">十、什么是最好的外汇交易策略？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">没有。如果您想获得收益，您应持续的发展您自己的策略，逐渐适应可能的市场情况。特殊的策略只适应于某一固定的时间段和某种货币对。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">十一、我需要多少资金开始外汇交易？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">在一些外汇公司 您可以以$1开始交易。通常，最低入金自$100 到$10,000 ($100,000以及更多适应央行之间交易)之间。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">十二、炒外汇开户入金门槛有规定吗？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">一般情况下，外汇交易商要求客户的最低入金量在500美金，但是就外汇保证金投资的资金管理方面来看，500美金基本是不够的。做1万单位量的迷你手，资金最少也要在1000美金左右；做标准手的话，1万美金的资金，仓位算是比较重的。</span></p><p><br/></p><p><span style="font-size: 14px;">交易商提供的高杠杆在可能带来高收益的同时，也可能带来高风险。所以，管理好资金，控制好仓位是投资盈利的重要保证。说到这里，您应该已经意识到，哪里门槛最低就去做是不正确的，入金的标准不能盲目对待。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">十三、新手炒外汇开户仓位如何控制？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">不少新手在炒外汇开户之后，自认为学了点知识就盲目进行重仓交易，不仅没有获得任何回报，而且会对外汇投资产生错误的认识。一定要谨记，投入的资金要在自己承受的范围之内，尤其是新手。您可以用模拟账户来练习提高操作能力，接着在仓位合理的情况下，尽量自己做一些轻仓交易，这样才会平心静气、慢慢地积累知识和实践经验。千万不要胡乱找一些操盘手，更不要轻易相信专家和某些技术支持。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">十四、什么是外汇银行？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">外汇银行是指由各国中央银行或货币当局指定或授权经营外汇业务的银行。外汇银行通常是商业银行，可以是专门经营外汇的本国银行，也可以是兼营外汇业务的本国银行或者是在本国的外国银行分行。外汇银行是外汇市场上最重要的参加者，其外汇交易构成外汇市场活动的主要部分。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">十五、什么是外汇交易商？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">外汇交易商 就是只从事外汇交易的市商！ 就和股票市场的证券交易所差不多      3什么是外汇经纪人？</span></p><p><br/></p><p><span style="font-size: 14px;">它是指通过平衡买卖双方外汇供求而获取利润的外汇买卖中间人。分两类：一是一般经纪人，即以自有资金参与外汇交易，自负盈亏，这时经纪人就是自营商；二是跑街经纪人，即代表客户进行外汇买卖，只收取佣金，不承担任何风险。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">十六、什么是中央银行？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">一个由政府组建的机构，负责控制国家货币供给、信贷条件，监管金融体系，特别是商业银行和其他储蓄机构。</span></p><p><br/></p><p><span style="font-size: 14px;">中央银行是一国最高的货币金融管理机构，在各国金融体系中居于主导地位。中央银行的职能是宏观调控、保障金融安全与稳定、金融服务。</span></p><p><br/></p><p><span style="font-size: 14px;">比方说中国人民银行是所有中国银行的头，他就是中央银行</span></p><p><br/></p><p><strong><span style="font-size: 14px;">十七、如何计算盈利与亏损？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">何计算盈利或亏损。举个栗子，让我们买入美元并卖出瑞郎。</span></p><p><br/></p><p><span style="font-size: 14px;">1.你的报价是1.4525/1.4530。由于你在买入美元，因此1.4530的“卖出价”将是你的“买入”价格，或者是其他交易者打算卖出的价格；</span></p><p><br/></p><p><span style="font-size: 14px;">2.你在1.4530点位买入1标准手(10万单位)美元/瑞郎；</span></p><p><br/></p><p><span style="font-size: 14px;">3.数小时过后，汇价变为1.4550，你打算平仓；</span></p><p><br/></p><p><span style="font-size: 14px;">4.美元/瑞郎最新报价是1.4550/1.4555。由于你正打算平仓，且你最初为买入，现在你准备平仓平仓，需要卖出美元/瑞郎，因此你必须执行1.4550的“买入价”；</span></p><p><br/></p><p><span style="font-size: 14px;">5.1.4530和1.4550之间的价差为0.0020，或20点；</span></p><p><br/></p><p><span style="font-size: 14px;">6.计算你的盈利状况：(0.0001/1.4550)*100,000*20=6.87美元/点*20点=137.40美元。</span></p><p><br/></p><p><span style="font-size: 14px;">记住，当你进入或退出交易，你必须明晰“买入价/卖出价”报价的价差。当你买入一种货币，你将执行卖出价，当你卖出，你将执行买入价。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">十八、滑点是指什么？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">滑点(slippage)，是指进行交易时，交易者下单的指定交易点位和最后成交的实际点位存在差距的一种现象，滑点是交易的成本之一。</span></p><p><br/></p><p><span style="font-size: 14px;">举例说明：</span></p><p><br/></p><p><span style="font-size: 14px;">交易者A准备以1.3564美元的买入价做多英镑/美元，但指令发出后，最后成交的价格却不是A原先定好的1.3564美元，而是1.3565美元，而这高于报价的一点，被称为正向滑点(positive slippage)；相反的，当实际成交价格低于原指定的报价时，即为负向滑点(negative slippage)。</span></p><p><br/></p><p><span style="font-size: 14px;">从上述举例中可看出，滑点发生一般会有两种情况：一种是负滑点造成亏损：在止损位造成多亏损；另一种是正滑点在止盈时造成多盈利。需要注意的是，在遇到特殊跳空行情时，滑点可能造成仓位爆仓成负值。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">十九、滑点产生的原因是什么？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">1. 网络延迟。网络的延迟与否取决于交易平台的执行速度，正常情况下，客户在提交订单之后通过服务器提交至交易所，而在这个传输过程中，往往会有一个微小的延迟。但是一旦遇到剧烈波动的行情，服务器无法处理此类波动时，这个微小的延迟就会放大。其中值得注意的是，与做市商（MM)交易平台会提醒投资者二次确认价位已有变化有所不同，在ECN交易平台里一般不会要求客户做二次确认，而是直接以最新的价格成交，从而导致形成滑点。</span></p><p><br/></p><p><span style="font-size: 14px;">2.市场报价断层。通常在流动性充足的市场中，报价是连续的，但如果碰到了行情剧烈波动的情况，市场就会出现价格的断层。如果投资者设置的止损/止盈正好处于价格断层的空白区间之内，则无法在设定的价格成交，最终的成交价格会直接跳至最新的市场报价为准。</span></p><p><br/></p><p><span style="font-size: 14px;">3.市场波动。剧烈的市场波动意味着流动性变低，在低流动性的情况下，下的订单指令往往无法按最初指定的价格执行，最大滑点也通常会在发生重大事件时产生。作为投资者，需要经常查看财经日历，以避免在重大事件发生时进行交易，例如美联储会议期间，或每个月一次的美国非农数据公布等。</span></p><p><br/></p><p><span style="font-size: 14px;">4.异常滑点。异常滑点的形成往往是因为一些不正规的交易商恶意操作而导致的。一般来说，正向滑点和负向滑点的几率是对称的，而非对称滑点也就是异常滑点才是交易商恶意操作的表现。一旦被发现有异常滑点的情况，监管机构就会出面对此平台施以重罚。投资者在区分正常滑点和异常滑点时，可以找几个其它的交易软件，查询同一时间点不同平台之间的差异，就能判断该滑点是正常滑点还是异常滑点。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">二十、如何选择平台？</span></strong></p><p><br/></p><p><span style="font-size: 14px;">关于平台选择的问题，我们主要从平台的正规性、资金的安全性、服务代理商的正规程度和交易商的政策等多方面去进行分析。具体如何挑选，首先，要看的是平台有没有受到监管，这是你资金安全的重要保障，比较好的是受到英国FSA和美国NFA机构监管的平台，当然双重监管更好。</span></p><p><br/></p><p><span style="font-size: 14px;">G-IMFCH高朋是新西兰金融监管局（FSP）的服务供应商，目前正式通过英国金融监管局（FCA）全牌照申请，拥有双监管，对客户来说对于资金的安全来说就是双重保护。G-IMFCH高朋从传统券商转型到科技券商，深入应用金融科技技术，打开科技券商新金融之路。</span></p><p><br/></p><p><span style="font-size: 14px;">第二，平台的稳定性，这点很重要，直接影响到了你的交易能否正常进行，其次平台 含有外汇、黄金、美元指数等品种。</span></p><p><br/></p><p><span style="font-size: 14px;">第三，平台无太多负面影响，口碑较好。开户手续是否齐全，办理开户手续一般都需 要提供身份证、住址证明和其他相关材料，并且要代理人和交易商签订合同。</span></p><p><br/></p><p><span style="font-size: 14px;">第四，平台的出金问题，选择外汇交易的最终目的就是为了赚钱，出金也就成为大家 安心入金和使用普通最重要的衡量标准。</span></p><p><br/></p><p><span style="font-size: 14px;">第五、平台客服服务态度好，无论在任何情况都能及时解决问题。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=E062F94296944BDDA9A5DC0927099FF5" class="previous_news" title="我国跨境资金流动经历转折之年">上一篇：我国跨境资金流动经历转折之年</a>
+                            <a href="?id=39E8EA36486749609DC4789BC2063B66" class="next_news" title="美国税改推动经济发展！2018年经济增速或达4%">下一篇：美国税改推动经济发展！2018年经济增速或达4%</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

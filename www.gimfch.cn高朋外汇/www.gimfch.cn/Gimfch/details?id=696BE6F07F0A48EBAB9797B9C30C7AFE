@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">智能还是智能IM系统产品发布会科技亮点惊喜不断</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2017/08/28 17:27:41</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p style="line-height: 1.5em;"><span style="font-size: 14px;">2017年8月18日，在上海东锦江希尔顿逸林酒店锦祥礼堂举办的“IM智能多边清算系统产品发布会”已圆满落幕。动感的机器人、新颖的签到方式、水幕投影、云摄影的智能搜索，小编特意借来哆啦A梦的竹蜻蜓，带大家来一次时光穿越，重回发布会现场，精彩不停顿。</span></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px;">会场入口 被“IM科技精灵劲舞团”吸引</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">不管你看没看过舞林大会，如果你是不是一个科技爱好者，想必你都会喜欢这些IM科技小精灵，在IM系统产品发布会入场之前，这些可爱的小机器人听着音乐，踏着鼓点，舞步整齐划一，或曲臂上伸，或旋转摇摆，或倒立伏地，展现出专业的舞技，可谓难度系数五颗星，再配上萌萌哒的台风，可是赚足了眼球。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953683770710203455610.jpg" title="1.jpg" alt="1.jpg" width="720" height="480" border="0" vspace="0" style="width: 720px; height: 480px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953695793651321695885.jpg" title="3.jpg" alt="3.jpg" width="720" height="480" border="0" vspace="0" style="width: 720px; height: 480px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px;">智能科技亮点之“智能签到”</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">不用名单，不用找名字，只需在签到电子屏幕前一站，美丽的礼仪小姐就会将你的精彩瞬间定格在屏幕上，同时还可以在屏幕上留下自己的签名，而你的签名照会“嗖”的一下成为IM电子相册里的组成部分。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953709741635817048650.jpg" title="7.jpg" alt="7.jpg" width="720" height="480" border="0" vspace="0" style="width: 720px; height: 480px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px;">智能科技亮点之“水幕投影”</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">水雾环绕，雾中若隐若现的IM系统logo，飘飘渺渺，穿梭其中，如梦似幻，犹如跨越了时代，就在短短不到一秒的时光里，让你对IM系统的智能和科技感体验得淋漓尽致，一切尽在不言中。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953715900526631174569.jpg" title="10.jpg" alt="10.jpg" width="720" height="480" border="0" vspace="0" style="width: 720px; height: 480px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">都说细节决定一切，产品发布会现场，无处不在的科技和智能元素，更是和IM系统中所应用到的金融科技相得益彰。</span></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px;">智能科技亮点之“云摄影”</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">我们已经找到了你。活动现场为大家准备了一个好玩的互动环节，扫描二维码进入公众号，回复“YESIM”，也可以扫码后点击菜单栏右下角的“IM瞬间”，即可寻找您在现场的身影，我们现场的摄影机将会随时捕捉精彩瞬间。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">美女帅哥篇</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953729268190117936046.jpg" title="13.jpg" alt="13.jpg" width="720" height="479" border="0" vspace="0" style="width: 720px; height: 479px;"/></span></p><p style="line-height: 1.5em;"><span style="color: rgb(79, 129, 189);"><strong><span style="font-size: 14px;"><br/></span></strong></span></p><p style="line-height: 1.5em; text-align: center;"><span style="color: rgb(79, 129, 189);"><strong><span style="color: rgb(79, 129, 189); font-size: 14px;">弹竖琴的美女，是不是被扑面而来的仙女气质所吸引，所打动。</span></strong></span></p><p style="line-height: 1.5em; text-align: center;"><span style="color: rgb(79, 129, 189);"><strong><span style="color: rgb(79, 129, 189); font-size: 14px;">真是，惊鸿一现瞥红颜，烙印心间一千年。</span></strong></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953734618999513830813.jpg" title="16.jpg" alt="16.jpg" width="720" height="480" border="0" vspace="0" style="width: 720px; height: 480px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px; color: rgb(79, 129, 189);"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="color: rgb(79, 129, 189);"><strong><span style="color: rgb(79, 129, 189); font-size: 14px;">签到处，齐刷刷一整排的美女</span></strong></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953740114889164075230.jpg" title="17.jpg" alt="17.jpg" width="720" height="480" border="0" vspace="0" style="width: 720px; height: 480px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><strong><span style="font-size: 14px; color: rgb(79, 129, 189);">IM电子相册墙屏幕前，美女们和帅哥的合影</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953747457822062559670.jpg" title="18.jpg" alt="18.jpg" width="720" height="480" border="0" vspace="0" style="width: 720px; height: 480px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><strong><span style="font-size: 14px; color: rgb(79, 129, 189);">红花虽美，还需绿叶来称，显得更加娇艳欲滴，效果非凡哦！</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953751741589585659187.jpg" title="19.jpg" alt="19.jpg" width="720" height="480" border="0" vspace="0" style="width: 720px; height: 480px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><strong><span style="font-size: 14px; color: rgb(79, 129, 189);">端庄美丽大方的主持人，更是吸引了全场的目光。</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953756875558602818513.jpg" title="20.jpg" alt="20.jpg" width="720" height="480" border="0" vspace="0" style="width: 720px; height: 480px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><strong><span style="font-size: 14px; color: rgb(79, 129, 189);">从左到右，亚太区CEO Waldo Hung和亚太区 COO Trevor Cheng，来自香港的高管，颜值扛扛滴！</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953773888948484341047.jpg" title="21.jpg" alt="21.jpg" width="720" height="480" border="0" vspace="0" style="width: 720px; height: 480px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><img src="http://manage.gimfch.com/Upload/UEdit/20170828/6363953768340018747767206.jpg" title="22.jpg" alt="22.jpg" width="720" height="480" border="0" vspace="0" style="font-size: 14px; text-align: center; white-space: normal; width: 720px; height: 480px;"/></p><p style="line-height: 1.5em;"><br/></p><p style="line-height: 1.5em; text-align: center;"><strong><span style="font-size: 14px; color: rgb(79, 129, 189);">当出色的外表配上优秀的头脑，与众不同，帅呆了有木有。</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953781991602718337651.jpg" title="24.jpg" alt="24.jpg" width="720" height="480" border="0" vspace="0" style="width: 720px; height: 480px;"/></span></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px; color: rgb(79, 129, 189);"><br/></span></strong></p><p style="line-height: 1.5em; text-align: center;"><strong><span style="font-size: 14px; color: rgb(79, 129, 189);">这位帅哥是谁？</span></strong></p><p style="line-height: 1.5em; text-align: center;"><strong><span style="font-size: 14px; color: rgb(79, 129, 189);">这位是IM系统特邀技术顾问，明明可以靠脸吃饭，偏偏要靠才华，颠覆了小编对理工男、技术男的颜值偏见。</span></strong></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px; color: rgb(79, 129, 189);"><br/></span></strong></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953789708936272476876.jpg" title="25.jpg" alt="25.jpg" width="720" height="480" border="0" vspace="0" style="width: 720px; height: 480px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><strong><span style="font-size: 14px; color: rgb(79, 129, 189);">都说，全神贯注听讲的人最有美，确实如此。</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><span style="font-size: 14px;"><img src="/Upload/UEdit/20170828/6363953791253338988447905.jpg" title="26.jpg" alt="26.jpg" width="720" height="480" border="0" vspace="0" style="width: 720px; height: 480px;"/></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;"><br/></span></p><p style="line-height: 1.5em; text-align: center;"><strong><span style="font-size: 14px; color: rgb(79, 129, 189);">帅和美不光是小鲜肉的专利，主要还要看气质，像郭老师这样既博学又儒雅的教授。</span></strong></p><p style="line-height: 1.5em; text-align: center;"><strong><span style="font-size: 14px; color: rgb(79, 129, 189);">看了这么多，现场还有你呢，你发现了吗！</span></strong></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=EAA4790C7ED546B6A5A235A3B09E1246" class="previous_news" title="G-IMFCH“IM智能多边清算系统产品发布会”成功举办">上一篇：G-IMFCH“IM智能多边清算系统产品发布会”成功举办</a>
+                            <a href="?id=D9FEE0342A544A08927327DB9A601063" class="next_news" title="IM系统8月18日用科技点亮金融">下一篇：IM系统8月18日用科技点亮金融</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

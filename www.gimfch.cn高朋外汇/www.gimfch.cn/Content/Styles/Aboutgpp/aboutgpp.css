@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+/*introduction.html*/
+.about_cont{ padding-bottom:50px;}
+.ableft{ width:531px; float:left;}
+.abright{ width:535px; float:right;}
+.ab_title{ height:28px; line-height:28px; font-size:18px; color:#fff;border-radius:5px; background:#1c85de url(/Content/Images/newindex/icons/diamond_icon.png) no-repeat 14px center; padding-left:30px;}
+.ab_title2{ height:28px; line-height:28px; font-size:18px; color:#fff;border-radius:24px; background:#1c85de url(/Content/Images/newindex/icons/diamond_icon.png) no-repeat 8px center; padding-left:20px; margin-bottom:10px;}
+.ab_p{ font-size:15px; color:#404040; line-height:24px; text-indent:2em; padding-top:15px;}
+.ab_p.ab_p2{ padding-top:0;}
+.footprint{ background:url(/Content/Images/newindex/icons/footprint_bg1.png) no-repeat center top; padding-top:14px;}
+.footprint1{ background:url(/Content/Images/newindex/icons/footprint_line.png) repeat-y center top;}
+.footprint_cont{ position:relative; padding:0 20px;}
+.year{ width:62px; height:62px; line-height:62px; position:absolute; left:50%; margin-left:-31px; top:50%; margin-top:-31px; text-align:center; font-size:16px; color:#fff; background:url(/Content/Images/newindex/icons/year_bg.png) no-repeat; }
+.ftp_left,.ftp_right{ width:445px; padding:30px 0;}
+.ftp_left > ul,.ftp_right > ul{border:1px dashed #1e77bc; border-radius:5px; padding:10px 15px;}
+.ftp_left > ul > li,.ftp_right > ul > li{ background:url(/Content/Images/newindex/icons/diamond_icon2.png) no-repeat 12px 9px;  font-size:15px; color:#404040; text-indent:2em; line-height:20px; padding-top:3px;}
+.ftp_left{ float:left;}
+.ftp_right{ float:right;}
+
+/*PraTraining.html*/
+.pt_cont{ padding-top:30px; padding-bottom:30px;}
+.pt_left{ width:420px; float:left;}
+.pt_milan{ display:block; margin:0 auto;}
+.pt_right{ width:670px; float:right;}
+.pt_p{ font-size:24px; color:#187fd7; line-height:38px; padding:30px 40px; width:522px; border:1px dashed #4192c8; border-radius:4px;}
+.pt_ul{ padding-left:70px;}
+.pt_ul li{ font-size:15px; color:#404040; text-indent:2em; line-height:28px; background:url(/Content/Images/newindex/icons/diamond_icon2.png) no-repeat 2px 11px;}
+.spe_p{ font-size:16px; color:#404040; line-height:30px; padding-bottom:50px; text-align:center;}
+.pt_imgbox li{ height:340px; width:33.1%; float:left; text-align:center; padding:60px 0; border:1px dashed #3177b1;}
+.meeting_ul li{width:432px;}
+.meeting_ul li.odd{ float:left;}
+.meeting_ul li.even{ float:right;}
+.meeting_ul li p{ font-size:16px; color:#187fd7; line-height:40px; padding-bottom:15px; text-align:center;}
+
+/*blackbox.html*/
+.bb_cont{ padding-top:30px; padding-bottom:30px;}
+.bb_left{ width:560px; float:left;}
+.bbimg{ display:block; margin:0 auto; position:relative; top:-20px;}
+.bb_right{ width:530px; float:right;}
+.pt_ul.bb_ul{ padding-left:0;}
+.pt_cont.wacont{ padding:0;}
+.pt_cont.wacont .pt_ul li{ line-height:20px; padding-bottom:12px;}
+
+/*NDDmode.html*/
+.nddimgbox{ padding-bottom:30px;}
+.nddimgbox img{ display:block; margin:0 auto;}
+.ndd_ul{ padding-left:360px; padding-bottom:80px;}
+.ndd_ul li{ font-size:16px; color:#404040; line-height:30px; padding-left:25px; background:url(/Content/Images/Aboutgpp/icon_1.png) no-repeat left center;}
+.ndd_ul li span{ color:#005bac}
+
+
+
+/**/
+
+.superiority_ul {
+    padding-top: 30px;
+}
+
+.superiority_ul li {
+    height: 73px;
+    margin-bottom: 15px;
+    width: 532px;
+}
+
+.superiority_ul li.one {
+    background: url("/content/images/Aboutgpp/superiority_bg1.jpg") no-repeat;
+}
+
+.superiority_ul li.two {
+    background: url("/content/images/Aboutgpp/superiority_bg2.jpg") no-repeat;
+}
+
+.superiority_ul li.three {
+    background: url("/content/images/Aboutgpp/superiority_bg3.jpg") no-repeat;
+}
+
+.superiority_ul li.four {
+    background: url("/content/images/Aboutgpp/superiority_bg4.jpg") no-repeat;
+}
+
+.superiority_p {
+    font-size: 15px;
+    color: #555;
+    padding: 30px 0 0 110px;
+}

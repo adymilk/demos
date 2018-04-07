@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">零售外汇投资者调查报告重磅出炉</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2018/03/13 17:34:33</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p><span style="font-size: 14px;">媒体Finance Magnates近期公布了一项外汇及差价合约行业问卷调查（FM Survey）结果，这项调查覆盖了来自不同国家或地区的687名零售外汇交易者，调查旨在了解当前零售交易者们对零售外汇市场的看法。</span></p><p><br/></p><p><span style="font-size: 14px;">我们对FM这份调查的结果进行了整理，如下：</span></p><p><br/></p><p><strong><span style="font-size: 14px;">一、外汇 VS.加密货币（FX vs. Crypto ）</span></strong></p><p><br/></p><p><span style="font-size: 14px;">当被问到“对当前加密货币狂热现象的看法，以及这对外汇市场的影响”时，零售交易者们说，就投资收益率来看，加密货币比外汇市场更有“利”可图。但该领域的未知风险实在太大。</span></p><p><br/></p><p><span style="font-size: 14px;">当被问到“是否会考虑退出外汇市场，而选择加密货币交易”时，零售交易者们一边倒地（92.41%）表示不会停止外汇交易，虽然目前整个金融市场都被加密货币浪潮淹没了。另外，只有23个交易员（3.36%）说他们想退出外汇市场，另外3.36%交易员说仍在考虑。</span></p><p><br/></p><p><span style="font-size: 14px;">当被问道“是否对加密货币差价合约（CFDs）感兴趣”时，64.96%的受访者说他们“无兴趣”，20.53%的人对这一新产品表示“有兴趣”，仅4.11%的人说他们已经开始进行加密货币CFDs交易了，剩下10.41%说“仍不确定”。</span></p><p><br/></p><p><span style="font-size: 14px;">在加密货币极其狂热的现今，令人感到意外的是，有一半以上的人都对加密货币CFD毫无兴趣。</span></p><p><br/></p><p><span style="font-size: 14px;">调查结果显示，许多外汇及差价合约之前花费大量的资金和精力去推出自己的加密货币CFD产品，而实际上只吸引了很小一部分交易者（客户）去交易它。不过，仍有五分之一的人表示“有兴趣”，说明经纪商推出加密货币CFD的做法也是有一定合理性的。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">二、监管</span></strong></p><p><br/></p><p><span style="font-size: 14px;">谈及监管的问题时，经纪商们通常会说，自己花了一大笔钱在申请牌照上，他们还必须应对庞大的监管官僚系统，经常和监管机构打交道，以维持其必要的透明性。</span></p><p><br/></p><p><span style="font-size: 14px;">当零售交易者被问及“对监管的看法，及监管对自身的重要性”时，87.26%的受访者说他们不会和没有任何监管资质的经纪商合作；7.32%的人说他们认为监管并不十分重要；还有5.42%的人表示不确定。</span></p><p><br/></p><p><span style="font-size: 14px;">毫无疑问，一个经纪商的成功与否和他是否拥有监管牌照直接相关。</span></p><p><br/></p><p><span style="font-size: 14px;">除此之外，687位受访者还投票出了他们“最信任的的监管机构和监管牌照”。投票结果是：排名第一的是FCA监管牌照，共获得63.62%的得票率；排名第二的是欧洲的监管机构（包括BaFin，塞浦路斯CuSEC等），得票率为36.08%；此外，有116（17.08%）位受访者将票投给了ASIC。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">三、ECN vs. Market Maker</span></strong></p><p><br/></p><p><span style="font-size: 14px;">ECN(Electronic Communication Network)，电子通讯网络；Market Maker，做市商。ECN和Market Maker是外汇及差价合约经纪商业务运营的两种模式。ECN经纪商是通过将客户订单传送至一个电子化交易平台上帮助客户完成交易，该电子平台上有流动性提供商，为客户提供报价，并成为客户交易对手方。Market Maker是做市商模式，或称MM模式，MM经纪商自行建立一个订单薄（Book），将客户订单集中在这个订单薄上，提供报价，并负责撮合订单交易，经纪商是客户交易的对手方。</span></p><p><br/></p><p><span style="font-size: 14px;">当零售交易者们被问及“更倾向于ECN经纪商还是MM经纪商”时，48.45%的受访者说他们喜欢ECN模式经纪商，15.02%的说他们更愿意倾向于MM模式经纪商。此外，令人惊讶的是，17.23%的受访者并不知道ECN和做市商的区别，还有16.64%的人说这两者根本没有区别。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">四、交易平台软件</span></strong></p><p><br/></p><p><span style="font-size: 14px;">交易软件是所有零售交易者都会接触的东西，它连接着零售外汇市场上的每一个市场主体。目前市场占有率最高必属知名交易软件开发商Metaquotes的MT4和MT5软件，不过，Metaquotes目前正在大力推广MT5，并有意淘汰MT4，实现MT4向MT5的过渡。</span></p><p><br/></p><p><span style="font-size: 14px;">在“交易平台软件的选择”问题上，53.08%的受访者表示他们将使用MT5，21.85%的受访者表示更愿意选择Webtrader 平台，还有25.07%的人表示他们会选择其他平台。</span></p><p><br/></p><p><span style="font-size: 14px;">从上面结果可以看出，超过一半的零售外汇交易者依然称会继续使用Metaquotes 的交易软件，这也表明了该公司在零售外汇行业的知名度和重要性。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">五、桌面版 VS. 手机移动端</span></strong></p><p><br/></p><p><span style="font-size: 14px;">伴随着移动化浪潮的来临，很多商业活动都是透过手机移动端完成的，如今，很多外汇经纪商都已经将他们的交易平台重心由桌面版转移到了手机移动端模式。</span></p><p><br/></p><p><span style="font-size: 14px;">在“进行线上交易时，是倾向于桌面版，还是手机移动端”的问题上，47.95%的受访者说他们更支持桌面版本交易，8.8%的受访者说支持手机客户端交易，另外43.26%的受访者说他们倾向于同时使用桌面版和手机客户端。</span></p><p><br/></p><p><span style="font-size: 14px;">虽然移动化浪潮已席卷各行各业，但是对于零售外汇交易者而言，他们依然十分喜欢桌面版交易，而究其原因，可能是手机客户端的交易软件和桌面版相比起来，依然存在一些功能上的不足和缺陷，还有就是操纵上的便捷性（比如做技术分析，划线作图），桌面版肯定是优于移动版。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">六、交易决策</span></strong></p><p><br/></p><p><span style="font-size: 14px;">在进行交易决策时，有的交易者习惯基本面分析，有的习惯于技术面分析。</span></p><p><br/></p><p><span style="font-size: 14px;">当问及“哪些因素对交易者的交易决策影响最大”时，419(61.44%)的人说，相比其他因素，技术分析最能影响他们的交易决定，26.39%的人表示，经济事件对交易决策影响最重要，另外，10.12%的人称交易决策主要看发布的经济报告。最后还有2.05%的人表示投资者教育会影响他们的交易决策。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">七、市场执行VS.即时执行（Market vs. Instant Execution）</span></strong></p><p><br/></p><p><span style="font-size: 14px;">市场执行（Market Execution）和及时执行（Instant Execution）是经纪商为客户提供的两种不同的订单执行方式。</span></p><p><br/></p><p><span style="font-size: 14px;">当调查中问道“在做交易时，更偏向市场执行还是即时执行”时，49.19%的受访者表示更偏向“即时执行”，31.42%的人更倾向于“市场执行”。令人惊讶的是， 19.38%的受访者表示“并不清楚这两种执行的差别”。但实际上，这在做交易时是一项非常重要的因素。</span></p><p><br/></p><p><span style="font-size: 14px;">这也是为什么，经纪商们会投入大量的时间和财力去加强投资者交易，让他们更加了解零售外汇交易。</span></p><p><br/></p><p><strong><span style="font-size: 14px;">八、朋友推荐</span></strong></p><p><br/></p><p><span style="font-size: 14px;">许多经纪商都采取了“朋友推荐”的营销方式来拓展客户，为了鼓励客户对身边朋友推荐他们的产品及服务，经纪商为客户提供一些激励措施，如：客户向朋友推荐该经纪商后，此客户在交易时可少支付点差费，或者经纪商一次性付给此客户一笔 “推荐费”。</span></p><p><br/></p><p><span style="font-size: 14px;">当问道“是什么因素驱使交易者将自己身边的朋友推荐给经纪商”时，52.91%的受访者表示，是因为经纪商为他们提供“少付点差费”的激励， 剩下的47.09%说是因为“一次性的推荐费”。</span></p><p><br/></p><p><span style="font-size: 14px;">目前，多数经纪商都向引荐朋友的客户提供推荐费，但其实最好结和两者，这样既可以获得更多新客户，还可以留住现有客户。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=6494A7AEC7DD42249E07EAC2D16B9B7A" class="previous_news" title="特朗普又“搞”事情今晚恐怖数据来袭">上一篇：特朗普又“搞”事情今晚恐怖数据来袭</a>
+                            <a href="?id=4E0C98ABB2EE417B820763874F223A36" class="next_news" title="特朗普任性开征钢铁关税，美国上次这样做发生了啥？">下一篇：特朗普任性开征钢铁关税，美国上次这样做发生了啥？</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

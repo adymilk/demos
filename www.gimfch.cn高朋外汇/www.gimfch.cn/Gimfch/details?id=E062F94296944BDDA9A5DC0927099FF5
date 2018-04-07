@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">我国跨境资金流动经历转折之年</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2018/01/24 16:30:16</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p style="text-align: center;"><span style="font-size: 14px;"><img src="/upload/catcher/20180124/6365240811858355829224087.jpg" width="492" height="343" border="0" vspace="0" title="高朋金融" alt="高朋金融" style="width: 492px; height: 343px;"/></span></p><p><span style="font-size: 14px;"><br/></span></p><p><a href="http://www.gimfch.cn" target="_self" title="高朋金融"><span style="font-size: 14px;">高朋金融</span></a><span style="font-size: 14px;">—对于中国外汇市场和跨境资金流动形势而言，2017年可谓“转折之年”。国家外汇管理局1月18日最新公布的多个数据表明，在持续了三四年的资本净流出后，2017年跨境资金流动开始转向基本平衡。</span></p><p><br/></p><p><span style="font-size: 14px;">国家外汇管理局新闻发言人、国际收支司司长王春英当日在国新办新闻发布会上表示，2017年我国外汇市场供求正趋向基本平衡，预计2018年中国跨境资金流动有望延续平稳运行格局。</span></p><p><br/></p><p><span style="font-size: 16px;"><strong>多数据凸显外汇市场供求趋平衡</strong></span></p><p><br/></p><p><span style="font-size: 14px;">多个数据表明，2017年我国跨境资金流动形势明显好转，外汇市场供求正趋向基本平衡。</span></p><p><br/></p><p><span style="font-size: 14px;">外汇收支情况的核心数据之一——银行结售汇在去年呈现逆差大幅收窄的情形。外汇局数据显示，2017年，按美元计价，银行结汇同比增长14%，售汇下降1%，结售汇逆差1116亿美元，同比下降67%。</span></p><p><br/></p><p><span style="font-size: 14px;">银行结售汇在逆差明显回落的同时，也呈现出月份间逆顺差交替波动的特点。分季度看，2017年前两个季度，银行结售汇逆差分别为409亿和530亿美元，三季度逆差收窄至190亿美元，四季度转为顺差12亿美元。从月度数据看，9月、10月和12月结售汇均呈现顺差。对此，王春英表示，近几个月银行结售汇差额确实有所波动，但总体规模都不大，反映了不同月份实体经济、金融活动的微弱差异，不改变外汇供求总体趋向平衡的判断。“即使是前些年外汇资金流入压力较大时，各月结售汇差额也会上下波动。”她说。</span></p><p><br/></p><p><span style="font-size: 14px;">银行远期结售汇逆差总体收窄，也映射了外汇收支状况逐渐向好。2017年，银行对客户远期结汇签约额同比增长111%，远期售汇签约额增长12%，远期结售汇签约逆差260亿美元，较2016年下降69%。王春英认为，这说明2017年人民币汇率预期总体更加稳定。</span></p><p><br/></p><p><span style="font-size: 14px;">另一项重要数据——银行代客涉外收入也出现明显改善。2017年，银行代客涉外收入同比增长7%，支出增长1%，涉外收付款逆差1245亿美元，同比下降59%。</span></p><p><br/></p><p><span style="font-size: 14px;">与此同时，市场主体购汇意愿下降，外汇融资稳中有升，这在数据中亦有所体现。2017年，衡量购汇意愿的售汇率，也就是客户从银行买汇与客户涉外外汇支出之比为65%，较2016年下降9个百分点，其中一至四季度逐季回落。“这说明企业根据自身经营需要继续融入外汇资金，购汇偿还外汇贷款的情况减少。”王春英表示。</span></p><p><br/></p><p><span style="font-size: 14px;">此外，数据还显示，市场主体外汇收入结汇倾向上升，个人持有外汇意愿减弱。2017年，衡量结汇意愿的结汇率，也就是客户向银行卖出外汇与客户涉外外汇收入之比为63%，较2016年上升3个百分点，其中，一至四季度分别为62％、63％、64％和62％，说明市场主体结汇意愿基本平稳。</span></p><p><br/></p><p><span style="font-size: 14px;">“一是跨境资本转为净流入，二是外汇储备余额由降转升，三是人民币汇率预期和市场主体涉外交易行为更趋稳定。”王春英表示，中国跨境资金流动出现的这三个新变化，标志着跨境资金流动转向基本平衡。</span></p><p><br/></p><p><span style="font-size: 16px;"><strong>今年跨境流动资金将保持总体稳定</strong></span></p><p><br/></p><p><span style="font-size: 14px;">展望2018年，王春英预计，今年我国跨境资金流动仍将保持总体稳定。多位业内人士也判断，我国跨境资本流动有望进一步改善。</span></p><p><br/></p><p><span style="font-size: 14px;">“2017年美联储三次加息并启动缩表，特朗普政府也通过了税改法案，但在此背景下，中国跨境资金流动形势明显好转，近期外汇市场供求更趋向平衡，这说明中国跨境资金流动的发展变化实际上是多方面因素共同影响的结果。”王春英指出，一方面，美联储加息、缩表及美国政府税改等因素并没有持续加大外部市场波动，未来外部环境仍有望延续相对平稳的局面。另一方面，中国国内经济基本面总体良好，仍是中国跨境资本流动的稳定性因素，未来还会发挥更加突出的基础性作用。</span></p><p><br/></p><p><span style="font-size: 14px;">中国银行国际金融研究所研究员王有鑫表示，鉴于目前我国经济逐渐企稳，资产和投资回报率保持高位，人民币汇率再次进入强势周期且预期出现分化，金融市场对外开放领域和幅度增大，企业对外投资更趋理性，个人恐慌性购汇减少，预计2018年我国跨境资本流动将进一步改善。</span></p><p><br/></p><p><span style="font-size: 14px;">招商证券首席宏观分析师谢亚轩表示，2018年跨境资本流动仍会小规模净流出，全年外汇占款余额下降3000亿元左右。不过，稳健的货币政策将为外储规模保持合理水平护航。</span></p><p><br/></p><p><span style="font-size: 16px;"><strong>汇率波动考验企业防风险能力</strong></span></p><p><br/></p><p><span style="font-size: 14px;">在跨境资金流动更趋平衡、有进有出的背景下，人民币汇率也呈现出双向波动的特点。尽管从2017年下半年到2018年年初，人民币呈现出较为明显的升势，但是业内人士表示，长期来看双向波动将成为人民币汇率的常态，而中国企业在汇率风险管控方面还需更进一步。</span></p><p><br/></p><p><span style="font-size: 14px;">“当前我国经济保持平稳较快增长，总供需更加平衡，内生增长动力增强，这都会继续支持人民币在全球货币体系中保持稳定地位。同时世界经济复苏和主要经济体货币政策正常化仍有一定的不确定性，未来人民币汇率双向波动将成为常态。”王春英表示。</span></p><p><br/></p><p><span style="font-size: 14px;">知名外汇问题专家韩会师对《经济参考报》记者表示，2018年人民币的单边贬值预期已消退，虽然不能说升值预期占上风，但至少结售汇市场基本恢复平衡，同时人民币对美元的双向波动也逐渐成型，人民币CFETS指数比较平稳，在“参考一篮子货币”的定价大原则未变的前提下，人民币后市走势更主要的还是要观察外围市场美元的变化。</span></p><p><br/></p><p><span style="font-size: 14px;">中国银行国际金融研究所研究员范若滢也表示，从中长期来看，随着中国经济基本面改善，将给人民币汇率较强支撑。逆周期因子调整引发市场贬值预期抬升的可能性不大，但未来人民币汇率的波动区间将扩大。</span></p><p><br/></p><p><span style="font-size: 14px;">面对汇率双向波动的新常态，业内人士表示，在企业的汇率风险管控方面，“风险中性”意识非常重要。“在汇率双边波动以后，最可喜的是，企业正在逐步改变对人民币汇率的一个固定思维，赌单边升值或单边贬值的企业逐渐减少，前些年的非理性或恐慌性行为明显减少。”王春英说。不过她也指出，还有部分企业汇率风险管理不到位，如对汇率风险认识不到位、对套期保值认识不到位等。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=88AD97328BAB49379C7CB05077547504" class="previous_news" title="人民币创“811汇改”后的新高">上一篇：人民币创“811汇改”后的新高</a>
+                            <a href="?id=B8BCDFEF11C34311A62B697A635C9F5E" class="next_news" title="外汇交易新手要知道的20个基础问题">下一篇：外汇交易新手要知道的20个基础问题</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

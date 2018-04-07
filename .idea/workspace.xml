@@ -2,17 +2,688 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0be8b59-a356-44ab-a7d0-dc34230f630a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.ignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/www.aetoscg.com     AETOS 外汇/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/www.forextimechina.com   中文zh FXTM富拓/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/www.gmimarkets.com    GMI外汇/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/www.gqbonline.com/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/www.jojofx.com  久久外汇/index.html" afterPath="$PROJECT_DIR$/www.jojofx.com久久外汇/index.html" />
-      <change beforePath="$PROJECT_DIR$/www.kvbkunlun.com      KVB昆仑国际/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/www.xmglobal.com    XM 外汇/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/forex/markets-forex/cash-aluminium-5-mini-contract" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/forex/markets-forex/cash-aluminium-5-mini-contract" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/actavis-inc-WPI-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/actavis-inc-WPI-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adavale-resources-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adavale-resources-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adcock-ingram-holdings-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adcock-ingram-holdings-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adcock-ingram-holdings-ltd-AIP-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adcock-ingram-holdings-ltd-AIP-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adcorp-holdings-ltd-ADR-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adcorp-holdings-ltd-ADR-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/addtech-ab" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/addtech-ab" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/addus-homecare-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/addus-homecare-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/addvalue-technologies-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/addvalue-technologies-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adecco-sa-ADEN-CH" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adecco-sa-ADEN-CH" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adecoagro-sa-AGRO-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adecoagro-sa-AGRO-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adelaide-brighton-ltd-ABC-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adelaide-brighton-ltd-ABC-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adelaide-resources-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adelaide-resources-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adgorithms-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adgorithms-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adherium-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adherium-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adidas-ag" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adidas-ag" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adient-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adient-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aditya-birla-minerals-ABY-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aditya-birla-minerals-ABY-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adler-modemarkte-ag" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adler-modemarkte-ag" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/admedus-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/admedus-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/admiral-group-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/admiral-group-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/admiralty-resources-nl" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/admiralty-resources-nl" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adobe-systems-inc-ADBE-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adobe-systems-inc-ADBE-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adocia" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adocia" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adolfo-dominguez-ADZ-ES" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adolfo-dominguez-ADZ-ES" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adp-promesses-ADP-FR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adp-promesses-ADP-FR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adslot-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adslot-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aduro-biotech-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aduro-biotech-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advance-auto-parts-AAP-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advance-auto-parts-AAP-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advance-developing-market" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advance-developing-market" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-accelerator-applications-sa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-accelerator-applications-sa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-braking-technology-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-braking-technology-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-emissions-solutions-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-emissions-solutions-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-energy-industries-inc-AEIS-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-energy-industries-inc-AEIS-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-frontier-markets-fund-AFMF-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-frontier-markets-fund-AFMF-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-medical-solutions-group-AMS-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-medical-solutions-group-AMS-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-nano-technologies-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-nano-technologies-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-oncotherapy-plc-CARE-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-oncotherapy-plc-CARE-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-semiconductor-engineering-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-semiconductor-engineering-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-share-registry-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advanced-share-registry-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advancepierre-foods-holdings-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advancepierre-foods-holdings-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advansix-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advansix-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advantage-oil--gas-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advantage-oil--gas-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advantest-corp-6857-JP" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advantest-corp-6857-JP" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advaxis-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advaxis-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adveo-group-international-sa-UPL-ES" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/adveo-group-international-sa-UPL-ES" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advisorshares-ranger-equity-bear-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advisorshares-ranger-equity-bear-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advisorshares-trust---advisorshares-dorsey-wright-adr-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advisorshares-trust---advisorshares-dorsey-wright-adr-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advisorshares-trust---advisorshares-gold-yen-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advisorshares-trust---advisorshares-gold-yen-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advisorshares-trust---advisorshares-new-tech-and-media-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advisorshares-trust---advisorshares-new-tech-and-media-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advisorshares-trust---advisorshares-trimtabs-float-shrink-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advisorshares-trust---advisorshares-trimtabs-float-shrink-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advisory-board-co" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/advisory-board-co" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aec-education-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aec-education-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeci-ltd-AFE-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeci-ltd-AFE-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aecon-group-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aecon-group-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aedas-homes-sau" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aedas-homes-sau" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aedes-spa-AEDI-IT" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aedes-spa-AEDI-IT" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aedifica-sa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aedifica-sa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeeris-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeeris-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeffe-spa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeffe-spa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aegean-airlines-sa-AEGN-GR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aegean-airlines-sa-AEGN-GR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aegean-marine-petroleum-ANW-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aegean-marine-petroleum-ANW-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aegek-sa-AEGEK-GR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aegek-sa-AEGEK-GR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aegion-corp-INSU-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aegion-corp-INSU-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aegon-nv" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aegon-nv" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aena-sa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aena-sa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeon-co-ltd-8267-JP" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeon-co-ltd-8267-JP" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeon-metals-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeon-metals-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeorema-communications-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeorema-communications-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aercap-holdings-nv-AER-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aercap-holdings-nv-AER-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aerie-pharmaceuticals-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aerie-pharmaceuticals-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeris-environmental-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeris-environmental-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aerohive-networks-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aerohive-networks-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aerovironment-inc-AVAV-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aerovironment-inc-AVAV-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeterna-zentaris-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aeterna-zentaris-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aethlon-medical-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aethlon-medical-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aetna-inc-AET-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aetna-inc-AET-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/afarak-group-oyj" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/afarak-group-oyj" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/affiliated-managers-group-AMG-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/affiliated-managers-group-AMG-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/affimed-nv" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/affimed-nv" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/affine-sa-IML-FR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/affine-sa-IML-FR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aflac-inc-AFL-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aflac-inc-AFL-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/afren-plc-AFR-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/afren-plc-AFR-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/afriag-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/afriag-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/africa-etf-issuer-rf-ltd---africagold-debentures-fund" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/africa-etf-issuer-rf-ltd---africagold-debentures-fund" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/africa-oil-corp-AOI-SE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/africa-oil-corp-AOI-SE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/africa-oil-corporation-AOICN-CA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/africa-oil-corporation-AOICN-CA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-bank-investments-ltd-ABL-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-bank-investments-ltd-ABL-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-copper-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-copper-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-energy-resources-AFR-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-energy-resources-AFR-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-minerals-ltd-AMI-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-minerals-ltd-AMI-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-oxygen-ltd-AFX-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-oxygen-ltd-AFX-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-petroleum-corp-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-petroleum-corp-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-potash-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-potash-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-rainbow-capital-investments-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-rainbow-capital-investments-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-rainbow-minerals-ltd-ARI-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/african-rainbow-minerals-ltd-ARI-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/afritin-mining-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/afritin-mining-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/afterpay-holdings-limited1" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/afterpay-holdings-limited1" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ageas-FOR-BE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ageas-FOR-BE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agenix-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agenix-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agenus-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agenus-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aggregated-micro-power-holdings-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aggregated-micro-power-holdings-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aggreko-plc-AGK-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aggreko-plc-AGK-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agile-property-holdings-ltd-3383-HK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agile-property-holdings-ltd-3383-HK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agile-therapeutics-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agile-therapeutics-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agilent-technologies-inc-A-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agilent-technologies-inc-A-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agilysys-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agilysys-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agios-pharmaceuticals-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agios-pharmaceuticals-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agnico-eagle-mines-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agnico-eagle-mines-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agrana-beteiligungs-ag-AGR-AT" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agrana-beteiligungs-ag-AGR-AT" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agree-realty-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agree-realty-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agricultural-bank-of-china-1288-HK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agricultural-bank-of-china-1288-HK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agrimin-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agrimin-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agriterra-ltd-WNL-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agriterra-ltd-WNL-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agrium-inc-can-AGU-CA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agrium-inc-can-AGU-CA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agrium-inc-us-AGU-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agrium-inc-us-AGU-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agrofresh-solutions-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/agrofresh-solutions-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aguia-resources-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aguia-resources-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ahlsell-ab" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ahlsell-ab" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ahlstrom-munksjo-oyj" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ahlstrom-munksjo-oyj" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aimia-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aimia-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aimmune-therapeutics-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aimmune-therapeutics-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aims-property-securities-fund" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aims-property-securities-fund" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ainsworth-game-AGI-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ainsworth-game-AGI-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-berlin-plc-AB1-DE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-berlin-plc-AB1-DE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-canada" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-canada" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-china-ltd---h-753-HK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-china-ltd---h-753-HK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-france-klm-AF-FR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-france-klm-AF-FR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-lease-corp1" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-lease-corp1" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-liquide-AI-FR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-liquide-AI-FR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-methods-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-methods-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-new-zealand-limited-AIZ-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-new-zealand-limited-AIZ-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-partner-plc1-AIP-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-partner-plc1-AIP-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-products--chemicals-inc-APD-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-products--chemicals-inc-APD-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-transport-services-group-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-transport-services-group-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-water-inc-4088-JP" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/air-water-inc-4088-JP" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/airboss-of-america-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/airboss-of-america-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/airbus-group-fr-EAD-FR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/airbus-group-fr-EAD-FR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aircastle-AYR-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aircastle-AYR-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/airmedia-group-inc-adr-AMCN-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/airmedia-group-inc-adr-AMCN-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/airxpanders-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/airxpanders-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aisin-seiki-co-ltd-7259-JP" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aisin-seiki-co-ltd-7259-JP" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aixtron-ag-AIX-DE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aixtron-ag-AIX-DE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ajinomoto-co-inc-2802-JP" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ajinomoto-co-inc-2802-JP" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ajisen-china-holdings-ltd-538-HK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ajisen-china-holdings-ltd-538-HK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/akamai-technologies-inc-AKAM-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/akamai-technologies-inc-AKAM-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/akebia-therapeutics-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/akebia-therapeutics-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aker-asa-AKER-NO" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aker-asa-AKER-NO" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aker-solutions-asa-AKVER-NO" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aker-solutions-asa-AKVER-NO" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aker-solutions-holding-asa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aker-solutions-holding-asa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/akers-biosciences-inc-AKR-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/akers-biosciences-inc-AKR-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/akka-technologies" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/akka-technologies" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/akorn-inc-AKRX-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/akorn-inc-AKRX-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/akzo-nobel-AKZO-NL" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/akzo-nobel-AKZO-NL" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/al-noor-hospitals-group-plc-sa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/al-noor-hospitals-group-plc-sa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alacer-gold-corp---cdi-AQG-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alacer-gold-corp---cdi-AQG-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alamo-group-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alamo-group-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alamos-gold-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alamos-gold-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alara-resources-ltd-AUQ-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alara-resources-ltd-AUQ-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alarmcom-holdings-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alarmcom-holdings-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alaska-air-group-inc-ALK-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alaska-air-group-inc-ALK-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alba-mineral-resources-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alba-mineral-resources-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albany-intl-corp-AIN-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albany-intl-corp-AIN-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albany-molecular-research-inc-AMRI-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albany-molecular-research-inc-AMRI-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albemarle-corp-ALB-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albemarle-corp-ALB-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albion-development-vct-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albion-development-vct-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albion-enterprise-vct-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albion-enterprise-vct-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albion-technology--general-vct-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albion-technology--general-vct-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albion-venture-capital-trust-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albion-venture-capital-trust-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albireo-pharma-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albireo-pharma-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albis-leasing-ag" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/albis-leasing-ag" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alcentra-european-floating-rate-income-fund-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alcentra-european-floating-rate-income-fund-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alchemia-ltd-ACL-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alchemia-ltd-ACL-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alchemy-resources-ltd-ALY-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alchemy-resources-ltd-ALY-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alcidion-group-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alcidion-group-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alcoa-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alcoa-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alcobra-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alcobra-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alcyone-resources-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alcyone-resources-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alcyone-resources-ltd-AYN-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alcyone-resources-ltd-AYN-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alder-biopharmaceuticals-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alder-biopharmaceuticals-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alderan-resources-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alderan-resources-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aldermore-group-plc1" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aldermore-group-plc1" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aldeyra-therapeutics-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aldeyra-therapeutics-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alecto-minerals-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alecto-minerals-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alere-inc-IMA-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alere-inc-IMA-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alerian-mlp-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alerian-mlp-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alerion-industries-spa-ARN-IT" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alerion-industries-spa-ARN-IT" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ales-groupe-PHY-FR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ales-groupe-PHY-FR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexander--baldwin-ALEX-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexander--baldwin-ALEX-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexander-forbes-group-holdings-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexander-forbes-group-holdings-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexander-mining-plc-AXM-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexander-mining-plc-AXM-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexanders-inc-ALX-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexanders-inc-ALX-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexandria-real-estate-equities-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexandria-real-estate-equities-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexco-resource-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexco-resource-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexion-pharmaceuticals-inc-ALXN-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexion-pharmaceuticals-inc-ALXN-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexium-international-group-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alexium-international-group-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alfa-financial-software-holdings-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alfa-financial-software-holdings-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alfa-laval-ab-ALFA-SE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alfa-laval-ab-ALFA-SE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alfen-nv" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alfen-nv" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/algaetec-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/algaetec-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/algold-resources-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/algold-resources-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/algonquin-power--utilities-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/algonquin-power--utilities-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alibaba-health-information-technology-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alibaba-health-information-technology-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alibaba-pictures-group-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alibaba-pictures-group-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alicanto-minerals-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alicanto-minerals-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alice-queen-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alice-queen-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alico-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alico-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/align-technology-inc-ALGN-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/align-technology-inc-ALGN-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alimak-group-ab-publ" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alimak-group-ab-publ" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alimentation-couche-tard-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alimentation-couche-tard-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alimera-sciences-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alimera-sciences-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alio-gold-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alio-gold-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alkane-exploration-ltd-ALK-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alkane-exploration-ltd-ALK-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alkermes-inc-ALKS-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alkermes-inc-ALKS-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/all-asia-asset-capital-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/all-asia-asset-capital-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/all-for-one-steeb-ag" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/all-for-one-steeb-ag" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/all-leisure-group-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/all-leisure-group-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alleghany-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alleghany-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allegheny-technologies-inc-ATI-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allegheny-technologies-inc-ATI-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allegiance-bancshares-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allegiance-bancshares-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allegiance-coal-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allegiance-coal-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allegiant-travel-company-ALGT-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allegiant-travel-company-ALGT-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allegion-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allegion-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allegra-orthopaedics-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allegra-orthopaedics-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allergy-therapeutics-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allergy-therapeutics-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allgeier-se" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allgeier-se" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-aviation-services-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-aviation-services-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-data-systems-corp-ADS-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-data-systems-corp-ADS-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-healthcare-services-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-healthcare-services-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-holdings-gp-lp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-holdings-gp-lp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-mma-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-mma-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-one-international-inc-AOI-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-one-international-inc-AOI-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-pharma-plc-APH-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-pharma-plc-APH-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-resource-partners-lp-ARLP-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-resource-partners-lp-ARLP-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-resources-limited-AGS-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-resources-limited-AGS-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-trust-plc-ATST-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliance-trust-plc-ATST-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliancebernstein-holding-lp-AB-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliancebernstein-holding-lp-AB-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliant-energy-corp-LNT-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alliant-energy-corp-LNT-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allianz-ag-ALV-DE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allianz-ag-ALV-DE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allianz-tech-trust-plc-ATT-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allianz-tech-trust-plc-ATT-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allianzgi-convertible--income-fund-ii" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allianzgi-convertible--income-fund-ii" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allied-electronics-corp-ltd---pref-ATNP-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allied-electronics-corp-ltd---pref-ATNP-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allied-electronics-corp-ltd-ATN-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allied-electronics-corp-ltd-ATN-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allied-irish-bank-plc-iseq-ALBK-IE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allied-irish-bank-plc-iseq-ALBK-IE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allied-irish-banks-plc1" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allied-irish-banks-plc1" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allied-motion-technologies-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allied-motion-technologies-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allied-world-assurance-co-holdings-ag" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allied-world-assurance-co-holdings-ag" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alligator-energy-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alligator-energy-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allison-transmission-holdings-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allison-transmission-holdings-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allmine-group-AZG-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allmine-group-AZG-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allot-communications-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allot-communications-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alloy-resources-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alloy-resources-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allreal-holding-ag" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allreal-holding-ag" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allscripts-misys-healthcare-MDRX-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allscripts-misys-healthcare-MDRX-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allstate-corp-ALL-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/allstate-corp-ALL-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ally-financial-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ally-financial-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alm-brand-as" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alm-brand-as" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/almaden-minerals-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/almaden-minerals-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/almost-family-inc-AFAM-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/almost-family-inc-AFAM-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alno-ag" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alno-ag" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alnylam-pharmaceutical-inc-ALNY-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alnylam-pharmaceutical-inc-ALNY-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alon-usa-energy-inc-ALJ-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alon-usa-energy-inc-ALJ-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alon-usa-partners-lp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alon-usa-partners-lp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha--omega-semiconductor-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha--omega-semiconductor-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-architect-etf-trust---valueshares-international-quantitative-value-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-architect-etf-trust---valueshares-international-quantitative-value-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-architect-etf-trust---valueshares-us-quantitative-value-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-architect-etf-trust---valueshares-us-quantitative-value-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-bank-ae-ALPHA-GR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-bank-ae-ALPHA-GR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-etf-athex-20-AETF-GR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-etf-athex-20-AETF-GR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-financial-markets-consulting-uk-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-financial-markets-consulting-uk-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-fx-group-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-fx-group-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-growth-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-growth-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-pro-tech-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-pro-tech-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-pyrenees-trust-ltd-ALPH-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-pyrenees-trust-ltd-ALPH-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-real-trust-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-real-trust-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-returns-group-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alpha-returns-group-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alphaform-ag" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alphaform-ag" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alphatec-holdings-inc-ATEC-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alphatec-holdings-inc-ATEC-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alps-electric-co-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alps-electric-co-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alps-etf-trust---sprott-junior-gold-miners-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alps-etf-trust---sprott-junior-gold-miners-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alstom-rgpt-ALS-FR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alstom-rgpt-ALS-FR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alstria-office-reit-ag-AOX-DE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alstria-office-reit-ag-AOX-DE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alt-resources-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alt-resources-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altagas-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altagas-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altamir" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altamir" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altare-asa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altare-asa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altech-chemicals-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altech-chemicals-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alten-ATE-FR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alten-ATE-FR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altera-corp-ALTR-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altera-corp-ALTR-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alternative-asset-opportunities-pcc-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alternative-asset-opportunities-pcc-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alternative-liquidity-fund-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alternative-liquidity-fund-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alternative-networks-plc-AN-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alternative-networks-plc-AN-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alterra-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alterra-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alteryx-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alteryx-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altice-nv" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altice-nv" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altice-nv1" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altice-nv1" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altice-usa-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altice-usa-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altimmune-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altimmune-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altin-ag" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altin-ag" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altisource-asset-management-corp-AAMCV-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altisource-asset-management-corp-AAMCV-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altisource-portfolio-solutions-ASPS-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altisource-portfolio-solutions-ASPS-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altisource-residential-corp-RESI-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altisource-residential-corp-RESI-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altitude-group-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altitude-group-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altium-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altium-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altius-minerals-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altius-minerals-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alto-metals-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alto-metals-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altona-mining-AOH-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altona-mining-AOH-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altona-resources-ltd-ANR-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altona-resources-ltd-ANR-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altra-industrial-motion-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altra-industrial-motion-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altran-technologies-sa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altran-technologies-sa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altri-sgps-sa-ALTR-PT" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altri-sgps-sa-ALTR-PT" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altria-group-inc-MO-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altria-group-inc-MO-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altura-mining-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altura-mining-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altus-strategies-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/altus-strategies-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alumasc-group-ALU-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alumasc-group-ALU-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alumina-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/alumina-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aluminium-corporation-of-china-2600-HK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aluminium-corporation-of-china-2600-HK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aluminum-corporation-of-china-ACH-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aluminum-corporation-of-china-ACH-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amada-co-ltd-6113-JP" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amada-co-ltd-6113-JP" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amadeus-fire-ag-AAD-DE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amadeus-fire-ag-AAD-DE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amadeus-it-AMS-ES" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amadeus-it-AMS-ES" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amalgamated-holdings-ltd-AHD-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amalgamated-holdings-ltd-AHD-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amarillo-gold-corp-AGCCN-CA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amarillo-gold-corp-AGCCN-CA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amarin-corporation-plc---adr-AMRN-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amarin-corporation-plc---adr-AMRN-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amasten-holding-ab" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amasten-holding-ab" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amati-vct-2-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amati-vct-2-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amati-vct-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amati-vct-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amaya-gaming-group-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amaya-gaming-group-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amaya-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amaya-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amaysim-australia-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amaysim-australia-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ambac-financial-group-inc1" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ambac-financial-group-inc1" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ambarella-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ambarella-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amber-road-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amber-road-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ambertech-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ambertech-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ambition-group-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ambition-group-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ambu-as" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ambu-as" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amcor-ltd-AMC-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amcor-ltd-AMC-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amdocs-ltd-DOX-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amdocs-ltd-DOX-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amec-foster-wheeler-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amec-foster-wheeler-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amedeo-air-four-plus-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amedeo-air-four-plus-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amedica-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amedica-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amedisys-inc-AMED-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amedisys-inc-AMED-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amer-sports-oyj-AMEAS-FI" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amer-sports-oyj-AMEAS-FI" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ameren-corp-AEE-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ameren-corp-AEE-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ameresco-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ameresco-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/america-movil-sa-de-cv-AMX-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/america-movil-sa-de-cv-AMX-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-airlines-group-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-airlines-group-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-assets-trust-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-assets-trust-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-axle--mfg-holdings-AXL-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-axle--mfg-holdings-AXL-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-campus-communities-ACC-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-campus-communities-ACC-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-capital-agency-AGNC-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-capital-agency-AGNC-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-capital-agency-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-capital-agency-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-capital-agency-corporation-775-pfd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-capital-agency-corporation-775-pfd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-capital-mortgage-investment-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-capital-mortgage-investment-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-capital-senior-floating-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-capital-senior-floating-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-eagle-outfitters-AEO-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-eagle-outfitters-AEO-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-electric-power-co-inc-AEP-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-electric-power-co-inc-AEP-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-electric-technologies-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-electric-technologies-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-equity-investment-life-holding-co" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-equity-investment-life-holding-co" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-financial-group-inc-AFG-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-financial-group-inc-AFG-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-greetings-corp-AM-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-greetings-corp-AM-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-homes-4-rent" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-homes-4-rent" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-midstream-partners-lp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-midstream-partners-lp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-national-bankshares-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-national-bankshares-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-national-insurance-co-ANAT-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-national-insurance-co-ANAT-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-pacific-borate--lithium-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-pacific-borate--lithium-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-patriot-oil--gas-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-patriot-oil--gas-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-public-education-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-public-education-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-railcar-industries-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-railcar-industries-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-river-banksh-ae" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-river-banksh-ae" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-shipping-company-asa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-shipping-company-asa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-software-incga" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-software-incga" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-states-water-co-AWR-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-states-water-co-AWR-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-superconductor-corp-AMSC-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-superconductor-corp-AMSC-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-tower-corp-AMT-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-tower-corp-AMT-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-vanguard-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-vanguard-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-water-works-co-inc-AWK-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-water-works-co-inc-AWK-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-woodmark-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/american-woodmark-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/americas-car-mart-inctx" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/americas-car-mart-inctx" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/americas-silver-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/americas-silver-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/americold-realty-trust" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/americold-realty-trust" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amerigas-partners-lp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amerigas-partners-lp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ameriprise-financial-inc-AMP-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ameriprise-financial-inc-AMP-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ameris-ban-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ameris-ban-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amerisourcebergen-corp-ABC-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amerisourcebergen-corp-ABC-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amerisur-resources-plc-AMER-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amerisur-resources-plc-AMER-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ameritrade-holding-corp-AMTD-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ameritrade-holding-corp-AMTD-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ames-national-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ames-national-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amgen-inc-AMGN-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amgen-inc-AMGN-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amiad-water-systems-ltd-AFS-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amiad-water-systems-ltd-AFS-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amicus-therapeutics-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amicus-therapeutics-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aminex-plc-AEX-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aminex-plc-AEX-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aminex-plc-iseq" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aminex-plc-iseq" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amino-technologies-plc-AMO-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amino-technologies-plc-AMO-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amira-nature-foods-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amira-nature-foods-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amkor-technology-inc-AMKR-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amkor-technology-inc-AMKR-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amper-sa-AMP-ES" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amper-sa-AMP-ES" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amphastar-pharmaceuticals-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amphastar-pharmaceuticals-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amphenol-corp-APH-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amphenol-corp-APH-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amphion-innovations-plc-AMP-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amphion-innovations-plc-AMP-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ampio-pharmaceuticals-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ampio-pharmaceuticals-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amplifon-spa-AMP-IT" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amplifon-spa-AMP-IT" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amplify-etf-trust---amplify-online-retail-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amplify-etf-trust---amplify-online-retail-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amplify-snack-brands-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amplify-snack-brands-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amplify-transformational-data-sharing-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amplify-transformational-data-sharing-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ampliphi-biosciences-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ampliphi-biosciences-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amplitude-surgical-sa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amplitude-surgical-sa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amryt-pharma-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amryt-pharma-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amsterdam-commodities-nv" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amsterdam-commodities-nv" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amtech-systems-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amtech-systems-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amtrust-financial-services-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amtrust-financial-services-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-asset-management" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-asset-management" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-cash-institutions-sri1" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-cash-institutions-sri1" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-cac-40-ucits-etf-dr" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-cac-40-ucits-etf-dr" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-euro-stoxx-50-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-euro-stoxx-50-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-euro-stoxx-small-cap-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-euro-stoxx-small-cap-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-ftse-epra-europe-real-estate-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-ftse-epra-europe-real-estate-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-jpx-nikkei-400-ucits-etf1" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-jpx-nikkei-400-ucits-etf1" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-eastern-europe-ex-russia-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-eastern-europe-ex-russia-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-em-latin-america-ucits-etf1" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-em-latin-america-ucits-etf1" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-emerging-markets-ucits-etf1" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-emerging-markets-ucits-etf1" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-europe-consumer-discretionary-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-europe-consumer-discretionary-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-europe-energy-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-europe-energy-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-europe-healthcare-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-europe-healthcare-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-germany-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-germany-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-india-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-india-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-italy-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-italy-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-pacific-ex-japan-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-pacific-ex-japan-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-spain-ucits-etf1" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-spain-ucits-etf1" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-usa-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-usa-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-world-energy-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-world-energy-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-world-financials-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-msci-world-financials-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-nasdaq-100-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-nasdaq-100-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-sp-500-buyback-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-sp-500-buyback-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-sp-500-buyback-ucits-etf---eur" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-sp-500-buyback-ucits-etf---eur" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-sp-500-ucits-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-etf-sp-500-ucits-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-index-solutions---amundi-index-ftse-epra-nareit-global-ucits-etf-dr" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amundi-index-solutions---amundi-index-ftse-epra-nareit-global-ucits-etf-dr" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amur-minerals-AMC-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amur-minerals-AMC-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amyris-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/amyris-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anadarko-petroleum-corp-APC-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anadarko-petroleum-corp-APC-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anae-company-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anae-company-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/analog-devices-inc-ADI-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/analog-devices-inc-ADI-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/analogic-corp-ALOG-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/analogic-corp-ALOG-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/analytica-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/analytica-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anaptysbio-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anaptysbio-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anatara-lifesciences-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anatara-lifesciences-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anavex-life-sciences-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anavex-life-sciences-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anchor-group-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anchor-group-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/andersons-inc-ANDE-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/andersons-inc-ANDE-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/andes-energia-plc1-AEN-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/andes-energia-plc1-AEN-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/andrews-sykes-group-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/andrews-sykes-group-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/andritz-ag" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/andritz-ag" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anek-lines-sa-ANEK-GR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anek-lines-sa-ANEK-GR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angang-steel-co-ltd---h-347-HK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angang-steel-co-ltd---h-347-HK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angel-seafood-holdings-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angel-seafood-holdings-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angies-list-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angies-list-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angiodynamics-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angiodynamics-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angle-plc-AGL-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angle-plc-AGL-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angler-gaming-plc-ANGL-SE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angler-gaming-plc-ANGL-SE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglesey-mining-plc-AYM-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglesey-mining-plc-AYM-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angling-direct-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angling-direct-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-african-agriculture-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-african-agriculture-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-african-oil--gas-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-african-oil--gas-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-american-plc-AGL-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-american-plc-AGL-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-asian" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-asian" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-australian-resources-nl" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-australian-resources-nl" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-eastern-plantations-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-eastern-plantations-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-pacific-group-plc-APF-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-pacific-group-plc-APF-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-platinum-ltd-AMS-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglo-platinum-ltd-AMS-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglogold-ashanti-ltd---adr-AU-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglogold-ashanti-ltd---adr-AU-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglogold-ashanti-ltd-AGG-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglogold-ashanti-ltd-AGG-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglogold-ashanti-ltd1-ANG-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anglogold-ashanti-ltd1-ANG-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angus-energy-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/angus-energy-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anheuser-busch-inbev-adr-BUD-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anheuser-busch-inbev-adr-BUD-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anheuser-busch-inbev-nv-INTB-BE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anheuser-busch-inbev-nv-INTB-BE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anheuser-busch-inbev-sa-nv" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anheuser-busch-inbev-sa-nv" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anhui-conch-cement-co-ltd---h-914-HK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anhui-conch-cement-co-ltd---h-914-HK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anhui-expressway-co-ltd-995-HK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anhui-expressway-co-ltd-995-HK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anika-therapeutics-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anika-therapeutics-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anima-holding-spa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anima-holding-spa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/animalcare-group-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/animalcare-group-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/animoca-brands-corporation-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/animoca-brands-corporation-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anixter-international-inc-AXE-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anixter-international-inc-AXE-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/annaly-capital-management-inc-75-pfd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/annaly-capital-management-inc-75-pfd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/annaly-mortgage-management-inc-NLY-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/annaly-mortgage-management-inc-NLY-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anoto-group-ab-publ" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anoto-group-ab-publ" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anova-metals-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anova-metals-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anpario-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anpario-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ansaldo-sts-spa-STS-IT" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ansaldo-sts-spa-STS-IT" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ansell-ltd-ANN-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ansell-ltd-ANN-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anson-resources-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anson-resources-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anta-sports-products-ltd-2020-HK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anta-sports-products-ltd-2020-HK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antalis-international-sas" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antalis-international-sas" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antares-pharma-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antares-pharma-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anteo-diagnostics-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anteo-diagnostics-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antero-resources-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antero-resources-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anthera-pharmaceuticals-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anthera-pharmaceuticals-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antilles-oil-and-gas-nl" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antilles-oil-and-gas-nl" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antipa-minerals-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antipa-minerals-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antipodes-global-investment-company-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antipodes-global-investment-company-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antisense-therapeutics-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antisense-therapeutics-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antofagasta-plc2-ANTO-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antofagasta-plc2-ANTO-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antrim-energy-AEY-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/antrim-energy-AEY-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anworth-mortgage-asset-corporation-ANH-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/anworth-mortgage-asset-corporation-ANH-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aon-corp-AOC-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aon-corp-AOC-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aortech-international-plc-AOR-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aortech-international-plc-AOR-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aoxin-tianli-group-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aoxin-tianli-group-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aozora-bank-ltd-8304-JP" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aozora-bank-ltd-8304-JP" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apache-corp-APA-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apache-corp-APA-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apartment-invt--mgmt-AIV-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apartment-invt--mgmt-AIV-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apax-global-alpha-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apax-global-alpha-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aphria-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aphria-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apiam-animal-health-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apiam-animal-health-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apogee-enterprises-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apogee-enterprises-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-commercial-real-estate-finance-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-commercial-real-estate-finance-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-consolidated-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-consolidated-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-endosurgery-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-endosurgery-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-global-management-llc-APO-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-global-management-llc-APO-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-investment-corp-AINV-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-investment-corp-AINV-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-minerals-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-minerals-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-tourism--leisure-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apollo-tourism--leisure-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/appen-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/appen-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/appfolio-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/appfolio-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/appian-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/appian-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apple-hospitality-reit-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apple-hospitality-reit-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apple-inc-ger-APC-DE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apple-inc-ger-APC-DE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applegreen-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applegreen-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applied-genetic-technologies-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applied-genetic-technologies-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applied-graphene-materials-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applied-graphene-materials-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applied-industrial-technologies-inc-AIT-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applied-industrial-technologies-inc-AIT-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applied-materials-inc-AMAT-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applied-materials-inc-AMAT-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applied-optoelectronics-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applied-optoelectronics-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applus-services-sa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applus-services-sa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applydirect-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/applydirect-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/approach-resources-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/approach-resources-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/appscatter-group-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/appscatter-group-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apptio-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apptio-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apricus-biosciences-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/apricus-biosciences-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/april-group-APR-FR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/april-group-APR-FR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aptargroup-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aptargroup-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aptevo-therapeutics-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aptevo-therapeutics-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aptose-biosciences-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aptose-biosciences-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aqua-america-inc-WTR-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aqua-america-inc-WTR-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aqua-metals-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aqua-metals-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aquabotix-technology-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aquabotix-technology-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aquantia-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aquantia-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aquaventure-holdings-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aquaventure-holdings-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aquinox-pharmaceuticals-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aquinox-pharmaceuticals-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aquis-entertainment-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aquis-entertainment-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aradigm-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aradigm-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arafura-resources-ltd-ARU-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arafura-resources-ltd-ARU-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aralez-pharmaceuticals-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aralez-pharmaceuticals-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aramark" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aramark" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aratana-therapeutics-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aratana-therapeutics-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arbor-realty-trust-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arbor-realty-trust-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arbuthnot-banking-group-plc-ARBB-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arbuthnot-banking-group-plc-ARBB-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arc-exploration-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arc-exploration-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arc-logistics-partners-lp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arc-logistics-partners-lp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcadia-biosciences-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcadia-biosciences-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcadis-nv" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcadis-nv" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcam-ab" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcam-ab" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcandor-ag" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcandor-ag" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcbest-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcbest-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcelor-mittal-sp-MTS-ES" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcelor-mittal-sp-MTS-ES" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcelormittal---ny-registered-MT-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcelormittal---ny-registered-MT-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcelormittal-ned-MT-NL" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcelormittal-ned-MT-NL" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arch-capital-group-ltd-ACGL-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arch-capital-group-ltd-ACGL-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arch-coal-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arch-coal-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/archer-daniels-midland-co-ADM-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/archer-daniels-midland-co-ADM-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/archer-exploration-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/archer-exploration-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/archer-ltd-ARCH-NO" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/archer-ltd-ARCH-NO" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/archos-JXR-FR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/archos-JXR-FR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arconic-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arconic-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcontech-group-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcontech-group-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcos-dorados-holdings-inc-ARCO-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcos-dorados-holdings-inc-ARCO-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcu-saa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arcu-saa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ardagh-finance-holdings-sa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ardagh-finance-holdings-sa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ardelyx-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ardelyx-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arden-partners-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arden-partners-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ardent-leisure-group-AAD-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ardent-leisure-group-AAD-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ardiden-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ardiden-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ardmore-shipping-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ardmore-shipping-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arena-leisure-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arena-leisure-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arena-pharma-inc-ARNA-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arena-pharma-inc-ARNA-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arena-reit" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arena-reit" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ares-capital-corp-ARCC-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ares-capital-corp-ARCC-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ares-commercial-real-estate-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ares-commercial-real-estate-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ares-dynamic-credit-allocation-fund-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ares-dynamic-credit-allocation-fund-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ares-management-lp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ares-management-lp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argan-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argan-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argan-sa" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argan-sa" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argent-industrial-limited-ART-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argent-industrial-limited-ART-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argent-minerals-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argent-minerals-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argo-exploration-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argo-exploration-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argo-global-listed-infrastructure-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argo-global-listed-infrastructure-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argo-group-international-AGII-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argo-group-international-AGII-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argo-group-limited-ARGO-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argo-group-limited-ARGO-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argo-inv-ltd-ARG-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argo-inv-ltd-ARG-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argonaut-gold-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argonaut-gold-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argonaut-resources-nl" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argonaut-resources-nl" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argos-resources-limited-ARG-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argos-resources-limited-ARG-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argos-therapeutics-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argos-therapeutics-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argosy-minerals-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/argosy-minerals-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ariadne-australia-ltd-ARA-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ariadne-australia-ltd-ARA-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arian-silver-corporation-AGQ-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arian-silver-corporation-AGQ-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ariana-resources-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ariana-resources-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arista-networks-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arista-networks-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aristocrat-leisure-ltd-ALL-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aristocrat-leisure-ltd-ALL-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arix-bioscience-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arix-bioscience-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arizona-mining-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arizona-mining-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arjo-ab" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arjo-ab" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arkema-AKE-FR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arkema-AKE-FR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arlington-asset-investment-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arlington-asset-investment-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/armada-hoffler-properties-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/armada-hoffler-properties-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/armadale-capital-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/armadale-capital-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/armour-energy-ltd-AJQ-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/armour-energy-ltd-AJQ-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/armstrong-flooring-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/armstrong-flooring-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/armstrong-ventures-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/armstrong-ventures-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/armstrong-world-industries-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/armstrong-world-industries-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arnoldo-mondadori-editore-spa-MN-IT" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arnoldo-mondadori-editore-spa-MN-IT" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arotech-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arotech-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aroundtown-property-holdings-plc1" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aroundtown-property-holdings-plc1" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arowana-australasian-value-opportunities-fund-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arowana-australasian-value-opportunities-fund-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arowana-international-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arowana-international-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arqule-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arqule-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/array-biopharma-inc-ARRY-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/array-biopharma-inc-ARRY-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arria-nlg-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arria-nlg-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arricano-real-estate-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arricano-real-estate-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arrow-dow-jones-global-yield-etf" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arrow-dow-jones-global-yield-etf" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arrow-electronics-inc-ARW-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arrow-electronics-inc-ARW-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arrow-financial-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arrow-financial-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arrow-global-group-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arrow-global-group-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arrowhead-properties-ltd---a-AWA-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arrowhead-properties-ltd---a-AWA-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arrowhead-research-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arrowhead-research-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arsanis-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arsanis-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artemis-alpha-trust-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artemis-alpha-trust-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artemis-resources-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artemis-resources-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artemis-vct-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artemis-vct-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artesian-resources-corporation" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artesian-resources-corporation" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arthur-j-gallagher--co-AJG-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/arthur-j-gallagher--co-AJG-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artilium-plc-ARTA-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artilium-plc-ARTA-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artisan-partners-asset-management-inc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artisan-partners-asset-management-inc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artnet-ag" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artnet-ag" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artpricecom-PRC-FR" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/artpricecom-PRC-FR" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aruma-resources-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aruma-resources-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aryzta-ag-iseq-YZA-IE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aryzta-ag-iseq-YZA-IE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aryzta-ag-swiss-ARYN-CH" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/aryzta-ag-swiss-ARYN-CH" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asahi-breweries-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asahi-breweries-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asahi-glass-co-ltd-5201-JP" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asahi-glass-co-ltd-5201-JP" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asahi-kasei-corp-3407-JP" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asahi-kasei-corp-3407-JP" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asaleo-care-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asaleo-care-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asanko-gold-inc1" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asanko-gold-inc1" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asbury-automotive-group-inc-ABG-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asbury-automotive-group-inc-ABG-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascena-retail-group-inc-DBRN-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascena-retail-group-inc-DBRN-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascendas-hospitality-trust" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascendas-hospitality-trust" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascendas-india-trust-AIT-SG" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascendas-india-trust-AIT-SG" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascendas-real-estate-inv-trust-AREIT-SG" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascendas-real-estate-inv-trust-AREIT-SG" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascendis-health-ltd" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascendis-health-ltd" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascendis-pharma-as" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascendis-pharma-as" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascent-media-corp-ASCMA-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascent-media-corp-ASCMA-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascent-resources-plc-AST-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascent-resources-plc-AST-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascential-group-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascential-group-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asciano-ltd-AIO-AU" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/asciano-ltd-AIO-AU" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascom-holding-ag-ASCN-CH" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ascom-holding-ag-ASCN-CH" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/celsus-therapeutics-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/celsus-therapeutics-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/companhia-de-bebidas-das-americas" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/companhia-de-bebidas-das-americas" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/creon-resources-plc-CRO-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/creon-resources-plc-CRO-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/east-west-rescources-plc" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/east-west-rescources-plc" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/european-aero-defence--space-sp-EAD-ES" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/european-aero-defence--space-sp-EAD-ES" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/european-aeronautic-defence--space-EAD-DE" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/european-aeronautic-defence--space-EAD-DE" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/exterran-holdings-inc-EXH-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/exterran-holdings-inc-EXH-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/exterran-partners-lp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/exterran-partners-lp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/gencorp-inc-GY-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/gencorp-inc-GY-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/laboratorios-almirall-sa-ALM-ES" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/laboratorios-almirall-sa-ALM-ES" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/mittal-steel-south-africa-ltd-MLA-ZA" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/mittal-steel-south-africa-ltd-MLA-ZA" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/nfj-dvd-interest--pr-strat-NFJ-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/nfj-dvd-interest--pr-strat-NFJ-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/nicholas-applegate-cvt--inc-NCV-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/nicholas-applegate-cvt--inc-NCV-US" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/petrogas-global-limited" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/petrogas-global-limited" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ruukki-group-oyj-RUG1V-FI" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/ruukki-group-oyj-RUG1V-FI" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/tekmira-pharmaceuticals-corp" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/tekmira-pharmaceuticals-corp" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/timeweave-plc-ALM-UK" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/timeweave-plc-ALM-UK" />
+      <change beforePath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/wellpoint-inc-WLP-US" afterPath="$PROJECT_DIR$/www.ig.com IG外汇/www.ig.com/zh/shares/markets-shares/wellpoint-inc-WLP-US" />
     </list>
     <ignored path="股票期权类网站前端案例.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,7 +702,18 @@
     <favorites_list name="股票期权类网站前端案例" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www.wanso.top/www.wanso.top/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,6 +811,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,19 +823,12 @@
             <path>
               <item name="外汇网站源码集合" type="b2602c69:ProjectViewProjectNode" />
               <item name="外汇网站源码集合" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="www.ig.com    IG外汇" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="外汇网站源码集合" type="b2602c69:ProjectViewProjectNode" />
-              <item name="外汇网站源码集合" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="www.jojofx.com久久外汇" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,6 +951,7 @@
       <workItem from="1522979825940" duration="516000" />
       <workItem from="1522980851561" duration="4626000" />
       <workItem from="1522990522097" duration="61000" />
+      <workItem from="1523063437258" duration="543000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1522896808232</created>
@@ -314,14 +992,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16855000" />
+    <option name="totallyTimeSpent" value="17398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="522" y="116" width="1922" height="1092" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1923077" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19444445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28825995" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -335,6 +1012,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -382,14 +1060,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/index.html" />
     <entry file="file://$PROJECT_DIR$/个股期权网站.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -569,34 +1240,10 @@
     <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/Article/307" />
     <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/Article/318" />
     <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/Article/30" />
-    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/Category/47">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/css/qq.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/Article/287.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/Article/338.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="298" column="108" lean-forward="false" selection-start-line="298" selection-start-column="108" selection-end-line="298" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/Category/47" />
+    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/css/qq.css" />
+    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/Article/287.html" />
+    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/Article/338.html" />
     <entry file="file://$USER_HOME$/桌面/中和期权/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="740">
@@ -604,24 +1251,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/Article/199.html">
+    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/Article/199.html" />
+    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/Article/307.html" />
+    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/index.html" />
+    <entry file="file://$PROJECT_DIR$/www.wanso.top/www.wanso.top/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="380" column="14" lean-forward="true" selection-start-line="335" selection-start-column="0" selection-end-line="380" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/Article/307.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www.jojofx.com久久外汇/www.jojofx.com/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

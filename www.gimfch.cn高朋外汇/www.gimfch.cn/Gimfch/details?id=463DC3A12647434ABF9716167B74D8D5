@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">欧洲今日要出大事？全球市场屏息以待</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2017/10/19 17:48:15</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p><span style="font-size: 14px;">高朋金融：周四（10月19日），这可能成为决定欧元(1.1803, 0.0011, 0.09%)命运的大日子！今日将是西班牙政府给加泰罗尼亚领导人的最后期限，若加泰罗尼亚领导人仍然没有做出明确的回应，西班牙政府可能通过宪法免去加泰罗尼亚的自治权。而据路透周三最新的消息，一旦西班牙中央政府暂停加泰罗尼亚地区的自治权，该地区就将随即宣布独立！若这一局面果真出现，欧元可能会遭受“重创”，而由此引发的避险情绪可能刺激金价飙升。</span></p><p><br/></p><p><span style="font-size: 14px;">西班牙加泰罗尼亚面临周四阐明独立立场的最后期限。路透社周三引述消息人士的话报道称，加泰罗尼亚自治区主席普伊格蒙特（Carles Puigdemont）表示，如果西班牙中央政府暂停该地区的自治权，他就将在周四宣布独立。</span></p><p><br/></p><p><span style="font-size: 14px;">上述知情者称，普伊格蒙特是在一次党派会议上发表上述讲话。</span></p><p><br/></p><p><span style="font-size: 14px;">西班牙副首相Soraya Saenz de Santamaria周一称，如果加泰罗尼亚自治区主席普伊格蒙特到当地时间周四上午10：00点（北京时间16：00）还未放弃让该地区脱离西班牙的努力，西班牙政府将接管并直接统治该地区。</span></p><p><br/></p><p><span style="font-size: 14px;">Saenz de Santamaria说：“普伊格蒙特先生仍有开始解决这种情势的机会，但他必须对宣布（独立）作出‘是’或者‘不’的答复。”</span></p><p><br/></p><p><span style="font-size: 14px;">西班牙当局此前要求普伊格蒙特在当地时间周一上午10：00点之前，以“是”或者“不”来澄清他关于独立的立场，但普伊格蒙特没有直接回答。</span></p><p><br/></p><p><span style="font-size: 14px;">加泰罗尼亚自治区主席普伊格蒙特致信西班牙首相拉霍伊（Mariano Rajoy），在信中没有阐明其关于独立问题的立场，只是说双方应该尽快会面，在未来两个月启动对话。</span></p><p><br/></p><p><span style="font-size: 14px;">在致西班牙首相拉霍伊的信中，普伊格蒙特表示，他未来两个月的重点将是对话，呼吁尽快召开面对面会谈，坚称10月1日的非法公投赋予其政府使命，成立一个新的共和国。</span></p><p><br/></p><p><span style="font-size: 14px;">拉霍伊书面答复表示，普伊格蒙特在离间加泰罗尼亚人民，拉霍伊让普伊格蒙特在周四西班牙当地时间10：00之前收回独立宣告。</span></p><p><br/></p><p><span style="font-size: 14px;">据西班牙埃菲社（Efe）周一报道，西班牙司法部长Rafael Catala称，加泰罗尼亚领导人周一对于澄清其是否已宣布独立的问题的答复是无效的。</span></p><p><br/></p><p><span style="font-size: 14px;">拉霍伊此前曾表示，普伊格蒙特应当直接以“是”或者“不”来对正式要求作出答复，任何含糊不清的回复都会被视为确认已宣布的独立，从而为中央政府控制并直接统治该地区铺平道路。</span></p><p><br/></p><p><span style="font-size: 14px;">但据加泰罗尼亚TV3电视台周一报道称，加泰罗尼亚政府不会在周四对西班牙政府要求的澄清是否已宣布独立做回应。TV3周三还报道称，加泰罗尼亚政府可能会在未来几天宣布独立，并启动组建的过程。</span></p><p><br/></p><p><span style="font-size: 14px;">《La Vanguardia》周二在其网站上报道说，人民团结党（CUP）指出加泰罗尼亚自治区政府将在数日之内宣布脱离西班牙独立。人民团结党是当地政府中的多数派组成部分。Vanguardia引用了人民团结党议员Mireia Boya的表态做上述报道。</span></p><p><br/></p><p><span style="font-size: 14px;">《La Vanguardia》周三援引西班牙政府官员的话报道，假使加泰罗尼亚自治区主席普伊格蒙特没有在最后期限前撤回独立立场，西班牙准备接管加泰罗尼亚。报道指出，“暂代的政府机构”将处理地区日常事务，通过代表向中央政府部会报告。</span></p><p><br/></p><p><span style="font-size: 14px;">加泰罗尼亚追求独立的运动标志着自这片不安的地区获得自治权以来，西班牙政治秩序面临的最大挑战。</span></p><p><br/></p><p><span style="font-size: 14px;">在弗朗西斯科·佛朗哥1975年逝世后，加泰罗尼亚被赋予了自治权。加泰罗尼亚占西班牙全国产出的五分之一。</span></p><p><br/></p><p><span style="font-size: 14px;">西班牙首相拉霍伊周三要求加泰罗尼亚自治区主席普伊格蒙特“理智行事”。拉霍伊在议会中表示，“我要求普伊格蒙特理智行事，优先考虑民众权益。”</span></p><p><br/></p><p><span style="font-size: 14px;">尽管欧元打破连续四天下跌的走势，但分析师指出，加泰罗尼亚问题的不确定性令欧元前景蒙阴。</span></p><p><br/></p><p><span style="font-size: 14px;">周三纽约尾盘，欧元/美元上涨0.22%，报1.1792，一度升至1.1805。</span></p><p><br/></p><p><span style="font-size: 14px;">黄金市场也等待西班牙首相要求加泰罗尼亚在周四最后期限之前阐明有关独立的立场。</span></p><p><br/></p><p><span style="font-size: 14px;">受美元走强拖累，金价周三连续第三日下跌。周三纽约尾盘，现货金下跌0.3%，报1，281.50美元/盎司，盘中触及10月9日以来最低的1，276.73美元/盎司。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=187B024A046D426FBF4D2732D0242BBD" class="previous_news" title="“恐怖数据”意外增长税改分歧火上浇油美元走势忧喜参半">上一篇：“恐怖数据”意外增长税改分歧火上浇油美元走势忧喜参半</a>
+                            <a href="?id=CAC111C8D0BB4820BA54901AFB5FBCCE" class="next_news" title="美国CPI和恐怖数据重磅来袭美元多头成败就看今晚">下一篇：美国CPI和恐怖数据重磅来袭美元多头成败就看今晚</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

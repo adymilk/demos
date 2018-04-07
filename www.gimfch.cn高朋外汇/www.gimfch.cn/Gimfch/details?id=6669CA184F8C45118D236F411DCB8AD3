@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">外汇局副局长：支持符合国家战略规划的跨境并购</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2017/07/17 18:40:32</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p style="line-height: 1.5em;"><span style="font-size: 14px;">　　<strong>要点</strong></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　1.跨境资本持续大量流入，影响了货币政策的独立性，降低了宏观调控的有效性2.跨境资本持续快速流出，容易导致国际收支失衡，加大了经济金融平稳运行风险3.完善跨境资本流动管理，促进国际收支平衡，对维护货币政策的独立性，增强宏观调控的有效性，确保国家经济金融安全十分重要。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　金融是现代经济的核心。金融安全事关国家经济安全。跨境资本大规模异常流进流出，破坏国际收支平衡，对国家经济金融安全构成严重威胁。进入新世纪以来，随着我国经济快速崛起，经常项目和资本项目长期双顺差，跨境资本持续净流入，国际收支出现大量盈余，累积了巨额外汇储备。近年来，伴随中国经济进入新常态和市场环境变化，我国国际收支出现了经常项目顺差、资本项目逆差的局面，特别是2014年下半年开始，跨境资本持续净流出，人民币汇率由单边升值演变为双向浮动，市场对人民币贬值预期增强，国际收支平衡压力较大，对经济金融平稳运行带来风险。完善跨境资本流动管理，促进国际收支平衡，对维护货币政策的独立性，增强宏观调控的有效性，确保国家经济金融安全十分重要。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　我国跨境资本流动的基本情况及其影响</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　我国跨境资本流动变化有着深刻的国际背景</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　本世纪以来，全球的国际资本流动主要经历了两大阶段。第一阶段是2000年至2013年，国际资本高强度流入新兴经济体。在2008年以前，主要驱动因素是新兴经济体经济增长比较强劲、资本回报率较高；2009年以后，主要是发达经济体实施量化宽松货币政策（QE），全球流动性充裕甚至泛滥。第二个阶段是2014年以后，随着新兴经济体经济增长放缓，发达经济体货币政策分化，特别是美联储逐步退出量化宽松货币政策并启动加息进程，跨境资本流动开始转向，从一些新兴经济体流出。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　我国跨境资本流动形势与国际趋势基本一致。2000年到2013年是我国国际收支“双顺差”、跨境资本持续流入、外汇储备不断积累的时期。2000年至2013年，我国经常账户累计顺差2.3万亿美元，资本和金融账户（不含储备资产，下同）累计顺差1.6万亿美元，储备资产累计增加了3.7万亿美元，我国外汇储备余额由2000年初的1547亿美元上升至2013年末的3.82万亿美元，2014年上半年进一步上升至当年6月末的3.99万亿美元，达到了历史高峰。2014年下半年以来，经常账户持续顺差，但资本和金融账户逆差规模超过经常账户顺差，外汇储备余额由升转降。截至2017年6月末，我国外汇储备余额为30568亿美元。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　具体分析跨境资本大量流入的动因，2008年前后有较大差异。2000年至2008年，新兴经济体迎来史上最长、最强劲的持续增长。我国经济增速在投资和出口“双轮驱动”下，基本上都保持了两位数的增长，人民币汇率在经济基本面支撑下较快升值，吸引了长期资本流入。2009年至2013年，国际金融危机导致发达经济体深度调整，新兴经济体也逐渐显露出一些问题。我国经济虽然在“四万亿”刺激政策推动下阶段性回升，但随后开始了逐年回落。为应对危机，发达经济体相继实施史无前例的非常规货币政策，包括超低利率和量化宽松，市场流动性泛滥，大量国际资本流向新兴经济体，我国也出现了境内外利差扩大，人民币汇率升值，市场主体境外融资意愿增强，套利资金流入增多，这和2008年以前的驱动因素完全不同，波动性风险上升。因此，当主要发达经济体货币政策转向，国际金融环境发生较大变化时，国际资本流动开始逆转。实际上，2014年以前，部分新兴经济体就已经出现了货币贬值、资本外流问题。同时，新兴经济体经济下行压力以及相关风险更加被市场关注，成为引起资本外流的内在因素。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　跨境资本持续大量流入，影响了货币政策的独立性，降低了宏观调控的有效性国际收支“双顺差”、跨境资本持续流入、外汇储备快速增长，一方面使得我国综合国力明显增强，抵御外部冲击的能力大幅提升，与全球经济的联系更加紧密，对全球经济的影响也越来越大；但另一方面也对国内经济金融平稳运行带来了负面影响。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　一是影响我国货币政策独立性，降低了宏观调控的有效性。外汇储备积累导致央行被迫发行相应的人民币，需要运用各种手段对冲过剩的流动性，从而对货币政策独立性造成一定影响。在跨境资本大规模流入阶段，为维护人民币汇率稳定，央行不得不大量投放人民币购汇。2000年至2013年，外汇占款累计增加额占基础货币增加额的比重超过70%，外汇占款已成为基础货币投放的最主要渠道。为减轻外汇流入对国内货币供应的影响，人民银行通过发行中央银行票据、提高存款准备金率等方式进行对冲操作，2000年至2013年人民银行的资产负债表规模扩大7倍多。外汇资金持续流入形成的货币供应增加，增加了针对国内流动性的宏观调控难度。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　二是加大了人民币汇率上升的压力。2008年以前，我国经常账户顺差持续上升，带动人民币对美元汇率上升。2008年后，随着国际经济格局的变化以及我国经济结构的调整，我国经常账户顺差逐步回归到合理水平，经常账户顺差与GDP之比由2007年的9.9%逐步降至2010年以后的4%以下。但在主要发达经济体量化宽松货币政策推动下，我国跨境资本流入明显增多，推动人民币对美元继续升值，中间价从2007年末的7.3元人民币/美元上升到2013年末的6.1元人民币/美元，升值16%，这种主要由资本流动推动的汇率上升，将加大未来的汇率波动风险，而且也不利于稳定我国出口。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　三是不利于我国外汇储备资产保值增值。外汇储备增加意味我国对外金融风险敞口扩大，被迫更多地分担发达国家危机转嫁的成本。例如，2008年国际金融危机再次暴露了现行国际货币体系的非公平性，美国经济金融出现严重问题，却可以凭借美元的特殊地位向市场低利率赤字融资，由美国国债购买者来分担其经济调整的负担。同时，危机后美欧经济复苏疲弱，纷纷采取量化宽松货币政策，流动性过剩导致主要发达国家国债收益率持续走低，威胁到我国外汇资产的实际购买力。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　四是影响国内经济增长方式转变和经济结构调整。长期以来的外向型经济特征推动了我国经济较快增长，但随着2008年国际金融危机爆发，外需动力戛然而止，我国经济受到了较大不利影响。我国经济发展过度依赖外需，而投资和消费需求不足，不利于国民经济可持续增长，也不利于国内就业的稳定。同时，国际收支较大顺差，说明国内资源更多向沿海地区和出口加工部门集中，使得资源配置失衡，甚至出现粗放式开发问题，加剧国内环境压力。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　跨境资本持续快速流出，容易导致国际收支失衡，加大了经济金融平稳运行风险从理论上讲，有国际分工就有国际贸易，就有跨境资本流动。因此，在开放经济条件下，适度的跨境资本流出入都是正常的，本身并没有好坏之分，但持续大规模的跨境资本流动会对经济金融发展带来一些问题。如前所述，持续大规模流入可能影响货币政策独立性、推动人民币汇率长期呈现单边升值预期、刺激套利资金流入、积累潜在的资本外流风险。而跨境资本持续大量流出，同样也会对经济金融带来问题，甚至危害性更大，需要我们予以高度关注：</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　一是跨境资本短期大幅波动风险。在不确定因素较多的情况下，如果出现严重超出市场预期的事件，可能引发境内主体集中购付汇，需要防范跨境资本短期波动影响市场信心，并演变为持续大规模流出。例如，2015年底2016年初我国外汇市场经历了一轮高强度的波动。2015年12月外汇储备单月下降了1079亿美元，2016年1月又下降了995亿美元，引发了社会各界对外汇储备流失的担忧。同时，境内外汇差也在加大，离岸市场与在岸市场人民币对美元汇差曾一度高达上千基点。这种剧烈变化的形势以及预期，一定程度上引发了市场主体的恐慌，也引起了国内外媒体与公众的广泛关注。在这种情况下，容易造成“人民币贬值预期增强-资本加速流出-外汇储备下降-贬值预期进一步强化”的负向循环，很可能会加大宏观经济金融运行风险，严重影响境内主体生产经营。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　二是跨市场联动风险。资本外流与人民币贬值之间可能相互作用和影响，而汇市、股市、楼市等也容易通过信心和资金流动等渠道相互联系与传导。2016年初，国内股票市场出现一轮下跌，同时人民币对美元贬值也有所加快，就增加了市场上的担忧情绪，最终随着股市、汇市逐步企稳而有所消散。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　三是对国内流动性管理的影响。近一段时期，央行外汇占款大幅下降，使得这一基础货币投放方式无法满足市场对流动性的需求。虽然央行通过降息、降准以及SLF、MLF、PSL等综合措施维持了银行体系流动性，市场利率总体平稳，但这种操作在外汇持续流出的情况下也会受到更多限制。同时，保持国内经济平稳增长、降低企业融资成本，将不得不考虑境内外利差对资本流动的影响。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　四是对部分经营状况较差的借债企业的影响。外债风险总体可控不代表每一家企业都没有资金偿付困难，部分企业如果经营恶化、资金链紧张与外部融资较高叠加，也会出现违约问题，情况严重的甚至引起市场连锁反应。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　五是加大跨境资本流动管理难度。在我国深化改革、扩大开放的前提下，面对跨境资本流出压力时，促进贸易投资便利化与防范跨境资本流动风险成为同等重要的政策目标，相关力度的把握和平衡十分关键，难度也较大。</span></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px;">　　近年来我国跨境资本大规模流出的原因分析</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　一是国际金融危机后，世界经济格局深度调整，我国外部市场环境发生了较大改变。发达经济体内部分化，美国经济长期呈现“一枝独秀”，复苏相对强劲，房地产市场回暖，通胀水平向目标位回升，就业市场状况改善，失业率持续下降至2017年6月份的4.4%，已处于历史低位，较2009年最高点下降5.6个百分点。欧元区长期受低通胀率、高失业率困扰，未能有效解决难民问题和恐怖袭击，银行业危机潜伏，欧元区昔日“铁板一块”的格局受到挑战。日本经济在衰退与复苏间停滞不前，“安倍经济学”未能拯救日本低迷的经济，通胀持续面临下行压力。以“金砖五国”为代表的新兴经济体光环集体褪色，接连遭遇深幅调整。2011—2015年，新兴经济体连续5年经济下滑，经济发展受内生增长动力不足、资产价格下跌、货币贬值和资本外流等多重困难束缚。部分国家政局动荡，地缘政治冲突加剧，俄罗斯、巴西等国甚至一度陷入衰退。2016年以来，新兴市场经济体经济有所企稳，但仍面临调整与转型压力。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　二是国际货币金融条件转向，强势美元渐起。美元汇率走强与利差收窄，掀起“做多美元”浪潮。美联储实施的三轮量化宽松货币政策，向全球市场注入巨额流动性，长期低利率政策使得美元成为全球主要的廉价融资货币，大量资金通过真实投资和套利的方式涌入新兴市场国家，推升了新兴市场本币币值。然而，2013年年中开始，美国再度显露“金融霸权主义”本色，释放将要退出量化宽松货币政策的信号，并指出美国货币政策调整只会考虑美国本土经济运行状况。与此同时，欧元区和日本接过量化宽松的大棒，从此发达国家货币政策分化成为国际金融市场最核心的主题，强势美元周期开启，美元指数随之明显上升并一举冲破100。非美元货币承压走弱，除人民币之外的新兴市场货币接连出现深幅调整，几乎抹去了金融危机以来的全部升值空间，部分货币甚至迭创新低。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　三是国内经济运行进入新常态，经济结构调整压力加大。在世界范围内我国经济基本面仍存诸多亮点，是保障我国国际收支整体大体稳定的基础。从经济增速看，我国GDP增速由2010年的10.6%降至2016年的6.7%，为1991年以来年度最低，但世界横向对比，我国仍处于较高水平。从经济结构调整情况看，我国产业结构更加优化，第三产业比重持续提高，2016年第三产业增加值占GDP比重为51.6%，连续6年上升。从货币信贷情况看，货币信贷平稳较快增长，利率水平保持基本稳定，均好于其他新兴市场国家。但我国经济也面临下行压力持续存在、民间投资低迷、金融领域风险时有发生等问题，难以在短期内实质性解决，成为困扰市场的重要因素。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　四是“黑天鹅”事件频发，全球范围内的不确定因素增多。当前，人民币充当国际储备货币的比例较低，人民币资产仍属于风险资产，不是避险资产，易受市场情绪波动冲击。2016年英国脱欧公投点燃市场对“黑天鹅”事件的炒作，此后的美国大选、英国脱欧后续进程、欧洲部分国家领导人选举等事件均被市场列为重大风险点，国际金融市场波动性上升，市场避险情绪加重，推动国际资本从人民币资产流向避险资产。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　五是人民币汇率在提高灵活性和保持稳定性之间求得平衡，外汇储备发挥了重要稳定器的作用。我国实行以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度。当前经济基本面决定了人民币汇率不具备持续大幅贬值的基础，中国也不愿看到竞争性贬值的无序调整。2014年以来，美元快速升值，给非美元货币带来了较大贬值压力，人民币也不例外。在这样的背景下，作为宏观经济运行的重要稳定器，外汇储备在维持国际支付能力、防范金融风险、抵御危机冲击等方面发挥了积极作用，防止了汇率超调和“羊群效应”，客观上形成了外汇储备下降、市场主体对外资产上升的格局，藏汇于民的进程有所加快。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　<strong>　几点政策建议</strong></span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　第一，认真吸取拉美债务危机和亚洲金融危机的经验教训，进一步加强我国跨境资本流动管理，维护国家金融安全。上世纪八十年代发生的拉美债务危机和上世纪末爆发的亚洲金融危机，有关国家资本大量外流、国际收支状况恶化、资产泡沫破裂、金融市场动荡，导致严重的通货膨胀和社会秩序混乱，教训十分惨痛。作为世界第二大经济体，我国一定要从中深刻吸取教训，完善资本流动管理，维护国际收支平衡，确保国家经济金融安全。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　第二，坚持积极的财政政策和稳健中性的货币政策，确保宏观经济政策和经济运行的稳定。人民币汇率波动和跨境资本流动形势，主要取决于国内基本面。要按照“稳中求进”总基调，切实保持国内经济和国际收支基本面相对良好。坚持积极的财政政策和稳健中性的货币政策，稳定经济基本面，做好汇率预期和跨境资本流动预期引导工作。要全面落实国务院关于积极利用外资的一系列措施，进一步扩大对外开放，营造良好的投资环境，稳定外商投资规模和速度。要坚定有序去杠杆，有效化解过剩产能和金融风险，确保国内经济金融平稳运行，进一步扭转和提升市场信心。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　第三，处理好便利化与防风险关系，巩固我国跨境资本流出入均衡发展的基础。维护国际收支平衡这一政策目标，需要上下游部门审时度势、协同配合。当前防范跨境资本异常流动，需要多部门落实已达成的共识并继续加强协作。推动既有利于长远改革开放、又有利于近期收支平衡的扩流入措施。扩大金融市场双向开放，进一步优化境内债券市场对外开放相关政策，继续推动我国债券市场纳入国际指数，落实与香港“债券通”等基础设施互联互通后续各项工作。积极引导市场主体对外合理投资，支持符合“一带一路”等国家战略规划和能够促进国内产业结构升级、技术进步为目的的跨境并购。坚持在真实性合规性基础上，满足市场主体合理用汇需求。严厉打击违法违规外汇流出，不断提升外汇管理事中事后监管能力，更好兼顾便利化与防风险的双重目标。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　第四，进一步深化人民币汇率形成机制改革，增强人民币汇率弹性。充分发挥市场供求在汇率形成中的基础性作用，增强人民币汇率弹性，适时扩大人民币兑美元汇率双向浮动区间。加快培育汇率形成机制改革的配套体系，继续拓展国内外汇市场的广度和深度。完善外汇市场的资源配置、价格发现和避险功能，夯实国际收支调节的市场基础。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">　　第五，放眼全球，积极参与全球金融治理，提高国际话语权。认真总结国际金融危机经验教训，加强国际金融机构改革的研究，在国际金融体系功能设计、规范内容和治理过程等方面提出具体的改革意见和方案，充分发挥我国在国际规则制定中的积极作用，为重构新的国际金融秩序奠定基础，为中国对外经济的发展创造良好的国际环境。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=7810A26698E84BACA030FB3FD018C02E" class="previous_news" title="特朗普医改法案再添悬念黄金大涨至1240">上一篇：特朗普医改法案再添悬念黄金大涨至1240</a>
+                            <a href="?id=E7E3CC5AEE0D455AB2A126381B35AF75" class="next_news" title="两份重磅数据出炉市场或迎来短暂疯狂">下一篇：两份重磅数据出炉市场或迎来短暂疯狂</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

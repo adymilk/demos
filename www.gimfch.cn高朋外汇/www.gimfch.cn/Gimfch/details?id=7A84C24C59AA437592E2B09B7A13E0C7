@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-cn">
+    <meta charset="UTF-8" />
+    <meta name="baidu-site-verification" content="IEH72hGBkR" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="keywords" content="高朋金融,高朋金融官网,高朋外汇,G-IMFCH高朋国际多边金融清算中心" />
+    <meta name="description" content="G-IMFCH高朋国际多边金融清算中心, 由GPP高朋推出的IMFCH多边金融清算中心模式，是一种基于绝对平等状态下的多元集成系统，在金融体系中发挥基础“集成核心（Integrable Core）”的作用
+" />
+    <meta name="author" content="gpp" />
+    <meta name="robots" content="index,follow" />
+    <title>高朋金融官网 G-IMFCH高朋国际多边金融清算中心-公告详情</title>
+    <!--下面四个是公共样式-->
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/common.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_style.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/style/gpp_icon.css" />
+    <link href="/Content/Images/ico.png" rel="shortcut icon" type="image/x-icon">
+    
+<!--animate.css动画效果-->
+<link rel="stylesheet" type="text/css" href="/Content/Styles/style/animate.css" />
+<link rel="stylesheet" type="text/css" href="/Content/Styles/Gimfch/gimfch.css" />
+
+    <script src="/Content/Scripts/Jquery/jquery.min.js"></script>
+    <!--为 IE 浏览器添加 HTML5 元素的js-->
+    <!--[if lt IE 9]>
+      <script src="/Content/Scripts/html5shiv.js"></script>
+      <script src="/Content/Scripts/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!--   ***浏览器过低提示窗口*** start-->
+<div style="display:none;" id="browser_ie">
+    <div class="brower_info">
+        <div class="notice_info" id="notice_info">
+            <h4 style="line-height:10px;">您当前的浏览器太古老了，为了更好的体验我们的服务</h4><br />
+            <h4 style="line-height:10px;">我们建议您升级浏览器，更换分辨率为1920*1080</h4>
+        </div>
+        <div class="browser_list">
+            <a class="a1" href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target=_blank></a>
+            <a class="a2" href="http://www.firefox.com.cn/" target=_blank></a>
+            <a class="a3" href="https://www.apple.com/cn/safari/" target=_blank></a>
+            <a class="a4" href="http://www.baidu.com/s?wd=%E6%B5%8F%E8%A7%88%E5%99%A8&ie=UTF-8" target=_blank></a>
+        </div>
+        <div id="browser_close">
+        </div>
+    </div>
+</div>
+<!--浏览器过低提示窗口 end-->
+
+    
+    
+<!--浏览器过低提示窗口 end-->
+<!--  ***header start***  -->
+<div class="headerbox">
+    <div class="header">
+        <div class="top_assist">
+            <div class="center_po">
+                <ul class="ass_login">
+                    <li><span>欢迎您来到G-IMFCH官方网站</span></li>
+                    <!-- <li><a href="#"><i class="i_sina"></i></a></li>
+                    <li><a href="#"><i class="i_tengxun"></i></a></li>
+                    <li><a href="#"><i class="i_qq"></i></a></li>-->
+                    <li>
+                        <a href="#" class="thinkchange">
+                            <i class="i_weixin"></i>
+                            <div class="scan">
+                                <img src="/Content/Images/ThinkChange.jpg">
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="ass_shared" id="navigation">
+                    <li><a href="/UserCenter/index"><i class="i_login"></i>登录</a></li>
+                    
+                    <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+                        <a href="http://www.gimfch.com/nz"><i class="i_eiglish"></i>English</a>
+                        
+                    </li>
+                </ul>
+                <br class="clear">
+            </div>
+        </div>
+        <div class="top_menu">
+            <div class="cont_center" style="position:relative;">
+                <div class="head_contactus">
+                    <span id="contactus_i">400-689-8502</span>
+
+                </div>
+                <div class="logo_but">
+                    <a href="/Home/index" class="top_logo"><img src="/Content/Images/logo_b.png" alt="公司logo"></a>
+                    <!--<div class="acc_button">
+                        <a href="##" class="button">立即申请实盘账户</a>
+                        <a href="##" class="button_gray">立即申请模拟账户</a>
+                    </div>-->
+                    <ul id="top_nav" class="top_nav">
+                        <li>
+                            <a href="/Home/index" class="lord_nav">首 页</a>
+                        </li>
+                        <li>
+                            <a href="/Aboutgpp/introduction" class="lord_nav">关于G-IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Aboutgpp/introduction">G-IMFCH简介</a></li>
+                                    <li><a href="/Aboutgpp/warrant">投资者资金保全计划（IFPS）</a></li>
+                                    <li><a href="/Aboutgpp/blackbox">交易数据黑匣子</a></li>
+                                    <li><a href="/Aboutgpp/NDDMode">NDD成交模式</a></li>
+                                    <li><a href="/Actives/active001">米兰世博会全球战略合作伙伴</a></li>
+                                    <!--<li><a href="/Aboutgpp/PraTraining">工信部教考中心授权外汇信息化教学实训平台</a></li>-->
+                                    <li><a href="/News/NewsList">新闻资讯</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/TradeCategory/TradeCategory" class="lord_nav">交易品种</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/TradeCategory/ForeignExchange">外汇</a></li>
+                                    <li><a href="/TradeCategory/CrudeOil">原油</a></li>
+                                    <li><a href="/TradeCategory/PreciousMetal">贵金属</a></li>
+                                    <li><a href="/TradeCategory/IndexNumber">指数</a></li>
+                                    <!--<li><a href="/cn/account_mode.html">出入金方式</a></li>
+                                    <li><a href="/cn/fxpl.html">风险披露</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/Gimfch/innovate" class="lord_nav hover" id="expertadvisors">IMFCH</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Gimfch/innovate">创新模式</a></li>
+                                    <li><a href="/Gimfch/advantage">核心优势</a></li>
+                                    <li><a href="/Gimfch/vista">市场前景</a></li>
+                                    <li><a href="/Gimfch/cooperate">合作方式</a></li>
+                                    <li><a href="/Gimfch/notice">IMFCH公告</a></li>
+                                    <!-- <li><a href="/cn/ExpertAdvisors/HawkeyeSys.html">鹰眼跟踪系统</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <!--<li>
+                            <a href="javascript:void(0);" class="">行情资讯</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="javascript:void(0);">财经日历</a></li>
+                                    <li><a href="javascript:void(0);">财经速递</a></li>
+                                    <li><a href="javascript:void(0);">行情走势</a></li>
+                                </ul>
+                            </div>
+                        </li>-->
+                        <li>
+                            <a href="/Partners/MilanoExpo" class="lord_nav">合作伙伴</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/Partners/MilanoExpo">米兰世博会</a></li>
+                                    <!--<li><a href="/Partners/MIIT">工信部教考中心</a></li>-->
+                                    <!--<li><a href="/cn/lelefinance.html">乐乐金融</a></li>
+                                    <li><a href="/cn/Active/active008.html">IB合作计划</a></li>
+                                    <li><a href="/cn/commission.html">日返佣系统</a></li>
+                                    <li><a href="/cn/Active/active014.html">招贤纳士</a></li>-->
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="/UserCenter/Index" class="lord_nav">用户中心</a>
+                            <div class="nav_unlofd">
+                                <ul>
+                                    <li><a href="/UserCenter/Index">用户中心</a></li>
+                                    <li><a href="/UserCenter/Download">软件下载</a></li>
+                                    
+                                    
+                                    
+                                    <li><a href="/UserCenter/RiskDisclosure" target="_blank">风险披露</a></li>
+                                    <li><a href="/MarketDepth/Index">市场深度查询</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<!--小banner-->
+<div class="cont_banner ban_bg_03"></div>
+
+<!--    公告详情    -->
+<div class="com_box0">
+    <div class="cont_center">
+        <div class="com_box1 com_box12">
+            <div class="news_box">
+                <!--公告详情标题-->
+                <h3 class="news_title3 wow fadeIn">外汇局严打外汇违规：民生银行被批“明知故犯”</h3>
+                <h4 class="news_title4 wow fadeIn">作者：佚名</h4>
+                <h5 class="news_title5 wow fadeIn"><span>2017/08/07 10:21:36</span></h5>
+
+                <div class="news_text wow fadeIn">
+                    <p style="line-height: 1.5em; text-align: center;"><strong><span style="font-size: 14px;"><img src="/Upload/UEdit/20170807/6363769807778045699168656.jpg" title="timg (1).jpg" alt="timg (1).jpg"/></span></strong></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px;">导读</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">“案例表明个别银行存在重业绩轻合规、重资金风险轻政策风险的问题，其内控管理缺失，业务流程把控不严，‘展业原则’落实流于形式，真实性审核职责未能落到实处。”外汇局相关人士称。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">近日，国家外汇管理局（下称“外汇局”）再通报一批外汇违规案例，这是今年第三次公开通报，并公开点名银行，此前银行外汇违规多为内部通报。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">2017年7月28日，外汇局综合司通报了7家企业、9名个人、9家银行共25个外汇违规典型案例，包括企业虚构贸易背景逃汇、个人以分拆方式逃汇或通过地下钱庄非法买卖外汇、银行不尽真实性审核义务，纵容企业虚假交易等违规行为。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">由于外汇违规会扰乱外汇市场秩序，造成跨境资金流动风险，不利于金融外汇市场稳定，为此外汇局对上述案例总计处罚没款达3385.54万元。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">企业最高被处罚606万元，个人最高被处罚181万元，2家银行被处以高限罚款100万元并责令停止相关外汇业务1年，其中1家银行负责人因明知故犯、组织参与违规交易被追究责任并处以经济处罚。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">“目前外汇局加大了对外汇业务违规行为的处罚，我们对企业贸易真实性的审核非常严格，强调合规经营，不允许为指标乱做业务。”华东某银行国际业务部人士表示，“不过，这也是常规检查，常规要求。”</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">截至目前，外汇局今年先后三次合计通报外汇违规案例43起。国家外汇管理局年报显示，2016年共查处外汇违规违法案件1996件，罚没款金额4.31亿元。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">据了解，外汇局公布上述案例基于多方面考虑：一是强监管，全国金融工作会议强调要加强金融监管整顿市场乱象；二是防风险，加强对外汇违法违规行为的宣传警示，防范外汇市场风险和维护金融外汇市场稳定；三是加大对个人违法行为的警示。</span></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px;">个人外汇违规占比高</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">“目前个人购买境外投资性保险、境外购房等个人资本项目尚未开放，个人以分拆或通过地下钱庄向境外转移资产是典型的违规行为，个人违规行为往往带有明显的羊群效应，如不予以严惩将引发风险。”外汇局相关人士称。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">近年来，个人外汇违法违规行为时有耳闻。在截至目前公布的43起处罚案例中，个人外汇违法违规案例共18起，占比达到41.86%。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">据21世纪经济报道记者梳理，个人外汇违规主要基于转移资产、赚取汇差、逃税、非法售卖外汇等因素。其中以“蚂蚁搬家式”转移资产最为常见，如2015年4月至9月，黑龙江籍孙某采用分拆方式，将人民币资金分散汇入69人境内个人账户，再借用该69名个人年度购汇额度，将344.99万美元违规汇至本人控制的境外账户。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">资产转移之外，由于人民币贬值期间存在汇差套利空间，部分个人为套取汇差铤而走险。2015年2月至12月，山东籍赵某为实现大额兑换外汇目的，将公司账户内资金分散划入41名员工个人账户，利用这些员工个人购汇额度通过网银办理购汇，再组织人员将所购外汇分439笔全部提取现钞后归集存入赵某个人账户，转为定期存款，合计204.68万美元。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">逃税也是一大重要违规原因。如2015年5月，陈某为实现逃税目的，将境外收取的外汇通过地下钱庄转入境内本人人民币账户，涉及金额1037.4万元人民币。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">一般而言，非法售卖外汇最常见的渠道是地下钱庄，但部分个人也在开展这一业务。如2013年10月至2015年11月，陈某等4人以本人及亲戚朋友名义，办理100多张银行卡，在澳门提取港元现钞，再私下卖给当地商户或赌场，涉及金额4.76亿元人民币。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">上述违规个人被处以几十万到超百万不等的罚款，部分个人甚至受到刑事处罚。需要注意，我国对于个人具有真实、合法需求的经常项下个人购汇不予限制，且每人每年有等值5万美元便利化额度。便利化额度内凭身份证即可办理，额度之外，凭身份证及证明材料可在银行办理。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">“99%的个人每年的购、结汇没超过5万美元，大多数在8000~9000美元间，所以定为5万是相对合适的。”外汇局相关人士称。不过据了解，若个人有出借年度总额参与分拆、资金划转和资金归集等情形会被纳入“关注名单”管理，这意味着两年内不再享有5万美元的个人便利化外汇额度。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">另据21世纪经济报道记者梳理，企业违规多为虚构转口贸易逃汇。7月28日通报的7例企业外汇违规中6例为虚构转口贸易逃汇。转口贸易具有两头在外的特点，资金流在境内流转而货物流不经过境内，即转口贸易中货物未入关，不会有海关报关单等证明，因以上特点部分企业抱有侥幸心理，利用虚假单证材料构造转口贸易实现非法目的。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">“进出口贸易作为主要的经常项目外汇交易，具有真实、合法的交易背景是最起码的管理要求，转口贸易作为进出口贸易的一种，也应符合此项要求。”外汇局相关人士称，“近年来外汇局不断简化审核单证要求，但简化单证不是放弃真实性审核，一笔真实的贸易资金收付，必须有真实货物流和资金流，否则将受到严厉查处。”</span></p><p style="line-height: 1.5em;"><strong><span style="font-size: 14px;">个别银行“明知故犯”</span></strong></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">7月28日的通报中，外汇局还公开点名了9家银行。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">据21世纪经济报道记者了解，大多数银行被点名主要是因为落实“展业原则”不到位，未对企业提供单证等进行真实性审核，或未尽职审核个人提供的资料及资金来源。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">如兴业银行(17.580, 0.00, 0.00%)重庆分行、宁波银行(15.300, 0.00, 0.00%)上海张江支行等5家银行对企业提供虚假单证、重复使用单证等未进行真实性审核，为企业办理虚假转口贸易购汇；平安银行(11.170, 0.00, 0.00%)珠海分行为企业办理虚假进口购汇；农业银行(3.760, 0.00, 0.00%)嘉善支行为企业办理虚假贸易融资；中国建设银行(6.860, 0.00, 0.00%)德州分行未尽职审核个人提供的资料及资金来源，为个人违规办理购汇业务。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">民生银行(8.560, 0.00, 0.00%)三亚分行则主要是负责人和部分员工明知故犯，直接参与个人分拆购付汇。2014年5月至2016年1月，民生银行三亚分行为17名个人办理18笔购汇汇出业务，金额81.08万美元。其中16人为该行员工，均为出借个人购汇额度帮助该行负责人汪某及朋友购汇汇往境外账户。2016年7月，该行为5名员工办理5笔购汇提钞业务，金额45000美元，均为出借个人购汇额度帮助该行负责人汪某购汇提钞。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">对此，外汇局处以高限罚款100万元人民币，责令民生银行三亚分行停止对私售汇业务1年的处罚，对该行负责人汪某罚款50万元人民币，责令对相关责任人进行责任追究。</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">“以上案例表明个别银行存在重业绩轻合规、重资金风险轻政策风险的问题，其内控管理缺失，业务流程把控不严，‘展业原则’落实流于形式，真实性审核职责未能落到实处。”外汇局相关人士称，“银行作为跨境资金流动的重要渠道，应把好‘关口’，严格履行真实性审核职责。”</span></p><p style="line-height: 1.5em;"><span style="font-size: 14px;">据21世纪经济报道记者了解，2017年外汇检查与执法工作将继续以银行为切入点，以真实性审核为重点，严厉打击“逃汇、骗购外汇、非法套汇”等外汇违规违法行为和地下钱庄等违法犯罪活动；强化跨部门执法合作，加大对各类外汇违规违法行为的处罚力度，推进外汇领域信用体系建设，加强通报和警示教育，坚守不发生系统性金融风险的底线。</span></p><p><br/></p>
+                </div>
+
+                <div class="next_article wow fadeIn">
+                            <a href="?id=4CAFAA87B03F41728C728757DB0B7404" class="previous_news" title="非农只是小插曲？美元涨势或昙花一现黄金仍被普遍看好">上一篇：非农只是小插曲？美元涨势或昙花一现黄金仍被普遍看好</a>
+                            <a href="?id=0E8AA9977224451993E3F0070F6D187C" class="next_news" title="今晚非农非比寻常美元救赎就看今夜">下一篇：今晚非农非比寻常美元救赎就看今夜</a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- footer区域   -->
+<div class="footer">
+    <div class="footer_top">
+        <div class="cont_center wow fadeInUp">
+            <div class="footnav">
+                <a href="/Actives/active001">米兰世博会</a>
+                <a href="/FooterLinks/TradeInformation">交易须知</a>
+                <a href="/Actives/active002">招贤纳士</a>
+                <a href="/FooterLinks/ContactUs">联系我们</a>
+            </div>
+            <div class="hint clearfix">
+                <img src="/Content/Images/newindex/hint1_01.png" alt=""  style="margin-left:150px;float:left;"/>
+              </div>
+        </div>
+    </div>
+    <div class="footer_bot">
+        <div class="cont_center">
+            <p class="foot_p">版权 Copyright ©2015 G-IMFCH All Rights Reserved.</p>
+        </div>
+    </div>
+
+</div>
+
+<a id="scrollUp" href="javascript:;" title="返回顶部"></a>
+
+
+    <script src="/Content/Scripts/js/gpp.js"></script>
+    <script src="/Content/Scripts/js/wow.min.js"></script>
+    <script src="/Content/Scripts/js/jquery.tools.min.js"></script>
+
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))) {
+            new WOW().init();
+        };
+    </script>
+
+    <!--不同语言版本js 不用的话可以注释掉-->
+    <script type="text/javascript">
+        function displaySubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if(subMenu!=undefined) subMenu.style.display = "block";
+        }
+        function hideSubMenu(li) {
+            var subMenu = li.getElementsByTagName("ul")[0];
+            if (subMenu != undefined) subMenu.style.display = "none";
+        }
+    </script>
+
+    <!-- 右侧浮动都电话图标，暂时隐藏掉
+    <div id="clbh_phone_div" class="cbh-phone cbh-green cbh-show" style="bottom:100px;right:80px;">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle"></div>
+    </div>
+    -->
+    
+    
+
+    <!--网站引用的外部脚本都写在隐藏域中，不会影响页面效果-->
+    <div style="display:none;">
+        aaaaaaa
+        <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?585b10195204b88b806e077314442d93";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    </div>
+</body>
+</html>

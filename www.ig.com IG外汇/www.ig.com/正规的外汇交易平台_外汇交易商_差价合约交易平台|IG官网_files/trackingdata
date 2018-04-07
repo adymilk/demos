@@ -1,0 +1,12 @@
+var body = document.body;
+var div  = document.createElement('div');
+div.style.display = 'none';
+body.insertBefore(div, body.firstChild);
+var iframe0 = document.createElement('iframe');
+iframe0.frameborder = 0;
+iframe0.src = "//e03.optimix.asia/show_script?eid=10947&opxpid=201804061015278861921011101290738065&opxreferrer=&opxsiteurl=https%3A%2F%2Fwww.ig.com%2Fzh";
+div.appendChild(iframe0);
+var iframe1 = document.createElement('iframe');
+iframe1.frameborder = 0;
+iframe1.src = "//e03.optimix.asia/show_script?eid=12034&opxpid=201804061015278861921011101290738065&opxreferrer=&opxsiteurl=https%3A%2F%2Fwww.ig.com%2Fzh";
+div.appendChild(iframe1);

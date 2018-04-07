@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>股期宝-登录</title>
+    <link rel="shortcut icon" href="http://wx.xinruzhu.com/tradex/mem/images/favicon.ico"> 
+    <link rel="stylesheet" type="text/css" href="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/toast.css">
+    <link href="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/reset.css" rel="stylesheet">
+    <link href="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/registerLogin.css" rel="stylesheet">
+    <script src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/vue.js"></script>
+    <script src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/polyfill.js"></script>
+    <script src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/axios.js"></script>
+    <script src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/Toast.js"></script>
+</head>
+<body>
+<header>
+    <div class="content">
+        <div class="logo ">
+            <img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E4%B8%AA%E8%82%A1%E6%9C%9F%E6%9D%83_files/logo.png" alt="">
+        </div>
+        <ul class="navbar fr"><li id="menu-item-23" class="act  menu-item-23" style="border-bottom: 8px solid rgb(230, 0, 17);"><a href="./股期宝-个股期权.html" target="_self" style="">首页</a></li><li id="menu-item-24" class="  menu-item-24"><a href="关于我们-股期宝-个股期权.html" target="_self" style="">关于我们</a></li><li id="menu-item-25" class="  menu-item-25"><a href="期权询价-股期宝-个股期权.html" target="_self" style="">个股期权</a></li><li id="menu-item-26" class="  menu-item-26"><a href="新闻资讯-股期宝-个股期权.html" target="_self" style="">新闻资讯</a></li><li id="menu-item-30" class="  menu-item-30"><a href="软件下载-股期宝-个股期权.html" target="_self" style="">软件下载</a></li><li id="menu-item-31" class="  menu-item-31"><a href="股期宝-登录.html" target="_blank" style="">注册登录</a></li></ul>    </div>
+</header>
+<div class="banner slideBox">
+    <div class="bd">
+        <ul>
+            <li><a href="javascript:void(0)" target="_blank"><img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/zcdl.png"></a></li>
+        </ul>
+    </div>
+</div> 
+<section class="sec_zcdl">
+    <article class="nav_zcdl">
+        <ul>
+            <li class="active ksdl">快速登录</li>
+            <li class="kszc">快速注册</li>
+        </ul>
+    </article>
+    <div class="line">
+        <span class="spline"></span>
+        <span class="spline1"></span>
+    </div>
+    <article class="clearfix denglu">
+    <!-- <form action="http://wx.xinruzhu.com/tradex/mem/api/api_page_login.jsp" method="post"> -->
+        <div id="login" class="artfl fl"><div class="tel"><p>账号</p> <input placeholder="请输入手机号" name="userName" id="tel" class="ipt telphone"> <span class="error error_tel"></span></div> <div class="mima"><p>密码</p> <input name="passWord" placeholder="请输入密码" id="password" class="ipt password user_mima" type="password"> <span id="error_box" class="error error_mima"></span></div> <div class="fg"><a href="javascript:void(0)" class="fg_mima sfwj">忘记密码？</a> <span class="fr fg_zc">还没有账号？
+                        <a href="javascript:void(0);" class="fg_mima nowzc">马上注册</a></span></div> <div class="login"><p><a>立即登录</a></p></div></div>
+    <!-- </form> -->
+        
+        <div class="artfr">
+            <p class="artfr_msg artfr_msg1">当您投资期权产品时，请您务必了解以下事项：</p>
+            <p class="artfr_msg artfr_msg2">1、充分知晓金融市场法规知识，严格尊重中国证监会的相关规定。<br>
+2、任何投资都存在一定的投资风险，请谨慎选择适合自己的理财产品。<br>
+3、由于期权产品的特殊性，请仔细阅读场外市场的相关规定。<br>
+4、参与期权交易前，请仔细阅读<span class="tx">《风险揭示书》</span>，理解各项规定。<br>
+5、客户资金须为合法所得。
+</p>
+        <!--     <p class="artfr_msg artfr_msg3">交易前请仔细阅读相关风险提示声明</p>
+            <p class="artfr_msg artfr_msg4">客服电话：<span class="kefu">400-888-8888</span></p> -->
+        </div>
+    </article>
+    <article class="forgot">
+    <div class="close"></div>
+    <div id="fogetPass" class="forgot_info"><div class="fg1"><a href="" class="fg1_mima">忘记密码</a> <span class="fr fg1_zc">想起来了？
+                <a href="javascript:void(0);" class="fg1_dl">立即登录</a></span></div> <div class="artfl "><div class="tel"><input placeholder="请输入正确的手机号" class="ipt telphone"> <span class="error"></span></div> <div class="tel hq_yzm"><input placeholder="图片验证码" class="ipt ipt2"> <span class="yzm"><img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/VerifyCodeServlet_002.jpeg" alt="验证码"></span> <span class="error"></span></div> <div class="tel hq_yzm"><input placeholder="手机验证码" class="ipt ipt2"> <span class="hqyzm">获取验证码</span> <span class="error"></span></div> <div class="tel"><input placeholder="密码长度6-16位" class="ipt password" type="password"> <span class="error"></span></div> <div class="tel"><input placeholder="再次输入密码" class="ipt" type="password"> <span class="error"></span></div> <div class="login lgoin1"><p><a>立即登录</a></p></div></div></div>  
+    </article>
+    <article id="register" class="zhuce clearfix" style="display: none;"><div class="artfl fl"><div class="tel"><p>推荐人</p> <input placeholder="请输入推荐人账号" class="ipt"> <span class="error"></span></div> <div class="tel"><p>姓名</p> <input id="user_name" placeholder="请输入2—5位中文名称" class="ipt"> <span class="error"></span></div> <div class="tel"><p>手机号</p> <input placeholder="请输入正确的手机号" id="zctel" class="ipt telphone"> <span class="error"></span></div> <div class="mima"><p>密码</p> <input id="zcpassword" placeholder="密码长度6-16位" class="ipt password pwd1  user_mima" type="password"> <span class="error"></span></div> <div class="tel"><p>确认密码</p> <input placeholder="再次输入密码" class="ipt pwd" type="password"> <span class="error"></span></div> <div class="tel"><p>验证码</p> <input placeholder="图片验证码" class="ipt ip1 "> <span class="yzm"><img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/VerifyCodeServlet.jpeg" alt=""></span> <span class="error"></span></div> <div class="tel"><p>手机验证码</p> <input placeholder="手机验证码" class="ipt ip1 "> <span class="hqyzm">获取验证码</span> <span class="error"></span></div> <div class="warn clearfix"><input id="fxtss" class="fl check" type="checkbox"> <label for="fxtss" class="fl read">已经阅读<span class="tx">风险揭示书</span></label></div> <div class="register"><p><a>立即注册</a></p></div></div> <div class="artfr"><p class="artfr_msg artfr_msg1">当您投资期权产品时，请您务必了解以下事项：</p> <p class="artfr_msg artfr_msg2">1、充分知晓金融市场法规知识，严格尊重中国证监会的相关规定。<br>
+2、任何投资都存在一定的投资风险，请谨慎选择适合自己的理财产品。<br>
+3、由于期权产品的特殊性，请仔细阅读场外市场的相关规定。<br>
+4、参与期权交易前，请仔细阅读<span class="tx">《风险揭示书》</span>，理解各项规定。<br>
+5、客户资金须为合法所得。</p></div></article>
+
+    <div class="warn_info">
+        <div class="close close1"></div>
+        <h4>风险揭示书</h4>
+        <div class="warn_msg">
+            <img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/pd1.jpg" alt="" class="xy_info" width="480">
+            <img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/pd2.jpg" alt="" class="xy_info" width="480">
+            <img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/pd3.jpg" alt="" class="xy_info" width="480"> 
+            <img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/pd4.jpg" alt="" class="xy_info" width="480">
+            <img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/pd5.jpg" alt="" class="xy_info" width="480">
+            <img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/pd6.jpg" alt="" class="xy_info" width="480">
+            <img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/pd7.jpg" alt="" class="xy_info" width="480">
+            <img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/pd8.jpg" alt="" class="xy_info" width="480">
+            <img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/pd9.jpg" alt="" class="xy_info" width="480">
+            <img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/pd10.jpg" alt="" class="xy_info" width="480">
+        </div>
+    </div>
+
+</section>
+<div class="bg"></div>
+<section class="sec4">
+    <article class="bq clearfix">
+        <div class="bq_message">
+        <div class="bq_messagefl fl">
+             <p class="p1">版权所有 2018 股期宝投资 上海古玺资产管理有限公司</p>
+             <div class="pp fl">
+                  <p class="p2">风险提示： 
+                  </p><p class="p2 ppqq">联  系QQ:
+             </p></div>
+             <div class="fl pp_info">
+                  <p class="p2 fxts"> 保证金类交易时存在较大的亏损风险。这些产品不一定适合每一位投资者，请确保您完全了解所涉及的风险。本站内容仅供参考，非操作建议,请您自行决策交易。</p>
+            <p class="p2 "> 827720128</p>
+             </div>
+           
+        </div>
+        <div class="bq_messagefr fr">
+            <img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/line1.png" alt="" class="line1">
+             <img src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/weixin.png" alt="">
+             <br>     
+             <span class="ewm">扫描二维码</span>
+        </div>
+           
+        </div>
+    </article>
+</section>
+<footer>
+    <div class="footer_btm">苏ICP备17055823号 Copyright © 2017-2018 Gqbonline.Com All Rights Reserved</div>
+</footer>
+<script src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/jquery-3.js"></script>
+<script src="%E8%82%A1%E6%9C%9F%E5%AE%9D-%E7%99%BB%E5%BD%95_files/reset.js"></script>
+<script type="text/javascript">
+    Vue.use(Toast);
+    new Vue({//登录
+        el:'#login',
+        data:{
+            userName:'',
+            passWord:''
+        },
+        methods:{
+            userNameFn:function () {
+                this.testUserName();
+            },
+            passWordFn:function () {
+                this.testPassword();
+            },
+            testUserName:function () {
+                var reg = /^1\d{10}$/,
+                    str = this.userName;
+                if(this.userName == ''){
+                    this.$refs.userName.innerText = '*手机号不能为空';
+                }else if(this.userName.toString().search(reg) < 0){
+                    this.$refs.userName.innerText = '*手机号输入不正确';
+                }else{
+                    this.$refs.userName.innerText = '';
+                    return true;
+                }
+                return false;
+            },
+            testPassword:function () {
+                var reg = /^.{6,16}$/;
+                if(this.passWord == ''){
+                    this.$refs.passWord.innerText = '*密码不能为空';
+                }else if(this.passWord.search(reg) < 0){
+                    this.$refs.passWord.innerText = '*密码长度应为6-16位';
+                }else {
+                    this.$refs.passWord.innerText = '';
+                    return true;
+                }
+                return false;
+            },
+            loginFn:function () {
+                var that = this;
+                if(that.testPassword()&&that.testUserName()){
+                    axios.get('http://wx.xinruzhu.com/tradex/mem/api/api_login.jsp?ver='+Date.now()+'&userName='+encodeURIComponent(this.userName)+'&passWord='+encodeURIComponent(this.passWord)).then(function (res) {
+                        var obj = JSON.parse(res.data);
+                        if(obj.status == '9999'){
+                            that.$refs.passWord.innerText = obj.msg;
+                        }else if(obj.status == '0000'){
+                            that.$refs.userName.innerText = obj.msg;
+                        }else if(obj.status == '1111'){
+                            location.href = 'index.jsp';
+                        }
+                    });
+                }
+            }
+        }
+    });
+
+
+    new Vue({//注册
+        el: '#register',
+        data: {
+            imgCode:'../VerifyCodeServlet?time=' + Date.now(),
+            imgCodeIn:'',
+            userName:'',
+            passWord:'',
+            pusername:'',
+            realName:'',
+            smsCode:'',
+            passReset:'',
+            hasTime:0,
+            fxtss:false
+        },
+        mounted:function () {
+            this.pusername = this.searchObj._f?this.searchObj._f:'';
+        },
+        computed:{
+            searchObj:function () {
+                function o(a,b) {
+                    for (var prop in b) {
+                        a[prop] = b[prop];
+                    }
+                    return a;
+                }
+                return location.search.slice(1).split('&').map(function (v,k) {
+                    var arr = v.split("="),
+                        obj = {};
+                    obj[arr[0]] = arr[1];
+                    return obj;
+                }).reduce(function (a,b) {
+                    return o(a,b);
+                }, {});
+            }
+        },
+        methods: {
+            //真实姓名检测
+            realNameFn:function () {
+                this.testRealName();
+            },
+            testRealName:function () {
+                var str = this.realName;
+                if(str == ''){
+                    this.$refs.realName.innerHTML = '*中文名不能为空';
+                    return false;
+                }else {
+                    this.$refs.realName.innerHTML = '';
+                    return true;
+                }
+            },
+            //注册码检测
+            pusernameFn:function () {
+                this.testPusername();
+            },
+            testPusername:function (argument) {
+                var str = this.pusername;
+                if(str == ''){
+                    this.$refs.pusername.innerHTML = '注册码不能为空';
+                    return false;
+                }else {
+                    this.$refs.pusername.innerHTML = '';
+                    return true;
+                }
+            },
+            //手机号检测
+            userNameFn:function () {
+                this.testUserName();
+            },
+            //密码检测
+            passWordFn:function () {
+                this.testPassword();
+            },
+            testUserName:function () {
+                var reg = /^1\d{10}$/,
+                    str = this.userName;
+                if(this.userName == ''){
+                    this.$refs.userName.innerHTML = '*手机号不能为空';
+                }else if(this.userName.toString().search(reg) < 0){
+                    this.$refs.userName.innerHTML = '*手机号输入不正确';
+                }else{
+                    this.$refs.userName.innerHTML = '';
+                    return true;
+                }
+                return false;
+            },
+            testPassword:function () {
+                var reg = /^.{6,16}$/;
+                if(this.passWord == ''){
+                    this.$refs.passWord.innerHTML = '*密码不能为空';
+                }else if(this.passWord.search(reg) < 0){
+                    this.$refs.passWord.innerHTML = '*密码长度应为6-16位';
+                }else {
+                    this.$refs.passWord.innerHTML = '';
+                    return true;
+                }
+                return false;
+            },
+            //再次输入密码检测
+            passResetFn:function () {
+                this.testPassReset();
+            },
+            testPassReset:function () {
+                if(this.passWord != this.passReset){
+                    this.$refs.passReset.innerHTML = '*两次密码输入不一致';
+                    return false;
+                }else {
+                    this.$refs.passReset.innerHTML = '';
+                    return true;
+                }
+            },
+            //点击图片验证码改变
+            changImgCode: function () {
+                this.imgCode = '../VerifyCodeServlet?time=' + Date.now();
+            },
+            //图片验证码失去焦点验证
+            imgCodeFn: function () {
+                if(this.testImgCode()){
+                    var str = this.imgCodeIn,
+                        that = this;
+                    axios.get('http://wx.xinruzhu.com/tradex/mem/api/api_checkImgCode.jsp?passcode=' + encodeURIComponent(str)).then(function (res) {
+                        var data = JSON.parse(res.data);
+                        if (data.status == '1111') {//验证通过
+                            that.$refs.imgCode.innerHTML = '';
+                            return;
+                        } else if (data.status == '0000') {//验证错误
+                            that.$refs.imgCode.innerHTML = data.msg;
+                        }
+                    });
+                }
+            },
+            testImgCode: function () {
+                var that = this,
+                    str = this.imgCodeIn,
+                    flag = false;
+                if (str == '') {
+                    that.$refs.imgCode.innerHTML = '*验证码不能为空';
+                } else if (str.length != 4) {
+                    that.$refs.imgCode.innerHTML = '*验证码为四位';
+                } else {
+                    flag = true;
+                }
+                return flag;
+            },
+            //获取手机验证码
+            phoneCodeFn:function () {
+                var that = this;
+                if(that.hasTime > 0)return;
+
+                if(that.testUserName() && that.testImgCode()){
+                    var str = this.imgCodeIn;
+                    axios.get('http://wx.xinruzhu.com/tradex/mem/api/api_checkImgCode.jsp?passcode=' + encodeURIComponent(str)).then(function (res) {
+                        var data = JSON.parse(res.data);
+                        if (data.status == '1111') {//验证通过
+                            that.hasTime = 60;
+                            var myTimer = null,
+                                dom = that.$refs.phoneCode;
+                            dom.className = 'hqyzm default';
+                            myTimer = setInterval(function () {
+                                that.hasTime--;
+                                if(that.hasTime == 0){
+                                    dom.innerHTML = '获取验证码';
+                                    dom.className = 'hqyzm';
+                                    clearInterval(myTimer);
+                                    myTimer = null;
+                                    return;
+                                }
+                                dom.innerHTML = '重新验证(' + that.hasTime + ')';
+                            },1000);
+
+                            axios.get('http://wx.xinruzhu.com/tradex/mem/api/api_sendsms.jsp?phone='+that.userName).then(function (res) {
+                                var data = JSON.parse(res.data);
+                                if(data.status == '1111'){
+                                    console.log('短信发送成功');
+                                }
+                            });
+                        }
+                    });
+                }
+            },
+            //手机验证码识别
+            smsCodeFn:function () {
+                this.testSmsCode();
+            },
+            testSmsCode:function () {
+                var str = this.smsCode;
+                if(str == ''){
+                    this.$refs.smsCode.innerHTML = '*手机验证不能为空';
+                }else if(str.length != 4){
+                    this.$refs.smsCode.innerHTML = '*手机验证应为4位数';
+                }else {
+                    this.$refs.smsCode.innerHTML = '';
+                    return true;
+                }
+                return false;
+            },
+            //注册提交
+            registerFn:function () {
+                if(this.testRealName()&&this.testPusername()&&this.testUserName()&&this.testPassword()&&this.testPassReset()&&this.testSmsCode()&&this.testImgCode()){
+                    var that = this;
+
+                    if(that.fxtss==false){
+                        that.$toast('请先阅读并勾选风险揭示书','center');
+                        return;
+                    }
+                    //console.log('?realName='+this.realName+'&phone='+this.userName+'&passwd='+this.password+'&smsCode='+this.smsCode+'&pusername='+this.pusername+'&imgcode='+this.imgCodeIn);
+                    axios.get('http://wx.xinruzhu.com/tradex/mem/api/api_register.jsp?realName='+this.realName+'&phone='+this.userName+'&passwd='+this.passWord+'&smsCode='+this.smsCode+'&pusername='+this.pusername+'&imgcode='+this.imgCodeIn).then(function (res) {
+                        var data = JSON.parse(res.data);
+                        if(data.status == '1111'){
+                            that.$toast('注册成功,前往登录页！！！','center');
+                            setTimeout(function () {
+                                location = 'login.jsp';
+                            }, 2000);
+                        }else if(data.status == '0000'){
+                            that.$toast(data.msg,'center');
+                        }
+                    });
+                }
+            }
+        }
+    });
+    new Vue({//忘记密码
+        el: '#fogetPass',
+        data: {
+            imgCode:'../VerifyCodeServlet?time=' + Date.now(),
+            imgCodeIn:'',
+            userName:'',
+            passWord:'',
+            smsCode:'',
+            passReset:'',
+            hasTime:0
+        },
+        mounted:function () {
+            this.pusername = this.searchObj._f?this.searchObj._f:'';
+        },
+        computed:{
+            searchObj:function () {
+                function o(a,b) {
+                    for (var prop in b) {
+                        a[prop] = b[prop];
+                    }
+                    return a;
+                }
+                return location.search.slice(1).split('&').map(function (v,k) {
+                    var arr = v.split("="),
+                        obj = {};
+                    obj[arr[0]] = arr[1];
+                    return obj;
+                }).reduce(function (a,b) {
+                    return o(a,b);
+                }, {});
+            }
+        },
+        methods: {
+            //手机号检测
+            userNameFn:function () {
+                this.testUserName();
+            },
+            //密码检测
+            passWordFn:function () {
+                this.testPassword();
+            },
+            testUserName:function () {
+                var reg = /^1\d{10}$/,
+                    str = this.userName;
+                if(this.userName == ''){
+                    this.$refs.userName.innerHTML = '*手机号不能为空';
+                }else if(this.userName.toString().search(reg) < 0){
+                    this.$refs.userName.innerHTML = '*手机号输入不正确';
+                }else{
+                    this.$refs.userName.innerHTML = '';
+                    return true;
+                }
+                return false;
+            },
+            testPassword:function () {
+                var reg = /^.{6,16}$/;
+                if(this.passWord == ''){
+                    this.$refs.passWord.innerHTML = '*密码不能为空';
+                }else if(this.passWord.search(reg) < 0){
+                    this.$refs.passWord.innerHTML = '*密码长度应为6-16位';
+                }else {
+                    this.$refs.passWord.innerHTML = '';
+                    return true;
+                }
+                return false;
+            },
+            //再次输入密码检测
+            passResetFn:function () {
+                this.testPassReset();
+            },
+            testPassReset:function () {
+                if(this.passWord != this.passReset){
+                    this.$refs.passReset.innerHTML = '*两次密码输入不一致';
+                    return false;
+                }else {
+                    this.$refs.passReset.innerHTML = '';
+                    return true;
+                }
+            },
+            //点击图片验证码改变
+            changImgCode: function () {
+                this.imgCode = '../VerifyCodeServlet?time=' + Date.now();
+            },
+            //图片验证码失去焦点验证
+            imgCodeFn: function () {
+                if(this.testImgCode()){
+                    var str = this.imgCodeIn,
+                        that = this;
+                    axios.get('http://wx.xinruzhu.com/tradex/mem/api/api_checkImgCode.jsp?ver='+Date.now()+'&passcode=' + encodeURIComponent(str)).then(function (res) {
+                        var data = JSON.parse(res.data);
+                        if (data.status == '1111') {//验证通过
+                            that.$refs.imgCode.innerHTML = '';
+                            return;
+                        } else if (data.status == '0000') {//验证错误
+                            that.$refs.imgCode.innerHTML = data.msg;
+                        }
+                    });
+                }
+            },
+            testImgCode: function () {
+                var that = this,
+                    str = this.imgCodeIn,
+                    flag = false;
+                if (str == '') {
+                    that.$refs.imgCode.innerHTML = '*验证码不能为空';
+                } else if (str.length != 4) {
+                    that.$refs.imgCode.innerHTML = '*验证码为四位';
+                } else {
+                    flag = true;
+                }
+                return flag;
+            },
+            //获取手机验证码
+            phoneCodeFn:function () {
+                var that = this;
+                if(that.hasTime > 0)return;
+
+                if(that.testUserName() && that.testImgCode()){
+                    var str = this.imgCodeIn;
+                    axios.get('http://wx.xinruzhu.com/tradex/mem/api/api_checkImgCode.jsp?ver='+Date.now()+'&passcode=' + encodeURIComponent(str)).then(function (res) {
+                        var data = JSON.parse(res.data);
+                        if (data.status == '1111') {//验证通过
+                            that.hasTime = 60;
+                            var myTimer = null,
+                                dom = that.$refs.phoneCode;
+                            dom.className = 'hqyzm default';
+                            myTimer = setInterval(function () {
+                                that.hasTime--;
+                                if(that.hasTime == 0){
+                                    dom.innerHTML = '获取验证码';
+                                    dom.className = 'hqyzm';
+                                    clearInterval(myTimer);
+                                    myTimer = null;
+                                    return;
+                                }
+                                dom.innerHTML = '重新验证(' + that.hasTime + ')';
+                            },1000);
+
+                            axios.get('http://wx.xinruzhu.com/tradex/mem/api/api_sendsms.jsp?ver='+Date.now()+'&phone='+that.userName).then(function (res) {
+                                var data = JSON.parse(res.data);
+                                if(data.status == '1111'){
+                                    console.log('短信发送成功');
+                                }
+                            });
+                        }
+                    });
+                }
+            },
+            //手机验证码识别
+            smsCodeFn:function () {
+                this.testSmsCode();
+            },
+            testSmsCode:function () {
+                var str = this.smsCode;
+                if(str == ''){
+                    this.$refs.smsCode.innerHTML = '*手机验证不能为空';
+                }else if(str.length != 4){
+                    this.$refs.smsCode.innerHTML = '*手机验证应为4位数';
+                }else {
+                    this.$refs.smsCode.innerHTML = '';
+                    return true;
+                }
+                return false;
+            },
+            //重置密码提交
+            registerFn:function () {
+                if(this.testUserName()&&this.testPassword()&&this.testPassReset()&&this.testSmsCode()&&this.testImgCode()){
+                    var that = this;
+                    //console.log('?realName='+this.realName+'&phone='+this.userName+'&passwd='+this.password+'&smsCode='+this.smsCode+'&pusername='+this.pusername+'&imgcode='+this.imgCodeIn);
+                    axios.get('http://wx.xinruzhu.com/tradex/mem/api/api_uptPassword.jsp?ver='+Date.now()+'&phone='+this.userName+'&passwd='+this.passWord+'&smsCode='+this.smsCode).then(function (res) {
+                        var data = JSON.parse(res.data);
+                        if(data.status == '1111'){
+                            that.$toast('重置成功,前往登录页！！！','center');
+                            setTimeout(function () {
+                                location = 'login.jsp';
+                            }, 2000);
+                        }else if(data.status == '0000'){
+                            that.$toast(data.msg,'center');
+                        }
+                    });
+                }
+            }
+        }
+    });
+</script>
+
+<!--在线客服  -->
+
+<link rel="stylesheet" href="http://oe3vwrk94.bkt.clouddn.com/qq.css">
+
+<div class="SonlineBox" id="SonlineBox" style="top: 300px; right: 0px; height: 400px; position: fixed;">
+    <div class="openTrigger" style="display: none; right: 0px;" title="展开"></div>
+    <div class="contentBox"><div class="closeTrigger">
+        <img src="http://oe3vwrk94.bkt.clouddn.com/closeBtnImg.gif" title="关闭"></div><div class="titleBox">
+        <span>客服中心</span>
+    </div>
+        <div class="listBox">
+            <div class="QQList">
+                <span>客服01：</span>
+                <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=827720128&amp;site=qq&amp;menu=yes">
+                    <img src="http://oe3vwrk94.bkt.clouddn.com/pa.gif" alt="点击这里" border="0">
+                </a>
+            </div>
+            <div class="QQList">
+                <span>客服02：</span>
+                <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=799831320&amp;site=qq&amp;menu=yes">
+                    <img src="http://oe3vwrk94.bkt.clouddn.com/pa.gif" alt="点击这里" border="0">
+                </a>
+            </div>
+            <div class="QQList">
+                <span>客服03：</span>
+                <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=1248604050&amp;site=qq&amp;menu=yes">
+                    <img src="http://oe3vwrk94.bkt.clouddn.com/pa.gif" alt="点击这里" border="0">
+                </a>
+            </div>
+
+            <div class="bottom">
+                <div class="QQList">
+                    <h5>服务专线：</h5>
+                    <b>400-6055-850</b>
+                 </div>
+                 <hr>
+                    <div class="QQList">
+                        <h5>工作时间：</h5>
+                        <b>[8:30-18:00]</b>
+                    </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+</body></html>
+
+

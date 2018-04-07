@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* reset start */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td,img{margin:0; padding:0; -webkit-touch-callout:none}
+fieldset,img {border:0 none;}
+img{vertical-align:top}
+ol,ul,li{list-style:none} table{border-collapse:collapse; border-spacing:0;}
+/*html5 reset*/
+header, footer, section, nav, menu, details, hgroup, figure, figcaption, article, aside{margin:0;padding:0;}
+a,a:active{ text-decoration:none; outline:none;}
+.clearfix:before,.clearfix:after{ content:""; display:table;}.clearfix:after{ clear:both;}.clearfix{ *zoom:1;}
+a,input,button,textarea,label,select,span,img{-webkit-tap-highlight-color:rgba(255,0,0,0); -moz-tap-highlight-color:rgba(0, 0, 0, 0)}
+/* reset end */
+body{font:14px/24px  Arial, "Microsoft YaHei"; color:#282828; -webkit-text-size-adjust:none;-moz-text-size-adjust:none;-ms-text-size-adjust:none;text-size-adjust:none; min-width:1000px}
+.fl{float:left;}.fr{float:right;}.hide{display:none;}.show{display: block}
+.hide_txt{ height: 0; line-height: 0; overflow: hidden;}
+.yh,input,button,select,textarea{font-family:"Microsoft YaHei"}
+
+input,button,select,textarea{ outline:none;}
+html,body{ height:100%}
+
+.gt_macth_page{ min-height: 100%;}
+.page_w{ width: 1000px; margin: 0 auto;}
+/*页头 adn banner */
+.macth_head{ background: #fafafa;}
+.tmo_banner{ height:300px; overflow: hidden; position: relative;}
+.tmo_banner_item{ height: 300px; overflow: hidden; position: absolute;}
+.tmo_banner_item li{ float: left; height: 300px; width: 100%; margin:auto;}
+.tmo_banner_item li a{ height: 300px;}
+.tmo_banner_num{ position: absolute; bottom: 1px; left: 50%; width: 200px; text-align: center; margin-left: -100px; height: 24px;}
+.tmo_banner_num span{ display: inline-block; width: 24px; height: 5px; border-radius:5px; background: #f1f1f1; margin: 0 3px; overflow: hidden; line-height: 5px;}
+.tmo_banner_num span.current{ background: #17bbee;}
+

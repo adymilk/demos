@@ -1,0 +1,289 @@
+.banner{
+    border-bottom:4px solid #606060;
+    overflow: hidden;
+    height:220px;
+    width:100%;
+    position: relative;
+}
+.banner ul li img{
+    position: absolute;
+    left:50%;
+    margin-left:-960px;
+}
+.sec_zcdl{width:866px;margin:0 auto;margin-bottom:50px;}
+.nav_zcdl li{list-style: none;display: inline-block;font-size: 18px;
+    color:#727171;font-weight:bold;margin-right:125px;
+    margin-top:40px;
+    /*margin-bottom:30px;*/
+    cursor: pointer;
+}
+.nav_zcdl li.active{color:#e30920;}
+
+.line{margin-top:15px;}
+.line .spline{width:80px;height:4px;background:#e60011;display:block; position: relative;z-index:3;}
+.line .spline1{width:100%;height:1px;border-bottom:1px solid #acacac;display: block;margin-top:-1px; 
+
+}
+/*横线部分结束*/
+.artfl{width:335px;}
+.tel,.mima{margin-top:25px;position: relative;}
+.tel p,.mima p{font-size: 16px;color:#000;font-weight: bold;margin-bottom:8px;}
+.ipt{font-size: 12px !important;
+    color:#000;
+    width:324px;
+    height:40px;
+    line-height: 40px;
+    border:1px solid #cecece;
+    letter-spacing: 1px;
+    /*cursor: pointer;*/
+    padding-left:10px;
+    
+}
+.error{
+    font-size: 12px;
+    /*margin-top:5px;*/
+    display: block;
+    color:#e30920;
+    position: absolute;
+    bottom:-16px;
+}
+/*输入格式错误提示error*/
+
+.ip1{
+    width:190px;
+}
+.hqyzm{
+    font-size: 12px;
+    color:#e30920;
+    margin-left:30px;
+    cursor: pointer;
+}
+.yzm{width:110px;height:40px;display: inline-block;
+    margin-left:10px;
+}
+.yzm img{
+    width:100%;height:100%;
+}
+input::placeholder{font-weight:normal;color:#898989;font-size:12px !important;letter-spacing:1;}
+input::-ms-input-placeholder{color:#898989;font-size:12px !important;
+letter-spacing:2px;}
+input::-webkit-input-placeholder{color:#898989;font-size:12px !important;
+letter-spacing: 2px;}
+.fg{
+    margin-top:18px;
+    font-size: 12px;
+}
+.fg_zc{font-size:12px;color:#727171;}
+.fg_mima{font-size:12px;color:#e30920;}
+.login,.register{margin-top:35px;}
+.login p a,.register p a{
+    font-size: 16px;
+    color:#fff;
+    background:#e60011;
+    width:335px;
+    height:45px;
+    line-height: 45px;
+    border:1px solid #cecece;
+    text-align: center;
+    display: block;
+}
+.artfr{
+    font-size: 12px;
+    color:#727171;
+    width:490px;
+    margin-left:38px;
+    margin-top:50px;
+    display: inline-block;
+}
+.artfr .artfr_msg{
+    margin-bottom:15px;
+}
+.artfr_msg0 span{
+    font-size: 12px;
+}
+.artfr_msg0 img{
+    margin-left:-14px;
+}
+.artfr .artfr_msg2{
+    font-size: 12px;
+    color:#727171;
+   line-height: 24px;
+}
+.artfr .artfr_msg2 .tx{
+    color:#e30920;
+    cursor: pointer;
+}
+.artfr .artfr_msg4 .kefu{
+    font-size: 12px;
+    font-weight: bold;
+    color:#e30920;
+    letter-spacing: 2px;
+}
+.register{
+    margin-top:15px;
+}
+.warn .check{
+    width:20px;
+    height:20px;
+    margin-top:15px;
+    margin-right:5px;
+}
+.warn .read{
+    font-size:12px;
+    margin-top:18px;
+    color:#727171;
+}
+.warn .read .tx{
+    font-size:12px;
+    margin-top:15px;
+    color:#e30920;
+    cursor: pointer;
+}
+
+/*忘记密码页面开始*/
+.forgot{
+    display: none;
+    width:430px;
+    height:530px;
+    border:1px solid #cecece;
+    position: fixed;
+    left:50%;
+    top:50%;
+    margin-left:-215px;
+    margin-top: -280px;
+    background: #fff;
+    z-index:3;
+
+}
+.forgot_info{margin:50px 45px;}
+.fg1{
+    border-bottom:1px solid #dedede;
+    padding-bottom:15px;
+}
+.fg1_mima{
+    font-size:16px;
+    color:#000;
+    font-weight: bold;
+    
+}
+.fg1_zc{
+     font-size:12px;
+    color:#898989;
+}
+.fg1_dl{
+     font-size:12px;
+    color:#e30920;
+}
+.hq_yzm{font-size:0;}
+.ipt2{width:200px;}
+.fg1_hqyzm{
+    font-size: 12px;
+    color:#fff;
+    width:110px;
+    height:42px;
+    line-height: 40px;
+    text-align: center;
+    background:url(../images/hqyzm.png) no-repeat center center;
+    background-size:100%; 
+    display: inline-block;
+    margin-left:10px;
+    vertical-align: top;
+    letter-spacing:2px;
+}
+.lgoin1{margin-top:20px;}
+.close{
+    width:16px;
+    height:16px;
+    position: absolute;
+    top:20px;
+    right:20px;
+    background:url(../images/close.png) no-repeat center center;
+    cursor: pointer;
+}
+.bg{
+    display: none;
+    width:100%;
+    height:100%;
+    position: fixed;
+    left:0;
+    top:0;
+    bottom:0;
+    right:0;
+    background: #000;
+    opacity: 0.5;
+    z-index:2;
+}
+/*揭示协议书开始部分*/
+.warn_info{
+    width:580px;
+    height:640px;
+    border:1px solid #cecece;
+    position: fixed;
+    left:50%;
+    top:50%;
+    margin-left:-290px;
+    background: #fff;
+    z-index:10;
+    padding:40px 50px 50px 40px;
+    display: none;
+    margin-top: -330px;
+}
+.warn_info .warn_msg {
+    margin-top:15px;
+}
+.warn_info h4{
+    font-size: 16px;
+    color:#000;
+    line-height: 25px;
+    text-align: center;
+}
+.warn_info .warn_msg div,.warn_info .warn_msg p{
+    font-size: 12px;
+    color:#727171;
+    line-height:18px;
+    letter-spacing:2px;
+}
+.warn_info .warn_msg p{
+    text-align: justify;
+    text-indent: 2em;
+}
+.warn_msg{height:500px;overflow: hidden;overflow-y:auto; }
+.warn .xy_info{width:600px;margin-left:-70px;display: block;}
+ .warn_msg {
+        width:510px;
+      height:500px;
+        overflow: hidden;
+        overflow-y:auto;
+    }
+    .warn_msg div {
+        width:600px;
+        height:700px;
+    }   
+     .warn_msg::-webkit-scrollbar {
+        width:4px;
+        height:1px;
+    }
+    .warn_msg::-webkit-scrollbar-button    {
+        /*background-color:#FF7677;*/
+        width:4px;
+        height:1px;
+    }
+    .warn_msg::-webkit-scrollbar-track     {
+        width:2px;
+        background:#dedede;
+    }
+    .warn_msg::-webkit-scrollbar-track-piece {
+        width:1px;
+        /*background:url(http://www.lyblog.net/wp/wp-content/themes/mine/img/stripes_tiny_08.png);*/
+    }
+    .warn_msg::-webkit-scrollbar-thumb{
+        width:1px;
+        background:#b6b6b6;
+        border-radius:4px;
+    }
+    .warn_msg::-webkit-scrollbar-corner {
+        background:#b6b6b6;
+    }
+    .warn_msg::-webkit-scrollbar-resizer  {
+        background:#b6b6b6;
+    }

@@ -1,0 +1,325 @@
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+* html>body .clearfix {
+    display: inline-block;
+    width: 100%;
+}
+* html .clearfix {
+    /* Hides from IE-mac \*/
+    height: 1%;
+    /* End hide from IE-mac */
+}
+html, body, h1, h2, h3, h4, h5, h6, img {
+    margin: 0;
+    padding: 0;
+}
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, dialog, div, dl, dt, em, embed, fieldset, figcaption, figure, font, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, meter, nav, object, ol, output, p, pre, progress, q, rp, rt, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/* ie7 hack*/
+
+*+html .clearfix {
+    min-height: 1%;
+}
+a, area {
+    blr: expression(this.onFocus=this.blur());
+}
+pre {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+}
+html, body {
+    -webkit-text-size-adjust: none;
+    /*字体小于12px Chrome浏览器专有属性*/
+}
+html {
+    _filter: expression(document.execCommand("BackgroundImageCache", false, true));
+    /*IE6解决背景图片闪烁问题*/
+}
+body {
+    /*height: 100%;*/
+    line-height: 1.5;
+}
+img {
+    color: transparent;
+    font-size: 0;
+    vertical-align: middle;
+    *vertical-align: baseline;
+    -ms-interpolation-mode: bicubic;
+}
+li {
+    /* For IE6 + IE7.*/
+    display: list-item;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    empty-cells: show;
+    cellpadding="0" cellspacing="0"
+}
+q {
+    quotes: none;
+}
+q:before, q:after {
+    content: '';
+    content: none;
+}
+sub, sup, small {
+    font-size: 75%;
+}
+sub, sup {
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sub {
+    bottom: -0.25em;
+}
+sup {
+    top: -0.5em;
+}
+svg {
+    /* For IE9.*/
+    overflow: hidden;
+}
+fieldset {
+    border: 0;
+}
+iframe {
+    display: block;
+    border: 0;
+}
+
+/* for IE */
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    line-height: 150%;
+    font-family: "微软雅黑", "新宋体";
+    background-color: #fff;
+}
+p {
+    margin: 0;
+}
+a, a:focus {
+    text-decoration: none;
+}
+ul, li, ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li img {
+    vertical-align: top;
+    line-height: 0;
+}
+td {
+    font-size: 12px;
+}
+img, input.type-image {
+    border: 0 none;
+}
+
+/******public css end*********/
+
+.banner005 {
+    height: 480px;
+    background: url("/Content/Images/activeimg/activeimg005/banner005.jpg") no-repeat center top;
+}
+.container1 {
+    width: 1200px;
+    margin: 0 auto;
+}
+.content1 {
+    height: 800px;
+    background: #efe7ff;
+    padding: 60px 0;
+}
+.title_box h1 {
+    width: 190px;
+    height: 60px;
+    line-height: 60px;
+    background: url("/Content/Images/activeimg/activeimg005/title_icons.png") no-repeat left center;
+    font-size: 50px;
+    counter-reset: #333;
+    margin: 0 auto 5px;
+    padding-left: 30px;
+}
+.title_box h3 {
+    line-height: 50px;
+    font-size: 24px;
+    color: #999;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.sys_txt {
+    margin-bottom: 70px;
+}
+.sys_p {
+    font-size: 28px;
+    color: #4f4f4f;
+    line-height: 42px;
+    text-indent: 2em;
+}
+.img_ul {
+    height: 292px;
+    width: 1130px;
+    margin: 0 auto;
+}
+.img_ul li {
+    width: 523px;
+    height: 292px;
+    overflow: hidden;
+}
+.img_ul li img {
+    width: 100%;
+}
+.img_ul li.left {
+    float: left;
+}
+.img_ul li.right {
+    float: right;
+}
+.imgzoom img {
+    -webkit-transition: transform 0.3s;
+    -moz-transition: transform 0.3s;
+    -ms-transition: transform 0.3s;
+    -o-transition: transform 0.3s;
+    transition: transform 0.3s;
+}
+.imgzoom:hover img {
+    transform: scale(1.02, 1.02);
+}
+.content2 {
+    height: 870px;
+    background: #1f0742 url("/Content/Images/activeimg/activeimg005/bg1.jpg") no-repeat center;
+    padding-top: 110px;
+}
+.title2 {
+    line-height: 60px;
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 70px;
+}
+.superiority {
+    width: 1120px;
+    margin: 0 auto;
+}
+.superiority li {
+    width: 330px;
+    height: 300px;
+    padding: 20px 10px 0;
+    float: left;
+    margin-bottom: 20px;
+}
+.superiority li.line_secent {
+    margin-left: 35px;
+}
+.superiority li.last {
+    float: right;
+}
+.icon_box {
+    text-align: center;
+    height: 104px;
+    margin-bottom: 20px;
+}
+.super_p1 {
+    font-size: 20px;
+    color: #fff;
+    line-height: 30px;
+    text-align: center;
+}
+.super_p2 {
+    font-size: 20px;
+    color: #999;
+    line-height: 30px;
+    text-align: center;
+}
+.content3 {
+    height: 890px;
+    background: #efe7ff;
+    padding-top: 90px;
+}
+.title_box2 {
+    margin-bottom: 60px;
+}
+.title_box2 h1 {
+    width: 310px;
+    height: 60px;
+    line-height: 60px;
+    background: url("/Content/Images/activeimg/activeimg005/title_icons.png") no-repeat left 20px;
+    font-size: 50px;
+    counter-reset: #333;
+    margin: 0 auto 5px;
+    padding-left: 30px;
+}
+.content3_txt {
+    width: 1122px;
+    height: 664px;
+    background: url("/Content/Images/activeimg/activeimg005/content3_bg.png") no-repeat;
+    margin: 0 auto;
+}
+.fun_ul li {
+    width: 550px;
+    height: 322px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.fun_ul li.left {
+    float: left;
+}
+.fun_ul li.right {
+    float: right;
+}
+.fun_dl {
+    padding: 60px 0 0 40px;
+}
+.fun_dl dt {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+    color: #fff;
+    background: url("/Content/Images/activeimg/activeimg005/point_icon.png") no-repeat left center;
+}
+.fun_dl dd {
+    font-size: 26px;
+    line-height: 40px;
+    margin-bottom: 10px;
+    padding-left: 30px;
+    color: #fff;
+}
+.content4 {
+    height: 304px;
+    background: #1f0742 url("/Content/Images/activeimg/activeimg005/bg2.jpg") no-repeat center;
+}
+.content40 {
+    padding-top: 90px;
+}
+.cont40_h2 {
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.cont40_h3 {
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    color: #fff;
+}
